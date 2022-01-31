@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task_avoid_the_downtime_and_possible_data_loss.html 
+keywords: downtime, data loss, avoid downtime, avoid data loss 
+summary: 다운타임 및 가능한 데이터 손실을 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
+---
+= 다운타임 및 가능한 데이터 손실 방지
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Active IQ 디지털 어드바이저에 로그인하고 * 가용성 및 보호 * 위젯에 빨간색 배지를 보면 중요한 위험을 해결하기 위한 조치를 취할 수 있습니다. 펌웨어를 수정하지 않으면 일정 시간 동안 전원을 켠 후 드라이브가 작동하지 않을 수 있습니다. 이 문제를 수정하면 가동 중지 시간과 가능한 데이터 손실이 모두 발생하지 않습니다.
+
+.단계
+. Active IQ 디지털 어드바이저에 로그인합니다.
+. 가용성 및 보호 * 위젯에서 * 작업 * 을 클릭합니다.image:Availability and protection_image 1 downtime and data loss.png["가용성 및 보호 위젯"]
++
+영향력이 큰 보안 위험에 대해서는 디스크 펌웨어를 업데이트하는 권장 조치를 따르십시오.
+
+. 위험 요약을 보려면 * 위험 이름 * 링크를 클릭하십시오.image:Risk summary_image 2 downtime and data loss.png["위험 요약"]
+. 고유 위험 * 탭을 클릭한 다음 * 수정 조치 * 열의 링크를 클릭합니다.image:Corrective action_image 3 downtime and data loss.png["수정 조치"]
++
+Active IQ 디지털 어드바이저는 맞춤형 Ansible 스크립트 또는 플레이북을 생성하여 디스크 펌웨어 파일을 비롯한 필수 디스크 펌웨어를 업데이트합니다.
+
+. 스크립트를 생성하고 다운로드하려면 * Ansible "A" * 아이콘을 클릭하십시오.image:Update AFF and FAS Firmware_image 4 downtime and data loss.png["AFF 및 FAS 펌웨어"]
+

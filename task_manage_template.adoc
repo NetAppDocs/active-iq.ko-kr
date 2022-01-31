@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: task_manage_template.html 
+keywords: templates, share template, clone template, edit template, delete template 
+summary: 템플릿을 관리하는 데 필요한 정보는 에 나와 있습니다. 
+---
+= 서식 파일 관리
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+템플릿을 복제하고, 템플릿을 공유하고, 기존 템플릿의 세부 정보를 편집하고, 템플릿을 삭제할 수 있습니다.
+
+.단계
+. 왼쪽 창에서 * 구성 드리프트 * 를 클릭합니다.
+. 을 클릭합니다 image:clone_icon.png["복제"] 를 눌러 템플릿 복사본을 만듭니다.
+. 을 클릭합니다 image:share_icon.png["공유"] 서식 파일을 공유할 사용자 이름을 입력합니다.
++
+
+NOTE: 사용자 이름 대신 사용자의 이메일 주소를 입력하면 템플릿이 공유되지 않습니다.
+
+. 을 클릭합니다 image:edit_icon.png["편집"] 템플릿 세부 정보를 업데이트합니다.
+. 을 클릭합니다 image:delete_icon.png["삭제"] 템플릿을 삭제합니다.
+

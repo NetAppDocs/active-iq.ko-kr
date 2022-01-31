@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: task_view_API_catalog.html 
+keywords: API Catalog, APIs, integrate data, view catalog 
+summary: API 카탈로그에서 사용할 수 있는 API에 대한 자세한 내용은 에 나와 있습니다. 
+---
+= API 카탈로그를 사용하여 API를 실행합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+API 카탈로그를 사용하면 각 범주 내에서 범주 및 사용 가능한 API를 찾아볼 수 있습니다.
+
+유효한 액세스 토큰과 필수 필드에 대한 올바른 입력을 사용하여 API에 대한 테스트 호출을 수행할 수 있습니다.
+
+.단계
+. 빠른 링크 * 메뉴에서 * API 서비스 * 를 클릭합니다.
+. 을 클릭합니다 link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction["* 찾아보기 *"] API 카탈로그 * 아이콘 아래.
++
+API 카탈로그가 표시됩니다.
+
+. 임의의 API를 선택합니다
+. 페이지 맨 위에서 토글을 “실험”으로 밉니다.
+. 왼쪽 탐색 창에서 범주를 확장하고 API를 선택하여 자세한 정보를 봅니다.
+. API를 확장합니다.
+. 오른쪽에 있는 * 시험 사용 * 버튼을 클릭합니다.
+. 필요한 매개 변수를 제공하고 * Execute * 를 클릭하여 결과를 확인합니다.
++
+또한 API의 * responses * 섹션을 검토하여 더 잘 반환될 데이터를 파악할 수도 있습니다. 예제 값 * 을 클릭하여 데이터 형식을 확인하거나 * 모델 * 을 클릭한 다음 캐럿을 클릭하여 섹션을 확장하여 각 요소의 정의를 볼 수 있습니다.
+
+
+
+토글을 * Code * 보기로 밀어 다양한 언어로 코드 샘플을 볼 수 있습니다.

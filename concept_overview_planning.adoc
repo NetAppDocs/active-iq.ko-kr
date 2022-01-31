@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: concept_overview_planning.html 
+keywords: overview, planning, increate capacity, renew, software, hardware, expiry, expired 
+summary: 만료되는 시스템 용량과 소프트웨어 및 하드웨어를 식별하는 정보를 제공합니다. 
+---
+= 계획 수립 이해
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+고객은 계획 * 위젯을 통해 90% 용량을 초과하거나 90% 용량에 근접하는 용량 요구 사항을 식별하고 향후 6개월 내에 만료되었거나 거의 만료되었을 소프트웨어 및 하드웨어를 식별할 수 있습니다. 스토리지 시스템의 용량을 늘리고 하드웨어와 소프트웨어를 갱신하는 요청을 보낼 수 있습니다.
+
+video::ZJwz3WSD2u0[youtube, width=848,height=480]

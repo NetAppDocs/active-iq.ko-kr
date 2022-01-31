@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: concept_get_started_with_health_check_dashboard.html 
+keywords: activeiq, health check, health, HCA, health check dashboard, autosupport, autosupport adoption, recommended configuration, best practices, support, support and entitlements, support contract, contracts, active contracts, expired contracts, nearing-expiration, key recommendations, recommendations, active iq digital advisor, features, recommended software 
+summary: 대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제공합니다. 
+---
+= Health Check Dashboard를 시작합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+이 대시보드는 다음 위젯을 통해 설치 기반에 대한 요약 정보를 제공합니다.
+
+* * AutoSupport 채택 *: AutoSupport가 활성화된 시스템의 수와 비율을 표시합니다. 또한, 최근 7일 동안 AutoSupport 데이터 전송을 중지한 시스템에 대해 * HTTPS * 및 * AutoSupport On Demand * 가 활성화된 '디라인'으로 표시된 시스템과 * 신호 손실 * 을 볼 수 있습니다. 설치 기반의 시스템에 대한 상태 점검 점수와 정보를 보려면 * AutoSupport 채택 * 위젯을 클릭하십시오.
+* * 권장 구성 *: * 권장 구성 * 위젯에 따라 준수 및 비준수 시스템을 표시합니다. 이 프로그램을 사용하면 설치 기반 전반에 걸쳐 시스템이 제대로 구성되도록 하는 조치를 취할 수 있습니다. 대시보드에서 제공된 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다.
+* * 권장 소프트웨어 *: 모든 소프트웨어 및 펌웨어 업그레이드와 통화 권장 사항의 통합 목록을 표시합니다. 최소 또는 최신 소프트웨어 또는 펌웨어 버전이어야 하는 AutoSupport가 활성화된 시스템을 볼 수 있습니다.
+* * 지원 및 소유 권한 *: 만료된 지원 계약 및 6~12개월 이내 만료에 도달한 지원 계약을 표시합니다. 지원 플랫폼 종료, 디스크, 쉘프, 권한 준수, 만료 보류, 플랫폼 및 하드웨어에 대한 지원 종료는 적용되지 않습니다. 대시보드에서 제공된 상태 점검 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다. 지원 계약에 대한 자세한 정보를 보려면 * Support & Entitlements * 위젯을 클릭하십시오. 이 위젯을 사용하여 지원 계약을 갱신할 수도 있습니다.
+* * 모범 사례 *: 스토리지 시스템의 모범 사례 특성(성능 및 효율성, 가용성 및 보호, 용량, 구성, 보안 취약점)을 평가하여 상태 점검 점수를 표시합니다. NetApp 모범 사례를 활용하면 시스템 상태를 유지하여 설치 기반의 성능을 최적화할 수 있습니다.
+* * 기술 케이스 *: 선택 가능한 시간 범위에 대한 기술 케이스 내역, 케이스 유형 및 진행 상태 또는 종료 상태별 상세 보기를 제공합니다. 케이스 그룹으로 드릴다운하고 에서 케이스 세부 정보를 볼 수 있습니다 link:https://mysupport.netapp.com//["NetApp Support 사이트"] 또는 기타 케이스 포털입니다.
+

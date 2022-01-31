@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task_view_wellness_history.html 
+keywords: wellness history, risks, wellness, view all actions, risk history, 
+summary: 시스템 위험 및 건강 기록을 보는 방법에 대한 정보를 제공합니다. 
+---
+= 건강 기록 보기
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+지난 3개월 동안 발생한 시스템 위험을 볼 수 있으므로 초과 작업 시간을 얼마나 줄일 수 있는지 알 수 있습니다.
+
+이러한 위험은 * unresolved *, * New *, * Resolved * 및 * Acknowledged * 의 네 가지 위험 유형으로 분류됩니다. 다른 색으로 표시됩니다. 이러한 위험에 대한 요약은 * 위험 이력 * 그래프를 통해 표시됩니다.
+
+.단계
+. 대시보드의 * Wellness * 창에서 * View All Actions * 를 클릭합니다.
+. Wellness History * 를 클릭합니다.
+. 위험 이력 * 그래프에서 위험 기록을 보려는 범주를 클릭합니다.
++
+색 막대 위로 마우스를 가져가면 각 범주의 위험 수에 대한 정보가 표시됩니다. 해당 위험 범주를 클릭하면 해당 정보가 * 위험 정보 * 표에 표시됩니다.
+
++
+또한 Excel 시트에서 위험 요약을 다운로드할 수도 있습니다.
+
+

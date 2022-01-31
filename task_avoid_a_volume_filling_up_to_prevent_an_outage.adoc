@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: task_avoid_a_volume_filling_up_to_prevent_an_outage.html 
+keywords: volume filling up, prevent an outage 
+summary: 운영 중단을 방지하기 위해 볼륨 채우기를 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
+---
+= 운영 중단을 방지하기 위해 볼륨을 가득 채우지 마십시오
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Active IQ 디지털 어드바이저에 로그인하고 * 구성 * 위젯에 빨간색 배지를 확인합니다. 위젯을 클릭하면 볼륨이 98% 차 있고 이로 인해 정전이 발생할 수 있습니다. 이 문제를 해결하면 볼륨이 채워지지 않습니다. 이렇게 하면 읽기 전용이 되어 응용 프로그램이 충돌하고 실패합니다.
+
+.단계
+. Active IQ 디지털 어드바이저에 로그인합니다.
+. Configuration * 위젯에서 * Actions * 를 클릭합니다.image:Configuration_image 1 prevent an outage.png["구성 위젯"]
+. 고유 위험 * 탭을 클릭합니다. Corrective Action* 링크를 클릭하면 경고 임계값을 변경하거나 볼륨에 더 많은 공간을 할당할 수 있습니다.image:Risk summary_image 2 prevent an outage.png["위험 요약"]
+

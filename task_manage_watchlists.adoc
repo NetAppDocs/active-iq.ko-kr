@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: task_manage_watchlists.html 
+keywords: dashboard, watchlist, add watchlist 
+summary: 감시 목록을 관리하기 위한 정보를 제공합니다. 
+---
+= 감시 목록을 관리합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+대시보드를 통해 다른 감시 목록에 대한 정보를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수 있습니다.
+
+.단계
+. 왼쪽 창에서 * Watchlists * 를 클릭합니다.
++
+시청목록 관리 * 화면이 표시됩니다.
+
+. 관심 목록의 대시보드 세부 정보를 보려면 관심 목록의 이름을 클릭합니다.
+. 감시 목록의 세부 정보를 업데이트하려면 * 편집 * 을 클릭합니다.
+. 감시 목록을 삭제하려면 * 삭제 * 를 클릭합니다.
+

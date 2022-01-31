@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: concept_overview_wellness.html 
+keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, renewal, risk, remediation 
+summary: 스토리지 시스템의 상태 및 위험 유형에 대한 정보를 제공합니다. 
+---
+= 웰빙을 이해합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Wellness 위젯은 스토리지 시스템에 대한 자세한 정보를 제공합니다. 또한 성능 및 효율성, 용량, 구성 설정, 보안 취약성, 갱신, 서비스 등과 같은 스토리지 시스템의 다양한 특성에 대한 있습니다.
+
+image:wellness_workflow.png["웰빙 워크플로"]
+
+웰빙 위젯은 각 건강 특성에 대한 위험을 완화하기 위해 취해야 하는 위험 및 조치에 대한 정보도 제공합니다. 다음은 각 위험에 대한 위험의 유형과 관련 결과입니다.
+
+[cols="25,75"]
+|===
+| 위험 유형 | 결과 
+
+
+| 심각 | 데이터 손실, 데이터 손상, 클러스터 데이터 중단, 개인 안전 문제 또는 잠재적인 법적 규정 준수 문제. 
+
+
+| 높음 | 데이터 액세스의 단기 손실 또는 노드 중복성의 장기 손실 
+
+
+| 중간 | 노드 이중화 성능 저하 또는 단기적 손실 
+
+
+| 낮음 | 낮은 충격 시나리오 
+
+
+| 모범 사례 | 문서화된 모범 사례와 차이가 있습니다 
+|===
+다음 동영상을 통해 웰니스 특성의 중요성을 이해할 수 있습니다.
+
+video::-lTF3oWZB1M[youtube, width=848,height=480]

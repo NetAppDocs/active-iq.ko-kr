@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: concept_overview_storage_efficiency.html 
+keywords: overview, storage efficiency, deduplication, compression 
+summary: 스토리지 시스템의 효율성 추적에 대한 자세한 내용은 에 나와 있습니다. 
+---
+= 스토리지 효율성 이해
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+스토리지 효율성 대시보드에는 스토리지 효율성 비율, 사용된 논리적 공간, 사용된 물리적 공간 및 ONTAP 9.1 이상을 실행하는 스토리지 시스템에 저장된 총 데이터가 표시됩니다. 효율성 비율과 절감 효과는 AFF 시스템, 비 AFF 시스템 또는 둘 다에 대한 스냅샷 백업을 사용하거나 사용하지 않을 때 나타날 수 있습니다. 클러스터 레벨 또는 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다.
+
+고객 스토리지 전반의 총 절감액은 볼륨 중복제거, 볼륨 압축, 컴팩션, FlexClone 볼륨 및 스냅샷 백업과 같은 효율성 기능별로 표시됩니다. 또한 최고의 효율성 비율을 자랑하는 5대 스토리지 시스템을 볼 수도 있습니다.
+
+video::8Ge3_0qlyxA[youtube, width=848,height=480]

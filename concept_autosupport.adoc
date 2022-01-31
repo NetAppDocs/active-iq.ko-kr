@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: concept_autosupport.html 
+keywords: AutoSupport 
+summary: AutoSupport에 대한 개요를 제공합니다. 
+---
+= AutoSupport
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+AutoSupport는 시스템의 상태를 능동적으로 모니터링하고 구성, 상태, 성능 및 시스템 이벤트 데이터를 NetApp에 자동으로 전송하는 원격 측정 메커니즘입니다.
+
+이 데이터는 NetApp 기술 지원 팀이 문제의 진단 및 해결 속도를 높이는 데 사용되며, Active IQ은 잠재적인 문제를 능동적으로 감지 및 방지합니다. 내부 지원 조직 및 지원 파트너에게 전송될 수도 있습니다.
+
+
+NOTE: AutoSupport 데이터에는 사용자 데이터가 없습니다.
+
+ONTAP 시스템의 경우 스토리지 시스템을 처음 구성할 때 AutoSupport가 기본적으로 설정됩니다. 당신은 해야 한다 link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-91C43742-E563-442E-8161-17D5C5DA8C19.html["AutoSupport를 설정합니다"] ONTAP 시스템에서 AutoSupport 정보가 기술 지원 부서 및 내부 지원 조직에 전송되는 방식을 제어합니다.
+
+AutoSupport를 사용하지 않으려는 경우 AutoSupport 업로드 기능을 사용하여 AutoSupport 데이터를 수동으로 업로드하여 스토리지 에코시스템에 대한 권장 사항과 통찰력을 얻을 수 있습니다.
+
+AutoSupport에 대한 자세한 내용은 해당 문서를 참조하십시오.
+
+* link:https://docs.netapp.com/ontap-9/topic/com.netapp.doc.dot-cm-sag/GUID-DF931E89-B833-4DED-83B5-A97F7EC97425.html["ONTAP(FAS 및 AFF)"]
+* link:https://docs.netapp.com/sgws-114/topic/com.netapp.doc.sg-primer/GUID-7D38684D-1CA1-41E7-BE68-A5F671F9C33F.html["StorageGRID"]
+* link:https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/E-Series_SANtricity_Software_Suite/How_to_enable_AutoSupport_on_E-Series_System_Manager["SANtricity(E-Series 및 EF-Series)"]
+* link:https://help.monitoring.solidfire.com/#01_User%20Guide/ActiveIQ/Getting%20Started/enable_active_iq_reporting.htm["요소(NetApp HCI 및 SolidFire)"]
+* link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444pdf.pdf["기술 보고서 - ONTAP AutoSupport and AutoSupport On Demand"]
+* link:https://www.netapp.com/pdf.html?item=/media/10439-tr4688pdf.pdf["기술 보고서 - NetApp 원격 측정 데이터의 보안 및 개인 정보 보호"]
+

@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task_analyze_wellness_clusters_and_nodes.html 
+keywords: cluster, node, clusterviewer, configuration 
+summary: ClusterViewer에 대한 내용은 에 나와 있습니다. 
+---
+= 클러스터 및 노드의 상태 분석
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+클러스터 및 노드의 물리적 및 논리적 구성에 대한 정보를 제공하는 원스톱 소스인 ClusterViewer를 사용하여 클러스터와 노드의 상태를 분석할 수 있습니다.
+
+ClusterViewer는 노드 스택 다이어그램, 스토리지 사용 및 효율성, 하드웨어 용량 여유 공간 등의 정보를 제공하므로 클러스터 및 노드의 상태 향상을 위해 정보에 입각한 의사 결정을 내릴 수 있습니다.
+
+케이블, 스택 및 RAID 디스크 수준에서 노드의 물리적 구성에 대한 시각화 또는 그래픽 표현을 볼 수 있습니다. SVG 형식으로 시각화를 다운로드할 수도 있습니다.
+
+video::FVbb2bbIY9E[youtube, width=848,height=480]
+.단계
+. Inventory * 위젯에서 원하는 클러스터 또는 노드(호스트)를 선택합니다.
+. 클러스터 또는 노드 레벨에서 * Configuration * 위젯 옆에 있는 * ClusterViewer * 를 클릭합니다.
+. 클러스터의 그래픽 표현을 보려면 * Visualization * 탭을 클릭합니다.
+

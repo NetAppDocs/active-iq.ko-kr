@@ -1,0 +1,66 @@
+---
+sidebar: sidebar 
+permalink: task_execute_ansible_playbook_without_docker.html 
+keywords: Ansible Playbook, Ansible, playbook, without docker 
+summary: Docker 이미지를 사용하여 Ansible Playbook을 실행하는 방법에 대한 정보를 제공합니다. 
+---
+= NetApp Docker 이미지가 없는 Ansible 플레이북을 실행합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+.단계
+. 설치합니다 link:https://docs.python.org/3/using/windows.html["파이썬"] 및 .
+. PIP * 를 사용하여 필요한 Python 패키지를 설치합니다.
++
+[listing]
+----
+$ pip install netapp-lib requests paramiko
+ 
+Installing collected packages: netapp-lib, requests, paramiko
+Successfully installed netapp-lib-2020.3.12 requests-2.23.0  paramiko-2.7.2
+----
+. Ansible -galaxy * 명령을 사용하여 NetApp Ansible 컬렉션을 설치합니다.
++
+[listing]
+----
+To install the collection only for the current user
+$ ansible-galaxy collection install netapp.ontap
+ 
+To do a more universal installation,
+$ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collections
+
+$ chmod -R +rw /usr/share/ansible/collections
+----
++
+Anabilities-galaxy 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html["Ansible Galaxy 문서"] NetApp Ansible 컬렉션에 대한 자세한 내용은 을 참조하십시오 .
+
+. Ansible-플레이북 * 명령을 사용하여 Ansible 플레이북을 실행하십시오.
++
+[listing]
+----
+$ cd <downloaded_playbook_path>
+$ ansible-playbook na_ontap_pb_upgrade_firmware.yml
+ 
+Enter your ONTAP admin username: ****
+Enter the password for your ONTAP admin user: ****
+Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
+PLAY [ONTAP Firmware Upgrade] ****************************************************************
+----
++
+
+NOTE: 로그인 자격 증명이 서로 다른 클러스터 세트가 있는 경우 Ansible 플레이북을 각 클러스터에서 실행해야 합니다. Ansible Playbook은 로그인에 실패한 클러스터를 건너뛰어 인벤토리 파일을 변경할 필요가 없습니다.
+
+
+
+Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html["Ansible 플레이북 문서"] 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 .
+
+플레이북을 실행한 후 을 참조하십시오 link:task_validate_firmware_installation.html["펌웨어 설치 검증"] 실행 후 지침을 참조하십시오.

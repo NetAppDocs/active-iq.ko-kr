@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: concept_overview_config_drift.html 
+keywords: config drift, configuration deviation, add template, compare template 
+summary: 구성 드리프트 기능에 대한 개요를 제공합니다 
+---
+= 구성 편차를 이해합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+구성 드리프트 기능은 시스템 템플릿을 "골든" 또는 기본 시스템 템플릿과 비교하여 구성 편차를 식별합니다. 주별 또는 월별 드리프트 보고서를 예약하거나 필요에 따라 생성할 수 있습니다. 구성 드리프트 보고서에 제공된 Ansible Playbook을 사용하여 일부 편차를 완화할 수 있습니다.
+
+이 기능은 Advisor 및 Expert 지원 계약이 있는 시스템에서만 사용할 수 있습니다.
+
+다음 다이어그램을 참조하여 구성 편차를 식별하고 보고서를 생성하는 워크플로우를 이해할 수 있습니다.
+
+image:config_drift.png["구성 드리프트 워크플로"]
+
+다음 비디오를 보고 Ansible 플레이북을 생성하여 실행하여 구성 편차를 해결할 수 있습니다.
+
+video::MbkwcZ7xk3Y[youtube, width=848,height=480]

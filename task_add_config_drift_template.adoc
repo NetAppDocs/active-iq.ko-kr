@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: task_add_config_drift_template.html 
+keywords: config deviation, drift, configuration, add template 
+summary: 구성 드리프트 템플릿을 추가하는 데 필요한 정보를 제공합니다. 
+---
+= 구성 드리프트 템플릿을 추가합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+템플릿을 추가하여 시스템과 클러스터 구성을 비교하고 거의 실시간으로 구성 편차를 감지해야 합니다. 구성 드리프트 템플릿은 AutoSupport 데이터를 실행하는 시스템을 사용하여 추가됩니다.
+
+.단계
+. 왼쪽 창에서 * 구성 드리프트 * 를 클릭합니다.
+. 템플릿 추가 * 를 클릭합니다.
+. 요청된 값을 제공하십시오.
+. 선택 사항: * 편집 * 을 클릭하여 템플릿을 편집합니다.
+. 템플릿 추가 * 를 클릭합니다.
+

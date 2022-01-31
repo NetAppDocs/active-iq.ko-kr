@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: task_view_valuable_insight_widget.html 
+keywords: valuable insight, support cases, storage efficiency savings, mitigated risks 
+summary: 유용한 정보 위젯에 대한 정보를 제공합니다. 
+---
+= 귀중한 인사이트를 확인하십시오
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+가치 있는 인사이트 * 위젯은 지원 케이스 수, 보류 중인 소프트웨어 업그레이드, 스토리지 효율성 절감, 위험 완화 등에 대한 정보를 제공합니다. 또한 * Wellness * 특성으로부터 위험 알림을 사전에 나열합니다.
+
+video::QPJY2TWnRxQ[youtube, width=848,height=480]
+.단계
+. Inventory * 위젯에서 * Systems * 를 클릭하여 모든 플랫폼의 시스템 정보를 보거나 플랫폼 유형을 클릭한 다음 * Systems * 를 클릭하여 해당 플랫폼과 관련된 시스템을 확인합니다.
+. 시스템에 대한 자세한 정보를 보려면 노드 또는 클러스터를 클릭합니다.
++
+대시보드에서 * 유용한 인사이트 * 위젯을 사용할 수 있습니다.
+
+. 위젯의 정보를 검토하여 지원 계약에서 얻은 비즈니스 및 기술 가치를 이해합니다.
+

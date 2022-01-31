@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: task_update_AFF_FAS_firmware.html 
+keywords: update, AFF, FAS firmware, firmware 
+summary: AFF 및 FAS 펌웨어를 업데이트하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
+---
+= AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하십시오
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하여 식별된 위험을 완화하고 스토리지 시스템을 최신 상태로 유지해야 합니다.
+
+
+
+== 시작하기 전에
+
+Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하기 전에 다음을 수행해야 합니다.
+
+* link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/["스토리지 시스템에 Ansible을 설치 및 설정합니다"]
+* link:https://netapp.io/2019/09/17/coming-together-nicely/["스토리지 시스템에 Ansible 2.9을 컬렉션에 설치합니다"]
+* 스토리지 시스템을 ONTAP 9.1 이상으로 업그레이드하십시오
+* 관리자 역할을 사용하여 계정을 구성합니다
+
+
+.단계
+. 대시보드에서 건강 상태 위젯을 클릭하거나 * 모든 조치 보기 * 를 클릭하여 모든 조치 및 위험 목록을 봅니다.
+. 펌웨어 업그레이드 * 를 클릭하여 모든 펌웨어 업그레이드 위험을 확인합니다.
+. 사용 가능한 모든 업데이트 패키지를 보려면 * AFF 및 FAS 펌웨어 업데이트 * 를 클릭하거나 를 클릭합니다 image:update_ansible.png["Ansible 업데이트"] 각 위험 옆에 있는 패키지를 해당 위험에 맞게 업데이트합니다.
+. 다운로드 * 를 클릭하여 zip 파일을 다운로드하고 스토리지 시스템을 업데이트합니다.
++
+zip 파일에는 다음 항목이 포함되어 있습니다.
+
++
+** Ansible 플레이북 - 디스크, 쉘프, 서비스 프로세서 펌웨어 업데이트를 수행하기 위한 Ansible 스크립트가 포함된 YAML 파일입니다.
+** 재고 - 펌웨어 업데이트에 적용되는 시스템의 세부 정보가 포함된 YAML 파일입니다.
+** 디스크, 셸프 및 서비스 프로세서/BMC 펌웨어 패키지의 이름은 각각 * all.zip *, * all_shelf_FW.zip * 및 * <SP/BMC>_<version_number>_FW.zip * 으로 지정됩니다.
+
+
+
+
+
+NOTE: 인벤토리 파일에 클러스터 및 컨트롤러를 수동으로 추가하는 것은 지원되지 않습니다.

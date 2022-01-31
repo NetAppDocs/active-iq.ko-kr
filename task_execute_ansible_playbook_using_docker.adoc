@@ -1,0 +1,81 @@
+---
+sidebar: sidebar 
+permalink: task_execute_ansible_playbook_using_docker.html 
+keywords: Ansible Playbook, Ansible, Playbook, docker 
+summary: Docker 이미지를 사용하여 Ansible Playbook을 실행하는 방법에 대한 정보를 제공합니다. 
+---
+= NetApp Docker 이미지를 사용하여 Ansible 플레이북을 실행합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Ansible 플레이북을 실행하기 전에 * NetApp_Ansible_**. * zip * 파일의 압축이 풀렸는지, 디스크 또는 쉘프 펌웨어 파일이 있는 웹 서버가 준비되었는지 확인하십시오.
+
+
+
+== 시작하기 전에
+
+NetApp Docker를 사용하여 Ansible Playbook을 실행하기 전에 다음을 수행해야 합니다.
+
+* link:task_update_AFF_FAS_firmware.html["AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하십시오"]
+* link:task_hosting_firmware_files_using_web_server.html["웹 서버를 사용하여 펌웨어 파일을 호스팅합니다"]
+* link:concept_working_with_inventory_file.html["재고 파일로 작업합니다"]
+* NetApp Docker가 설치되어 있는지 확인합니다.
+
+
+.단계
+. link:https://docs.docker.com/get-started/["Docker를 설정합니다"].
+. 다음 명령을 실행하여 DockerHub에서 NetApp Docker 이미지를 가져옵니다.
++
+[listing]
+----
+$ docker pull schmots1/netapp-ansible
+
+Using default tag: latest
+latest: Pulling from schmots1/netapp-ansible
+docker.io/schmots1/netapp-ansible:lates
+----
++
+Docker 풀 명령에 대한 자세한 내용은 를 참조하십시오 link:https://docs.docker.com/engine/reference/commandline/pull/["Docker 풀 문서"].
+
+. Docker 이미지를 컨테이너로 실행하고 컨테이너에 로그인하여 Ansible 플레이북을 실행하십시오.
+. 추출된 Ansible Playbook 및 인벤토리 파일이 들어 있는 폴더 경로(예: * downloaded_Playbook_path *)를 복사합니다. 성공적인 실행을 위해 Ansible Playbook과 재고 파일은 같은 폴더에 있어야 합니다.
+. 폴더를 Docker 컨테이너에 볼륨으로 마운트합니다. 예를 들어, 폴더 * container_path * 를 마운트하려면 다음 명령을 실행해야 합니다.
++
+[listing]
+----
+$ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
+----
++
+컨테이너가 시작되고 콘솔이 이제 컨테이너의 bash 셸에 있습니다. Docker Run 명령에 대한 자세한 내용은 를 참조하십시오 link:https://docs.docker.com/engine/reference/run/["Docker 실행 설명서"].
+
+. Ansible-플레이북 * 명령을 사용하여 컨테이너 내부에서 Ansible 플레이북을 실행하십시오.
++
+[listing]
+----
+$ cd <container_path>
+$ ansible-playbook na_ontap_pb_upgrade_firmware.yml
+ 
+Enter your ONTAP admin username: ****
+Enter the password for your ONTAP admin user: ****
+Enter the base URL to the firmware package (using HTTP is recommended): http://<web-server>/path/
+PLAY [ONTAP Firmware Upgrade] ****************************************************************
+----
++
+
+NOTE: 로그인 자격 증명이 서로 다른 클러스터 세트가 있는 경우 Ansible 플레이북을 각 클러스터에서 실행해야 합니다. Ansible Playbook은 로그인에 실패한 클러스터를 건너뛰어 인벤토리 파일을 변경할 필요가 없습니다.
+
+
+
+Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html["Ansible 플레이북 문서"] Ansible 플레이북을 점검 모드(건식 실행)로 실행하려면 을 참조하십시오 .
+
+Ansible 플레이북을 실행한 후 을 참조하십시오 link:task_validate_firmware_installation.html["펌웨어 설치 검증"] 실행 후 지침을 참조하십시오.

@@ -1,0 +1,82 @@
+---
+sidebar: sidebar 
+permalink: concept_working_with_inventory_file.html 
+keywords: inventory file, file format 
+summary: 인벤토리 파일 작업에 대한 자세한 내용은 에 나와 있습니다. 
+---
+= 재고 파일 작업
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+인벤토리 파일은 펌웨어 업데이트가 가능한 시스템의 클러스터 관리 LIF로 구성됩니다. 여기에는 해당되는 경우 디스크 및 쉘프 펌웨어 파일 이름 정보가 포함된 클러스터 목록이 포함되어 있습니다.
+
+서비스 프로세서 펌웨어 업데이트의 경우 노드 호스트 이름 및 SP/BMC IP가 인벤토리 파일에 포함됩니다.
+
+
+
+== 재고 파일 형식입니다
+
+다음은 디스크 및 쉘프 펌웨어 업데이트가 모두 포함된 샘플 인벤토리 파일 형식입니다.
+
+[listing]
+----
+clusters:
+  - clustername: <cluster management LIF-1>
+    disk_fw_file: all.zip
+    shelf_fw_file: all_shelf_fw.zip
+
+  - clustername: <cluster management LIF-2>
+    disk_fw_file: all.zip
+    sp_nodes:
+    - hostname: <node hostname 1>
+      sp_fw_file: SP_FW_308-03990_11.5.zip
+      sp_fw_type: bmc
+      sp_fw_ver: '11.5'
+      sp_ip: <BMC IP>
+    - hostname: <node hostname 2>
+      sp_fw_file: SP_FW_308-03991_5.8.zip
+      sp_fw_type: sp
+      sp_fw_ver: '5.8'
+      sp_ip: <SP IP>
+----
+이 예에서 셸프 및 디스크 펌웨어 업데이트는 모두 클러스터 1에 적용되고, 디스크와 SP/BMC 펌웨어 업데이트는 클러스터 2에 적용됩니다.
+
+
+
+== 인벤토리 파일에서 클러스터를 삭제합니다
+
+특정 클러스터에 펌웨어 업데이트를 적용하지 않으려는 경우 인벤토리 파일에서 클러스터를 제거할 수 있습니다.
+
+예를 들어, cluster-2에 디스크 펌웨어 업데이트를 적용하지 않으려면 다음 명령을 사용하여 인벤토리 파일에서 제거할 수 있습니다.
+
+[listing]
+----
+clusters:
+  - clustername: <cluster management LIF-1>
+    disk_fw_file: all.zip
+    shelf_fw_file: all_shelf_fw.zip
+----
+cluster-2의 모든 데이터가 삭제되었음을 확인할 수 있습니다.
+
+쉘프 펌웨어 업데이트가 아닌 클러스터 1에 디스크 펌웨어 업데이트만 적용하려면 다음 명령을 사용하십시오.
+
+[listing]
+----
+clusters:
+  - clustername: <cluster management LIF-1>
+    disk_fw_file: all.zip
+----
+cluster-1에서 _shelf_FW_FILE_KEY 및 값이 제거되었음을 알 수 있습니다.
+
+
+NOTE: 클러스터 또는 컨트롤러를 수동으로 추가하는 것은 지원되지 않습니다.
