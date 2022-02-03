@@ -1109,4 +1109,11 @@
   <block id="df332e88c38c4fe66059f71090f042ca" category="sidebar">NetApp 커뮤니티 – Active IQ</block>
   <block id="9fb5d585aad7cbcbf4b27548d6b5e072" category="sidebar">Active IQ 모바일 애플리케이션(Android)</block>
   <block id="1b2c7b8f8e2694e94122b68464b31c9f" category="sidebar">Active IQ 모바일 애플리케이션(iOS)</block>
+  <block id="fb9ec4a767166de614d7b27285754a9b" category="paragraph">템플릿을 공유하면 사용자가 이미 만든 템플릿을 만들고 사용자 지정하는 데 필요한 시간과 노력이 절약됩니다. 공유 템플릿은 공유 사용자가 상호 변경할 수 있으므로 여러 사용자가 하나의 중요 템플릿을 수정할 수 있습니다.</block>
+  <block id="78166ce4ccceeedfbf6aeb8682851072" category="paragraph">* 이 작업에 대한 정보 *</block>
+  <block id="f4c12685c854edc2a70b55cda1355928" category="list-text">공유 템플릿에 대한 액세스는 언제든지 취소할 수 있습니다.</block>
+  <block id="604e4b03afa73e998c83987a965bf62f" category="list-text">공유 사용자는 언제든지 자신의 계정에서 이 템플릿을 삭제할 수 있습니다.</block>
+  <block id="f4326c266c746886119f8753fbde4ae5" category="list-text">Active IQ에서는 보고서를 편집할 수 없습니다. 기존 보고서를 삭제하고 새 보고서를 만들어야 합니다.</block>
+  <block id="1c29599ba00f8ba135a21a794908ea18" category="admonition">보고서는 3일 동안 Active IQ에 저장됩니다.</block>
+  <block id="fbdbbae9b17b34243807f99738e169e7" category="admonition">새 보고서가 생성되면 기존의 예약된 보고서가 교체됩니다.</block>
 </blocks>
