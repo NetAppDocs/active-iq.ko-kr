@@ -4,7 +4,7 @@ permalink: reference_aiq_faq.html
 keywords: faq, frequently asked questions, nontechnical, nontechnical case, non-technical, non-technical case 
 summary: 이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다. 
 ---
-= Active IQ에 대한 질문과 대답
+= Active IQ에 대한 FAQ(자주 묻는 질문
 :toc: macro
 :hardbreaks:
 :toclevels: 1

@@ -55,7 +55,6 @@
   <block id="3cc3a0dbf287ac1f117caad7c4ff3529" category="paragraph">상태 점검 점수를 기준으로 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 장기적인 계획을 도모할 수 있습니다. 중앙 집중식 사용자 인터페이스를 통해 소프트웨어 및 하드웨어에서 실행 중인 모든 시스템을 모니터링할 수 있습니다. 상태 점검 점수를 통해 시스템 위험에 대한 통찰력을 빠르게 얻을 수 있습니다. 주요 권장사항 및 모범 사례를 사용하면 설치 기반의 상태를 개선하기 위한 조치를 취할 수 있습니다.</block>
   <block id="73b22abb2810760940bcbce346e76523" category="admonition">상태 점검 대시보드는 NetApp SupportEdge Advisor 및 SupportEdge Expert 서비스 오퍼링을 통해서만 액세스할 수 있습니다.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.</block>
-  <block id="96dcda009a89f5728838eaae68633cbf" category="doc">Active IQ에 대한 질문과 대답</block>
   <block id="1733ab713f46f3f8c18b694cf0e0f2c2" category="paragraph">다음 질문을 통해 Active IQ에 대한 자주 묻는 질문에 대한 답변을 얻을 수 있습니다.</block>
   <block id="9dbb9bc7db7f476d8d07033da29e3963" category="paragraph">* 비기술 사례란? *</block>
   <block id="3ecf934ba92a202021971366143ca10d" category="paragraph">재고 시스템을 볼 수 없는 문제, 잘못된 계약 기간 날짜 등 기술적인 문제로 분류되지 않는 문제는 비기술 사례로 분류됩니다.</block>
@@ -227,7 +226,6 @@
   <block id="b30b3bbfc415b638b24e6565c44b8b35" category="paragraph">활성화는 자동으로 이루어지며 즉시 이루어져야 합니다. Active IQ API를 사용하도록 허가된 후에는 프로그래밍 API 호출을 수행할 때 사용할 토큰을 생성할 수 있습니다. 이러한 토큰을 사용하여 API 카탈로그 내에서 "시험 사용"을 실행할 수도 있습니다. 프로그래밍 방식으로 가져온 토큰은 항상 액세스 토큰과 새로 고침 토큰의 두 집합으로 제공됩니다. 모든 API를 성공적으로 사용하려면 액세스 토큰을 전달해야 합니다. 단, 하나는 예외입니다. 새로 고침 토큰을 사용하여 프로그래밍 방식으로 새 토큰 집합을 가져옵니다.</block>
   <block id="e26d70ef5011218a0e0d472d10f783bb" category="list-text">기본 API 서비스 페이지에서 * 토큰 생성 * 을 클릭하여 액세스 토큰을 보고 다운로드하고 API를 호출할 토큰을 새로 고칩니다.</block>
   <block id="99a9cfa523a42e23621796dfca6edb0a" category="paragraph">포털은 세트에 하나 또는 두 개의 토큰을 저장하는 여러 가지 방법을 제공합니다. 클립보드로 복사하거나 텍스트 파일로 다운로드하거나 일반 텍스트로 볼 수 있습니다.</block>
-  <block id="607683664f7a92a19f972cb30b0f79a1" category="admonition">나중에 사용할 수 있도록 액세스 토큰을 다운로드하여 저장하고 토큰을 새로 고쳐야 합니다. 액세스 토큰은 생성 후 1시간 후에 만료되고 토큰 새로 고침은 7일 후에 만료됩니다. 이 API 호출에 사용되는 새로 고침 토큰은 새 새로 고침 토큰이 생성된 후 무효화됩니다.</block>
   <block id="79e58a59d5d9e700b34093a1d2e53ffb" category="summary">Unified Manager를 사용하여 자동으로 해결할 수 있는 위험을 확인하는 정보를 제공합니다.</block>
   <block id="77e1702155a3d41741a7eee390691869" category="doc">Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다</block>
   <block id="45eee928d91988f1092c821e200e91e7" category="paragraph">조치 및 위험을 확인하여 스토리지 시스템을 분석하고 Active IQ Unified Manager 또는 Ansible 플레이북을 사용하여 완화할 수 있습니다.</block>
@@ -1116,4 +1114,7 @@
   <block id="f4326c266c746886119f8753fbde4ae5" category="list-text">Active IQ에서는 보고서를 편집할 수 없습니다. 기존 보고서를 삭제하고 새 보고서를 만들어야 합니다.</block>
   <block id="1c29599ba00f8ba135a21a794908ea18" category="admonition">보고서는 3일 동안 Active IQ에 저장됩니다.</block>
   <block id="fbdbbae9b17b34243807f99738e169e7" category="admonition">새 보고서가 생성되면 기존의 예약된 보고서가 교체됩니다.</block>
+  <block id="f45e8ce7df04f3b7fdef9a7ac914534b" category="doc">Active IQ에 대한 FAQ(자주 묻는 질문</block>
+  <block id="ce35b219dc5f96e6b0eb25a2bb2623b6" category="admonition">나중에 사용할 수 있도록 액세스 토큰을 다운로드하여 저장하고 토큰을 새로 고쳐야 합니다. 액세스 토큰은 생성 후 1시간 후에 만료되며, 토큰 새로 고침은 7일마다 재생성되어 애플리케이션에 설치되어야 합니다. 90일 후에는 수동으로 로그인하여 새 액세스 권한을 얻고 토큰을 새로 고쳐야 합니다.</block>
+  <block id="469ece09146953ebd6a7e5bf041f15f1" category="paragraph">용량 및 스토리지 효율성에 대한 자세한 내용은 를 참조하십시오 <block ref="1f14e24988ac8fc33e2e14ae229f096d" category="inline-link-macro-rx"></block>.</block>
 </blocks>
