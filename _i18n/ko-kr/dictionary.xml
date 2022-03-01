@@ -323,8 +323,6 @@
   <block id="f3a5f842bf6c3b73bcf58318a3511acf" category="list-text">필요한 경우 추가 설명을 제공합니다.</block>
   <block id="2939fe6c5b77679da5984bbe596d4b9a" category="list-text">보내기 * 를 클릭합니다.</block>
   <block id="144deae4a5b0b4c9284528157c461f6c" category="summary">해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방법에 대한 정보를 제공합니다.</block>
-  <block id="994d62a653fe8361ea4d612235399fb3" category="doc">해커 및 랜섬웨어 공격에 대한 보호 수준을 높입니다</block>
-  <block id="516965ece26518bb9e7692ea79ff1d0c" category="paragraph">Active IQ 디지털 어드바이저에 로그인하고 * 보안 취약점 * 위젯에 빨간색 배지를 보면 중요한 위험을 해결하기 위한 조치를 취할 수 있습니다.</block>
   <block id="9e49d2928b0f9c506afa91618789cc95" category="inline-image-macro">보안 취약점 위젯</block>
   <block id="b690081b833e8f28d12bf81f4c46d353" category="list-text">보안 취약점 * 위젯에서 * 조치 * 를 클릭합니다.<block ref="8410ae438d98c330146456538464956f" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c17e33981c0b062b393672808567a4ab" category="paragraph">보안 위험이 높은 경우 운영 체제를 업그레이드하는 권장 조치를 따르십시오.</block>
@@ -1117,4 +1115,9 @@
   <block id="f45e8ce7df04f3b7fdef9a7ac914534b" category="doc">Active IQ에 대한 FAQ(자주 묻는 질문</block>
   <block id="ce35b219dc5f96e6b0eb25a2bb2623b6" category="admonition">나중에 사용할 수 있도록 액세스 토큰을 다운로드하여 저장하고 토큰을 새로 고쳐야 합니다. 액세스 토큰은 생성 후 1시간 후에 만료되며, 토큰 새로 고침은 7일마다 재생성되어 애플리케이션에 설치되어야 합니다. 90일 후에는 수동으로 로그인하여 새 액세스 권한을 얻고 토큰을 새로 고쳐야 합니다.</block>
   <block id="469ece09146953ebd6a7e5bf041f15f1" category="paragraph">용량 및 스토리지 효율성에 대한 자세한 내용은 를 참조하십시오 <block ref="1f14e24988ac8fc33e2e14ae229f096d" category="inline-link-macro-rx"></block>.</block>
+  <block id="f7e6c88265534036ac8e0f442a755875" category="doc">보안 취약점 감지</block>
+  <block id="d5d17f408c363c187667642f4d2ee597" category="paragraph">NetApp 보안 사이트는 NetApp 제품 보안의 소스: <block ref="2b116f024b5e4a0f9c1d319872f1fc7d" category="inline-link-macro-rx"></block></block>
+  <block id="d07de6c78533ed3ecc00b46776283804" category="paragraph">Active IQ는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. Active IQ에서 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.</block>
+  <block id="ac9e6dffc41619c8aed4c566d44168e4" category="paragraph">Active IQ에서 지원하지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 <block ref="2b116f024b5e4a0f9c1d319872f1fc7d" category="inline-link-macro-rx"></block></block>
+  <block id="820369c7769d4f36cf2076f618fe371d" category="paragraph">* 적용 제품: ONTAP 9(온프레미스 및 클라우드), SANtricity OS 컨트롤러 소프트웨어, NetApp SolidFire(Element 소프트웨어), StorageGRID, Active IQ Unified Manager, ONTAP for VMware(OTV)</block>
 </blocks>
