@@ -18,7 +18,7 @@ summary: Docker 이미지를 사용하여 Ansible Playbook을 실행하는 방�
 
 
 .단계
-. 설치합니다 link:https://docs.python.org/3/using/windows.html["파이썬"] 및 .
+. 설치합니다 link:https://docs.python.org/3/using/windows.html["파이썬"] 및 link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html["Ansible"].
 . PIP * 를 사용하여 필요한 Python 패키지를 설치합니다.
 +
 [listing]
@@ -41,7 +41,7 @@ $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collectio
 $ chmod -R +rw /usr/share/ansible/collections
 ----
 +
-Anabilities-galaxy 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html["Ansible Galaxy 문서"] NetApp Ansible 컬렉션에 대한 자세한 내용은 을 참조하십시오 .
+Anabilities-galaxy 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html["Ansible Galaxy 문서"] NetApp Ansible 컬렉션에 대한 자세한 내용은 을 참조하십시오 link:https://galaxy.ansible.com/netapp/ontap["NetApp Ansible 컬렉션 페이지"].
 
 . Ansible-플레이북 * 명령을 사용하여 Ansible 플레이북을 실행하십시오.
 +
@@ -61,6 +61,6 @@ NOTE: 로그인 자격 증명이 서로 다른 클러스터 세트가 있는 경
 
 
 
-Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html["Ansible 플레이북 문서"] 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 .
+Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html["Ansible 플레이북 문서"] 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html["Ansible: 점검 모드"].
 
 플레이북을 실행한 후 을 참조하십시오 link:task_validate_firmware_installation.html["펌웨어 설치 검증"] 실행 후 지침을 참조하십시오.
