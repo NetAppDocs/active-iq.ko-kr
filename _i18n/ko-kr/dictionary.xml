@@ -1127,4 +1127,8 @@
   <block id="d5fe749824528d36ebfda1e6d68028c4" category="section-title">2022년 1월 12일</block>
   <block id="aca33dafdae7a3f67c7dfa9a5df0dc66" category="paragraph">이제 상태 점수가 계산된 시스템 수를 볼 수 있습니다. 이 개선 사항은 상태 점검 대시보드의 모든 속성에 적용됩니다.</block>
   <block id="6d588ba57b36a25f837d3883ad145dcc" category="paragraph">Active IQ 상태 점검 대시보드에서는 전체 환경을 특정 시점으로 검토할 수 있습니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다. <block ref="1896498242b484574904ca9397362055" category="inline-link-macro-rx"></block>.</block>
+  <block id="246416981c0bc5059f44e80fed33fe3f" category="section-title">2022년 3월 31일</block>
+  <block id="c058a29a15264f27580683a21135dedb" category="paragraph">그리드 뷰어에서 테넌트 및 버킷에 대한 정보를 볼 수 있습니다.</block>
+  <block id="a6c3d2af64b360b39a28cdb59292357b" category="paragraph">그리드 뷰어에서 그리드 구성 세부 정보를 볼 수 있습니다.</block>
+  <block id="dad2544fd1c448ea22b7a63cbf03e1df" category="paragraph">이제 Cloud Manager 사용자는 Active IQ의 기존 기능과 마찬가지로 해당하는 경우 새 탭에서 Active IQ 링크를 열 수 있습니다.</block>
 </blocks>
