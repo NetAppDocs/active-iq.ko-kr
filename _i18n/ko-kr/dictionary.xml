@@ -1131,4 +1131,7 @@
   <block id="c058a29a15264f27580683a21135dedb" category="paragraph">그리드 뷰어에서 테넌트 및 버킷에 대한 정보를 볼 수 있습니다.</block>
   <block id="a6c3d2af64b360b39a28cdb59292357b" category="paragraph">그리드 뷰어에서 그리드 구성 세부 정보를 볼 수 있습니다.</block>
   <block id="dad2544fd1c448ea22b7a63cbf03e1df" category="paragraph">이제 Cloud Manager 사용자는 Active IQ의 기존 기능과 마찬가지로 해당하는 경우 새 탭에서 Active IQ 링크를 열 수 있습니다.</block>
+  <block id="23bfe468015bf5d3034031a6c8dc0d0e" category="section-title">2022년 4월 7일</block>
+  <block id="1de44a557b304229f4217b29677a5336" category="list-text">최신 운영 체제 버전 및 지원 계약 및 지원 종료에 대한 '6개월' KPI에 대한 핵심 권장 사항의 점수가 낮아져 해결되는 긴급성에 맞춰 조정되었습니다.</block>
+  <block id="63ed1cad11240bab739f30f048ea3624" category="list-text">원격 관리 및 HA 쌍(권장 구성)에 대한 주요 권장사항은 고객 셀프 서비스를 위한 NetApp Support 사이트의 URL을 포함하도록 업데이트되었습니다.</block>
 </blocks>
