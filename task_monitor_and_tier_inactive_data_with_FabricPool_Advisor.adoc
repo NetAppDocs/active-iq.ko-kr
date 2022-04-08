@@ -8,6 +8,7 @@ summary: FabricPool Advisor를 사용하여 비활성 데이터를 계층화하�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

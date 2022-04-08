@@ -8,6 +8,7 @@ summary: 지원 서비스 업그레이드에 대한 내용은 에 나와 있습�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

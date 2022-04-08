@@ -8,6 +8,7 @@ summary: 사용자가 사용할 수 있는 다양한 유형의 보고서에 대�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

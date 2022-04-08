@@ -8,6 +8,7 @@ summary: 시스템 위험 및 건강 기록을 보는 방법에 대한 정보를
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

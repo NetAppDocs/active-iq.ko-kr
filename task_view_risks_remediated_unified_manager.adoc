@@ -8,6 +8,7 @@ summary: Unified Manager를 사용하여 자동으로 해결할 수 있는 위�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

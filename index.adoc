@@ -7,6 +7,7 @@ summary: Active IQ 디지털 어드바이저를 사용하면 클라우드 기반
 ---
 = Active IQ 디지털 자문 문서
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

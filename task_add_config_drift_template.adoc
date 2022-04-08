@@ -8,6 +8,7 @@ summary: 구성 드리프트 템플릿을 추가하는 데 필요한 정보를 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

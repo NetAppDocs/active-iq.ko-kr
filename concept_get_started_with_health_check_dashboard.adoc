@@ -8,6 +8,7 @@ summary: 대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

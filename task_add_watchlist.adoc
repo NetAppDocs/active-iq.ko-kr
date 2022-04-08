@@ -8,6 +8,7 @@ summary: 대시보드에 관심 목록을 추가하는 방법에 대한 자세�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

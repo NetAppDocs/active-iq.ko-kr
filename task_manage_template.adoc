@@ -8,6 +8,7 @@ summary: 템플릿을 관리하는 데 필요한 정보는 에 나와 있습니�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

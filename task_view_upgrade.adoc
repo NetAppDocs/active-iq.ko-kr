@@ -8,6 +8,7 @@ summary: 스토리지 시스템의 ONTAP 버전을 보고 업그레이드하는 
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

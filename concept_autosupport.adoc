@@ -8,6 +8,7 @@ summary: AutoSupport에 대한 개요를 제공합니다.
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

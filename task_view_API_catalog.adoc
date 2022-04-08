@@ -8,6 +8,7 @@ summary: API 카탈로그에서 사용할 수 있는 API에 대한 자세한 내
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

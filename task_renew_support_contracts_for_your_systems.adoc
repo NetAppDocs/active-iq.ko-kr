@@ -8,6 +8,7 @@ summary: 시스템의 지원 계약을 갱신하는 방법에 대한 자세한 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

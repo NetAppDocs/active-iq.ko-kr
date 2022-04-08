@@ -8,6 +8,7 @@ summary: 보고서를 생성하는 데 필요한 정보를 제공합니다.
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

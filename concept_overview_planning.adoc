@@ -8,6 +8,7 @@ summary: 만료되는 시스템 용량과 소프트웨어 및 하드웨어를 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

@@ -8,6 +8,7 @@ summary: 웹 서버를 사용하여 펌웨어 파일을 호스팅하는 방법�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

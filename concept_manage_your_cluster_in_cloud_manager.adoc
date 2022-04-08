@@ -8,6 +8,7 @@ summary: Cloud Manager에서 클러스터를 관리하는 방법과 통합에 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

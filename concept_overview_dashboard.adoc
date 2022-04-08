@@ -8,6 +8,7 @@ summary: 대시보드, 시청목록 및 위젯에 대한 정보를 제공합니�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

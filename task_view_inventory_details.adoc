@@ -8,6 +8,7 @@ summary: 보유한 전체 재고에 대한 정보를 제공합니다.
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

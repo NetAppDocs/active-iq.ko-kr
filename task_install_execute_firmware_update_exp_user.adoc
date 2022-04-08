@@ -8,6 +8,7 @@ summary: Ansible 플레이북을 사용하여 펌웨어 업데이트를 설치 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

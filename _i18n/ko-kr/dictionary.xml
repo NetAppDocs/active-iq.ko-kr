@@ -831,7 +831,6 @@
   <block id="4a5ad5e572656060b0c08a811a08e951" category="list-text">지원 및 피드백을 위한 Active IQ 디지털 어드바이저의 지원 버튼</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">법적 고지 사항은 저작권 선언, 상표, 특허 등에 대한 액세스를 제공합니다.</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
-  <block id="c59ae8d7beeb519a23478ab048af482c" category="paragraph"><block ref="c59ae8d7beeb519a23478ab048af482c" category="inline-link-macro-rx"></block></block>
   <block id="6d18f9cdd03d3a175d54504f01f0c78b" category="summary">릴리스의 제한 사항에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="482723983a4f2af954e36ff41e567451" category="doc">알려진 제한 사항</block>
   <block id="1eba71d64e6c5e410e558530711e835b" category="paragraph">알려진 제한 사항은 이 제품 릴리스에서 지원하지 않거나 올바르게 상호 운용되지 않는 플랫폼, 장치 또는 기능을 식별합니다. 이러한 제한 사항을 주의 깊게 검토하십시오.</block>
@@ -1134,4 +1133,14 @@
   <block id="23bfe468015bf5d3034031a6c8dc0d0e" category="section-title">2022년 4월 7일</block>
   <block id="1de44a557b304229f4217b29677a5336" category="list-text">최신 운영 체제 버전 및 지원 계약 및 지원 종료에 대한 '6개월' KPI에 대한 핵심 권장 사항의 점수가 낮아져 해결되는 긴급성에 맞춰 조정되었습니다.</block>
   <block id="63ed1cad11240bab739f30f048ea3624" category="list-text">원격 관리 및 HA 쌍(권장 구성)에 대한 주요 권장사항은 고객 셀프 서비스를 위한 NetApp Support 사이트의 URL을 포함하도록 업데이트되었습니다.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">저작권</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">상표</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, NetApp 로고, NetApp 상표 페이지에 나열된 마크는 NetApp Inc.의 상표입니다. 기타 회사 및 제품 이름은 해당 소유자의 상표일 수 있습니다.</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">특허</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp 소유 특허 목록은 다음 사이트에서 확인할 수 있습니다.</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인 정보 보호 정책</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
 </blocks>

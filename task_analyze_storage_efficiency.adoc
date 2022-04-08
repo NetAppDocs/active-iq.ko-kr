@@ -8,6 +8,7 @@ summary: 스토리지 시스템의 소프트웨어 및 하드웨어를 갱신하
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

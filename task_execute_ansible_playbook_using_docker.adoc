@@ -8,6 +8,7 @@ summary: Docker 이미지를 사용하여 Ansible Playbook을 실행하는 방�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

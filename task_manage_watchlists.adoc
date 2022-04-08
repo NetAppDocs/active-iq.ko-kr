@@ -8,6 +8,7 @@ summary: 감시 목록을 관리하기 위한 정보를 제공합니다.
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

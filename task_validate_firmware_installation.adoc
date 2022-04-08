@@ -8,6 +8,7 @@ summary: 펌웨어 설치를 확인하는 방법에 대한 자세한 내용은 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

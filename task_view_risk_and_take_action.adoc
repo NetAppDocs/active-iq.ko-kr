@@ -8,6 +8,7 @@ summary: 스토리지 시스템의 상태를 확인 및 분석하고 위험을 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

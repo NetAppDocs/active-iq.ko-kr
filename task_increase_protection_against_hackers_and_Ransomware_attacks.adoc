@@ -8,6 +8,7 @@ summary: 해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

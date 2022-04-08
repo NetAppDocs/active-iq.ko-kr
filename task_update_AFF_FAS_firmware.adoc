@@ -8,6 +8,7 @@ summary: AFF 및 FAS 펌웨어를 업데이트하는 방법에 대한 자세한 
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

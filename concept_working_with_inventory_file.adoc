@@ -8,6 +8,7 @@ summary: 인벤토리 파일 작업에 대한 자세한 내용은 에 나와 있
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 
