@@ -56,18 +56,12 @@
   <block id="73b22abb2810760940bcbce346e76523" category="admonition">상태 점검 대시보드는 NetApp SupportEdge Advisor 및 SupportEdge Expert 서비스 오퍼링을 통해서만 액세스할 수 있습니다.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.</block>
   <block id="1733ab713f46f3f8c18b694cf0e0f2c2" category="paragraph">다음 질문을 통해 Active IQ에 대한 자주 묻는 질문에 대한 답변을 얻을 수 있습니다.</block>
-  <block id="9dbb9bc7db7f476d8d07033da29e3963" category="paragraph">* 비기술 사례란? *</block>
-  <block id="3ecf934ba92a202021971366143ca10d" category="paragraph">재고 시스템을 볼 수 없는 문제, 잘못된 계약 기간 날짜 등 기술적인 문제로 분류되지 않는 문제는 비기술 사례로 분류됩니다.</block>
-  <block id="00d92d98ebf38a6aa159770cf065b452" category="paragraph">* 비기술 케이스를 생성해야 하는 경우는 언제입니까? *</block>
-  <block id="369c5e0a2b4ca18226dd42668ec16d4a" category="paragraph">다음 경우에 대해 비기술 케이스를 생성해야 합니다.</block>
   <block id="83f77ac81e7b9adec1ae7943c11aef16" category="list-text">특정 기능에 액세스할 수 없습니다</block>
   <block id="9f289da80756bc405e29b49d51ac81d8" category="list-text">인벤토리에 시스템이 없습니다</block>
   <block id="7f03ee6a26eada8c343d4876fe635184" category="list-text">설치 기반에서 시스템 폐기</block>
   <block id="e8298308fc4d536ad5a50bc21152434f" category="list-text">계약 기간 날짜가 올바르지 않거나 누락되었습니다</block>
   <block id="6fece82477cde8bae9bdb844907c3dc2" category="list-text">잘못된 지원 서비스입니다</block>
-  <block id="57d68619b2765e5344ee6691f1cbbd88" category="paragraph">* 비기술 케이스를 생성하려면 어떻게 해야 합니까? *</block>
   <block id="6c92285fa6d3e827b198d120ea3ac674" category="inline-link-macro">여기</block>
-  <block id="ba625a9b488c5e1df819a67984494371" category="list-text">을 클릭합니다 <block ref="ee2c8057dc5018da669c93cf5a6627fa" category="inline-link-macro-rx"></block> NetApp Support 사이트에서 "Non Technical Feedback Tool"을 엽니다.</block>
   <block id="b881d2001fba3b1062cec6417c32bb74" category="list-text">피드백 범주 * 드롭다운 목록에서 적절한 범주를 선택합니다.</block>
   <block id="12330277a5f9a61a6bc1beddec10eeff" category="list-text">필요한 세부 정보를 입력하고 “Comments(설명)” 상자에 추가 정보를 입력합니다.</block>
   <block id="4b5d2dd70af718ebe67bfea5b43d8667" category="list-text">제출 * 을 클릭합니다.</block>
@@ -1143,4 +1137,26 @@
   <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
   <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인 정보 보호 정책</block>
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="390e66de0b25a9d9b226d4ede6fa20b5" category="section-title">2022년 5월 12일</block>
+  <block id="9ce6137128fa3150f0b3f3b8f9f5d110" category="paragraph">추가 용량 메트릭은 StorageGRID 용량 및 용량 보고서에 포함됩니다.</block>
+  <block id="412b4661c99e365493b34061a41311d4" category="paragraph">이제 클러스터용 SnapMirror(데이터 보호) 요약이 ClusterViewer에 포함되어 있습니다.</block>
+  <block id="30477aac7de696f872a4af4a6aff4a5e" category="paragraph">이제 업그레이드 워크플로우를 사용하여 업그레이드 권장사항을 확인하고 타겟 E-Series 릴리즈에서 사용 가능한 새로운 기능에 대한 요약을 볼 수 있습니다.</block>
+  <block id="3974e26b26a740068e57eaa72b547d14" category="list-text">소프트웨어 구성 위험을 완화하기 위해 Ansible Playbook이 개선되었습니다.</block>
+  <block id="a47a4bf50c391a1c178847e49446d5d9" category="list-text">필터는 건강 관리 작업 및 위험에 통합되었습니다.</block>
+  <block id="beb3c900abcdebfe6fb8889f05e352f2" category="admonition">Active IQ AutoSupport 데이터가 60일 미만인 시스템에 대해서만 AutoSupport 관련 데이터를 표시합니다.</block>
+  <block id="73cbb404e3fdd583d819be0e2eb8034e" category="section-title">비기술적인 케이스</block>
+  <block id="b09ac678fb70485b6003259d225086ea" category="paragraph">* 비기술적 사례는 무엇입니까? *</block>
+  <block id="49b0363cd6699cf55e78d722000a5e8c" category="paragraph">재고 시스템을 볼 수 없는 문제, 잘못된 계약 기간 날짜 등 기술적인 문제는 비기술적인 경우로 분류됩니다.</block>
+  <block id="5eb51f8ff81951a471d845f526636e66" category="paragraph">* 비기술적 케이스를 생성해야 하는 경우는 언제입니까? *</block>
+  <block id="53184e7a4bde7d1975ba90074c0a52d3" category="paragraph">다음과 같은 경우 비기술 케이스를 생성해야 합니다.</block>
+  <block id="8d561f83f3c24e7d066a3cd084ed3764" category="paragraph">* 비기술적 케이스를 생성하려면 어떻게 합니까? *</block>
+  <block id="85009e822479a8fa21551fa97aad6551" category="list-text">을 클릭합니다 <block ref="ee2c8057dc5018da669c93cf5a6627fa" category="inline-link-macro-rx"></block> NetApp Support 사이트에서 "Non-Technical Feedback Tool"을 엽니다.</block>
+  <block id="9b3e70f7ec5801014bd7ba2b043dd460" category="paragraph">* 재고 페이지에서 특정 시스템을 찾을 수 없는 이유는 무엇입니까? * 다음 이유 중 하나로 인해 재고 페이지에서 특정 시스템을 볼 수 없는 경우가 있습니다.</block>
+  <block id="bc589a42c9712f3202e1697e0c7d5db9" category="list-text">SAP에서 추가 또는 업데이트된 새 시스템은 Active IQ에 반영되는 데 하루 이상이 걸립니다.</block>
+  <block id="490faa3ce28cbfbdad8226dd7dc88a66" category="list-text">시스템은 안전하며 보안 시스템을 볼 수 있는 권한이 없습니다.</block>
+  <block id="fff04069266603da7d63522615d51f31" category="list-text">시스템을 볼 권한이 없습니다.</block>
+  <block id="04187ceda7d68629d17d32d7bfb72e06" category="list-text">시스템이 비활성 상태입니다</block>
+  <block id="202e46041652836ed8241309090e3360" category="inline-link-macro">비기술적인 케이스를 생성합니다</block>
+  <block id="8e52de0d4b03d5fe87dc88da09616c7f" category="inline-xref">여기.</block>
+  <block id="9ca5b690fe8bde0ca39f3697552ca80d" category="paragraph">다른 이유로 시스템을 볼 수 없는 경우 <block ref="c55e3409f454389439c394d71613590b" category="inline-link-macro-rx"></block>. 비기술 사례에 대해 자세히 알아보려면 를 클릭하십시오 <block ref="cbc6291335aebce77afe28d818ce153c" category="inline-xref-macro-rx"></block></block>
 </blocks>
