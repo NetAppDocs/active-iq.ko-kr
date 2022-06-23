@@ -75,6 +75,8 @@ sidebar:
     entries:
     - title: 개요
       url: "/concept_overview_planning.html"
+    - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
+      url: "/task-informed-decisions-based-on-cloud-recommendations.html"
     - title: 용량 제한에 도달한 시스템을 식별합니다
       url: "/task_identify_capacity_system.html"
     - title: 운영 중단을 방지하기 위해 볼륨을 가득 채우지 마십시오

@@ -23,6 +23,31 @@ NetApp Active IQ 디지털 자문에는 다음과 같은 기능과 개선 사항
 
 
 
+== 2022년 6월 22일
+
+
+
+=== StorageGRID
+
+StorageGRID용 ILM(정보 수명 주기 관리)이 그리드 뷰어에 포함되었습니다.
+
+
+
+=== 클라우드 권장 사항
+
+SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service 및 NetApp 클라우드 백업(이전의 AltaVault)으로 이동할 수 있는 워크로드 및 해당 볼륨에 대한 권장 사항을 제공합니다. link:task-informed-decisions-based-on-cloud-recommendations.html["자세히 알아보기"].
+
+
+
+=== 보고서
+
+* 이제 이미 생성된 보고서에 대해 정의된 조건을 사용하여 보고서를 생성할 수 있습니다.
+* 이제 실패한 보고서 생성을 다시 시도하도록 3번 시도할 수 있습니다.
+* 생성된 보고서의 보존 기간이 3일에서 90일로 증가했습니다.
+
+
+
+
 == 2022년 6월 1일
 
 
@@ -735,7 +760,7 @@ AFF 및 FAS 펌웨어 화면이 향상되어 더 나은 사용자 환경을 제�
 
 === 스토리지 효율성
 
-AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 백업을 사용하거나 사용하지 않고 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. link:task_analyze_storage_efficiency.html["자세히 알아보기"].
+AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본 유무와 관계없이 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. link:task_analyze_storage_efficiency.html["자세히 알아보기"].
 
 
 

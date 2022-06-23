@@ -46,4 +46,4 @@ image:wellness_workflow.png["웰빙 워크플로"]
 |===
 다음 동영상을 통해 웰니스 특성의 중요성을 이해할 수 있습니다.
 
-video::-lTF3oWZB1M[youtube, width=848,height=480]
+video::-lTF3oWZB1M[youtube,width=848,height=480]

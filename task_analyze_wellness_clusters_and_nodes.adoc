@@ -25,7 +25,7 @@ ClusterViewer는 노드 스택 다이어그램, 스토리지 사용 및 효율�
 
 케이블, 스택 및 RAID 디스크 수준에서 노드의 물리적 구성에 대한 시각화 또는 그래픽 표현을 볼 수 있습니다. SVG 형식으로 시각화를 다운로드할 수도 있습니다.
 
-video::FVbb2bbIY9E[youtube, width=848,height=480]
+video::FVbb2bbIY9E[youtube,width=848,height=480]
 .단계
 . Inventory * 위젯에서 원하는 클러스터 또는 노드(호스트)를 선택합니다.
 . 클러스터 또는 노드 레벨에서 * Configuration * 위젯 옆에 있는 * ClusterViewer * 를 클릭합니다.

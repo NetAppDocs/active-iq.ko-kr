@@ -27,7 +27,7 @@ image:activeiq2_workflow.png["Active IQ 디지털 자문 워크플로우"]
 
 다음 비디오를 보고 Active IQ 디지털 자문업체 를 시작할 수 있습니다.
 
-video::rEPtldosjWM[youtube, width=848,height=480]
+video::rEPtldosjWM[youtube,width=848,height=480]
 모든 Active IQ 디지털 자문 위젯이 모든 플랫폼에서 지원되지 않습니다. Active IQ 디지털 어드바이저는 스토리지 시스템의 플랫폼을 식별하고 스토리지 시스템에서 수행할 수 있는 작업 세트만 표시합니다.
 
 다음 정보를 읽고 스토리지 시스템에서 지원되는 위젯을 숙지하십시오.

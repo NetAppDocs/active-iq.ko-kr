@@ -23,7 +23,7 @@ summary: 보유한 전체 재고에 대한 정보를 제공합니다.
 
 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 이메일로 보낼 수도 있습니다.
 
-video::ttbpbT5uTBI[youtube, width=848,height=480]
+video::ttbpbT5uTBI[youtube,width=848,height=480]
 .단계
 . Inventory * 위젯에서 * Systems * 를 클릭하여 모든 플랫폼의 시스템 정보를 보거나 플랫폼 유형을 클릭한 다음 * Systems * 를 클릭하여 해당 플랫폼과 관련된 시스템을 확인합니다.
 . 시스템에 대한 자세한 정보를 보려면 노드 또는 클러스터를 클릭합니다.
