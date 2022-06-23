@@ -277,35 +277,27 @@
     </div>
   </div>
   <div class="n-property-bar__toolbar">
-    <!-- Start Language Selector --><div id="ie-i18n" class="n-property-bar__lang-selector">
-      <div id="ie-i18n-menu">
-      <span class="ie-i18n-lang">한국어</span>
-        <button class="ie-i18n-icon-container" type="button">
+    <!-- Start Language Selector --><div id="language-dropdown" class="custom-dropdown custom-dropdown-lang">
+      <div class="custom-dropdown-select custom-dropdown-select-lang">
+      <span class="lang-name">한국어</span>
           <svg class="n-globe__icon" aria-labelledby="title">
             <title>globe</title>
             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/ko-kr/active-iq/common/svg/sprite.svg#globe"></use>
           </svg>
         </button>
       </div>
-      <div id="n-property-navigation-bar__menu--language-selector" class="ie-i18n-results-container n-menu n-menu--v3 n-menu--is-active" style="display: none;">
-        <div class="n-language-selector-menu">
-          <ul class="n-menu__list">
-            <li class="n-menu__list-column">
-              <ul class="n-menu__list"><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/us-en/active-iq/reference_new_activeiq.html" class="n-menu__header-text"><span translate="no" class="notranslate">English</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/ja-jp/active-iq/reference_new_activeiq.html" class="n-menu__header-text"><span translate="no" class="notranslate">日本語</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/ko-kr/active-iq/reference_new_activeiq.html" class="n-menu__header-text"><span translate="no" class="notranslate">한국어</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/zh-cn/active-iq/reference_new_activeiq.html" class="n-menu__header-text"><span translate="no" class="notranslate">简体中文</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/zh-tw/active-iq/reference_new_activeiq.html" class="n-menu__header-text"><span translate="no" class="notranslate">繁體中文</span></a>
-                </li></ul>
-            </li>
-          </ul>
-        </div>
-      </div>
+
+      <ul class="custom-dropdown-menu"><li>
+          <a href="https://docs.netapp.com/ko-kr/active-iq/reference_new_activeiq.html" target="_self"><span translate="no" class="notranslate">한국어</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/us-en/active-iq/reference_new_activeiq.html" target="_self"><span translate="no" class="notranslate">English</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/ja-jp/active-iq/reference_new_activeiq.html" target="_self"><span translate="no" class="notranslate">日本語</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/zh-cn/active-iq/reference_new_activeiq.html" target="_self"><span translate="no" class="notranslate">简体中文</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/zh-tw/active-iq/reference_new_activeiq.html" target="_self"><span translate="no" class="notranslate">繁體中文</span></a>
+        </li></ul>
     </div><!-- End Language Selector -->
 
     <div class="n-property-bar__cta"></div>
@@ -562,6 +554,8 @@
             시스템 요구 사항을 사전에 식별합니다
           </a>
           
+
+
 
 
 
@@ -873,7 +867,7 @@
     $("#toggleContainerPdf").toggle('display');
     $(".n-pdf-body-container .zip-pdf-link-container").toggle('display');
   });
-</script><div class="sidebar-nav-container">
+</script><div class="sidebar-nav-container" id="mysidebardiv">
   <ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/index.html">
         Active IQ 디지털 자문 문서
       </a></li><li class="subfolders "><a href="#">
@@ -946,6 +940,8 @@
       </a>
       <ul><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/concept_overview_planning.html">
         개요
+      </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task-informed-decisions-based-on-cloud-recommendations.html">
+        클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
       </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task_identify_capacity_system.html">
         용량 제한에 도달한 시스템을 식별합니다
       </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task_avoid_a_volume_filling_up_to_prevent_an_outage.html">
@@ -1095,7 +1091,7 @@
 <p class="page-details">
   
     
-    <time datetime="2022-06-01 15:40:30 +0000">06/01/2022</time>
+    <time datetime="2022-06-23 08:11:35 +0000">06/23/2022</time>
     
   
 
@@ -1105,6 +1101,7 @@
 <div id="toc" class="toc">
 <div id="toctitle">목차</div>
 <ul class="sectlevel1">
+<li><a href="#2022년-6월-22일">2022년 6월 22일</a></li>
 <li><a href="#2022년-6월-1일">2022년 6월 1일</a></li>
 <li><a href="#2022년-5월-12일">2022년 5월 12일</a></li>
 <li><a href="#2022년-4월-7일">2022년 4월 7일</a></li>
@@ -1150,6 +1147,39 @@
 </div>
 </div>
 <div class="sect1">
+<h2 id="2022년-6월-22일">2022년 6월 22일</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="storagegrid">StorageGRID</h3>
+<div class="paragraph">
+<p>StorageGRID용 ILM(정보 수명 주기 관리)이 그리드 뷰어에 포함되었습니다.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="클라우드-권장-사항">클라우드 권장 사항</h3>
+<div class="paragraph">
+<p>SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service 및 NetApp 클라우드 백업(이전의 AltaVault)으로 이동할 수 있는 워크로드 및 해당 볼륨에 대한 권장 사항을 제공합니다. <a href="task-informed-decisions-based-on-cloud-recommendations.html">"자세히 알아보기"</a>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="보고서">보고서</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>이제 이미 생성된 보고서에 대해 정의된 조건을 사용하여 보고서를 생성할 수 있습니다.</p>
+</li>
+<li>
+<p>이제 실패한 보고서 생성을 다시 시도하도록 3번 시도할 수 있습니다.</p>
+</li>
+<li>
+<p>생성된 보고서의 보존 기간이 3일에서 90일로 증가했습니다.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
 <h2 id="2022년-6월-1일">2022년 6월 1일</h2>
 <div class="sectionbody">
 <div class="sect2">
@@ -1171,7 +1201,7 @@
 <h2 id="2022년-5월-12일">2022년 5월 12일</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="storagegrid">StorageGRID</h3>
+<h3 id="storagegrid-2">StorageGRID</h3>
 <div class="paragraph">
 <p>추가 용량 메트릭은 StorageGRID 용량 및 용량 보고서에 포함됩니다.</p>
 </div>
@@ -1225,7 +1255,7 @@
 <h2 id="2022년-3월-31일">2022년 3월 31일</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="storagegrid-2">StorageGRID</h3>
+<h3 id="storagegrid-3">StorageGRID</h3>
 <div class="paragraph">
 <p>그리드 뷰어에서 테넌트 및 버킷에 대한 정보를 볼 수 있습니다.</p>
 </div>
@@ -1252,7 +1282,7 @@
 </div>
 </div>
 <div class="sect2">
-<h3 id="storagegrid-3">StorageGRID</h3>
+<h3 id="storagegrid-4">StorageGRID</h3>
 <div class="paragraph">
 <p>그리드 뷰어에서 그리드 구성 세부 정보를 볼 수 있습니다.</p>
 </div>
@@ -1287,7 +1317,7 @@
 <h2 id="2021년-12월-15일">2021년 12월 15일</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="보고서">보고서</h3>
+<h3 id="보고서-2">보고서</h3>
 <div class="ulist">
 <ul>
 <li>
@@ -1403,7 +1433,7 @@
 </div>
 </div>
 <div class="sect2">
-<h3 id="보고서-2">보고서</h3>
+<h3 id="보고서-3">보고서</h3>
 <div class="paragraph">
 <p>보고 일정은 12개월로 연장되었습니다. 일정 보고서가 만료될 예정이면 알림도 받게 됩니다.</p>
 </div>
@@ -1483,7 +1513,7 @@
 <h2 id="2021년-9월-6일">2021년 9월 6일</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="storagegrid-4">StorageGRID</h3>
+<h3 id="storagegrid-5">StorageGRID</h3>
 <div class="ulist">
 <ul>
 <li>
@@ -1630,7 +1660,7 @@
 <h2 id="2021년-6월-17일">2021년 6월 17일</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="보고서-3">보고서</h3>
+<h3 id="보고서-4">보고서</h3>
 <div class="paragraph">
 <p>이제 일, 주 또는 월 단위로 스토리지 VM의 모든 볼륨에 대한 애그리게이트 볼륨 성능 보고서를 생성할 수 있습니다.</p>
 </div>
@@ -1749,7 +1779,7 @@
 </div>
 </div>
 <div class="sect2">
-<h3 id="보고서-4">보고서</h3>
+<h3 id="보고서-5">보고서</h3>
 <div class="paragraph">
 <p>용량 및 효율성 보고서를 생성하거나 예약하여 시스템의 용량 및 스토리지 효율성 절약에 대한 자세한 정보를 확인할 수 있습니다.</p>
 </div>
@@ -1760,7 +1790,7 @@
 <h2 id="2021년-2월-10일">2021년 2월 10일</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="storagegrid-5">StorageGRID</h3>
+<h3 id="storagegrid-6">StorageGRID</h3>
 <div class="paragraph">
 <p>NextGen API 프레임워크를 사용하여 StorageGRID 대시보드를 사용할 수 있습니다.</p>
 </div>
@@ -1881,7 +1911,7 @@
 </div>
 </div>
 <div class="sect2">
-<h3 id="보고서-5">보고서</h3>
+<h3 id="보고서-6">보고서</h3>
 <div class="paragraph">
 <p>시스템의 물리적 및 논리적 구성에 대한 자세한 정보를 보려면 ClusterViewer 보고서를 생성하거나 예약할 수 있습니다. <a href="task_generate_reports.html">"자세히 알아보기"</a>.</p>
 </div>
@@ -1916,7 +1946,7 @@
 </div>
 </div>
 <div class="sect2">
-<h3 id="보고서-6">보고서</h3>
+<h3 id="보고서-7">보고서</h3>
 <div class="paragraph">
 <p>보고서 기능을 사용하여 보고서를 즉시 생성하거나 주별 또는 월별 기준으로 보고서를 생성하도록 예약할 수 있습니다. <a href="task_generate_reports.html">"자세히 알아보기"</a>.</p>
 </div>
@@ -2030,7 +2060,7 @@
 <div class="sect2">
 <h3 id="스토리지-효율성-4">스토리지 효율성</h3>
 <div class="paragraph">
-<p>AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 백업을 사용하거나 사용하지 않고 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. <a href="task_analyze_storage_efficiency.html">"자세히 알아보기"</a>.</p>
+<p>AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본 유무와 관계없이 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. <a href="task_analyze_storage_efficiency.html">"자세히 알아보기"</a>.</p>
 </div>
 </div>
 <div class="sect2">
@@ -2320,4 +2350,5 @@
     </script>
     <script src='/ko-kr/active-iq/js/www-ntap.js'></script>
     <script src='/ko-kr/active-iq/js/tabbed-blocks.js'></script>
+    <script src='/ko-kr/active-iq/js/sidebar.js'></script>
   </body></html>

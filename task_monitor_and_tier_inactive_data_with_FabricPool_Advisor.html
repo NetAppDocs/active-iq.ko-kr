@@ -277,35 +277,27 @@
     </div>
   </div>
   <div class="n-property-bar__toolbar">
-    <!-- Start Language Selector --><div id="ie-i18n" class="n-property-bar__lang-selector">
-      <div id="ie-i18n-menu">
-      <span class="ie-i18n-lang">한국어</span>
-        <button class="ie-i18n-icon-container" type="button">
+    <!-- Start Language Selector --><div id="language-dropdown" class="custom-dropdown custom-dropdown-lang">
+      <div class="custom-dropdown-select custom-dropdown-select-lang">
+      <span class="lang-name">한국어</span>
           <svg class="n-globe__icon" aria-labelledby="title">
             <title>globe</title>
             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/ko-kr/active-iq/common/svg/sprite.svg#globe"></use>
           </svg>
         </button>
       </div>
-      <div id="n-property-navigation-bar__menu--language-selector" class="ie-i18n-results-container n-menu n-menu--v3 n-menu--is-active" style="display: none;">
-        <div class="n-language-selector-menu">
-          <ul class="n-menu__list">
-            <li class="n-menu__list-column">
-              <ul class="n-menu__list"><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/us-en/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" class="n-menu__header-text"><span translate="no" class="notranslate">English</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/ja-jp/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" class="n-menu__header-text"><span translate="no" class="notranslate">日本語</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/ko-kr/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" class="n-menu__header-text"><span translate="no" class="notranslate">한국어</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/zh-cn/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" class="n-menu__header-text"><span translate="no" class="notranslate">简体中文</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/zh-tw/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" class="n-menu__header-text"><span translate="no" class="notranslate">繁體中文</span></a>
-                </li></ul>
-            </li>
-          </ul>
-        </div>
-      </div>
+
+      <ul class="custom-dropdown-menu"><li>
+          <a href="https://docs.netapp.com/ko-kr/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" target="_self"><span translate="no" class="notranslate">한국어</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/us-en/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" target="_self"><span translate="no" class="notranslate">English</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/ja-jp/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" target="_self"><span translate="no" class="notranslate">日本語</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/zh-cn/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" target="_self"><span translate="no" class="notranslate">简体中文</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/zh-tw/active-iq/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html" target="_self"><span translate="no" class="notranslate">繁體中文</span></a>
+        </li></ul>
     </div><!-- End Language Selector -->
 
     <div class="n-property-bar__cta"></div>
@@ -553,6 +545,8 @@
             시스템 요구 사항을 사전에 식별합니다
           </a>
           
+
+
 
 
 
@@ -873,7 +867,7 @@
     $("#toggleContainerPdf").toggle('display');
     $(".n-pdf-body-container .zip-pdf-link-container").toggle('display');
   });
-</script><div class="sidebar-nav-container">
+</script><div class="sidebar-nav-container" id="mysidebardiv">
   <ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/index.html">
         Active IQ 디지털 자문 문서
       </a></li><li class="subfolders "><a href="#">
@@ -946,6 +940,8 @@
       </a>
       <ul><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/concept_overview_planning.html">
         개요
+      </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task-informed-decisions-based-on-cloud-recommendations.html">
+        클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
       </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task_identify_capacity_system.html">
         용량 제한에 도달한 시스템을 식별합니다
       </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task_avoid_a_volume_filling_up_to_prevent_an_outage.html">
@@ -1283,4 +1279,5 @@ IDR(Inactive Data Reporting)을 활성화하여 Ansible Playbook 파일로 zip �
     </script>
     <script src='/ko-kr/active-iq/js/www-ntap.js'></script>
     <script src='/ko-kr/active-iq/js/tabbed-blocks.js'></script>
+    <script src='/ko-kr/active-iq/js/sidebar.js'></script>
   </body></html>

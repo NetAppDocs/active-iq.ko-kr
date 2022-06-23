@@ -277,35 +277,27 @@
     </div>
   </div>
   <div class="n-property-bar__toolbar">
-    <!-- Start Language Selector --><div id="ie-i18n" class="n-property-bar__lang-selector">
-      <div id="ie-i18n-menu">
-      <span class="ie-i18n-lang">한국어</span>
-        <button class="ie-i18n-icon-container" type="button">
+    <!-- Start Language Selector --><div id="language-dropdown" class="custom-dropdown custom-dropdown-lang">
+      <div class="custom-dropdown-select custom-dropdown-select-lang">
+      <span class="lang-name">한국어</span>
           <svg class="n-globe__icon" aria-labelledby="title">
             <title>globe</title>
             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/ko-kr/active-iq/common/svg/sprite.svg#globe"></use>
           </svg>
         </button>
       </div>
-      <div id="n-property-navigation-bar__menu--language-selector" class="ie-i18n-results-container n-menu n-menu--v3 n-menu--is-active" style="display: none;">
-        <div class="n-language-selector-menu">
-          <ul class="n-menu__list">
-            <li class="n-menu__list-column">
-              <ul class="n-menu__list"><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/us-en/active-iq/concept_key_terms.html" class="n-menu__header-text"><span translate="no" class="notranslate">English</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/ja-jp/active-iq/concept_key_terms.html" class="n-menu__header-text"><span translate="no" class="notranslate">日本語</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/ko-kr/active-iq/concept_key_terms.html" class="n-menu__header-text"><span translate="no" class="notranslate">한국어</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/zh-cn/active-iq/concept_key_terms.html" class="n-menu__header-text"><span translate="no" class="notranslate">简体中文</span></a>
-                </li><li class="n-menu__list-item n-menu__list-item--level-1">
-                  <a href="https://docs.netapp.com/zh-tw/active-iq/concept_key_terms.html" class="n-menu__header-text"><span translate="no" class="notranslate">繁體中文</span></a>
-                </li></ul>
-            </li>
-          </ul>
-        </div>
-      </div>
+
+      <ul class="custom-dropdown-menu"><li>
+          <a href="https://docs.netapp.com/ko-kr/active-iq/concept_key_terms.html" target="_self"><span translate="no" class="notranslate">한국어</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/us-en/active-iq/concept_key_terms.html" target="_self"><span translate="no" class="notranslate">English</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/ja-jp/active-iq/concept_key_terms.html" target="_self"><span translate="no" class="notranslate">日本語</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/zh-cn/active-iq/concept_key_terms.html" target="_self"><span translate="no" class="notranslate">简体中文</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/zh-tw/active-iq/concept_key_terms.html" target="_self"><span translate="no" class="notranslate">繁體中文</span></a>
+        </li></ul>
     </div><!-- End Language Selector -->
 
     <div class="n-property-bar__cta"></div>
@@ -562,6 +554,8 @@
             시스템 요구 사항을 사전에 식별합니다
           </a>
           
+
+
 
 
 
@@ -873,7 +867,7 @@
     $("#toggleContainerPdf").toggle('display');
     $(".n-pdf-body-container .zip-pdf-link-container").toggle('display');
   });
-</script><div class="sidebar-nav-container">
+</script><div class="sidebar-nav-container" id="mysidebardiv">
   <ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/index.html">
         Active IQ 디지털 자문 문서
       </a></li><li class="subfolders "><a href="#">
@@ -946,6 +940,8 @@
       </a>
       <ul><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/concept_overview_planning.html">
         개요
+      </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task-informed-decisions-based-on-cloud-recommendations.html">
+        클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
       </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task_identify_capacity_system.html">
         용량 제한에 도달한 시스템을 식별합니다
       </a></li><li class=" "><a class="na-navbar-padding" href="/ko-kr/active-iq/task_avoid_a_volume_filling_up_to_prevent_an_outage.html">
@@ -1095,7 +1091,7 @@
 <p class="page-details">
   
     
-    <time datetime="2022-04-18 06:13:06 +0000">04/18/2022</time>
+    <time datetime="2022-06-23 08:11:35 +0000">06/23/2022</time>
     
   
 
@@ -1236,10 +1232,20 @@
 </div>
 </li>
 <li>
-<p>* 업그레이드 위젯: * 사용 가능한 업그레이드 수를 제공합니다.</p>
+<p>* 업그레이드 위젯: * 은 ONTAP 및 E-Series 시스템에 사용 가능한 업그레이드 수를 제공합니다.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>ONTAP 시스템의 경우 업그레이드가 필요한 시스템 수에 대한 정보를 보고 업그레이드 계획을 요청할 수 있습니다.</p>
 </li>
 <li>
-<p>* 스토리지 효율성: * AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 백업을 사용하거나 사용하지 않고 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 식별합니다.</p>
+<p>E-Series 시스템의 경우 업그레이드가 필요한 시스템 수에 대한 정보만 볼 수 있습니다.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>* 스토리지 효율성: * AFF 시스템, 비 AFF 시스템 또는 둘 다에 대한 스냅샷 복사본을 사용하거나 사용하지 않고 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 식별합니다.</p>
 </li>
 <li>
 <p>* 성능 그래프: * 그래픽 형식의 성능 데이터를 확인하여 스토리지 장치의 성능을 분석할 수 있습니다. 선택한 노드에 대한 ONTAP 클러스터의 자세한 성능 그래프를 볼 수 있습니다.</p>
@@ -1252,9 +1258,6 @@
 <div class="paragraph">
 <p>AutoSupport 기능에 액세스하려면 Active IQ 디지털 자문업체 에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.</p>
 </div>
-</li>
-<li>
-<p>* 클라우드 지원 워크로드: * 스토리지 시스템 내에서 사용 가능한 다양한 유형의 워크로드에 대한 정보를 제공하고 클라우드에서 바로 사용할 수 있는 워크로드를 식별합니다. 워크로드를 클라우드로 이동할 경우 비용을 절감하고 클라우드 재해 복구를 제공할 수 있습니다. Oracle, SAP, SAP HANA, 파일 공유, SQL에서 실행 중인 워크로드 및 볼륨을 이동할 수 있습니다. SharePoint에 대해 설명합니다. NetApp ® Cloud Volumes는 최고의 성능과 고급 데이터 관리 기능을 제공하여 클라우드에서 가장 까다로운 애플리케이션도 충족할 수 있도록 워크로드 및 볼륨을 클라우드로 이동하는 데 도움이 됩니다. NetApp ® Cloud Volumes 사용에 대한 자세한 내용은 를 참조하십시오 <a href="https://docs.netapp.com/us-en/occm/task_managing_ontap.html">"클라우드 관리자"</a> 문서화:</p>
 </li>
 <li>
 <p>* 빠른 링크: * Active IQ 디지털 어드바이저를 사용하여 실행할 수 있는 응용 프로그램 목록을 제공합니다.</p>
@@ -1442,4 +1445,5 @@
     </script>
     <script src='/ko-kr/active-iq/js/www-ntap.js'></script>
     <script src='/ko-kr/active-iq/js/tabbed-blocks.js'></script>
+    <script src='/ko-kr/active-iq/js/sidebar.js'></script>
   </body></html>
