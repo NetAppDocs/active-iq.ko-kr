@@ -75,14 +75,14 @@ sidebar:
     entries:
     - title: 개요
       url: "/concept_overview_planning.html"
-    - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
-      url: "/task-informed-decisions-based-on-cloud-recommendations.html"
     - title: 용량 제한에 도달한 시스템을 식별합니다
       url: "/task_identify_capacity_system.html"
     - title: 운영 중단을 방지하기 위해 볼륨을 가득 채우지 마십시오
       url: "/task_avoid_a_volume_filling_up_to_prevent_an_outage.html"
     - title: 소프트웨어 및 하드웨어를 교체합니다
       url: "/task_renew_software_and_hardware.html"
+  - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
+    url: "/task-informed-decisions-based-on-cloud-recommendations.html"
   - title: 구성 편차를 식별합니다
     entries:
     - title: 개요
@@ -101,8 +101,6 @@ sidebar:
       url: "/task_analyze_storage_efficiency.html"
     - title: 스토리지 성능 분석
       url: "/task_view_performance_graphs.html"
-  - title: FabricPool Advisor를 사용하여 비활성 데이터 모니터링 및 계층화
-    url: "/task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html"
   - title: 스토리지 시스템의 상태를 분석합니다
     entries:
     - title: 개요
@@ -185,8 +183,8 @@ homepage:
     links:
     - title: ONTAP 업그레이드 권장 사항을 봅니다
       url: task_view_upgrade.html
-    - title: Cloud Manager로 스토리지 설치 공간을 줄입니다
-      url: task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html
+    - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
+      url: "/task-informed-decisions-based-on-cloud-recommendations.html"
     - title: NetApp Keystone 유연한 구독으로 용량 활용도를 확인할 수 있습니다
       url: task_view_keystone_capacity_utilization.html
   - title: 더 많은 리소스

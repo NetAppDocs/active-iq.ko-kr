@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-informed-decisions-based-on-cloud-recommendations.html 
-keywords: cloud recommendations, migration, backup and archive, disaster recovery 
+keywords: cloud recommendations, migration, backup and archive, disaster recovery, FabricPool, FabricPool Advisor, inactive data, tiered data, IDR 
 summary: 정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공합니다. 
 ---
 = 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
@@ -21,34 +21,88 @@ summary: 정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공
 [role="lead"]
 Active IQ은 시스템을 지속적으로 분석하고 시스템의 성능, 효율성 및 상태를 개선하기 위한 권장 사항을 제공합니다.
 
-Active IQ는 다음과 같은 권장 사항을 제공합니다.
-
-* 마이그레이션: 스토리지 시스템 내에서 사용 가능한 여러 유형의 워크로드에 대한 정보를 제공하고 클라우드에서 바로 사용할 수 있는 워크로드를 식별합니다. 워크로드를 클라우드로 이동할 경우 비용을 절감하고 클라우드 재해 복구를 제공할 수 있습니다.
-* Backup & Archive(백업 및 아카이브): 클라우드에 백업해야 하는 시스템에 대한 정보를 제공합니다. NetApp Cloud Backup을 사용하여 시스템을 보호하고 필요할 때 복원할 수 있습니다.
-* 재해 복구: 재해 발생 시 도움이 되도록 클라우드에 복제해야 하는 데이터에 대한 정보를 제공합니다.
-
-
 
 NOTE: Active IQ에서는 클라우드 관리자로 이동하여 권장사항을 구현합니다.
 
+
+
+== 마이그레이션
+
+스토리지 시스템 내에서 사용 가능한 다양한 워크로드 유형에 대한 정보를 제공하고 클라우드에서 바로 사용할 수 있는 워크로드를 식별합니다. 워크로드를 클라우드로 이동할 경우 비용을 절감하고 클라우드 재해 복구를 제공할 수 있습니다.
+
+CVO(Cloud Volumes ONTAP) 및 CVS(Cloud Volumes Service)로 마이그레이션할 때는 다음 기준을 충족하는 볼륨을 사용하는 것이 좋습니다.
+
+* 볼륨은 NFS, SMB, CIFS, FCP 또는 iSCSI 프로토콜을 사용해야 합니다
+* 루트 볼륨은 제외됩니다
+* 볼륨의 워크로드는 Oracle, SAP, SAP HANA, MSSQL, MySQL, SharePoint, 파일 공유, 가상화 및 Trident
+* 시스템 사용 기간이 1년을 초과하였습니다
+* 지원 계약은 6개월 후에 종료됩니다
+
+
 .단계
 . 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
-. 데이터를 마이그레이션하려면
-+
-.. Migration * 창에서 링크를 클릭합니다.
-.. Cloud Manager * 를 시작하려면 * 클라우드로 마이그레이션 * 을 클릭합니다.
+. Migration * 창에서 링크를 클릭합니다.
+. Cloud Manager * 를 시작하려면 * 클라우드로 마이그레이션 * 을 클릭합니다.
 
 
-. 데이터 백업 및 보관:
-+
-.. Backup & Archive * 창에서 링크를 하나 클릭합니다.
-.. Cloud Manager * 를 시작하려면 * Backup to Cloud * 를 클릭합니다.
 
 
-. 데이터를 복제하려면
-+
-.. Disaster Recovery* 창에서 하나의 링크를 클릭합니다.
-.. 클라우드에 복제 * 를 클릭하여 * Cloud Manager * 를 실행합니다.
+== 계층화
+
+비활성 로컬 계층(애그리게이트) 데이터, 비활성 볼륨 데이터, 계층형 데이터 및 모니터링되지 않은 데이터에 대한 정보를 제공합니다. 콜드 또는 비활성 데이터를 모니터링하고 저비용 오브젝트 스토리지 계층으로 계층화하여 스토리지 설치 공간 및 관련 비용을 줄일 수 있습니다.
 
 
+NOTE: IDR(Inactive Data Reporting)을 활성화하여 Ansible Playbook 파일로 zip 파일을 생성할 수 있습니다. 이 정보는 고객, 사이트, 그룹, 감시 목록, 클러스터 및 노드 레벨:
+
+계층화에는 다음 기준을 충족하는 볼륨이 권장됩니다.
+
+* 볼륨은 NFS, SMB 또는 CIFS 프로토콜을 사용해야 합니다
+* 루트 볼륨은 제외됩니다
+* 비활성 데이터가 50% 이상입니다
+* 애그리게이트 용량이 50% 이상입니다
+
+
+.단계
+. 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
+. Tiering * 창에서 링크를 클릭합니다.
+. 계층 데이터 * 를 클릭하여 * Cloud Manager * 를 실행합니다.
+
+
+FabricPool에 대한 자세한 내용은 을 참조하십시오 link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf["FabricPool 모범 사례"].
+
+
+
+== 백업 및 아카이브
+
+클라우드에 백업해야 하는 시스템에 대한 정보를 제공합니다. NetApp Cloud Backup을 사용하여 시스템을 보호하고 필요할 때 복원할 수 있습니다.
+
+다음 기준을 충족하는 볼륨은 클라우드로 백업하는 데 권장됩니다.
+
+* 루트 볼륨은 제외됩니다
+* 소스 볼륨, 대상 시스템 및 SnapVault 백업이 있는 볼륨은 제외됩니다.
+
+
+.단계
+. 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
+. Backup & Archive * 창에서 링크를 하나 클릭합니다.
+. Cloud Manager * 를 시작하려면 * Backup to Cloud * 를 클릭합니다.
+
+
+
+
+== 복제
+
+재해 발생 시 도움이 되도록 클라우드에 복제해야 하는 데이터에 대한 정보를 제공합니다.
+
+클라우드로 복제할 때 다음 기준을 충족하는 볼륨이 권장됩니다.
+
+* 루트 볼륨은 제외됩니다
+* SnapMirror 소스 볼륨은 제외됩니다
+* SnapMirror 타겟 볼륨(볼륨 유형 LS 및 DP)은 제외됩니다
+
+
+.단계
+. 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
+. Disaster Recovery* 창에서 하나의 링크를 클릭합니다.
+. 클라우드에 복제 * 를 클릭하여 * Cloud Manager * 를 실행합니다.
 
