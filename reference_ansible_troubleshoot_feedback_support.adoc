@@ -24,5 +24,5 @@ summary: Ansible에 대한 자세한 정보를 제공합니다.
 * link:https://netapp.io/2019/08/05/dealing-with-the-unexpected/["문제 해결 정보"]
 * link:https://netapp.io/["여유 작업 공간"]
 * mailto:ng-active-iq-feedback@netapp.com [이메일]
-* 지원 및 피드백을 위한 Active IQ 디지털 어드바이저의 지원 버튼
+* 지원 및 피드백을 위한 Active IQ Digital Advisor의 지원 버튼
 

@@ -9,7 +9,7 @@ settings:
   langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw
 sidebar:
   entries:
-  - title: Active IQ 디지털 자문 문서
+  - title: Active IQ Digital Advisor 설명서
     url: "/index.html"
   - title: 릴리스 정보
     entries:
@@ -27,7 +27,7 @@ sidebar:
       url: "/concept_key_terms.html"
     - title: AutoSupport 이해
       url: "/concept_autosupport.html"
-    - title: Active IQ 디지털 어드바이저에 로그인합니다
+    - title: Active IQ Digital Advisor에 로그인합니다
       url: "/task_login_activeiq.html"
     - title: Cloud Manager에서 클러스터를 관리합니다
       url: "/concept_manage_your_cluster_in_cloud_manager.html"

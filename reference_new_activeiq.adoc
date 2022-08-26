@@ -4,7 +4,7 @@ permalink: reference_new_activeiq.html
 keywords: 'what"s new, features, new' 
 summary: 릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다. 
 ---
-= Active IQ 디지털 어드바이저의 새로운 기능
+= Active IQ Digital Advisor의 새로운 기능
 :toc: macro
 :hardbreaks:
 :toclevels: 1
@@ -19,7 +19,7 @@ summary: 릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습
 
 
 [role="lead"]
-NetApp Active IQ 디지털 자문에는 다음과 같은 기능과 개선 사항이 포함되어 있습니다.
+NetApp Active IQ Digital Advisor에는 다음과 같은 기능과 개선 사항이 포함되어 있습니다.
 
 
 
@@ -224,7 +224,7 @@ NetApp Cloud Insights에서 유지 관리 및 모니터링하는 노드의 스�
 === 상태 점검 대시보드
 
 * 이러한 상태 점검 타일에 SupportEdge Advisor 및 SupportEdge Expert 지원 서비스가 있는 시스템에만 적용되는 아이콘이 추가되었습니다. 권장 소프트웨어 – 소프트웨어 통화 및 펌웨어 통화 섹션, 권장 구성 및 모범 사례가 개선되었습니다.
-* Active IQ 디지털 자문 – 보고서 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.
+* Active IQ Digital Advisor– 보고서 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.
 
 
 
@@ -381,12 +381,12 @@ Capacity Forecast 위젯이 시스템 재구성을 보다 잘 지원하는 개�
 
 
 
-=== Active IQ 디지털 자문 모바일 애플리케이션
+=== Active IQ Digital Advisor 모바일 애플리케이션
 
-이제 Active IQ 디지털 어드바이저 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.
+이제 Active IQ Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.
 
-응용 프로그램을 다운로드하여 자세히 알아보십시오.link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US["Active IQ 디지털 자문 모바일 애플리케이션(Android)"]
-link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322["Active IQ 디지털 자문 모바일 애플리케이션(iOS)"]
+응용 프로그램을 다운로드하여 자세히 알아보십시오.link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US["Active IQ Digital Advisor 모바일 애플리케이션(Android)"]
+link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322["Active IQ Digital Advisor 모바일 애플리케이션(iOS)"]
 
 
 
@@ -543,7 +543,7 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 === 시청목록
 
-Active IQ 디지털 어드바이저에 처음으로 액세스하는 경우 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.
+Active IQ Digital Advisor에 처음으로 액세스하는 경우 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.
 
 
 
@@ -654,7 +654,7 @@ Enhanced Risk Advisor 및 Upgrade Advisor 탭을 사용하면 모든 시스템 �
 
 === 중국어 간체 및 일본어 번역
 
-Active IQ 디지털 어드바이저는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.
+Active IQ Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.
 
 
 
@@ -794,7 +794,7 @@ AFF 및 FAS 펌웨어 화면이 향상되어 더 나은 사용자 환경을 제�
 
 === 기본 홈 페이지를 설정합니다
 
-이제 Active IQ의 기본 홈 페이지 화면을 설정할 수 있습니다. Active IQ 디지털 자문업체 또는 Active IQ 클래식으로 설정할 수 있습니다.
+이제 Active IQ의 기본 홈 페이지 화면을 설정할 수 있습니다. Active IQ Digital Advisor 또는 Active IQ Classic으로 설정할 수 있습니다.
 
 
 
@@ -828,7 +828,7 @@ AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본
 
 === 온보딩 개요 비디오
 
-온보딩 비디오를 통해 사용자는 Active IQ 디지털 어드바이저의 옵션 및 기능을 빠르게 익힐 수 있습니다.
+온보딩 비디오를 통해 사용자는 Active IQ Digital Advisor의 옵션 및 기능을 빠르게 익힐 수 있습니다.
 
 
 
@@ -884,7 +884,7 @@ Active IQ 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 �
 
 === 향상된 사용자 인터페이스
 
-최신 Active IQ 디지털 자문 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.
+최신 Active IQ Digital Advisor 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.
 
 
 
