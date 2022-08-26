@@ -352,15 +352,9 @@
   <block id="a7601e85e4e519e4d1467321c32fe973" category="list-text"><block ref="a7601e85e4e519e4d1467321c32fe973" category="inline-link-macro-rx"></block></block>
   <block id="345d76812dbf5452d2588e7271cf8436" category="summary">NetApp Keystone 유연한 서브스크립션의 용량 활용도에 대한 정보를 제공합니다.</block>
   <block id="29cb371773858a73b7aca64ff6f208f4" category="doc">NetApp Keystone 유연한 구독으로 용량 활용도를 확인할 수 있습니다</block>
-  <block id="a0569192c93daf768db9180658231e9e" category="paragraph">Keystone 유연한 구독 서비스를 구독하는 경우 Active IQ 디지털 자문 대시보드에서 유연한 구독 위젯을 볼 수 있습니다.</block>
-  <block id="2a386132dc9368657bf55334cdc2e9c0" category="paragraph">Flex Subscription 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 논리적 용량을 기준으로 한 용량 활용도 차트, 마지막 5분으로 반올림되는 스냅샷으로 구성됩니다. 약정 용량 이상의 사용률(버스트 용량)은 빨간색으로 표시됩니다.</block>
   <block id="6ba7120903e272ef8ff94c3d3cd58f57" category="inline-link-macro">서비스 계층</block>
-  <block id="a40699645a064ce56bb66217612d0bbf" category="paragraph">위젯의 데이터를 분석하고 서비스된 모든 스토리지의 용량 및 사용 추세를 그래픽으로 나타내는 * Keystone - 용량 활용률 * 대시보드를 볼 수 있습니다 <block ref="fc793db6d2c63268b4ab3d8ca0a9e15f" category="inline-link-macro-rx"></block>NetApp Keystone Flex 가입 계정과 연관된 프리미엄, 익스트림 및 표준 등의 서비스.</block>
-  <block id="e252513a2a6c279f863372807d4d590a" category="inline-link-macro">유연한 구독 서비스 용량</block>
-  <block id="c247604a9a54e024469e50635a2178fb" category="paragraph">를 볼 수 있습니다 <block ref="89a369e27820d8f4b4edc540b820bd22" category="inline-link-macro-rx"></block> 및 대시보드에서 블록, 파일 서비스 또는 오브젝트 스토리지에 대해 요청된 각 서비스의 사용</block>
   <block id="c56661a66437cf16fa6985915185aa55" category="admonition">Active IQ 사용자는 ONTAP Collector와 AutoSupport 중에서 선택하여 용량 사용량에 대한 데이터를 가져올 수 있습니다.</block>
   <block id="559ab0392555ba0574ee8aafcb0dd4b8" category="list-text">상세 * Keystone-용량 활용률 * 대시보드에서 활용률 추세를 보려면 * 세부 정보 보기 * 를 클릭합니다.</block>
-  <block id="d59bded01684ae09c11dfc24d78fbe41" category="list-text">최근 평균 사용량 추세를 보려면 30일, 7일 또는 1일을 선택합니다.</block>
   <block id="6c6a95e0f5aea889e91da11c9661f08c" category="list-text">필요에 따라 용량 사용량에 대한 데이터를 얻기 위해 ONTAP Collector를 선택한 경우 대시보드의 탭을 클릭하여 파일 공유 및 디스크에 대한 세부 정보를 볼 수 있습니다.</block>
   <block id="6fc85e5ba98ece0cf451b774e77a7a7c" category="paragraph">공유 * 또는 * 디스크 * 를 클릭하여 커밋된 용량에 근접하는 파일 공유 또는 디스크를 식별하고 정보를 바탕으로 스토리지 용량 절감을 결정할 수 있습니다.</block>
   <block id="5aa601140b131288c890a0936edb134f" category="summary">Active IQ 디지털 어드바이저에 로그인하기 위한 정보를 제공합니다.</block>
@@ -1098,7 +1092,6 @@
   <block id="a847a249ea34e3557fd4b0faa9b1a58c" category="sidebar">Active IQ Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다</block>
   <block id="e5c576a815351e15ac0b32011a7cd066" category="sidebar">소프트웨어 및 하드웨어를 교체합니다</block>
   <block id="b99a21b99fb9e230b533835afc100672" category="sidebar">시스템 세부 정보를 봅니다</block>
-  <block id="dc63f1d6af160ca1c3f1b882bf421db7" category="sidebar">유연한 구독 용량 활용 보기</block>
   <block id="2cedeaac2dc61820b8d8fc6586834073" category="sidebar">시스템 요구 사항을 사전에 식별합니다</block>
   <block id="b3f73dc804d731e2fd50580bfb4bd2bb" category="sidebar">구성 편차를 식별합니다</block>
   <block id="2239c723cc5ca3dc6ba1585521896ba0" category="sidebar">변경 사항 타임라인 보고서를 생성합니다</block>
@@ -1208,4 +1201,28 @@
   <block id="8a442914a9cdda78003d67734f13fd54" category="paragraph">클라우드로 복제할 때 다음 기준을 충족하는 볼륨이 권장됩니다.</block>
   <block id="c54cd2366c0770abd7582f7fd94c3e4d" category="list-text">SnapMirror 소스 볼륨은 제외됩니다</block>
   <block id="4cb8aabcf131d734977ab53c8a2ca120" category="list-text">SnapMirror 타겟 볼륨(볼륨 유형 LS 및 DP)은 제외됩니다</block>
+  <block id="b5d0947d6bc5e70f868d560d859163f5" category="doc">NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다</block>
+  <block id="3d49fcaa5c70ee5c62bd12985bcdc011" category="paragraph">Keystone 가입 서비스에 가입되어 있는 경우 Active IQ 디지털 자문 대시보드에서 Keystone 가입 위젯을 확인할 수 있습니다.</block>
+  <block id="da8d3bbd5e630a0cb154a6c5d8885297" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 이 차트는 물리적 용량에 대한 용량 활용도 차트로 구성되며 스냅샷은 마지막 5분으로 반올림됩니다. 약정 용량 이상의 사용률(버스트 용량)은 빨간색으로 표시됩니다.</block>
+  <block id="f05054c9a7b129693b022320001e81ed" category="paragraph">위젯의 데이터를 분석하고 서비스된 모든 스토리지의 용량 및 사용 추세를 그래픽으로 나타내는 * Keystone - 용량 활용률 * 대시보드를 볼 수 있습니다 <block ref="fc793db6d2c63268b4ab3d8ca0a9e15f" category="inline-link-macro-rx"></block>프리미엄, 익스트림 및 표준과 같은 NetApp Keystone 가입 계정에 연결됩니다.</block>
+  <block id="986127c46ede44cd6e9ba2b5754cafca" category="inline-link-macro">Keystone 구독 서비스 용량</block>
+  <block id="eada85ae345afac1356e1265ed14965d" category="paragraph">를 볼 수 있습니다 <block ref="c3e14696d82449875aa62ae1bc7f05d0" category="inline-link-macro-rx"></block> 및 대시보드에서 블록, 파일 서비스 또는 오브젝트 스토리지에 대해 요청된 각 서비스의 사용</block>
+  <block id="842ffce382b29ce5f564cf2e7a51575e" category="list-text">최근 평균 사용량 추세를 보려면 현재 청구 기간, 30일, 7일 또는 1일을 선택합니다.</block>
+  <block id="b75ffe757df198361f55d7334bf6a3ea" category="paragraph">현재 청구 기간의 경우 버스트 상세 정보를 제공하는 보고서를 다운로드할 수 있습니다.</block>
+  <block id="58ca82356452d9a9a7ccfcd96b19f5cf" category="section-title">2022년 8월 25일</block>
+  <block id="0b351c39af261a93af103bf080f120a3" category="paragraph">이제 vCenter, ESXi 호스트 및 가상 머신에 대한 VMware 자산 정보가 인벤토리 세부 정보에 포함되어 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다. <block ref="c1d18b80dac13889361e9f73d9613fbb" category="inline-link-macro-rx"></block>.</block>
+  <block id="cc035831ceccd9eaf04a71fd720c7f1f" category="summary">Cloud Insights의 가상 머신에 대한 자세한 내용은 에 나와 있습니다</block>
+  <block id="d152c939b222bcd3e796ea901ac07554" category="doc">Cloud Insights와 통합하여 가상 머신 세부 정보 보기</block>
+  <block id="bad5d4e303a8943f6791b611707e97f2" category="paragraph">Active IQ는 이제 Cloud Insights 기본 버전과 통합되어 고객에게 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다.</block>
+  <block id="7988a3af08a9ab5c3313f24277fd8cdb" category="paragraph">이러한 통합의 이점은 다음과 같습니다.</block>
+  <block id="d73fc2f93b0cf7e6d3bf78fb70bff2a8" category="list-text">ONTAP의 간소화된 SaaS 모니터링</block>
+  <block id="05bffae7acee1d751495fb2f8a0701fe" category="list-text">VMware 전체 스택 모니터링에 대한 가시성</block>
+  <block id="c1541ad2124531ef89e365336511a23e" category="list-text">ONTAP 업그레이드 계획 수립에 도움이 되는 자동화된 상호 운용성 점검을 통해 고객의 생산성 절감 따라서 ONTAP 업그레이드가 더 원활하게 진행되어 호스트와 비호환성 문제가 발생할 위험이 감소합니다.</block>
+  <block id="8c0f9ce9681dd5179f5451c71f8f6793" category="admonition">이 기능은 SupportEdge Advisor, SupportEdge Expert 및 Active IQ 업그레이드 계약에만 사용할 수 있습니다.</block>
+  <block id="cf14d774d8d0c6d9907931e44af83d21" category="list-text">Inventory * 위젯에서 * Virtual Machines * 를 클릭하여 Cloud Insights에서 사용 가능한 데이터를 봅니다.</block>
+  <block id="5292d19ab11993bca39a0810f62fdc4d" category="list-text">Virtual Machine Overview * 탭을 클릭합니다.</block>
+  <block id="e0c81bd049581387caad2e365f631ca6" category="list-text">호스트에 대한 정보를 보려면 * ESX 호스트 수 * 를 클릭합니다.</block>
+  <block id="79fc7fc3d1c3888f0da7bea1712b7cb0" category="list-text">자세한 내용을 보려면 * ESX 이름 * 을 클릭하여 Cloud Insights로 이동합니다.</block>
+  <block id="46edca0ff6e552183e1d49c7d4a3ff08" category="sidebar">Cloud Insights와 통합하여 가상 머신 세부 정보 보기</block>
+  <block id="6721d14778dfec7598747969baedc497" category="sidebar">Keystone 가입 용량 활용률 보기</block>
 </blocks>

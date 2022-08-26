@@ -23,6 +23,16 @@ NetApp Active IQ 디지털 자문에는 다음과 같은 기능과 개선 사항
 
 
 
+== 2022년 8월 25일
+
+
+
+=== 인벤토리
+
+이제 vCenter, ESXi 호스트 및 가상 머신에 대한 VMware 자산 정보가 인벤토리 세부 정보에 포함되어 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다. link:task-integrating-with-cloud-insights-to-view-vm-details.html["자세히 알아보기"].
+
+
+
 == 2022년 7월 14일
 
 

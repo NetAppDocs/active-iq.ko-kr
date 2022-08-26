@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: task-integrating-with-cloud-insights-to-view-vm-details.html 
+keywords: Cloud Insights, VMs, virtual machines 
+summary: Cloud Insights의 가상 머신에 대한 자세한 내용은 에 나와 있습니다 
+---
+= Cloud Insights와 통합하여 가상 머신 세부 정보 보기
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Active IQ는 이제 Cloud Insights 기본 버전과 통합되어 고객에게 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다.
+
+이러한 통합의 이점은 다음과 같습니다.
+
+* ONTAP의 간소화된 SaaS 모니터링
+* VMware 전체 스택 모니터링에 대한 가시성
+* ONTAP 업그레이드 계획 수립에 도움이 되는 자동화된 상호 운용성 점검을 통해 고객의 생산성 절감 따라서 ONTAP 업그레이드가 더 원활하게 진행되어 호스트와 비호환성 문제가 발생할 위험이 감소합니다.
+
+
+
+NOTE: 이 기능은 SupportEdge Advisor, SupportEdge Expert 및 Active IQ 업그레이드 계약에만 사용할 수 있습니다.
+
+.단계
+. Inventory * 위젯에서 * Virtual Machines * 를 클릭하여 Cloud Insights에서 사용 가능한 데이터를 봅니다.
+. Virtual Machine Overview * 탭을 클릭합니다.
+. 호스트에 대한 정보를 보려면 * ESX 호스트 수 * 를 클릭합니다.
+. 자세한 내용을 보려면 * ESX 이름 * 을 클릭하여 Cloud Insights로 이동합니다.
+

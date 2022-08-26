@@ -67,9 +67,11 @@ sidebar:
     entries:
     - title: 재고 세부 정보를 봅니다
       url: "/task_view_inventory_details.html"
+    - title: Cloud Insights와 통합하여 가상 머신 세부 정보 보기
+      url: "/task-integrating-with-cloud-insights-to-view-vm-details.html"
     - title: 귀중한 인사이트를 확인하십시오
       url: "/task_view_valuable_insight_widget.html"
-    - title: 유연한 구독 용량 활용 보기
+    - title: Keystone 가입 용량 활용률 보기
       url: "/task_view_keystone_capacity_utilization.html"
   - title: 시스템 요구 사항을 사전에 식별합니다
     entries:
