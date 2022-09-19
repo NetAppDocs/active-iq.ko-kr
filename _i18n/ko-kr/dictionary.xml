@@ -816,11 +816,8 @@
   <block id="d22d74dd6e0a6c5cd64ecb61ba45759d" category="summary">스토리지 시스템의 ONTAP 버전을 보고 업그레이드하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="d6917a390639e0a267939dc55858c685" category="doc">업그레이드 계획을 생성하여 ONTAP 버전을 업그레이드합니다</block>
   <block id="46a187e39eefc3fd35138a494e565b49" category="paragraph">업그레이드 계획을 생성하여 스토리지 시스템의 보류 중인 업그레이드를 확인하고 최신 버전의 ONTAP로 업그레이드할 수 있습니다. 또한 업그레이드로 인해 완화될 * Risk Advisor * 탭에서 위험 목록을 확인해야 합니다.</block>
-  <block id="49786ca9e9171e0b112a14ef40054cea" category="list-text">대시보드에서 * Upgrades * 위젯에서 보류 중인 업그레이드를 확인합니다.</block>
   <block id="38fafc5e9c9553727750b9510171bb41" category="list-text">보류 중인 업그레이드를 보려면 * Actions * 의 수를 클릭합니다.</block>
-  <block id="5bd5fef463b4aadc5c62af290cab7b03" category="list-text">필요한 업그레이드 옵션을 선택합니다.</block>
   <block id="01d220f359ae904005a0944f594a1bcd" category="list-text">위젯에 표시된 시스템 수를 클릭하여 * Upgrade Advisor * 탭을 봅니다.</block>
-  <block id="a6b0fa6504db5a6f3dee9bdba49d1fe7" category="paragraph">릴리스 노트를 확인하여 릴리스에 대한 자세한 정보를 볼 수도 있습니다.</block>
   <block id="ac73a7625c762ca863d294bc61f64a16" category="list-text">위험 관리자 * 탭의 위험 목록과 함께 심각도 수준을 확인합니다. 이 위험 수준은 업그레이드로 인해 완화됩니다.</block>
   <block id="281921503952801e23be5489728f4728" category="list-text">Upgrade Advisor * 로 이동하려면 * Upgrade Plan * 생성 을 클릭합니다.</block>
   <block id="f48a84db276a73cbf07dc419e82ec5ec" category="summary">Active IQ Digital Advisor에서 사용되는 주요 용어에 대한 정보를 제공합니다.</block>
@@ -1225,4 +1222,12 @@
   <block id="df332e88c38c4fe66059f71090f042ca" category="sidebar">NetApp 커뮤니티 – Active IQ</block>
   <block id="9fb5d585aad7cbcbf4b27548d6b5e072" category="sidebar">Active IQ 모바일 애플리케이션(Android)</block>
   <block id="1b2c7b8f8e2694e94122b68464b31c9f" category="sidebar">Active IQ 모바일 애플리케이션(iOS)</block>
+  <block id="2eec6525cedefe6316db600adeaf337c" category="section-title">멀티 홉 업그레이드</block>
+  <block id="01b9a3f3b3303730f5c2525f136ad86b" category="paragraph">비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.</block>
+  <block id="1e3c19e3742fbfc0e6dd22bb91d109a3" category="inline-image-macro">Upgrade Advisor</block>
+  <block id="e9588616576594b7265f748171c85266" category="list-text">대시보드에서 * Upgrades * 위젯에서 보류 중인 업그레이드를 확인합니다.<block ref="aee744d64cc19e679b53b0c639b25694" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="64916198004d1ee19b1b50002f51f1a8" category="inline-image-macro">업그레이드 옵션</block>
+  <block id="6398194d87822fdaa5a4dac58b51a1cd" category="list-text">필요한 업그레이드 옵션을 선택합니다.<block ref="63134457816850025801f96a7797e55c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b58373ef1164bbd04be01f9d80e8c58e" category="inline-image-macro">업그레이드 계획을 생성합니다</block>
+  <block id="7438b9deedb82087dad294ad34018afe" category="paragraph">릴리스 노트를 확인하여 릴리스에 대한 자세한 정보를 볼 수도 있습니다.<block ref="04306a8a1debf79f0ac04ae6415d891b" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>
