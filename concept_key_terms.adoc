@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept_key_terms.html 
 keywords: overview, inventory, wellness, widgets, actions 
-summary: Active IQ Digital Advisor에서 사용되는 주요 용어에 대한 정보를 제공합니다. 
+summary: Digital Advisor에 사용되는 주요 용어에 대한 정보를 제공합니다. 
 ---
 = 주요 개념
 :toc: macro
@@ -19,9 +19,9 @@ summary: Active IQ Digital Advisor에서 사용되는 주요 용어에 대한 �
 
 
 [role="lead"]
-Active IQ Digital Advisor를 사용하기 시작할 때 Active IQ Digital Advisor 전체에서 예상할 수 있는 몇 가지 기본 용어를 이해하는 것이 중요합니다.
+Digital Advisor를 사용하기 시작할 때 Digital Advisor 전체에서 예상할 수 있는 몇 가지 기본 용어를 이해하는 것이 중요합니다.
 
-* * 관심 목록: * 이미 선택된 Active IQ Digital Advisor 내부의 시스템에 액세스할 수 있는 유연성을 제공합니다. 감시 목록을 사용하여 하나 이상의 고객에 있는 시스템을 추가할 수 있습니다.
+* * 관심 목록: * 이미 선택된 Digital Advisor 내부의 시스템에 액세스할 수 있는 유연성을 제공합니다. 감시 목록을 사용하여 하나 이상의 고객에 있는 시스템을 추가할 수 있습니다.
 +
 ** * Wellness Dashboard: * 시청목록에 있는 시스템의 전반적인 상태를 제공합니다.
 ** * 위젯: * 시스템 상태에 대한 빠른 요약을 제공하는 작은 응용 프로그램을 대시보드에 표시합니다.
@@ -65,7 +65,7 @@ Active IQ Digital Advisor를 사용하기 시작할 때 Active IQ Digital Adviso
 ** * Fix it: * Active IQ United Manager(UM) 9.7 이상을 사용하여 시스템에 대한 위험을 수정합니다. 이 버튼을 클릭하여 UM을 시작하고 위험을 완화하기 위한 단계를 수행합니다.
 
 
-* * 재고 위젯: * 소유한 총 시스템의 롤업을 표시합니다. 여기에는 Active IQ 지원 제품과 비지원 제품이 모두 포함됩니다.
+* * 재고 위젯: * 소유한 총 시스템의 롤업을 표시합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.
 +
 ** * 보고서 생성: * 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 e-메일로 보냅니다.
 
@@ -89,9 +89,9 @@ Active IQ Digital Advisor를 사용하기 시작할 때 Active IQ Digital Adviso
 * * 유용한 정보 위젯: * 지원 케이스 수, 소프트웨어 업그레이드 보류, 스토리지 효율성 절감, 위험 완화 등에 대한 정보를 제공합니다. 또한 Wellness 속성의 위험 알림을 사전에 나열합니다.
 * * AutoSupport: * AutoSupport 인스턴스를 높은 수준이나 세부 수준에서 볼 수 있습니다. 세부 정보에는 시스템 세부 정보, 문제의 가능한 원인 및 권장 조치가 포함됩니다.
 +
-AutoSupport 기능에 액세스하려면 Active IQ Digital Advisor에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.
+AutoSupport 기능에 액세스하려면 Digital Advisor에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.
 
-* * 빠른 링크: * Active IQ Digital Advisor를 사용하여 실행할 수 있는 애플리케이션목록을 제공합니다.
+* * 빠른 링크: * 디지털 어드바이저를 사용하여 실행할 수 있는 응용 프로그램 목록을 제공합니다.
 +
 ** * ClusterViewer: * 자세한 물리적 및 논리적 구성 정보를 볼 수 있습니다. 자세한 내용은 여러 탭에 걸쳐 클러스터 및 노드 구성 요약, 로컬 계층 및 볼륨 정보, 네트워크 인터페이스 및 포트 정보, 디스크 및 셸프에 대한 정보를 자세히 설명하는 스택 다이어그램, 케이블 시각화 등 여러 개의 보기 쉬운 테이블에 나와 있습니다. 케이블 시각화 그래픽을 SVG 형식으로 다운로드할 수도 있습니다.
 +
@@ -108,7 +108,7 @@ E-Series 시스템에서는 ClusterViewer 기능이 지원되지 않습니다.
 ** * 검색: * 고객 이름, 일련 번호, 클러스터, 사이트 이름, 그룹 이름 등 다양한 범주를 기반으로 시스템을 검색할 수 있습니다. 호스트 이름 및 기타.
 
 
-* * 고객:* 고객의 설치 기반을 보고 관리할 수 있습니다. 고객 대시보드는 Active IQ의 중앙 포털입니다.
+* * 고객:* 고객의 설치 기반을 보고 관리할 수 있습니다. Customer Dashboard는 Digital Advisor의 중앙 포털입니다.
 * * 클러스터: * ONTAP 클러스터에 대한 정보를 제공합니다. 또한 상태, 용량, 스토리지 효율성, 성능 통찰력을 통합합니다.
 * * 일련 번호: * 고객에게 할당된 일련 번호에 대한 정보를 제공합니다.
 

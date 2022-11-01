@@ -4,7 +4,7 @@ permalink: reference_new_activeiq.html
 keywords: 'what"s new, features, new' 
 summary: 릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다. 
 ---
-= Active IQ Digital Advisor의 새로운 기능
+= Digital Advisor의 새로운 기능
 :toc: macro
 :hardbreaks:
 :toclevels: 1
@@ -19,7 +19,17 @@ summary: 릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습
 
 
 [role="lead"]
-NetApp Active IQ Digital Advisor에는 다음과 같은 기능과 개선 사항이 포함되어 있습니다.
+Digital Advisor에는 다음과 같은 기능과 개선 사항이 도입되었습니다.
+
+
+
+== 2022년 11월 1일
+
+
+
+=== BlueXP와 통합된 디지털 어드바이저
+
+Active IQ 디지털 어드바이저가 디지털 어드바이저로 바뀌고 있으며, 이제 하이브리드 멀티 클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 BlueXP에 통합되었습니다. link:digital-advisor-integration-with-bluexp.html["자세한 정보"].
 
 
 
@@ -177,9 +187,9 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 
 
-=== 클라우드 관리자
+=== BlueXP
 
-이제 Cloud Manager 사용자는 Active IQ의 기존 기능과 마찬가지로 해당하는 경우 새 탭에서 Active IQ 링크를 열 수 있습니다.
+이제 BlueXP 사용자는 Digital Advisor의 기존 기능과 마찬가지로, 해당되는 경우 새 탭에서 Digital Advisor 링크를 열 수 있습니다.
 
 
 
@@ -209,7 +219,7 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 === E-Series 시스템과 통합
 
-Active IQ에서 선택한 E-Series 시스템의 용량 세부 정보 및 성능 그래프를 볼 수 있습니다.
+Digital Advisor에서 선택한 E-Series 시스템의 용량 세부 정보 및 성능 그래프를 볼 수 있습니다.
 
 
 
@@ -230,7 +240,7 @@ NetApp Cloud Insights에서 유지 관리 및 모니터링하는 노드의 스�
 === 상태 점검 대시보드
 
 * 이러한 상태 점검 타일에 SupportEdge Advisor 및 SupportEdge Expert 지원 서비스가 있는 시스템에만 적용되는 아이콘이 추가되었습니다. 권장 소프트웨어 – 소프트웨어 통화 및 펌웨어 통화 섹션, 권장 구성 및 모범 사례가 개선되었습니다.
-* Active IQ Digital Advisor– 보고서 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.
+* Digital Advisor – Reports 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.
 
 
 
@@ -297,7 +307,7 @@ Health Check 대시보드에서 상위 5개 주요 권장 사항에 대한 요�
 
 === 용량
 
-Active IQ에서 NetApp Cloud Volumes ONTAP 시스템의 용량 세부 정보를 볼 수 있습니다.
+Digital Advisor에서 NetApp Cloud Volumes ONTAP 시스템에 대한 용량 세부 정보를 볼 수 있습니다.
 
 
 
@@ -353,7 +363,7 @@ Customer Qualified Version은 지원 어카운트 관리자(SAM)가 다음과 �
 
 === 용량
 
-Active IQ에서 NetApp ONTAP ® Select 시스템의 용량 세부 정보를 볼 수 있습니다.
+디지털 자문업체 에서 NetApp ONTAP ® Select 시스템의 용량 세부 정보를 확인할 수 있습니다.
 
 
 
@@ -387,12 +397,12 @@ Capacity Forecast 위젯이 시스템 재구성을 보다 잘 지원하는 개�
 
 
 
-=== Active IQ Digital Advisor 모바일 애플리케이션
+=== Digital Advisor 모바일 애플리케이션
 
-이제 Active IQ Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.
+이제 Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.
 
-응용 프로그램을 다운로드하여 자세히 알아보십시오.link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US["Active IQ Digital Advisor 모바일 애플리케이션(Android)"]
-link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322["Active IQ Digital Advisor 모바일 애플리케이션(iOS)"]
+응용 프로그램을 다운로드하여 자세히 알아보십시오.link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US["Digital Advisor Mobile Application(Android)"]
+link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322["Digital Advisor Mobile Application(iOS)"]
 
 
 
@@ -458,7 +468,7 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 === 지원 오퍼링 업그레이드
 
-* Active IQ에서 구독하는 특정 지원 서비스를 표시하도록 사용자 인터페이스가 향상되었습니다.
+* Digital Advisor에 가입되어 있는 특정 지원 서비스를 표시하도록 사용자 인터페이스가 향상되었습니다.
 * 이제 시스템 대시보드에서 지원 서비스 구독 업그레이드를 요청하여 더 많은 기능에 액세스할 수 있습니다. link:task_upgrade_support_offering.html["자세히 알아보기"].
 
 
@@ -549,7 +559,7 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 === 시청목록
 
-Active IQ Digital Advisor에 처음으로 액세스하는 경우 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.
+처음 Digital Advisor에 액세스할 때 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.
 
 
 
@@ -606,7 +616,7 @@ StorageGRID 대시보드를 사용하여 Watchlist, Customer, Group 및 Site 수
 
 === FabricPool 자문업체
 
-계층 데이터 버튼이 FabricPool 대시보드에 추가되어 NetApp Cloud Manager를 사용하여 데이터를 저비용 오브젝트 스토리지 계층에 계층화할 수 있습니다.
+FabricPool 대시보드에 계층 데이터 버튼이 추가되어 NetApp BlueXP를 사용하여 저렴한 오브젝트 스토리지 계층에 데이터를 계층화할 수 있습니다.
 
 
 
@@ -636,7 +646,7 @@ StorageGRID 대시보드를 사용하여 Watchlist, Customer, Group 및 Site 수
 
 === API를 사용하여 데이터 통합
 
-Active IQ API를 사용하여 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다. link:concept_overview_API_service.html["자세한 정보"].
+Digital Advisor API를 사용하여 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다. link:concept_overview_API_service.html["자세한 정보"].
 
 
 
@@ -660,7 +670,7 @@ Enhanced Risk Advisor 및 Upgrade Advisor 탭을 사용하면 모든 시스템 �
 
 === 중국어 간체 및 일본어 번역
 
-Active IQ Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.
+Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.
 
 
 
@@ -676,7 +686,7 @@ Active IQ Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가�
 
 === 상태 점검 대시보드
 
-Active IQ 상태 점검 대시보드에서는 전체 환경을 특정 시점으로 검토할 수 있습니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다. link:concept_understand_health_check_assessment_dashboard.html["자세한 정보"].
+Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다. link:concept_understand_health_check_assessment_dashboard.html["자세한 정보"].
 
 
 
@@ -784,7 +794,7 @@ AFF 및 FAS 펌웨어 화면이 향상되어 더 나은 사용자 환경을 제�
 
 === 기본 홈 페이지를 업데이트합니다
 
-이제 피드백을 제공하고 Active IQ의 기본 홈 페이지 화면을 업데이트하는 이유를 알려 주십시오.
+이제 피드백을 제공하고 Digital Advisor의 기본 홈 페이지 화면을 업데이트하는 이유를 알려 주십시오.
 
 
 
@@ -800,7 +810,7 @@ AFF 및 FAS 펌웨어 화면이 향상되어 더 나은 사용자 환경을 제�
 
 === 기본 홈 페이지를 설정합니다
 
-이제 Active IQ의 기본 홈 페이지 화면을 설정할 수 있습니다. Active IQ Digital Advisor 또는 Active IQ Classic으로 설정할 수 있습니다.
+이제 Digital Advisor의 기본 홈 페이지 화면을 설정할 수 있습니다. Digital Advisor 또는 Classic로 설정할 수 있습니다.
 
 
 
@@ -834,7 +844,7 @@ AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본
 
 === 온보딩 개요 비디오
 
-온보딩 비디오를 통해 사용자는 Active IQ Digital Advisor의 옵션 및 기능을 빠르게 익힐 수 있습니다.
+온보딩 비디오는 사용자가 Digital Advisor의 옵션 및 기능을 빠르게 익힐 수 있도록 도와줍니다.
 
 
 
@@ -868,7 +878,7 @@ Wellness score는 높은 위험 수와 만료된 계약을 기준으로 고객�
 
 === 가치 있는 통찰력
 
-Active IQ 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 볼 수 있습니다. 선택한 시스템의 경우 Value 보고서는 지난 1년간의 이점을 통합합니다. link:task_view_valuable_insight_widget.html["지금 보기"].
+Digital Advisor 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 볼 수 있습니다. 선택한 시스템의 경우 Value 보고서는 지난 1년간의 이점을 통합합니다. link:task_view_valuable_insight_widget.html["지금 보기"].
 
 
 
@@ -890,7 +900,7 @@ Active IQ 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 �
 
 === 향상된 사용자 인터페이스
 
-최신 Active IQ Digital Advisor 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.
+최신 Digital Advisor 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.
 
 
 

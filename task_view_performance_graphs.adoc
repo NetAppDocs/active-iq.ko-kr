@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task_view_performance_graphs.html 
-keywords: performance, performance graph, graphs, activeiq, active iq digital advisor, performance charts, day, week, 1 month, 2 months, calendar, chart data, performance on node level, graph, node level 
+keywords: performance, performance graph, graphs, digital advisor, performance charts, day, week, 1 month, 2 months, calendar, chart data, performance on node level, graph, node level 
 summary: 성능에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = 성능 그래프를 분석합니다

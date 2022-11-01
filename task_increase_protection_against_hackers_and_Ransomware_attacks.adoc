@@ -21,14 +21,14 @@ summary: 해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방�
 [role="lead"]
 NetApp 보안 사이트는 NetApp 제품 보안의 소스: link:https://security.netapp.com[""]
 
-Active IQ는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. Active IQ에서 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.
+Digital Advisor는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. 디지털 어드바이저가 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.
 
-Active IQ에서 지원하지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 link:https://security.netapp.com[""]
+Digital Advisor가 적용되지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 link:https://security.netapp.com[""]
 
 * 적용 제품: ONTAP 9(온프레미스 및 클라우드), SANtricity OS 컨트롤러 소프트웨어, NetApp SolidFire(Element 소프트웨어), StorageGRID, Active IQ Unified Manager, ONTAP for VMware(OTV)
 
 .단계
-. Active IQ Digital Advisor에 로그인합니다.
+. Digital Advisor에 로그인합니다.
 . 보안 취약점 * 위젯에서 * 조치 * 를 클릭합니다.image:Security_Image 1 Ransomware attacks.png["보안 취약점 위젯"]
 +
 보안 위험이 높은 경우 운영 체제를 업그레이드하는 권장 조치를 따르십시오.
@@ -37,5 +37,5 @@ Active IQ에서 지원하지 않는 제품을 포함한 추가 NetApp 제품 보
 +
 이 위험은 ONTAP 9.7P8 이상에서 해결되었습니다.image:Remediations_Image 3 Ransomware attacks.png["수정 탭"]
 
-. 가장 중요한 단계는 Active IQ Digital Advisor의 *Upgrade Advisor* 에서 OS 업그레이드를 계획하는 것입니다.
+. 가장 중요한 단계는 디지털 어드바이저의 * Upgrade Advisor * 에서 OS 업그레이드를 계획하는 것입니다.
 

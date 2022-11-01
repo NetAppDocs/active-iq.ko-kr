@@ -51,4 +51,4 @@ ONTAP 시스템의 경우, 물리적 용량에 대한 정보는 ClusterViewer에
 
 
 
-용량 및 스토리지 효율성에 대한 자세한 내용은 를 참조하십시오 link:reference_aiq_faq.html["Active IQ에 대한 FAQ(자주 묻는 질문"].
+용량 및 스토리지 효율성에 대한 자세한 내용은 를 참조하십시오 link:reference_aiq_faq.html["Digital Advisor에 대한 FAQ(자주 묻는 질문"].

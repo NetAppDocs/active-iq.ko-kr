@@ -1,6 +1,7 @@
 ---
 settings:
-  name: Active IQ Digital Advisor
+  name: Digital Advisor
+  platform: cloud
   internal:
     pdf_enabled: true
   prod:
@@ -9,8 +10,10 @@ settings:
   langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw
 sidebar:
   entries:
-  - title: Active IQ Digital Advisor 설명서
+  - title: Digital Advisor 문서
     url: "/index.html"
+  - title: BlueXP와 디지털 어드바이저 통합
+    url: "/digital-advisor-integration-with-bluexp.html"
   - title: 릴리스 정보
     entries:
     - title: 새로운 소식
@@ -21,15 +24,15 @@ sidebar:
     entries:
     - title: 빠른 시작
       url: "/concept_getting_started_2.html"
-    - title: Active IQ 기능 이해
+    - title: Digital Advisor 기능 이해
       url: "/concept_understand_activeiq_features.html"
-    - title: Active IQ의 주요 개념
+    - title: 주요 개념
       url: "/concept_key_terms.html"
     - title: AutoSupport 이해
       url: "/concept_autosupport.html"
-    - title: Active IQ Digital Advisor에 로그인합니다
+    - title: Digital Advisor에 로그인합니다
       url: "/task_login_activeiq.html"
-    - title: Cloud Manager에서 클러스터를 관리합니다
+    - title: BlueXP에서 클러스터를 관리합니다
       url: "/concept_manage_your_cluster_in_cloud_manager.html"
   - title: 프로비저닝 감시 목록
     entries:
@@ -161,15 +164,15 @@ homepage:
   tiles:
   - title: 시작하십시오
     links:
-    - title: Active IQ에 대해 자세히 알아보십시오
+    - title: Digital Advisor에 대해 자세히 알아보십시오
       url: https://tv.netapp.com/detail/video/6254074753001/what-can-you-do-with-active-iq
-    - title: Active IQ를 빠르게 시작합니다
+    - title: Digital Advisor의 빠른 시작
       url: concept_getting_started_2.html
     - title: 주요 개념
       url: concept_key_terms.html
     - title: 시청목록 생성
       url: task_add_watchlist.html
-  - title: Active IQ를 사용합니다
+  - title: Digital Advisor 사용
     links:
     - title: 위험을 확인하고 수정 조치를 취합니다
       url: task_view_risk_and_take_action.html
@@ -181,7 +184,7 @@ homepage:
       url: task_view_performance_graphs.html
     - title: 보고서를 생성합니다
       url: task_generate_reports.html
-  - title: Active IQ를 사용하여 분석합니다
+  - title: Digital Advisor를 이용한 분석
     links:
     - title: ONTAP 업그레이드 권장 사항을 봅니다
       url: task_view_upgrade.html
@@ -191,13 +194,17 @@ homepage:
       url: task_view_keystone_capacity_utilization.html
   - title: 더 많은 리소스
     links:
-    - title: Active IQ 웹 포털
+    - title: Digital Advisor Web Portal을 참조하십시오
       url: https://mysupport.netapp.com/myautosupport/home.html
-    - title: Active IQ 비디오
+    - title: Digital Advisor 비디오
       url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7kWBxqwLYBchpMW4k9Z6Vum
-    - title: NetApp 커뮤니티 – Active IQ
+    - title: NetApp 커뮤니티 – 디지털 자문업체
       url: https://community.netapp.com/t5/Active-IQ-and-AutoSupport/ct-p/autosupport-and-my-autosupport
-    - title: Active IQ 모바일 애플리케이션(Android)
+    - title: Digital Advisor Mobile Application(Android)
       url: https://play.google.com/store/apps/details?id=com.netapp.myautosupport
-    - title: Active IQ 모바일 애플리케이션(iOS)
+    - title: Digital Advisor Mobile Application(iOS)
       url: https://apps.apple.com/us/app/active-iq/id1230542480
+product-family:
+  name: BlueXP
+  repo: cloud-manager-family
+  sidebar_label: 모든 BlueXP 설명서

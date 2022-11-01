@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: concept_getting_started_2.html 
 keywords: overview, get started, wellness, performance, configuration, renewal, risk, remediation, planning, inventory 
-summary: 워크플로우를 이해하고 Active IQ Digital Advisor를 시작하는 데 도움이 됩니다. 
+summary: 워크플로를 이해하고 Digital Advisor를 시작하는 데 도움이 됩니다. 
 ---
-= Active IQ Digital Advisor의 빠른 시작
+= Digital Advisor의 빠른 시작
 :toc: macro
 :hardbreaks:
 :toclevels: 1
@@ -19,16 +19,16 @@ summary: 워크플로우를 이해하고 Active IQ Digital Advisor를 시작하�
 
 
 [role="lead"]
-Active IQ Digital Advisor가 더욱 효과적으로 작업을 수행할 수 있도록 개선 및 재설계되었습니다. 사용자 인터페이스는 사용자가 원하는 목표를 수행하도록 안내하기 위해 개발되었습니다.
+작업을 보다 효과적으로 수행할 수 있도록 디지털 어드바이저가 개선 및 재설계되었습니다. 사용자 인터페이스는 사용자가 원하는 목표를 수행하도록 안내하기 위해 개발되었습니다.
 
-다음 다이어그램을 참조하여 Active IQ Digital Advisor의 워크플로우를 이해할 수 있습니다.
+다음 다이어그램을 참조하여 Digital Advisor의 워크플로우를 이해할 수 있습니다.
 
-image:activeiq2_workflow.png["Active IQ Digital Advisor 워크플로"]
+image:activeiq2_workflow.png["Digital Advisor 워크플로우"]
 
-다음 비디오를 보고 Active IQ Digital Advisor를 시작할 수 있습니다.
+다음 비디오를 통해 Digital Advisor를 시작할 수 있습니다.
 
 video::rEPtldosjWM[youtube,width=848,height=480]
-모든 Active IQ Digital Advisor 위젯이 모든 플랫폼에서 지원되지 않습니다. Active IQ Digital Advisor는 스토리지 시스템의 플랫폼을 식별하고 스토리지 시스템에서 수행할 수 있는 작업 세트만 표시합니다.
+일부 Digital Advisor 위젯은 일부 플랫폼에서 지원되지 않습니다. Digital Advisor는 스토리지 시스템의 플랫폼을 식별하고 스토리지 시스템에서 수행할 수 있는 작업 세트만 표시합니다.
 
 다음 정보를 읽고 스토리지 시스템에서 지원되는 위젯을 숙지하십시오.
 

@@ -2,9 +2,7 @@
 <blocks>
   <block id="79e6bb72bf3b27322743b85d46e7028f" category="summary">다운타임 및 가능한 데이터 손실을 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="aab3d4ecb2113aebbbf0fc0f4e0bd569" category="doc">다운타임 및 가능한 데이터 손실 방지</block>
-  <block id="8da37e3c470ea9e09b868f74f857a58a" category="paragraph">Active IQ Digital Advisor에 로그인하고 * 가용성 및 보호 * 위젯에 빨간색 배지를 보면 중요한 위험을 해결하기 위한 조치를 취할 수 있습니다. 펌웨어를 수정하지 않으면 일정 시간 동안 전원을 켠 후 드라이브가 작동하지 않을 수 있습니다. 이 문제를 수정하면 가동 중지 시간과 가능한 데이터 손실이 모두 발생하지 않습니다.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
-  <block id="b6f0789e4854da3dde8f55d00cee757f" category="list-text">Active IQ Digital Advisor에 로그인합니다.</block>
   <block id="a9d1a3c661cd780de1547f8874ba7fa9" category="inline-image-macro">가용성 및 보호 위젯</block>
   <block id="4b5886406c71d9a6478bc858959901d2" category="list-text">가용성 및 보호 * 위젯에서 * 작업 * 을 클릭합니다.<block ref="5a8b574aaf1c16ebb902595925228ace" category="inline-image-macro-rx" type="image"></block></block>
   <block id="4e91f704233072d4cd24a403d5175cfc" category="paragraph">영향력이 큰 보안 위험에 대해서는 디스크 펌웨어를 업데이트하는 권장 조치를 따르십시오.</block>
@@ -12,7 +10,6 @@
   <block id="36ae45e0f51d582bd7ecffce242361dd" category="list-text">위험 요약을 보려면 * 위험 이름 * 링크를 클릭하십시오.<block ref="961d5eee8f3900b106dbb0a2777f7ace" category="inline-image-macro-rx" type="image"></block></block>
   <block id="57b854162d6caadf0053934ab77436cd" category="inline-image-macro">수정 조치</block>
   <block id="194764f556fc1cef4cadf0744c5dc483" category="list-text">고유 위험 * 탭을 클릭한 다음 * 수정 조치 * 열의 링크를 클릭합니다.<block ref="40b4aae1cc80ba37a700a5a58756afdd" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="baceeff257420910d075f17bbf8cb985" category="paragraph">Active IQ Digital Advisor는 맞춤형 Ansible 스크립트 또는 플레이북을 생성하여 디스크 펌웨어 파일을 비롯한 필수 디스크 펌웨어를 업데이트합니다.</block>
   <block id="0a6792a12eae97ba02fc8390bfc77b8c" category="inline-image-macro">AFF 및 FAS 펌웨어</block>
   <block id="03ad1b597ecef769f82b062d6ca40935" category="list-text">스크립트를 생성하고 다운로드하려면 * Ansible "A" * 아이콘을 클릭하십시오.<block ref="de1b9e535c23b0fc7148d0cda53eb930" category="inline-image-macro-rx" type="image"></block></block>
   <block id="3be360a5cb329666d65e17b5ecd32b3c" category="summary">인벤토리 파일 작업에 대한 자세한 내용은 에 나와 있습니다.</block>
@@ -56,8 +53,6 @@
   <block id="f3a5f842bf6c3b73bcf58318a3511acf" category="list-text">필요한 경우 추가 설명을 제공합니다.</block>
   <block id="2939fe6c5b77679da5984bbe596d4b9a" category="list-text">보내기 * 를 클릭합니다.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.</block>
-  <block id="f45e8ce7df04f3b7fdef9a7ac914534b" category="doc">Active IQ에 대한 FAQ(자주 묻는 질문</block>
-  <block id="1733ab713f46f3f8c18b694cf0e0f2c2" category="paragraph">다음 질문을 통해 Active IQ에 대한 자주 묻는 질문에 대한 답변을 얻을 수 있습니다.</block>
   <block id="73cbb404e3fdd583d819be0e2eb8034e" category="section-title">비기술적인 케이스</block>
   <block id="b09ac678fb70485b6003259d225086ea" category="paragraph">* 비기술적 사례는 무엇입니까? *</block>
   <block id="49b0363cd6699cf55e78d722000a5e8c" category="paragraph">재고 시스템을 볼 수 없는 문제, 잘못된 계약 기간 날짜 등 기술적인 문제는 비기술적인 경우로 분류됩니다.</block>
@@ -75,25 +70,17 @@
   <block id="12330277a5f9a61a6bc1beddec10eeff" category="list-text">필요한 세부 정보를 입력하고 “Comments(설명)” 상자에 추가 정보를 입력합니다.</block>
   <block id="4b5d2dd70af718ebe67bfea5b43d8667" category="list-text">제출 * 을 클릭합니다.</block>
   <block id="014b609750aa0ccedbb6b4212fb3f2df" category="paragraph">케이스가 생성되고 참조용으로 케이스 번호가 제공됩니다.</block>
-  <block id="1ded387253a93d29755ab2ca1074fbd1" category="paragraph">* Active IQ와 관련된 피드백을 제공하거나 다른 질문을 하려면 어떻게 해야 합니까? *</block>
   <block id="ac028435b37412dea24f9b1040cc0dc4" category="paragraph">의견을 제공하거나 질문을 하려면 mailto:ng-activeiq-feedback@netapp.com [[.underline]#ng-activeiq-feedback@netapp.com#]으로 이메일을 보내 주십시오.</block>
   <block id="fd18465573ec21a6218982055981f6b1" category="section-title">스토리지 효율성</block>
-  <block id="01068fe2a9465b605eb4727d6748f0b0" category="paragraph">* Active IQ Digital Advisor에서 스토리지 효율성에 액세스하려면 어떻게 해야 합니까? *</block>
-  <block id="dab2edf9eaac3950e92c281ce358af01" category="inline-link-macro">Active IQ Digital Advisor</block>
-  <block id="51b7461ab2221ad6ebc347199d080996" category="list-text">의 홈 페이지를 엽니다 <block ref="73cab01bc3ab60831e45f34cd3a02915" category="inline-link-macro-rx"></block>.</block>
   <block id="1f7190b58ba77336a9e9c5d8010a216d" category="list-text">오른쪽 상단 검색 상자에서 고객, 사이트, 그룹, 클러스터 또는 노드를 검색하여 해당 대시보드에 표시합니다.</block>
   <block id="f30fbe64196609d84d8615d57fc452c4" category="list-text">왼쪽 탐색 모음에서 * 스토리지 효율성 * 을 클릭합니다.</block>
   <block id="b9fc81c6a264c571164cb5ed34f3d618" category="admonition">관심 목록을 사용하여 생성한 대시보드는 스토리지 효율성 위젯에 표시되지 않습니다.</block>
-  <block id="1a056f8c1beedb684724e6b0601b069c" category="paragraph">* 모든 ONTAP 시스템에 대한 Active IQ Digital Advisor 디스플레이 비율은 얼마입니까? *</block>
-  <block id="544815dd73a9c77dedc2a33074a1135a" category="paragraph">Active IQ은 ONTAP 9.1 이상을 실행하는 시스템의 비율을 표시합니다.</block>
   <block id="43208ae3669e6064ac8131ae950695db" category="paragraph">* 효율성 대시보드의 '스냅샷 없음' 확인란은 무엇입니까? *</block>
-  <block id="677a526a7915d620261f7e6e60e75fac" category="paragraph">기본적으로 Active IQ 효율성 대시보드는 고객 레벨, 사이트 레벨, 그룹 레벨, 클러스터 레벨 및 노드 레벨에서 전반적인 비율을 계산합니다. 전체 비율에는 다음 스토리지 효율성 기술의 비율이 포함됩니다.</block>
   <block id="83f45cad5e6f535ff10e564a526baad0" category="list-text">중복 제거</block>
   <block id="82af841589057aa8922b1ac3bb4a28a4" category="list-text">압축</block>
   <block id="14c3c56ff2a98d1a9c47b63a917f67a3" category="list-text">데이터 컴팩션</block>
   <block id="999cc42b236c7aee1157ff02d6f1bcd5" category="list-text">복제</block>
   <block id="9147e5e61a7b9260dec09f3a6eb3e5be" category="list-text">스냅샷 수</block>
-  <block id="659294da8b9c465e6bd99f135b247780" category="paragraph">스냅샷 없음 * 확인란을 선택하면 Active IQ Digital Advisor가 고객 레벨, 사이트 레벨, 그룹 레벨, 클러스터 레벨 및 노드 레벨에서 효율성 비율(중복제거, 압축, 데이터 컴팩션, 클론 스토리지 효율성 기술의 비율)을 계산합니다.</block>
   <block id="4607346b33eee4e6a2891bed9f7bd75f" category="paragraph">* 사용되는 물리적 데이터와 사용되는 논리적 데이터는 무엇입니까? *</block>
   <block id="fa23175e7bcd622e3124ac47ad2ac225" category="list-text">물리적 블록 사용/물리적 데이터 사용</block>
   <block id="eccc5f12f48e88329c29d59f7fb7399f" category="list-text">현재 데이터에 사용 중인 공간(향후 사용을 위해 예약되지 않음)</block>
@@ -158,7 +145,6 @@
   <block id="5fc0bed0c4e94cabaa1690a7b1cc57bc" category="paragraph">* ONTAP로 업그레이드하기 전에 스토리지 효율성이 높거나 잘못 보고된 이유는 무엇입니까? *</block>
   <block id="cc1aa2ce993d9bbdac08a80d2c73290b" category="paragraph">ONTAP의 버그로 인해 데이터 보호 볼륨이 노드에 있을 때 스토리지 효율성이 더 높게 표시됩니다. 이 문제는 ONTAP 9.3P11에서 해결되었습니다. 9.3P11 이전 버전의 ONTAP에서 업그레이드하고 데이터 보호 볼륨이 노드에 있을 때 스토리지 효율성이 올바른 값이나 낮은 값을 보고합니다.</block>
   <block id="3b8f7696879f77dfc8c74aa8df8db24b" category="section-title">용량</block>
-  <block id="3b30da6e59750752fba75398273933ea" category="paragraph">* Active IQ Digital Advisor에서 용량을 어떻게 계산합니까? * Active IQ Digital Advisor의 용량은 루트 및 스냅샷 복사본을 제외하고 클러스터 및 노드에 대해 계산됩니다</block>
   <block id="97b94c75518b90d30aeab5f6ccdd903e" category="cell">* 용량 *</block>
   <block id="2c132960410953edab40f07fdeedf275" category="cell">* 각 집계를 추가하여 계산됨… *</block>
   <block id="e09dc7945acb6ec6caf41c962f679916" category="cell">물리적 용량</block>
@@ -195,11 +181,9 @@
   <block id="004016a613c0ec93cc34b1dd36fd4bfc" category="admonition">여기에는 파일 또는 볼륨 보증 유형의 볼륨에 예약된 공간이 포함됩니다. 여기에는 지연 시간 해제, 집계 블로그, 메타데이터 및 예약 정보가 포함됩니다. 지연된 가용 블록이 제거될 때까지 사용된 공간으로 표시됩니다. 이 작업이 제거되면 사용된 공간이 감소합니다.</block>
   <block id="00de952105fc077b1333ac55d8d0bb98" category="paragraph">* 용량 예측은 어떻게 계산됩니까? * 용량 예측은 지난 해 동안의 사용된 용량 데이터를 사용하여 시스템의 평균 주별 성장률을 계산합니다. 이 시스템 사용량 변경률은 현재 사용된 용량에서 추정한 다음 향후 6개월 동안 시스템 활용도가 어떻게 변화하는지 보여줍니다(총 가용 용량이 동일하게 유지된다고 가정함).</block>
   <block id="62b464a696f86c90363b4594cfca87f4" category="paragraph">* 추가된 각 볼륨의 사용된 용량이 노드 레벨에서 집계된 사용된 용량과 일치하지 않는 이유는 무엇입니까? * 노드 레벨에서 사용된 용량에는 볼륨, 메타데이터 및 스냅샷 복사본에 의해 예약된 공간이 포함됩니다. 또한 파일 또는 볼륨 보증 유형과 같은 볼륨용으로 예약된 공간도 포함되어 있습니다. 따라서 둘 다 일치하지 않을 수 있습니다.</block>
-  <block id="a11869b5899e26048c9ed041f11ec9bf" category="paragraph">Active IQ Digital Advisor 기본 2 또는 기본 10에 용량이 표시되어 있습니까? * Active IQ에 표시되는 모든 용량은 기본 2(1024로 구분)이며 용량은 GiB/TiB입니다. ONTAP 스토리지 및 기타 NetApp 제품에도 기본 2의 용량 사용량이 표시됩니다.</block>
   <block id="5144b142028342a902f17914b7d8eeb1" category="paragraph">StorageGRID의 경우 용량은 기본 10에 표시되고 용량 단위는 TB로 표시됩니다.</block>
   <block id="4d604dd8f008145471dc845683399189" category="section-title">인벤토리</block>
   <block id="9b3e70f7ec5801014bd7ba2b043dd460" category="paragraph">* 재고 페이지에서 특정 시스템을 찾을 수 없는 이유는 무엇입니까? * 다음 이유 중 하나로 인해 재고 페이지에서 특정 시스템을 볼 수 없는 경우가 있습니다.</block>
-  <block id="bc589a42c9712f3202e1697e0c7d5db9" category="list-text">SAP에서 추가 또는 업데이트된 새 시스템은 Active IQ에 반영되는 데 하루 이상이 걸립니다.</block>
   <block id="490faa3ce28cbfbdad8226dd7dc88a66" category="list-text">시스템은 안전하며 보안 시스템을 볼 수 있는 권한이 없습니다.</block>
   <block id="fff04069266603da7d63522615d51f31" category="list-text">시스템을 볼 권한이 없습니다.</block>
   <block id="04187ceda7d68629d17d32d7bfb72e06" category="list-text">시스템이 비활성 상태입니다</block>
@@ -220,12 +204,9 @@
   <block id="6d01d6a00b896623fe1252dcd728f7d4" category="list-text">스토리지 효율성 및 스토리지 시스템의 데이터 절감 효과를 확인하십시오.</block>
   <block id="f4211b7ee285529c0082b53f3b17de86" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 높은 경우 * 성공 사례 공유 * 를 클릭하여 모범 사례를 알려주시기 바랍니다.</block>
   <block id="7e4e265e9120fa2dfd6ce41588f5706a" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 낮은 경우 * 연락처 * 를 클릭하여 스토리지 시스템 구성을 알려주십시오.</block>
-  <block id="469ece09146953ebd6a7e5bf041f15f1" category="paragraph">용량 및 스토리지 효율성에 대한 자세한 내용은 를 참조하십시오 <block ref="1f14e24988ac8fc33e2e14ae229f096d" category="inline-link-macro-rx"></block>.</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
   <block id="30a3a5781ffac6a88cce2ccd6925d533" category="doc">랜섬웨어 위험으로부터 시스템을 보호합니다</block>
-  <block id="3deb21101d87fafbbc562a691cfe0a34" category="paragraph">Active IQ Digital Advisor에 로그인하면 * 랜섬웨어 방어 * 위젯에 강조 표시된 * 조치 * 를 볼 수 있습니다. 이 위젯은 위험 수를 보여줍니다.</block>
   <block id="a65c2a1d83d8e29315151edd9cb20614" category="paragraph">스냅샷 생성, 보존 및 ONTAP FPolicy 위험을 확인한 다음 조치를 수행하여 문제를 해결할 수 있습니다.</block>
-  <block id="c93512b030d1e761994897b23c1eaf91" category="list-text">Active IQ Digital Advisor에 로그인합니다.</block>
   <block id="6f75bc30c5b47eb48f72d647d67781a9" category="list-text">랜섬웨어 방어 * 위젯에서 * 조치 * 를 클릭합니다.</block>
   <block id="5e0e2c126796ee31f891f0f923d864f9" category="list-text">표시되는 위험에 대해 영향 수준을 확인하고 권장 조치를 따르십시오.</block>
   <block id="9468b2f5ff83e6a3ed59b51e8ca38dc2" category="list-text">고유 위험 탭을 클릭하고 * 수정 조치 * 열에 있는 링크를 클릭합니다.</block>
@@ -251,7 +232,6 @@
   <block id="da46c99001fe56b84201c7d1c1bb16f1" category="paragraph">선택한 시스템 간의 구성 편차에 대한 세부 정보가 포함된 이메일이 전송됩니다.</block>
   <block id="9f7c9f58bb8756fe75c88f458c094ff5" category="summary">상태 점검 대시보드 에 익숙해지도록 정보를 제공합니다.</block>
   <block id="8bd30f76be476058b4d8d425fef989b2" category="doc">상태 점검 대시보드 이해</block>
-  <block id="c4e79cb686b01699ee0c71f0e369c23c" category="paragraph">Active IQ 상태 점검 대시보드에서는 전체 환경을 특정 시점으로 검토할 수 있습니다.</block>
   <block id="3cc3a0dbf287ac1f117caad7c4ff3529" category="paragraph">상태 점검 점수를 기준으로 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 장기적인 계획을 도모할 수 있습니다. 중앙 집중식 사용자 인터페이스를 통해 소프트웨어 및 하드웨어에서 실행 중인 모든 시스템을 모니터링할 수 있습니다. 상태 점검 점수를 통해 시스템 위험에 대한 통찰력을 빠르게 얻을 수 있습니다. 주요 권장사항 및 모범 사례를 사용하면 설치 기반의 상태를 개선하기 위한 조치를 취할 수 있습니다.</block>
   <block id="73b22abb2810760940bcbce346e76523" category="admonition">상태 점검 대시보드는 NetApp SupportEdge Advisor 및 SupportEdge Expert 서비스 오퍼링을 통해서만 액세스할 수 있습니다.</block>
   <block id="cf03e3b283bc7fa70a7713acb40de102" category="doc">건강 리뷰 이메일을 구독하십시오</block>
@@ -271,24 +251,16 @@
   <block id="7ecd0726b721e17d74d280fdd93e49f8" category="doc">보고서를 생성합니다</block>
   <block id="c18954481ec7b1ca7731f10fe88f17e0" category="paragraph">보고서를 즉시 생성하거나 매주 또는 매월 생성할 보고서를 예약할 수 있습니다. 보고서는 다양한 형식으로 생성할 수 있습니다. 선택한 보고서에 따라 사용 가능한 형식이 표시됩니다.</block>
   <block id="78166ce4ccceeedfbf6aeb8682851072" category="paragraph">* 이 작업에 대한 정보 *</block>
-  <block id="f4326c266c746886119f8753fbde4ae5" category="list-text">Active IQ에서는 보고서를 편집할 수 없습니다. 기존 보고서를 삭제하고 새 보고서를 만들어야 합니다.</block>
   <block id="b9078cbffeaf57a288d7d58d7ed02317" category="list-text">왼쪽 창에서 * 보고서 * 를 클릭합니다.</block>
   <block id="cf2b00ffa5bd73f45aa8d81c2b6127eb" category="list-text">새 보고서를 생성하려면 * 보고서 작성 * 을 클릭합니다.</block>
   <block id="bb8c427c31e76f816f767bd2cad87cfc" category="list-text">보고서 유형을 선택하고 보고서에 대해 요청된 값을 제공합니다.</block>
   <block id="43c47648912b14ae2e4dae66c4c94e6f" category="list-text">보고서 형식을 선택합니다.</block>
-  <block id="1c29599ba00f8ba135a21a794908ea18" category="admonition">보고서는 3일 동안 Active IQ에 저장됩니다.</block>
   <block id="fbdbbae9b17b34243807f99738e169e7" category="admonition">새 보고서가 생성되면 기존의 예약된 보고서가 교체됩니다.</block>
   <block id="6d70d8473310213564444d3b9fe477dd" category="summary">운영 중단을 방지하기 위해 볼륨 채우기를 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="a80aea1c7f0129b13ea55e329311ec63" category="doc">운영 중단을 방지하기 위해 볼륨을 가득 채우지 마십시오</block>
-  <block id="d1bd15862f9b11e10337ce20fe325868" category="paragraph">Active IQ Digital Advisor에 로그인하고 * 구성 * 위젯에 빨간색 배지를 확인합니다. 위젯을 클릭하면 볼륨이 98% 차 있고 이로 인해 정전이 발생할 수 있습니다. 이 문제를 해결하면 볼륨이 채워지지 않습니다. 이렇게 하면 읽기 전용이 되어 응용 프로그램이 충돌하고 실패합니다.</block>
   <block id="ce18cbcf742aed8e35c658e5625fc984" category="inline-image-macro">구성 위젯</block>
   <block id="60436722270a4533c09cb8939f672895" category="list-text">Configuration * 위젯에서 * Actions * 를 클릭합니다.<block ref="6aa7a8b05df22247419ddcea980afa15" category="inline-image-macro-rx" type="image"></block></block>
   <block id="eae8b28f90d4f0bef1cf3c21d4b34b89" category="list-text">고유 위험 * 탭을 클릭합니다. Corrective Action* 링크를 클릭하면 경고 임계값을 변경하거나 볼륨에 더 많은 공간을 할당할 수 있습니다.<block ref="bae9c6e4d72077c1f8c2b8eef31cbb4e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="e2c6808982593708e3cfabf058fefb40" category="summary">Cloud Manager에서 클러스터를 관리하는 방법과 통합에 대한 정보를 제공합니다.</block>
-  <block id="69afd9ad39724c949338645bc3c18d3c" category="doc">Cloud Manager에서 클러스터를 관리합니다</block>
-  <block id="8a0d2c897946577052b091701b0ae580" category="paragraph">Active IQ Digital Advisor는 클라우드 관리자에 통합되어 있습니다. 이제 클러스터를 관리하고 Cloud Manager UI(사용자 인터페이스)에서 Active IQ의 모든 기능에 액세스할 수 있습니다. IT 전문가 및 클라우드 설계자는 Cloud Manager를 사용하여 하이브리드 멀티 클라우드 인프라를 중앙에서 관리할 수 있습니다.</block>
-  <block id="292e5c26d5c03cc4f8e1e8768bbbabaa" category="inline-link-macro">Active IQ Digital Advisor가 클라우드 매니저와 어떻게 연동되는지 알아보십시오</block>
-  <block id="61adb43205caa7a035172727c2635283" category="paragraph">Cloud Manager에서 Active IQ을 통합하고 액세스하려면 Cloud Manager의 NetApp Support 사이트(NSS) 계정만 있으면 됩니다. Cloud Manager에서 Active IQ 통합 및 액세스에 대한 자세한 내용은 를 참조하십시오 <block ref="4b51d7668fb4335133544eec7db447ae" category="inline-link-macro-rx"></block>.</block>
   <block id="1adfed22e84a753b83628708ada03eee" category="summary">구성 드리프트 템플릿을 추가하는 데 필요한 정보를 제공합니다.</block>
   <block id="474c5ad2b749cb9d123843c02a15e051" category="doc">구성 드리프트 템플릿을 추가합니다</block>
   <block id="a90d025280adc02fe67b217063675d0d" category="paragraph">템플릿을 추가하여 시스템과 클러스터 구성을 비교하고 거의 실시간으로 구성 편차를 감지해야 합니다. 구성 드리프트 템플릿은 AutoSupport 데이터를 실행하는 시스템을 사용하여 추가됩니다.</block>
@@ -297,21 +269,17 @@
   <block id="d2f9c6e3559cfd668d1e78b444103c0a" category="list-text">선택 사항: * 편집 * 을 클릭하여 템플릿을 편집합니다.</block>
   <block id="345d76812dbf5452d2588e7271cf8436" category="summary">NetApp Keystone 유연한 서브스크립션의 용량 활용도에 대한 정보를 제공합니다.</block>
   <block id="b5d0947d6bc5e70f868d560d859163f5" category="doc">NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다</block>
-  <block id="3d49fcaa5c70ee5c62bd12985bcdc011" category="paragraph">Keystone 가입 서비스에 가입되어 있는 경우 Active IQ 디지털 자문 대시보드에서 Keystone 가입 위젯을 확인할 수 있습니다.</block>
   <block id="da8d3bbd5e630a0cb154a6c5d8885297" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 이 차트는 물리적 용량에 대한 용량 활용도 차트로 구성되며 스냅샷은 마지막 5분으로 반올림됩니다. 약정 용량 이상의 사용률(버스트 용량)은 빨간색으로 표시됩니다.</block>
   <block id="6ba7120903e272ef8ff94c3d3cd58f57" category="inline-link-macro">서비스 계층</block>
   <block id="f05054c9a7b129693b022320001e81ed" category="paragraph">위젯의 데이터를 분석하고 서비스된 모든 스토리지의 용량 및 사용 추세를 그래픽으로 나타내는 * Keystone - 용량 활용률 * 대시보드를 볼 수 있습니다 <block ref="fc793db6d2c63268b4ab3d8ca0a9e15f" category="inline-link-macro-rx"></block>프리미엄, 익스트림 및 표준과 같은 NetApp Keystone 가입 계정에 연결됩니다.</block>
   <block id="986127c46ede44cd6e9ba2b5754cafca" category="inline-link-macro">Keystone 구독 서비스 용량</block>
   <block id="eada85ae345afac1356e1265ed14965d" category="paragraph">를 볼 수 있습니다 <block ref="c3e14696d82449875aa62ae1bc7f05d0" category="inline-link-macro-rx"></block> 및 대시보드에서 블록, 파일 서비스 또는 오브젝트 스토리지에 대해 요청된 각 서비스의 사용</block>
-  <block id="c56661a66437cf16fa6985915185aa55" category="admonition">Active IQ 사용자는 ONTAP Collector와 AutoSupport 중에서 선택하여 용량 사용량에 대한 데이터를 가져올 수 있습니다.</block>
   <block id="559ab0392555ba0574ee8aafcb0dd4b8" category="list-text">상세 * Keystone-용량 활용률 * 대시보드에서 활용률 추세를 보려면 * 세부 정보 보기 * 를 클릭합니다.</block>
   <block id="842ffce382b29ce5f564cf2e7a51575e" category="list-text">최근 평균 사용량 추세를 보려면 현재 청구 기간, 30일, 7일 또는 1일을 선택합니다.</block>
   <block id="b75ffe757df198361f55d7334bf6a3ea" category="paragraph">현재 청구 기간의 경우 버스트 상세 정보를 제공하는 보고서를 다운로드할 수 있습니다.</block>
   <block id="6c6a95e0f5aea889e91da11c9661f08c" category="list-text">필요에 따라 용량 사용량에 대한 데이터를 얻기 위해 ONTAP Collector를 선택한 경우 대시보드의 탭을 클릭하여 파일 공유 및 디스크에 대한 세부 정보를 볼 수 있습니다.</block>
   <block id="6fc85e5ba98ece0cf451b774e77a7a7c" category="list-text">공유 * 또는 * 디스크 * 를 클릭하여 커밋된 용량에 근접하는 파일 공유 또는 디스크를 식별하고 정보를 바탕으로 스토리지 용량 절감을 결정할 수 있습니다.</block>
   <block id="9ca3a412ada6ce6666248783cc1577f6" category="summary">릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다.</block>
-  <block id="661b451e3ca8f0a560cc7724b5acfaa2" category="doc">Active IQ Digital Advisor의 새로운 기능</block>
-  <block id="b796f5a9938eed79a1b234c13b86fcaf" category="paragraph">NetApp Active IQ Digital Advisor에는 다음과 같은 기능과 개선 사항이 포함되어 있습니다.</block>
   <block id="58ca82356452d9a9a7ccfcd96b19f5cf" category="section-title">2022년 8월 25일</block>
   <block id="3348dcc393bde37af6464ca44f92a231" category="inline-link-macro">자세히 알아보기</block>
   <block id="0b351c39af261a93af103bf080f120a3" category="paragraph">이제 vCenter, ESXi 호스트 및 가상 머신에 대한 VMware 자산 정보가 인벤토리 세부 정보에 포함되어 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다. <block ref="c1d18b80dac13889361e9f73d9613fbb" category="inline-link-macro-rx"></block>.</block>
@@ -355,8 +323,6 @@
   <block id="a3b957b59d881117bf09ee6ca7366bb9" category="list-text">최소 권장 버전 업그레이드 계획을 생성할 수 있습니다.</block>
   <block id="93023f3e4204331d859903eed4894e42" category="list-text">각 KPI에 대해 주의가 필요한 노드 수를 식별하기 위한 상태 점검 타일 개선</block>
   <block id="a6c3d2af64b360b39a28cdb59292357b" category="paragraph">그리드 뷰어에서 그리드 구성 세부 정보를 볼 수 있습니다.</block>
-  <block id="315474a8ef79b74899073fc979f12da4" category="section-title">클라우드 관리자</block>
-  <block id="dad2544fd1c448ea22b7a63cbf03e1df" category="paragraph">이제 Cloud Manager 사용자는 Active IQ의 기존 기능과 마찬가지로 해당하는 경우 새 탭에서 Active IQ 링크를 열 수 있습니다.</block>
   <block id="d5fe749824528d36ebfda1e6d68028c4" category="section-title">2022년 1월 12일</block>
   <block id="2ffefe6c8c1d57527c2c86448a467c08" category="section-title">구성 드리프트</block>
   <block id="1f11edbc13f039765fac872c257a9a13" category="list-text">템플릿을 복제하여 원본 템플릿의 복사본을 만들 수 있습니다.</block>
@@ -365,13 +331,11 @@
   <block id="f551e29085dd1ae672a5c22b16dd5231" category="list-text">* 클러스터 뷰어 보고서 *: 이 보고서는 단일 클러스터 또는 고객 및 감시 대상 목록 수준의 여러 클러스터에 대한 정보를 제공합니다. ClusterViewer 보고서를 사용하여 단일 파일에 있는 모든 정보를 다운로드할 수 있습니다. 최대 100개의 노드가 있는 감시 목록에만 이 보고서를 생성할 수 있습니다.</block>
   <block id="32323c520058568cf459c9c091b6302a" category="list-text">* 성능 보고서 *: 이 보고서는 단일 zip 파일의 클러스터, 노드, 로컬 계층(집계) 및 볼륨의 성능에 대한 정보를 감시 대상 목록 수준에서 제공합니다. 각 zip 파일에는 단일 클러스터에 대한 성능 데이터가 포함되어 있어 사용자가 각 클러스터의 데이터를 분석하는 데 도움이 됩니다. 최대 100개의 노드가 있는 감시 목록에만 이 보고서를 생성할 수 있습니다.</block>
   <block id="e7495c352afe82777cef53d3f7d2534f" category="section-title">E-Series 시스템과 통합</block>
-  <block id="00c03a5533f59ea010c2980d7e4d8d04" category="paragraph">Active IQ에서 선택한 E-Series 시스템의 용량 세부 정보 및 성능 그래프를 볼 수 있습니다.</block>
   <block id="bff8e0727b4c9b257312f2cbb6fcce4d" category="section-title">2021년 11월 18일</block>
   <block id="91b681e174a782226d26fb4056e14081" category="section-title">스토리지 효율성</block>
   <block id="2837fa943ed77aa7de5f931fc0d9ddb0" category="paragraph">NetApp Cloud Insights에서 유지 관리 및 모니터링하는 노드의 스토리지 효율성 세부 정보를 볼 수 있습니다.</block>
   <block id="45b18c343d43ec682e557426d44cda54" category="section-title">2021년 11월 11일</block>
   <block id="1c4dbaa68e9004b45ad08f1cf5f157a1" category="list-text">이러한 상태 점검 타일에 SupportEdge Advisor 및 SupportEdge Expert 지원 서비스가 있는 시스템에만 적용되는 아이콘이 추가되었습니다. 권장 소프트웨어 – 소프트웨어 통화 및 펌웨어 통화 섹션, 권장 구성 및 모범 사례가 개선되었습니다.</block>
-  <block id="0411f5495f5795b2270ee7603259fb59" category="list-text">Active IQ Digital Advisor– 보고서 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.</block>
   <block id="ec4db24b3963d4a0b276c998be9a81bc" category="section-title">웰빙 및 업그레이드 위젯</block>
   <block id="54454ba57239406365ebc84a4d7bd111" category="paragraph">Wellness Action History의 열에 E-Series 업그레이드 권장사항과 리스크 발생 날짜가 추가되어 대시보드 강화</block>
   <block id="9dc83864364276e0f933b83aba5a7e53" category="paragraph">ClusterViewer 스택 시각화 모듈이 확대/축소 및 이미지 저장 기능을 포함하도록 향상되었습니다.</block>
@@ -391,7 +355,6 @@
   <block id="b00f197330b8c03d51bcc9ff737bf029" category="section-title">NetApp Cloud Volumes ONTAP and E-Series Platforms의 탭</block>
   <block id="823e0682a919056e63060941206cbbd0" category="paragraph">상태 점검 대시보드는 Cloud Volumes ONTAP** 및 E-Series 탭을 통해 개선되어 해당 플랫폼에 대한 상태 점검 KPI 및 세부 정보를 볼 수 있습니다.</block>
   <block id="b47109f6e8c3654beb551c1dc5b17f5e" category="paragraph">'ONTAP'에 대한 탭이 다른 플랫폼과 함께 추가되었으며, 현재 이 탭이 활성화되었습니다.</block>
-  <block id="5113f77f1fff34aa6b365de6e30cf5ec" category="paragraph">Active IQ에서 NetApp Cloud Volumes ONTAP 시스템의 용량 세부 정보를 볼 수 있습니다.</block>
   <block id="bab881e7a77679bf1ae1e0e5dcb3ec3e" category="paragraph">보고 일정은 12개월로 연장되었습니다. 일정 보고서가 만료될 예정이면 알림도 받게 됩니다.</block>
   <block id="01577a026e7abe02a9ba236a3d4f679b" category="section-title">2021년 9월 30일</block>
   <block id="5548552a90db4c3921de9d1e9c9fb3e3" category="section-title">Customer Qualified Version(고객 대상 버전</block>
@@ -407,7 +370,6 @@
   <block id="1201772d73bae2bd2ca29d21ab61238f" category="section-title">2021년 9월 16일</block>
   <block id="e334c16b25916f028d0cccfe5500fd69" category="list-text">이제 랜섬웨어 방어 위젯이 독립형 위젯 대신 Wellness Workflow에 포함됩니다.</block>
   <block id="0452e82e921087d7b1a83c2f02b68e57" category="list-text">Wellness Review 이메일에는 갱신 대신 랜섬웨어 방어를 위한 정보가 포함되어 있습니다.</block>
-  <block id="6268dbec956651e7bd88197154e41f93" category="paragraph">Active IQ에서 NetApp ONTAP ® Select 시스템의 용량 세부 정보를 볼 수 있습니다.</block>
   <block id="9ee1a0b7aa28c278380f54797be2bc29" category="paragraph">ClusterViewer의 시각화 탭에서 케이블 연결 오류 및 기타 오류를 볼 수 있습니다.</block>
   <block id="6be3e4cc137acae41c32679736c4a678" category="section-title">2021년 9월 6일</block>
   <block id="b3133741a2e146480d59529cf245b52d" category="list-text">View AutoSupport(보기 로그): StorageGRID 및 기본 노드에 대한 AutoSupport 로그를 봅니다.</block>
@@ -417,12 +379,6 @@
   <block id="acc29a7b7f23045f357b49f3a37a34bf" category="section-title">용량 예측</block>
   <block id="e7beaf5388707f5b78d0f93b770b13e6" category="paragraph">Capacity Forecast 위젯이 시스템 재구성을 보다 잘 지원하는 개선된 알고리즘으로 업데이트되었습니다. <block ref="358e7502d3a3beb3c7524dcf4ddbf11b" category="inline-link-macro-rx"></block>.</block>
   <block id="aefb7a7993c510ef70b2a8e8af0c8a8d" category="section-title">2021년 8월 26일</block>
-  <block id="cdf13500e15ccdea960e2cbd513e706e" category="section-title">Active IQ Digital Advisor 모바일 애플리케이션</block>
-  <block id="c2177c5092a1d047c74aacc2ac6a0266" category="paragraph">이제 Active IQ Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.</block>
-  <block id="36cbd0d8037ebab11ab6cbc27994392d" category="inline-link-macro">Active IQ Digital Advisor 모바일 애플리케이션(Android)</block>
-  <block id="e6692358ec400759110ca506b80cdccf" category="inline-link-macro">Active IQ Digital Advisor 모바일 애플리케이션(iOS)</block>
-  <block id="67336000033c69d2422b8a1d56abc928" category="paragraph">응용 프로그램을 다운로드하여 자세히 알아보십시오.<block ref="f4a3d04670909fa28f3881892d9f974d" category="inline-link-macro-rx"></block>
-<block ref="df3e240c84a77f3ec5b190ed94cab8b3" category="inline-link-macro-rx"></block></block>
   <block id="b5007357b4e518744cbd11c21e6102ff" category="paragraph">랜섬웨어 방어 특성으로 건강 위젯이 향상되었습니다. 이제 랜섬웨어 탐지, 예방 및 복구와 관련된 위험과 수정 조치를 볼 수 있습니다.</block>
   <block id="5c3849b33a3b6bf738dbe72c0348f10c" category="section-title">2021년 8월 16일</block>
   <block id="ba0619dd0f47665766133e60320fb439" category="section-title">웰빙 리뷰</block>
@@ -441,7 +397,6 @@
   <block id="d3c1f787ff63a25609fa946fe06088e0" category="list-text">이제 PVR을 구입하여 컨트롤러, 디스크 및 쉘프에 대한 EOS 일정을 확장할 수 있습니다. PVR 날짜 및 연장 세부 사항은 구입 시 지원 종료 위젯에서 확인할 수 있습니다. PVR 세부 사항은 EOSL 보고서의 일부로 제공됩니다.</block>
   <block id="11654a7c9bfe622e8f0c2bd5fa18720b" category="paragraph">상세 인벤토리 페이지에서 하드웨어, 소프트웨어 및 반품 불가 디스크에 대한 지원 계약의 종료 날짜를 볼 수 있습니다.</block>
   <block id="fc6d3ceb7c84059ca7f2eb808bff5479" category="section-title">지원 오퍼링 업그레이드</block>
-  <block id="afd7e04c0a9b982d69f8dafe88b0c37f" category="list-text">Active IQ에서 구독하는 특정 지원 서비스를 표시하도록 사용자 인터페이스가 향상되었습니다.</block>
   <block id="bb4ddc55330c48075b3116356500dbf5" category="list-text">이제 시스템 대시보드에서 지원 서비스 구독 업그레이드를 요청하여 더 많은 기능에 액세스할 수 있습니다. <block ref="cb0308c385d8d496d1f59d74eb315c21" category="inline-link-macro-rx"></block>.</block>
   <block id="bd0328b259e09ba57ed30da815f4cc42" category="section-title">2021년 6월 25일</block>
   <block id="e6950d9f03fba06e22767b7f984caa30" category="section-title">유연한 구독 위젯</block>
@@ -467,7 +422,6 @@
   <block id="ceb8404d75df4cd36057918b2a3c3975" category="list-text">운영 중단을 방지하기 위해 볼륨 채우기를 방지하는 방법을 알아보십시오. <block ref="fabdf753888b88e4e56a3a1d46f402d9" category="inline-link-macro-rx"></block>.</block>
   <block id="b7fd11efbe4b08f9789db43e656aae94" category="section-title">2021년 4월 7일</block>
   <block id="e057979f7791f37ec4a8704baa00923d" category="section-title">시청목록</block>
-  <block id="3cc267fba4c83695b9464316876b7f84" category="paragraph">Active IQ Digital Advisor에 처음으로 액세스하는 경우 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.</block>
   <block id="3fc3e2eabeba0d4fc1cd1cd29feb8f53" category="section-title">2021년 2월 24일</block>
   <block id="28218bb56d995c803dfa66937720289f" category="paragraph">이 릴리즈에서는 다음과 같은 기능을 제공합니다.</block>
   <block id="774bd29c6c04ea222762ebe419b8682f" category="list-text">템플릿 생성 중에 속성을 편집할 수 있습니다.</block>
@@ -489,7 +443,6 @@
   <block id="666d5831344c81a6bb17a82cba51d507" category="list-text">* 그리드 요약: * 라이센스 유형, 라이센스 용량, 설치된 노드 수, 지원 기간(라이센스 계약 종료 날짜), 기본 관리 노드 및 기본 관리 노드의 기본 사이트와 같은 기본 정보가 포함됩니다. 또한 이 탭에는 사이트 이름과 해당 사이트 아래에 태그가 지정된 스토리지 노드의 수가 표시됩니다. 이 릴리즈에서는 해당 사이트의 스토리지 노드를 보는 데 사용할 수 있는 하이퍼링크를 클릭하면 노드 이름 목록을 볼 수 있습니다.</block>
   <block id="d2f225914092c41360983fad88f32684" category="list-text">* Capacity Details(용량 세부 정보) 탭: * 그리드에 대해 구성된 Grid Level(그리드 수준) 및 Site Capacity(사이트 용량) 세부 정보를 제공합니다. 설치된 스토리지 용량, 사용 가능한 스토리지 용량, 사용된 총 스토리지 용량, 데이터 및 메타데이터에 사용된 용량과 같은 용량 세부 정보 이러한 세부 정보는 그리드 및 사이트 수준에서 모두 사용할 수 있습니다.</block>
   <block id="67cd8350911a2c5c4d5ea70ff9f7a77e" category="section-title">FabricPool 자문업체</block>
-  <block id="d891e937202bc371fc43c6ba5e8795c1" category="paragraph">계층 데이터 버튼이 FabricPool 대시보드에 추가되어 NetApp Cloud Manager를 사용하여 데이터를 저비용 오브젝트 스토리지 계층에 계층화할 수 있습니다.</block>
   <block id="5c1cbbba646e78bf69e01be8602cbe41" category="section-title">클라우드 지원 워크로드</block>
   <block id="b07b6b80fae4b5c609f71c937ae1f913" category="paragraph">스토리지 시스템 내에서 사용 가능한 다양한 유형의 워크로드를 확인하고 클라우드에서 바로 사용할 수 있는 워크로드를 파악할 수 있습니다.</block>
   <block id="e68cf4e683901ace045287e72cebd33c" category="section-title">2020년 12월 21일</block>
@@ -498,16 +451,13 @@
   <block id="665aadbe4be879e060b8e8fac4ef8d2d" category="list-text">신호 손실: 이 위젯은 어떤 이유로 인해 AutoSupport 데이터 전송이 중단된 시스템에 대한 점수 및 정보를 제공합니다. 7일 내에 호스트 이름으로부터 AutoSupport 데이터가 수신되지 않은 경우 정보를 제공합니다.</block>
   <block id="241b4f2209980b6ad5d063befe23d87b" category="section-title">2020년 11월 12일</block>
   <block id="8c0d8ca7bc36fd1c788f07ffdf479f1a" category="section-title">API를 사용하여 데이터 통합</block>
-  <block id="f0f6378060f0a712e4a330fc5ea352f1" category="paragraph">Active IQ API를 사용하여 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다. <block ref="79a495fed0082d673c1047b883d4546e" category="inline-link-macro-rx"></block>.</block>
   <block id="624736396a8b3a77e9c686953fd15366" category="section-title">웰빙 업그레이드 위젯</block>
   <block id="8dbd4b3ccf50a85cd67f91386a8bb3d0" category="paragraph">Enhanced Risk Advisor 및 Upgrade Advisor 탭을 사용하면 모든 시스템 위험을 확인하고 모든 위험을 완화하기 위한 업그레이드 계획을 수립할 수 있습니다.</block>
   <block id="202bdb919d7843a2b9915cfbbdc58b90" category="paragraph">권장 구성 위젯이 대시보드에 추가되었으며 원격 관리 위험, 스페어 및 장애가 발생한 드라이브 위험, HA 쌍 위험을 모니터링하는 시스템 수에 대한 요약을 제공합니다.</block>
   <block id="43c0aba84cc47baeb81702f63ea56f52" category="paragraph">비활성 로컬 계층(집계) 데이터, 비활성 볼륨 데이터, 계층형 데이터, IDR이 활성화되지 않은 데이터 등 네 가지 범주로 분류된 클러스터를 모니터링하여 스토리지 설치 공간과 관련 비용을 줄일 수 있습니다.</block>
   <block id="9d66e07285d95331a9e3c8ef9b211743" category="section-title">중국어 간체 및 일본어 번역</block>
-  <block id="1c5712641a932654698398b48cdc067b" category="paragraph">Active IQ Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.</block>
   <block id="273c6172eab8f123977db3341f450022" category="paragraph">시스템의 물리적 및 논리적 구성에 대한 자세한 정보를 보려면 ClusterViewer 보고서를 생성하거나 예약할 수 있습니다. <block ref="a215153d303469248fdb9fd5d964c085" category="inline-link-macro-rx"></block>.</block>
   <block id="ff0ca88c2de09857272e1e64c6d20635" category="section-title">2020년 10월 15일</block>
-  <block id="6d588ba57b36a25f837d3883ad145dcc" category="paragraph">Active IQ 상태 점검 대시보드에서는 전체 환경을 특정 시점으로 검토할 수 있습니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다. <block ref="1896498242b484574904ca9397362055" category="inline-link-macro-rx"></block>.</block>
   <block id="6d842379317d540dc2fdadff80691eac" category="inline-link-macro">구성 드리프트 템플릿을 추가하는 방법에 대해 알아봅니다</block>
   <block id="a3ed0d9c8cd0f99576d01a2e583bb3ce" category="paragraph">이 기능을 사용하면 시스템 구성과 클러스터 구성을 거의 실시간으로 비교하고 구성 편차를 감지할 수 있습니다. <block ref="85835a3294f4672a256d2580bd36ed95" category="inline-link-macro-rx"></block>.</block>
   <block id="6645e0ebb53d4b6e68be7936af3a8039" category="section-title">AutoSupport</block>
@@ -537,12 +487,10 @@
   <block id="07804c57460fb69b448ea03e4f7e4a5b" category="paragraph">성능 그래프가 향상되어 스토리지 시스템의 클러스터 성능을 평가할 수 있습니다. 동일한 화면에서 노드 탭과 클러스터 탭 간에 탐색 및 전환할 수 있습니다.</block>
   <block id="f67b3b7c63db378874cf3c9f28add752" category="paragraph">클러스터 레벨에서 스토리지 효율성 비율 및 절감 효과를 볼 수 있도록 스토리지 효율성 위젯이 개선되었습니다. 동일한 화면에서 노드 탭과 클러스터 탭 간에 탐색 및 전환할 수 있습니다.</block>
   <block id="08f72fff0f0812bdbc9fc2474685218d" category="section-title">기본 홈 페이지를 업데이트합니다</block>
-  <block id="7ae2dac2735821d57148c768b3f4759e" category="paragraph">이제 피드백을 제공하고 Active IQ의 기본 홈 페이지 화면을 업데이트하는 이유를 알려 주십시오.</block>
   <block id="29fbfd86c80e15b164b8f105fd5ddd93" category="section-title">재고 위젯으로 업데이트합니다</block>
   <block id="a392fcca4182f7d6c6748c76a6e192ac" category="paragraph">재고 위젯은 사용자에게 친숙한 날짜 형식, 플랫폼 지원 종료를 위한 추가 열 및 버전 지원 종료를 제공하여 사용자 환경을 개선하도록 개선되었습니다.</block>
   <block id="5a0f42f64fb533926accae7152c26173" category="section-title">2020년 5월 19일</block>
   <block id="c43f08e4b3393556316dfdcf0ac2adec" category="section-title">기본 홈 페이지를 설정합니다</block>
-  <block id="55525d93b267e6c2f7d0012ff227fd2f" category="paragraph">이제 Active IQ의 기본 홈 페이지 화면을 설정할 수 있습니다. Active IQ Digital Advisor 또는 Active IQ Classic으로 설정할 수 있습니다.</block>
   <block id="196bf417f670cda21f19ec3d4d3beee2" category="paragraph">AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본 유무와 관계없이 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. <block ref="7ce8aae7f470992890fd5777e8778c08" category="inline-link-macro-rx"></block>.</block>
   <block id="5c38b1bfe8fc19ace289c4b181898cc3" category="paragraph">성능 그래프를 통해 다양한 주요 영역에서 스토리지 장치의 성능을 평가할 수 있습니다.</block>
   <block id="79a857f77fa2d44ca5fa8f7eb514d82b" category="section-title">Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어 업그레이드</block>
@@ -551,7 +499,6 @@
   <block id="b8b301824f50a2466b05d0e265e26b92" category="paragraph">점수 부여 알고리즘을 개선하고 전반적인 경험을 단순화하기 위해 웰빙 점수 기능이 일시적으로 비활성화되었습니다.</block>
   <block id="1366d33389e2c07fe5eb0f36d050d4e3" category="section-title">2020년 4월 2일</block>
   <block id="9a6e9ab02b089e4597f04c993e0c7c7b" category="section-title">온보딩 개요 비디오</block>
-  <block id="f9b08de0f0bc72617b5e2e6555c6734c" category="paragraph">온보딩 비디오를 통해 사용자는 Active IQ Digital Advisor의 옵션 및 기능을 빠르게 익힐 수 있습니다.</block>
   <block id="a73d4602bef933dd262bf00fe9698547" category="section-title">건강 점수</block>
   <block id="9affd4fcaf6ae8cd1f13ff85ee04639a" category="paragraph">Wellness score는 높은 위험 수와 만료된 계약을 기준으로 고객에게 설치 기반의 통합 점수를 제공합니다. 점수는 양호, 평균 또는 불량일 수 있습니다.</block>
   <block id="cf64d5515732b199da1e16fc842fc5f6" category="paragraph">위험 요약은 위험, 위험의 영향, 시정 조치에 대한 자세한 정보를 제공합니다.</block>
@@ -561,14 +508,12 @@
   <block id="17191d00ab4a3736fa040f3b95b65558" category="paragraph">업그레이드 워크플로우를 사용하여 타겟 ONTAP 릴리즈에서 사용할 수 있는 새로운 기능과 업그레이드 권장 사항을 확인할 수 있습니다. <block ref="c1d3fae1f3512f66a2affe4e88cce8cf" category="inline-link-macro-rx"></block>.</block>
   <block id="c35f526b5bc5e4a0bea7fb374721a1af" category="section-title">가치 있는 통찰력</block>
   <block id="81ab2e271e95304e9636d948311780aa" category="inline-link-macro">지금 보기</block>
-  <block id="c9a1ec42e4cf5e34b3705012283be087" category="paragraph">Active IQ 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 볼 수 있습니다. 선택한 시스템의 경우 Value 보고서는 지난 1년간의 이점을 통합합니다. <block ref="d21ac6e6095a0c5ba338352404b3f707" category="inline-link-macro-rx"></block>.</block>
   <block id="33c22a10574cad1dbba382fa84bb9e8d" category="section-title">세부 정보를 상세히 파악</block>
   <block id="7fad2d7a0f06323ca7ccbbdb8a8d8128" category="paragraph">보다 심층적인 정보를 제공합니다. 이 정보를 통해 데이터를 보다 심도 있게 파헤치고 필요한 경우 집계된 정보의 구성 정보를 즉시 파악할 수 있습니다.</block>
   <block id="2cb4ae28b8163c737793ba547c7720f7" category="section-title">용량 추가</block>
   <block id="f7296b933ffd5f3db1ad54487be159f2" category="paragraph">용량을 초과하거나 용량이 90% 가까이 있는 시스템을 능동적으로 식별하고 용량 확장 요청을 보낼 수 있습니다.</block>
   <block id="01b86650af0bcf4537bb6beccd306928" category="section-title">2020년 2월 29일</block>
   <block id="ab7938419e5054f4058775c5af52206b" category="section-title">향상된 사용자 인터페이스</block>
-  <block id="fef76536248e8e3697b6c54fc3c9f625" category="paragraph">최신 Active IQ Digital Advisor 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.</block>
   <block id="26816f83580825737543b7ee34f72751" category="section-title">맞춤형 대시보드</block>
   <block id="cd8fb73c97a7d30cae83d4fc877ecd00" category="paragraph">하나 이상의 페이지 또는 화면에서 데이터에 대한 주요 통찰력과 분석 기능을 제공하여 시스템을 한 눈에 모니터링할 수 있습니다. 최대 10개의 대시보드를 만들고 효과적인 비즈니스 결정을 내릴 수도 있습니다.</block>
   <block id="aaa2e98f0455022c0297b0af6b83eef1" category="paragraph"><block ref="f8067c30e51c031bbe2e9d7c7ba78ef1" category="inline-link-macro-rx"></block>.</block>
@@ -592,7 +537,6 @@
   <block id="e350176e2ca4464b7c8bb3efa4e581fa" category="inline-link-macro">여유 작업 공간</block>
   <block id="fef5c7747fd3b7d85ff39f7b27d6f02f" category="list-text"><block ref="fef5c7747fd3b7d85ff39f7b27d6f02f" category="inline-link-macro-rx"></block></block>
   <block id="e1ceb514961568f187bb88fa116f776f" category="list-text">mailto:ng-active-iq-feedback@netapp.com [이메일]</block>
-  <block id="4a5ad5e572656060b0c08a811a08e951" category="list-text">지원 및 피드백을 위한 Active IQ Digital Advisor의 지원 버튼</block>
   <block id="989ffda8482c36243642e39d9d8e50ff" category="summary">AFF 및 FAS 펌웨어를 업데이트하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="439d63cd3905d44125be50793bdd3ab5" category="doc">AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하십시오</block>
   <block id="6032e7db579fa00df8e3062fcbc04a91" category="paragraph">Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하여 식별된 위험을 완화하고 스토리지 시스템을 최신 상태로 유지해야 합니다.</block>
@@ -662,11 +606,6 @@
   <block id="a0131598041c59b5aec9b6bdcb8a9431" category="list-text">위험 이력 * 그래프에서 위험 기록을 보려는 범주를 클릭합니다.</block>
   <block id="5e1ec40828b897d199a44619b575caa9" category="paragraph">색 막대 위로 마우스를 가져가면 각 범주의 위험 수에 대한 정보가 표시됩니다. 해당 위험 범주를 클릭하면 해당 정보가 * 위험 정보 * 표에 표시됩니다.</block>
   <block id="37c39a7ebbd06bad10e2b0f330cec68b" category="paragraph">또한 Excel 시트에서 위험 요약을 다운로드할 수도 있습니다.</block>
-  <block id="5aa601140b131288c890a0936edb134f" category="summary">Active IQ Digital Advisor에 로그인하기 위한 정보를 제공합니다.</block>
-  <block id="80daf0cf7335c791f0046301e2d3a526" category="doc">Active IQ Digital Advisor에 로그인합니다</block>
-  <block id="ed76f0e3d945943c5fae33190defb3b0" category="paragraph">Active IQ Digital Advisor에 로그인하려면 유효한 NetApp Support 사이트 자격 증명이 있어야 합니다. 계정이 없는 경우 를 클릭합니다 <block ref="967ddad47d4311162e2dc8cf03423cdc" category="inline-link-macro-rx"></block>.</block>
-  <block id="dc805bf9b905c9a6974558611f5c99b3" category="list-text">을 클릭합니다 <block ref="348c59707f27a8ca5472dc7d66de9883" category="inline-link-macro-rx"></block> Active IQ Digital Advisor에 액세스합니다.</block>
-  <block id="1bb03b210e480674a2a9700b06bb8d83" category="paragraph">Active IQ Digital Advisor는 유효한 지원 계약이 있는 시스템을 보여 줍니다. 계약이 만료되면 90일의 유예 기간이 주어지면 시스템이 계속 표시됩니다. 그 이후에는 Active IQ Digital Advisor에서 시스템을 검색하거나 볼 수 없습니다.</block>
   <block id="1dce4feb01121addbdaf71931c469035" category="list-text">사용자 이름과 암호를 입력하고 * 로그인 * 을 클릭합니다.</block>
   <block id="f39b53c109ef22724fc3808f3709808c" category="summary">대시보드에 관심 목록을 추가하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="19a1aa0085c346ac0453f3463cfe5ae0" category="doc">시청목록 생성</block>
@@ -690,9 +629,6 @@
   <block id="9d4e98ef3e858b364953644ba3b9dd42" category="list-text">* 기술 케이스 *: 선택 가능한 시간 범위에 대한 기술 케이스 내역, 케이스 유형 및 진행 상태 또는 종료 상태별 상세 보기를 제공합니다. 케이스 그룹으로 드릴다운하고 에서 케이스 세부 정보를 볼 수 있습니다 <block ref="524afdbf585c55af8de5660a471d6788" category="inline-link-macro-rx"></block> 또는 기타 케이스 포털입니다.</block>
   <block id="ca2539d7307d0d34f3e2f7bbef6876a0" category="summary">API 서비스 기능에 대한 개요를 제공합니다.</block>
   <block id="de3992e6ea5d74abcf945b6f9ab19c22" category="doc">API 서비스 이해</block>
-  <block id="b07b959de8b68ea30367c1272aa98387" category="paragraph">Active IQ API Services는 자동화를 사용하여 워크플로우에 효율성을 추가합니다. API 서비스 내부에는 20개 이상의 서비스 영역으로 그룹화된 100개 이상의 서로 다른 API 엔드포인트를 설명하는 * API Catalog * 가 있습니다. NetApp 고객은 이러한 API를 사용하여 시스템 정보, 스토리지 효율성, 성능, 상태 및 업그레이드와 같은 다양한 관심 영역을 이용할 수 있습니다.</block>
-  <block id="cf11cff49bbf6af885124e9c4fcb8614" category="paragraph">API는 Active IQ Digital Advisor에 프로그래밍 방식으로 연락하여 데이터를 컴퓨팅 환경으로 다시 가져올 수 있는 간단한 코드를 작성할 수 있는 인터페이스입니다. Active IQ Digital Advisor에게 매일 연락하여 관심 있는 영역의 최신 데이터를 다시 가져오는 방식으로 코드를 작성할 수 있습니다. 그런 다음 이 데이터를 사용하여 발권 시스템을 채우거나 자신만의 대시보드, 웹 페이지 또는 보고서를 만들 수 있습니다. Active IQ API 카탈로그에는 코드 샘플과 브라우저에서 API를 사용해 볼 수 있는 기능이 모두 포함되어 있습니다.</block>
-  <block id="93e254cb92821cbfca6ca1aabf156a0e" category="paragraph">API를 통한 자동화는 일상적인 또는 주간 작업에 효율성과 정확성을 더할 수 있는 좋은 방법입니다. 리소스를 확보하여 더욱 복잡한 작업을 수행하거나 새 워크플로우를 자동화할 수 있습니다. 예를 들어, 수정해야 할 시스템 상태 위험이 있는 경우 Active IQ Digital Advisor의 이러한 항목 풀아웃 및 티켓 시스템에 대한 푸시를 자동화할 수 있습니다.</block>
   <block id="272eb6d717938719a6643dde54a455f1" category="section-title">API 카탈로그</block>
   <block id="609b94093c96779bd697e437a237dada" category="paragraph">페이지 상단의 토글을 사용하면 두 가지 모드 사이를 전환하여 카탈로그를 볼 수 있습니다. 코드 보기에서는 필요한 입력 매개 변수, 반환 데이터의 내용 및 형식, 사용자가 코드를 직접 입력할 수 있도록 코드 샘플에 초점을 맞춥니다. 실험 보기는 사용자에게 기본 API 서비스 페이지에서 가져온 토큰을 사용하여 브라우저에서 API를 "사용해" 볼 수 있는 기회를 제공합니다.</block>
   <block id="e06ee5f4d38e3f442020774d590dd8ae" category="paragraph">두 보기 중 하나를 사용하면 왼쪽의 탐색 창을 사용하여 사용 가능한 항목을 탐색할 수 있습니다. 항목은 서비스별로 사전순으로 구성되어 있습니다. 지정된 서비스 내에서 제목을 확장하여 개별 API 끝점을 표시할 수 있습니다. 서비스 제목 또는 API 끝점을 클릭하면 가운데 창에 있는 카탈로그의 해당 섹션으로 이동합니다.</block>
@@ -704,7 +640,6 @@
   <block id="1b041cdfdc19a7bdb36e4bb710521c3b" category="list-text">빠른 링크 * 메뉴에서 * API 서비스 * 를 클릭합니다.</block>
   <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">Register * 를 클릭합니다.</block>
   <block id="d3ea808b3d55f3adc011ccc0b25a4a36" category="list-text">승인 양식에 대한 요청을 작성하고 * 제출 * 을 클릭합니다.</block>
-  <block id="b30b3bbfc415b638b24e6565c44b8b35" category="paragraph">활성화는 자동으로 이루어지며 즉시 이루어져야 합니다. Active IQ API를 사용하도록 허가된 후에는 프로그래밍 API 호출을 수행할 때 사용할 토큰을 생성할 수 있습니다. 이러한 토큰을 사용하여 API 카탈로그 내에서 "시험 사용"을 실행할 수도 있습니다. 프로그래밍 방식으로 가져온 토큰은 항상 액세스 토큰과 새로 고침 토큰의 두 집합으로 제공됩니다. 모든 API를 성공적으로 사용하려면 액세스 토큰을 전달해야 합니다. 단, 하나는 예외입니다. 새로 고침 토큰을 사용하여 프로그래밍 방식으로 새 토큰 집합을 가져옵니다.</block>
   <block id="e26d70ef5011218a0e0d472d10f783bb" category="list-text">기본 API 서비스 페이지에서 * 토큰 생성 * 을 클릭하여 액세스 토큰을 보고 다운로드하고 API를 호출할 토큰을 새로 고칩니다.</block>
   <block id="99a9cfa523a42e23621796dfca6edb0a" category="paragraph">포털은 세트에 하나 또는 두 개의 토큰을 저장하는 여러 가지 방법을 제공합니다. 클립보드로 복사하거나 텍스트 파일로 다운로드하거나 일반 텍스트로 볼 수 있습니다.</block>
   <block id="ce35b219dc5f96e6b0eb25a2bb2623b6" category="admonition">나중에 사용할 수 있도록 액세스 토큰을 다운로드하여 저장하고 토큰을 새로 고쳐야 합니다. 액세스 토큰은 생성 후 1시간 후에 만료되며, 토큰 새로 고침은 7일마다 재생성되어 애플리케이션에 설치되어야 합니다. 90일 후에는 수동으로 로그인하여 새 액세스 권한을 얻고 토큰을 새로 고쳐야 합니다.</block>
@@ -720,7 +655,6 @@
   <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
   <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인 정보 보호 정책</block>
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
-  <block id="df2d4059ef2614c57676ddbb81080026" category="summary">Active IQ에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="inline-link-macro">NetApp 커뮤니티</block>
   <block id="1881e7a42b09973c0262936d8c6638d6" category="list-text"><block ref="1881e7a42b09973c0262936d8c6638d6" category="inline-link-macro-rx"></block></block>
   <block id="2250dada69ecec08ffc29ac659683495" category="inline-link-macro">설명서 리소스</block>
@@ -729,14 +663,6 @@
   <block id="0c653ba2b8e3812b4f58b7bef8777e11" category="list-text"><block ref="0c653ba2b8e3812b4f58b7bef8777e11" category="inline-link-macro-rx"></block></block>
   <block id="338fec277abf8dd8a9f3f83288b2911d" category="inline-link-macro">ONTAP AutoSupport 및 AutoSupport 온디맨드</block>
   <block id="c60726371723b7c1a53a2242c4905f14" category="list-text"><block ref="c60726371723b7c1a53a2242c4905f14" category="inline-link-macro-rx"></block></block>
-  <block id="5089613f649d2296a75191884c2e8f61" category="summary">워크플로우를 이해하고 Active IQ Digital Advisor를 시작하는 데 도움이 됩니다.</block>
-  <block id="487b50c0db900755e8510fd1c1223213" category="doc">Active IQ Digital Advisor의 빠른 시작</block>
-  <block id="bb79a2831a7315640da7e030108a25cf" category="paragraph">Active IQ Digital Advisor가 더욱 효과적으로 작업을 수행할 수 있도록 개선 및 재설계되었습니다. 사용자 인터페이스는 사용자가 원하는 목표를 수행하도록 안내하기 위해 개발되었습니다.</block>
-  <block id="1ec16ea135ce0198f1162d8dd003bedc" category="paragraph">다음 다이어그램을 참조하여 Active IQ Digital Advisor의 워크플로우를 이해할 수 있습니다.</block>
-  <block id="1833a5853550761fe8f7b2b34ae6e094" category="inline-image-macro">Active IQ Digital Advisor 워크플로</block>
-  <block id="12e8d479cd61a8f66e8010e4a3a9135f" category="paragraph"><block ref="12e8d479cd61a8f66e8010e4a3a9135f" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="f66597d000b1714447e39d38381d717f" category="paragraph">다음 비디오를 보고 Active IQ Digital Advisor를 시작할 수 있습니다.</block>
-  <block id="536f3538dd1bcb560b5131c42d2fd745" category="paragraph">모든 Active IQ Digital Advisor 위젯이 모든 플랫폼에서 지원되지 않습니다. Active IQ Digital Advisor는 스토리지 시스템의 플랫폼을 식별하고 스토리지 시스템에서 수행할 수 있는 작업 세트만 표시합니다.</block>
   <block id="6fda8feb3296b57c0c20a9ab7542ac2a" category="paragraph">다음 정보를 읽고 스토리지 시스템에서 지원되는 위젯을 숙지하십시오.</block>
   <block id="fa0a9488678326eeee7398751bbe2d01" category="cell">* 위젯 *</block>
   <block id="ca4ae4faff37f22c0ffe6a214e8a4b08" category="cell">* 고객 *</block>
@@ -761,12 +687,8 @@
   <block id="6f4abdbff187f79e2ea1ac06a9e104b5" category="list-text">7-Mode로 운영되는 Data ONTAP 스토리지 시스템의 경우(7-Mode로 운영되는 Data ONTAP 스토리지 시스템의 지원 종료 시기가 임박)</block>
   <block id="e10f6958064ae5f36e8b132d4142e626" category="list-text">성능 차트</block>
   <block id="2a6091be36acbf3db3bd34443d143abf" category="list-text">Upgrade Advisor는 9.0 이전의 clustered ONTAP에 대한 업그레이드 계획을 지원하지 않습니다.</block>
-  <block id="7e4e0b857c6e143cfb082c8bb0ab61cd" category="section-title">감시 목록을 편집하는 데는 60분 정도 걸릴 수 있으며, 이는 Active IQ Digital Advisor에 반영됩니다</block>
-  <block id="ae68b6ce5c029662d6b5aaeadce82376" category="paragraph">감시 목록을 편집해도 Active IQ Digital Advisor의 정보는 즉시 업데이트되지 않습니다. 변경 사항이 Active IQ Digital Advisor에 반영되려면 최대 60분이 소요될 수 있습니다.</block>
   <block id="2bdc4897dd362e50492e84b2adbd474b" category="section-title">보고서를 예약하는 동안 빈 보고서가 표시됩니다</block>
   <block id="6eeadd9a025ffd894de9d068b4e77d24" category="paragraph">예약된 보고서는 SupportEdge Advisor 또는 SupportEdge Expert 지원 계약에서만 사용할 수 있습니다. 시스템에 SupportEdge Advisor 또는 SupportEdge Expert 지원 계약이 없을 경우 보고서를 예약하는 동안 빈 보고서가 나타날 수 있습니다.</block>
-  <block id="ebb3292114a6a69609c0f8875098f714" category="section-title">승인되고 확인되지 않은 위험은 Active IQ 디지털 어드바이저에 반영되기까지 60분이 걸릴 수 있습니다</block>
-  <block id="7264c3b35813062888fb1306b7ec8b7b" category="paragraph">승인되고 확인되지 않은 위험의 상태는 Active IQ 디지털 어드바이저에서 즉시 반영되지 않습니다. 변경 사항이 Active IQ 디지털 자문업체 및 웰빙 보고서에 반영되려면 최대 60분이 소요될 수 있습니다.</block>
   <block id="35e66ec67a2e099ca561a914e3070a54" category="summary">템플릿을 관리하는 데 필요한 정보는 에 나와 있습니다.</block>
   <block id="50265178fa957fba00e89ee31583eda9" category="doc">서식 파일 관리</block>
   <block id="111b7a31750f76bdbff754725d0a891f" category="paragraph">템플릿을 복제하고, 템플릿을 공유하고, 기존 템플릿의 세부 정보를 편집하고, 템플릿을 삭제할 수 있습니다.</block>
@@ -820,10 +742,7 @@
   <block id="01d220f359ae904005a0944f594a1bcd" category="list-text">위젯에 표시된 시스템 수를 클릭하여 * Upgrade Advisor * 탭을 봅니다.</block>
   <block id="ac73a7625c762ca863d294bc61f64a16" category="list-text">위험 관리자 * 탭의 위험 목록과 함께 심각도 수준을 확인합니다. 이 위험 수준은 업그레이드로 인해 완화됩니다.</block>
   <block id="281921503952801e23be5489728f4728" category="list-text">Upgrade Advisor * 로 이동하려면 * Upgrade Plan * 생성 을 클릭합니다.</block>
-  <block id="f48a84db276a73cbf07dc419e82ec5ec" category="summary">Active IQ Digital Advisor에서 사용되는 주요 용어에 대한 정보를 제공합니다.</block>
   <block id="aecb526721c5811e8b940ed95c7e8b18" category="doc">주요 개념</block>
-  <block id="e88ec3f6fa36ea31fdc1642a2265daee" category="paragraph">Active IQ Digital Advisor를 사용하기 시작할 때 Active IQ Digital Advisor 전체에서 예상할 수 있는 몇 가지 기본 용어를 이해하는 것이 중요합니다.</block>
-  <block id="d92bf3a3e254ba5152f5693f2c3551e3" category="list-text">* 관심 목록: * 이미 선택된 Active IQ Digital Advisor 내부의 시스템에 액세스할 수 있는 유연성을 제공합니다. 감시 목록을 사용하여 하나 이상의 고객에 있는 시스템을 추가할 수 있습니다.</block>
   <block id="f7aec255f127e937f979de1bed372a50" category="list-text">* Wellness Dashboard: * 시청목록에 있는 시스템의 전반적인 상태를 제공합니다.</block>
   <block id="b6f36a5587ee48036508da1d84d1b299" category="list-text">* 위젯: * 시스템 상태에 대한 빠른 요약을 제공하는 작은 응용 프로그램을 대시보드에 표시합니다.</block>
   <block id="609ab9f49962ff004a5b2c4dd4ad0a3d" category="list-text">* 위험: * 해당 문제와 함께 시스템 목록을 표시합니다. 심각도 레벨은 다음과 같이 다릅니다.</block>
@@ -852,7 +771,6 @@
   <block id="927c2765ee865261a716c54a2fde3878" category="list-text">* 위험 확인(Ack): * 영향을 받은 위험 및 시스템을 확인할 수 있습니다. 이러한 위험을 인정하고 이러한 위험을 완화하기 위해 수행할 수 있는 조치를 숙지할 수 있습니다.</block>
   <block id="91351fc68db7f9bca112a2fb897a0902" category="list-text">* Unacknowledged Risk(Unackk): * 확인된 위험 및 시스템을 확인할 수 있습니다.</block>
   <block id="0f4f0d8eb7497054f3f3160501e62e20" category="list-text">* Fix it: * Active IQ United Manager(UM) 9.7 이상을 사용하여 시스템에 대한 위험을 수정합니다. 이 버튼을 클릭하여 UM을 시작하고 위험을 완화하기 위한 단계를 수행합니다.</block>
-  <block id="92a113ae9f19ea88db4e78b8c397339e" category="list-text">* 재고 위젯: * 소유한 총 시스템의 롤업을 표시합니다. 여기에는 Active IQ 지원 제품과 비지원 제품이 모두 포함됩니다.</block>
   <block id="70997d9cb46f1884262203c0386ee9ba" category="list-text">* 보고서 생성: * 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 e-메일로 보냅니다.</block>
   <block id="4f34ff28c8e6e0459e7e8b7c218ea60a" category="list-text">* 계획 위젯: * 갱신해야 하는 용량 추가, 소프트웨어 및 하드웨어에 대한 정보를 표시합니다.</block>
   <block id="f455a78311af3f0899cacd26d802aabd" category="list-text">* 용량 추가: * 용량이 90%를 초과했거나 거의 90% 용량에 근접하는 시스템과 그리드 사이트 용량이 70%를 초과했거나 거의 용량에 근접하는 시스템을 식별합니다. 스토리지 시스템의 용량을 늘리도록 요청을 제출할 수 있습니다.</block>
@@ -864,15 +782,12 @@
   <block id="b397fac92f5d136f7fe3fb94680c6e6f" category="list-text">* 성능 그래프: * 그래픽 형식의 성능 데이터를 확인하여 스토리지 장치의 성능을 분석할 수 있습니다. 선택한 노드에 대한 ONTAP 클러스터의 자세한 성능 그래프를 볼 수 있습니다.</block>
   <block id="c6a6fbd3c93831286955b654f3a43c2d" category="list-text">* 유용한 정보 위젯: * 지원 케이스 수, 소프트웨어 업그레이드 보류, 스토리지 효율성 절감, 위험 완화 등에 대한 정보를 제공합니다. 또한 Wellness 속성의 위험 알림을 사전에 나열합니다.</block>
   <block id="d949398a0cd9559b70782bfb2f9ac159" category="list-text">* AutoSupport: * AutoSupport 인스턴스를 높은 수준이나 세부 수준에서 볼 수 있습니다. 세부 정보에는 시스템 세부 정보, 문제의 가능한 원인 및 권장 조치가 포함됩니다.</block>
-  <block id="f58148b36d284264c85f69fb927477ef" category="paragraph">AutoSupport 기능에 액세스하려면 Active IQ Digital Advisor에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.</block>
-  <block id="60765e03124dbe237199057ad89d6f43" category="list-text">* 빠른 링크: * Active IQ Digital Advisor를 사용하여 실행할 수 있는 애플리케이션목록을 제공합니다.</block>
   <block id="9739d4ffc25558588df6f57e8041f639" category="list-text">* ClusterViewer: * 자세한 물리적 및 논리적 구성 정보를 볼 수 있습니다. 자세한 내용은 여러 탭에 걸쳐 클러스터 및 노드 구성 요약, 로컬 계층 및 볼륨 정보, 네트워크 인터페이스 및 포트 정보, 디스크 및 셸프에 대한 정보를 자세히 설명하는 스택 다이어그램, 케이블 시각화 등 여러 개의 보기 쉬운 테이블에 나와 있습니다. 케이블 시각화 그래픽을 SVG 형식으로 다운로드할 수도 있습니다.</block>
   <block id="e10554f48e3ad865c8bd3aa251010031" category="paragraph">E-Series 시스템에서는 ClusterViewer 기능이 지원되지 않습니다.</block>
   <block id="c3ee6b10a82ee8a739a196c0f92e9cc7" category="list-text">* API 서비스:* 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다.</block>
   <block id="cf6603053c3facd929d0e865e9f65807" category="list-text">* AutoSupport 업로드: * ONTAP 및 E-Series 시스템의 결함이나 문제를 분석할 수 있습니다. 결함이나 문제는 지원 사이트 담당자가 수동으로 검토 및 해결합니다.</block>
   <block id="37adb256aff16968048142b85e04d7cc" category="list-text">* 시스템 펌웨어: * 각 주요 및 패치 버전의 ONTAP와 함께 제공되는 시스템 펌웨어에 대한 정보를 볼 수 있습니다.</block>
   <block id="87b3d4ff312f3761998135fad1e654e6" category="list-text">* 검색: * 고객 이름, 일련 번호, 클러스터, 사이트 이름, 그룹 이름 등 다양한 범주를 기반으로 시스템을 검색할 수 있습니다. 호스트 이름 및 기타.</block>
-  <block id="0a51f957e738efd6c9df7534834bede6" category="list-text">* 고객:* 고객의 설치 기반을 보고 관리할 수 있습니다. 고객 대시보드는 Active IQ의 중앙 포털입니다.</block>
   <block id="18679057e5312924c976a6bd4b05d9ed" category="list-text">* 클러스터: * ONTAP 클러스터에 대한 정보를 제공합니다. 또한 상태, 용량, 스토리지 효율성, 성능 통찰력을 통합합니다.</block>
   <block id="ad2084b929b7ea214a5005875f3f854d" category="list-text">* 일련 번호: * 고객에게 할당된 일련 번호에 대한 정보를 제공합니다.</block>
   <block id="33ff2e9459330445a2f8efc828105eb4" category="summary">드리프트 타임라인 보고서를 생성하는 정보를 제공합니다.</block>
@@ -883,8 +798,6 @@
   <block id="0ee9ccb81e2b9003939ac6aa09488241" category="list-text"><block ref="ab5a1cc12fe7d947d0930f0a2ef72091" category="inline-link-macro-rx"></block>.</block>
   <block id="5e9c60352a0afc7b5a85da95eb674bae" category="summary">AutoSupport에 대한 개요를 제공합니다.</block>
   <block id="fef2278ec58d443914c7d16d5c90ecc3" category="paragraph">AutoSupport는 시스템의 상태를 능동적으로 모니터링하고 구성, 상태, 성능 및 시스템 이벤트 데이터를 NetApp에 자동으로 전송하는 원격 측정 메커니즘입니다.</block>
-  <block id="24b2d71bf7ffd73507bd643c18529301" category="paragraph">이 데이터는 NetApp 기술 지원 팀이 문제의 진단 및 해결 속도를 높이는 데 사용되며, Active IQ은 잠재적인 문제를 능동적으로 감지 및 방지합니다. 내부 지원 조직 및 지원 파트너에게 전송될 수도 있습니다.</block>
-  <block id="beb3c900abcdebfe6fb8889f05e352f2" category="admonition">Active IQ AutoSupport 데이터가 60일 미만인 시스템에 대해서만 AutoSupport 관련 데이터를 표시합니다.</block>
   <block id="e66de45ccd9a8afefe101940b4da6485" category="inline-link-macro">AutoSupport를 설정합니다</block>
   <block id="f3bfa02908c2ab879d33330f57dce830" category="paragraph">ONTAP 시스템의 경우 스토리지 시스템을 처음 구성할 때 AutoSupport가 기본적으로 설정됩니다. 당신은 해야 한다 <block ref="54fdd8b22a63e736e8b214bc3b8526e0" category="inline-link-macro-rx"></block> ONTAP 시스템에서 AutoSupport 정보가 기술 지원 부서 및 내부 지원 조직에 전송되는 방식을 제어합니다.</block>
   <block id="1bbdc300c5fbfb2d1eb6e80bff986bc4" category="paragraph">AutoSupport를 사용하지 않으려는 경우 AutoSupport 업로드 기능을 사용하여 AutoSupport 데이터를 수동으로 업로드하여 스토리지 에코시스템에 대한 권장 사항과 통찰력을 얻을 수 있습니다.</block>
@@ -906,12 +819,10 @@
   <block id="ab0938c0a634e7b9a0c32175dab66cbf" category="paragraph">고객은 계획 * 위젯을 통해 90% 용량을 초과하거나 90% 용량에 근접하는 용량 요구 사항을 식별하고 향후 6개월 내에 만료되었거나 거의 만료되었을 소프트웨어 및 하드웨어를 식별할 수 있습니다. 스토리지 시스템의 용량을 늘리고 하드웨어와 소프트웨어를 갱신하는 요청을 보낼 수 있습니다.</block>
   <block id="cc035831ceccd9eaf04a71fd720c7f1f" category="summary">Cloud Insights의 가상 머신에 대한 자세한 내용은 에 나와 있습니다</block>
   <block id="d152c939b222bcd3e796ea901ac07554" category="doc">Cloud Insights와 통합하여 가상 머신 세부 정보 보기</block>
-  <block id="bad5d4e303a8943f6791b611707e97f2" category="paragraph">Active IQ는 이제 Cloud Insights 기본 버전과 통합되어 고객에게 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다.</block>
   <block id="7988a3af08a9ab5c3313f24277fd8cdb" category="paragraph">이러한 통합의 이점은 다음과 같습니다.</block>
   <block id="d73fc2f93b0cf7e6d3bf78fb70bff2a8" category="list-text">ONTAP의 간소화된 SaaS 모니터링</block>
   <block id="05bffae7acee1d751495fb2f8a0701fe" category="list-text">VMware 전체 스택 모니터링에 대한 가시성</block>
   <block id="c1541ad2124531ef89e365336511a23e" category="list-text">ONTAP 업그레이드 계획 수립에 도움이 되는 자동화된 상호 운용성 점검을 통해 고객의 생산성 절감 따라서 ONTAP 업그레이드가 더 원활하게 진행되어 호스트와 비호환성 문제가 발생할 위험이 감소합니다.</block>
-  <block id="8c0f9ce9681dd5179f5451c71f8f6793" category="admonition">이 기능은 SupportEdge Advisor, SupportEdge Expert 및 Active IQ 업그레이드 계약에만 사용할 수 있습니다.</block>
   <block id="cf14d774d8d0c6d9907931e44af83d21" category="list-text">Inventory * 위젯에서 * Virtual Machines * 를 클릭하여 Cloud Insights에서 사용 가능한 데이터를 봅니다.</block>
   <block id="5292d19ab11993bca39a0810f62fdc4d" category="list-text">Virtual Machine Overview * 탭을 클릭합니다.</block>
   <block id="e0c81bd049581387caad2e365f631ca6" category="list-text">호스트에 대한 정보를 보려면 * ESX 호스트 수 * 를 클릭합니다.</block>
@@ -926,8 +837,6 @@
   <block id="07bdeb694d8afc8ca3ac40f7f85ed9e7" category="paragraph">다음 비디오를 보고 Ansible 플레이북을 생성하여 실행하여 구성 편차를 해결할 수 있습니다.</block>
   <block id="27c0c1bb0cadc9e37385f3ef549226cb" category="summary">대시보드, 시청목록 및 위젯에 대한 정보를 제공합니다.</block>
   <block id="d3e5b7c94097697f92f75fe7c9a676ee" category="doc">시청목록 이해</block>
-  <block id="11ede7bd0ace739f3b91781a9ab554d5" category="paragraph">감시 목록은 Active IQ Digital Advisor 내부에서 미리 선택된 시스템에 빠르고 쉽게 액세스하는 데 사용됩니다. 특정 고객 또는 시스템 집합을 자주 보는 경우 감시 목록을 만드는 것이 좋습니다. 최대 50개의 감시 목록을 생성할 수 있으며 각 감시 목록에는 범주별로 최대 15,000개의 시스템 또는 일련 번호별로 500개의 시스템을 포함할 수 있습니다.</block>
-  <block id="84f698fa2ff5c75d0cfb42c5093b40e1" category="paragraph">Active IQ Digital Advisor에 처음 액세스하는 경우 시청목록을 생성하거나 고객 이름, 사이트 이름, 그룹 이름, StorageGRID, 호스트 이름을 검색할 수 있습니다. 클러스터, 일련 번호 또는 시스템 ID</block>
   <block id="dece35eb22b3654f47ea7b34c8d28b05" category="paragraph">또한 위험 심각도와 유형을 나타내는 카드에 적용된 색상도 알고 있어야 합니다.</block>
   <block id="cfe3edab2601e99b9745cec9fd8ad086" category="summary">시스템의 지원 계약을 갱신하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="fba041f597391cccf20df624e451614c" category="doc">지원 계약을 갱신하십시오</block>
@@ -960,7 +869,6 @@
   <block id="5d15b41ee5ac810b6e7268188476648c" category="paragraph">파일 이름은 Ansible Playbook에서 자동으로 감지됩니다.</block>
   <block id="6566d0c64aca6f40a49a4420aa3d8883" category="summary">지원 서비스 업그레이드에 대한 내용은 에 나와 있습니다.</block>
   <block id="467ddc656b1c849a40e46a0d7ee06a8f" category="doc">지원 서비스를 업그레이드하십시오</block>
-  <block id="d6a2c3315eaa87effd365a47d6dfb92b" category="paragraph">지원 오퍼링의 업그레이드를 구매하여 Active IQ Digital Advisor의 다양한 기능에 액세스할 수 있습니다.</block>
   <block id="81bee906866e738f7e8a54b6610f32e3" category="paragraph">권장 사례 및 수정 사항, Ansible 플레이북을 통한 업그레이드 자동화, 실행 가능한 보고서 및 리뷰, 맞춤형 지원 등 현재 지원 오퍼링을 업그레이드하여 설치 기반을 최적화할 수 있습니다. 업그레이드는 지원 계약을 갱신하거나 시스템(노드) 대시보드에서 다른 시점에 구입할 수 있습니다.</block>
   <block id="4b0ff7d5bbadbf7074a8de3b40758350" category="admonition">현재 SupportEdge Premium 또는 SupportEdge 보안 지원 서비스를 사용하는 경우에만 AIQ 업그레이드를 선택할 수 있습니다.</block>
   <block id="7f59006fb633d44faf18e7aa72c20403" category="list-text">Inventory * 위젯 옆에 있는 * View All Systems * 를 클릭합니다.</block>
@@ -975,8 +883,6 @@
   <block id="144deae4a5b0b4c9284528157c461f6c" category="summary">해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방법에 대한 정보를 제공합니다.</block>
   <block id="f7e6c88265534036ac8e0f442a755875" category="doc">보안 취약점 감지</block>
   <block id="d5d17f408c363c187667642f4d2ee597" category="paragraph">NetApp 보안 사이트는 NetApp 제품 보안의 소스: <block ref="2b116f024b5e4a0f9c1d319872f1fc7d" category="inline-link-macro-rx"></block></block>
-  <block id="d07de6c78533ed3ecc00b46776283804" category="paragraph">Active IQ는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. Active IQ에서 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.</block>
-  <block id="ac9e6dffc41619c8aed4c566d44168e4" category="paragraph">Active IQ에서 지원하지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 <block ref="2b116f024b5e4a0f9c1d319872f1fc7d" category="inline-link-macro-rx"></block></block>
   <block id="820369c7769d4f36cf2076f618fe371d" category="paragraph">* 적용 제품: ONTAP 9(온프레미스 및 클라우드), SANtricity OS 컨트롤러 소프트웨어, NetApp SolidFire(Element 소프트웨어), StorageGRID, Active IQ Unified Manager, ONTAP for VMware(OTV)</block>
   <block id="9e49d2928b0f9c506afa91618789cc95" category="inline-image-macro">보안 취약점 위젯</block>
   <block id="b690081b833e8f28d12bf81f4c46d353" category="list-text">보안 취약점 * 위젯에서 * 조치 * 를 클릭합니다.<block ref="8410ae438d98c330146456538464956f" category="inline-image-macro-rx" type="image"></block></block>
@@ -985,7 +891,6 @@
   <block id="d13ac08a85c268be8e12fb2c5fc6a61f" category="list-text">고유 위험 * 탭을 클릭한 다음 * 수정 조치 * 열의 링크를 클릭합니다.<block ref="b8e4538a50e97a4603efab53e7672864" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ac7de22f816f2710cfe2e83f6abc78bf" category="inline-image-macro">수정 탭</block>
   <block id="159d95fb8858b00a76199e1c9300be15" category="paragraph">이 위험은 ONTAP 9.7P8 이상에서 해결되었습니다.<block ref="4975e5a0a99336b95db3342c05516170" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="15464f88e743b55370c522e3e45b18a4" category="list-text">가장 중요한 단계는 Active IQ Digital Advisor의 *Upgrade Advisor* 에서 OS 업그레이드를 계획하는 것입니다.</block>
   <block id="f839cdbae8d80bc224d943c9c45a46f0" category="summary">스토리지 시스템의 상태를 확인 및 분석하고 위험을 완화할 수 있는 정보를 제공합니다.</block>
   <block id="20ee74a30034c5c1341368bee35c84ff" category="doc">위험을 확인하고 수정 조치를 수동으로 수행합니다</block>
   <block id="0e3a68f1f6b2f1d1d9fe331b11c5efa2" category="paragraph">관련 작업 및 위험을 확인하여 스토리지 시스템의 상태 특성을 분석할 수 있습니다. 관련 수정 조치를 확인하고 위험을 수동으로 완화해야 합니다.</block>
@@ -1045,15 +950,12 @@
   <block id="dd2ac633c61d9191fba57c56e22336db" category="paragraph">토글을 * Code * 보기로 밀어 다양한 언어로 코드 샘플을 볼 수 있습니다.</block>
   <block id="e4f7548bfc57cb05ec15b81412fadffb" category="summary">보유한 전체 재고에 대한 정보를 제공합니다.</block>
   <block id="a8c9ef5b4f3d7f23d67ca929bf6a60ee" category="doc">재고 세부 정보를 봅니다</block>
-  <block id="cab23e300ec643a9fe247abd78009379" category="paragraph">재고 * 위젯은 보유한 총 시스템의 롤업을 제공합니다. 여기에는 Active IQ 지원 제품과 비지원 제품이 모두 포함됩니다.</block>
   <block id="95cc9b63edd3c2016f97c0476635528a" category="paragraph">선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 이메일로 보낼 수도 있습니다.</block>
   <block id="2a533baae54ffebd2a7ae449c7f45df9" category="list-text">시스템 세부 정보를 .xls 형식으로 보려면 * Inventory * 보고서를 다운로드하십시오.</block>
   <block id="c97def108b37d464e0c4a724252e49d9" category="list-text">지역 또는 사이트 수준에서 .yml 및 .ini 형식의 시스템 세부 정보를 보려면 * Ansible Inventory * 보고서를 다운로드하십시오.</block>
   <block id="cf9a05044c598886b8421db3045b9edd" category="paragraph">Ansible 인벤토리 파일을 맞춤형 Ansible 플레이북 파일과 함께 사용하여 인프라 구성을 변경할 수 있습니다.</block>
   <block id="9d094e845c465f9cb6c298c2cfa8c71d" category="summary">정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공합니다.</block>
   <block id="5649476905365d651ff75a651e4e79a8" category="doc">클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다</block>
-  <block id="786f97e3b85dcf5cda7df9f506b9e37f" category="paragraph">Active IQ은 시스템을 지속적으로 분석하고 시스템의 성능, 효율성 및 상태를 개선하기 위한 권장 사항을 제공합니다.</block>
-  <block id="afec60d9807859052bf26fac6dd60746" category="admonition">Active IQ에서는 클라우드 관리자로 이동하여 권장사항을 구현합니다.</block>
   <block id="19f59b74448f6a27519db281a44e4b12" category="section-title">마이그레이션</block>
   <block id="4fc6b52f3180163cea93aa7c8da0e7dd" category="paragraph">스토리지 시스템 내에서 사용 가능한 다양한 워크로드 유형에 대한 정보를 제공하고 클라우드에서 바로 사용할 수 있는 워크로드를 식별합니다. 워크로드를 클라우드로 이동할 경우 비용을 절감하고 클라우드 재해 복구를 제공할 수 있습니다.</block>
   <block id="46c5977f0ec6a34283e38ed39033952e" category="paragraph">CVO(Cloud Volumes ONTAP) 및 CVS(Cloud Volumes Service)로 마이그레이션할 때는 다음 기준을 충족하는 볼륨을 사용하는 것이 좋습니다.</block>
@@ -1064,7 +966,6 @@
   <block id="a6d684c1e9500a6c9c813745e8e2c394" category="list-text">지원 계약은 6개월 후에 종료됩니다</block>
   <block id="fb59e0db05d49dc1ab77a214f215e7c3" category="list-text">왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.</block>
   <block id="610e13ad770f2052e464b10bf6ea8527" category="list-text">Migration * 창에서 링크를 클릭합니다.</block>
-  <block id="ddf979002bc59fc32f03076418804262" category="list-text">Cloud Manager * 를 시작하려면 * 클라우드로 마이그레이션 * 을 클릭합니다.</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="section-title">계층화</block>
   <block id="02c463794e84ded5d1c10c4e83bcc812" category="paragraph">비활성 로컬 계층(애그리게이트) 데이터, 비활성 볼륨 데이터, 계층형 데이터 및 모니터링되지 않은 데이터에 대한 정보를 제공합니다. 콜드 또는 비활성 데이터를 모니터링하고 저비용 오브젝트 스토리지 계층으로 계층화하여 스토리지 설치 공간 및 관련 비용을 줄일 수 있습니다.</block>
   <block id="1ba52d4e13f2ee111637763e8fc34e61" category="admonition">IDR(Inactive Data Reporting)을 활성화하여 Ansible Playbook 파일로 zip 파일을 생성할 수 있습니다. 이 정보는 고객, 사이트, 그룹, 감시 목록, 클러스터 및 노드 레벨:</block>
@@ -1073,7 +974,6 @@
   <block id="e59435b98864e38b0a5fd790ad3f9213" category="list-text">비활성 데이터가 50% 이상입니다</block>
   <block id="3785a1cc5e81e3b99e7d2b0287e9c3b0" category="list-text">애그리게이트 용량이 50% 이상입니다</block>
   <block id="c052aa26952758956923ba904ca5f96a" category="list-text">Tiering * 창에서 링크를 클릭합니다.</block>
-  <block id="27c212bb42a38db76960ac460b46ac3d" category="list-text">계층 데이터 * 를 클릭하여 * Cloud Manager * 를 실행합니다.</block>
   <block id="8d051a62e2d203f6829d7d7282bfaad2" category="inline-link-macro">FabricPool 모범 사례</block>
   <block id="3099044efaa5a1ef100aa4cec7e2f189" category="paragraph">FabricPool에 대한 자세한 내용은 을 참조하십시오 <block ref="d18918d12837aea2df2f7b9b24f83e29" category="inline-link-macro-rx"></block>.</block>
   <block id="f2b4569bc3667af0074e035180a43ef3" category="section-title">백업 및 아카이브</block>
@@ -1081,20 +981,13 @@
   <block id="711f2c81f17519fb6501c1fd6a2ec0bf" category="paragraph">다음 기준을 충족하는 볼륨은 클라우드로 백업하는 데 권장됩니다.</block>
   <block id="58fd2779462a85717972aef01a3e851e" category="list-text">소스 볼륨, 대상 시스템 및 SnapVault 백업이 있는 볼륨은 제외됩니다.</block>
   <block id="8e508c78b6f8cdee2edbb3ccef2f99e0" category="list-text">Backup &amp; Archive * 창에서 링크를 하나 클릭합니다.</block>
-  <block id="d1077a4290f7d361380bac5612edd515" category="list-text">Cloud Manager * 를 시작하려면 * Backup to Cloud * 를 클릭합니다.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="section-title">복제</block>
   <block id="a1ca393b9475ac14fc86fe05bb65fa30" category="paragraph">재해 발생 시 도움이 되도록 클라우드에 복제해야 하는 데이터에 대한 정보를 제공합니다.</block>
   <block id="8a442914a9cdda78003d67734f13fd54" category="paragraph">클라우드로 복제할 때 다음 기준을 충족하는 볼륨이 권장됩니다.</block>
   <block id="c54cd2366c0770abd7582f7fd94c3e4d" category="list-text">SnapMirror 소스 볼륨은 제외됩니다</block>
   <block id="4cb8aabcf131d734977ab53c8a2ca120" category="list-text">SnapMirror 타겟 볼륨(볼륨 유형 LS 및 DP)은 제외됩니다</block>
   <block id="a883cf21600271d7200622fa1132d9b8" category="list-text">Disaster Recovery* 창에서 하나의 링크를 클릭합니다.</block>
-  <block id="a70fb77774e64282c4a92fa8563e4b75" category="list-text">클라우드에 복제 * 를 클릭하여 * Cloud Manager * 를 실행합니다.</block>
-  <block id="c6483c09e97ee0fc310ecd3048002f04" category="summary">Active IQ Digital Advisor를 사용하면 클라우드 기반 포털 및 모바일 앱을 통해 실행 가능한 예측 분석 및 능동적 지원을 제공하여 글로벌 하이브리드 클라우드 전반에서 데이터 인프라를 최적화할 수 있습니다. Active IQ의 클라우드 기반 서비스는 NetApp의 방대한 설치 기반에서 얻은 커뮤니티의 지혜 및 동료 평가를 활용하여 이러한 통찰력을 AutoSupport 원격 측정 및 My AutoSupport 기능과 결합하여 탁월한 고급 분석 서비스를 제공합니다.</block>
-  <block id="8aec6a2bcfb78af1fffa4f2c52dfe49d" category="doc">Active IQ Digital Advisor 설명서</block>
   <block id="ef8a4ebca6f4cc3e64a7ad289ebd3eb6" category="summary">대시보드, 시청목록, 기능 및 위젯에 대한 정보를 제공합니다.</block>
-  <block id="0661b006f375f8cf574047a84d3831c9" category="doc">Active IQ 기능 이해</block>
-  <block id="60f840b3ee58d04f9e443013fa9e3b28" category="paragraph">Active IQ Digital Advisor를 사용하여 관심 목록 수준에서 스토리지 시스템의 전반적인 상태, 시스템 상태, 인벤토리, 계획, 업그레이드 및 중요한 통찰력을 확인할 수 있습니다.</block>
-  <block id="503f32635f00a2f9e7855f2515e0b2a6" category="paragraph">다음은 Active IQ Digital Advisor의 몇 가지 기능입니다.</block>
   <block id="ac1dcbd86bac3c8e0c5adb11006ef7d3" category="list-text">여러 감시 목록, 실행 가능한 유용한 정보 보기를 한 눈에 볼 수 있습니다</block>
   <block id="9c469876265a6bb1e8b9865685bdea76" category="list-text">스토리지 시스템의 모든 위험과 위험 완화를 위한 조치에 대한 통찰력을 확보할 수 있습니다</block>
   <block id="07fbf7c29b885315f5a499828e5d2912" category="list-text">스토리지 시스템을 업그레이드합니다</block>
@@ -1110,8 +1003,6 @@
   <block id="d8d27ee684d88256c60816459952e514" category="admonition">시스템 대시보드의 * Configuration * 위젯에서 지원 오퍼링을 업그레이드하여 설치 기반에 대한 통찰력을 얻고 맞춤형 지원을 받을 수 있습니다.</block>
   <block id="7fffffd83e81207eb469a895955d2d8a" category="summary">사용자가 사용할 수 있는 다양한 유형의 보고서에 대한 정보를 제공합니다.</block>
   <block id="5205cb2f3582e719834d2230589ba0f6" category="doc">보고서 유형</block>
-  <block id="94e352af51d87c5a98b75dabcdaad93a" category="paragraph">Active IQ는 시스템 상태 및 운영 성공을 모니터링하고 관리할 수 있는 다양한 보고 옵션을 제공합니다.</block>
-  <block id="4580a4b84f306c8ee589e863f752ac16" category="paragraph">다음은 Active IQ에서 사용할 수 있는 보고서 유형입니다.</block>
   <block id="fb988f484e2c15b2a450e5b4c6255e46" category="cell">보고서 이름</block>
   <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">설명</block>
   <block id="8d4f3dea5577dce7739de17b3c022f16" category="cell">미확인 및 확인된 위험, 위험 세부 정보, 수정 조치 및 영향을 받는 시스템에 대한 정보를 제공합니다.</block>
@@ -1172,12 +1063,10 @@
   <block id="0ec4134b90582cc935ee8837f4b79494" category="section-title">SP/BMC 펌웨어 설치를 확인하는 중입니다</block>
   <block id="3caae258f0b7b1933ce92f0c03955521" category="paragraph">서비스 프로세서/BMC 펌웨어 업데이트를 위한 Ansible 플레이북에서 컨트롤러에 최신 SP/BMC 펌웨어가 설치되었는지 확인하는 옵션을 사용할 수 있습니다. 검증이 완료되면(업데이트는 최대 2시간이 걸릴 수 있음), Ansible Playbook은 SP/BMC 콘솔에 연결하여 내부 스위치 펌웨어 업데이트를 적용합니다.</block>
   <block id="b80d891d0b3572cb38b140778c2439e6" category="paragraph">SP/BMC 펌웨어 및 내부 스위치 펌웨어 설치에 대한 오류 및 성공 정보는 Ansible Playbook 실행이 끝나면 통지됩니다. SP/BMC 펌웨어/내부 스위치 펌웨어 설치가 실패하는 경우 Ansible 플레이북에 나와 있는 단계를 따르십시오.</block>
-  <block id="0056e708efc93210499292c833fd6580" category="sidebar">Active IQ Digital Advisor 설명서</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">빠른 시작</block>
-  <block id="0a68dc74d82b0caf2bae22d33594834f" category="sidebar">Active IQ의 주요 개념</block>
   <block id="e179ba0b158b2a7f9047aea26b6a2227" category="sidebar">AutoSupport 이해</block>
   <block id="f9e8725fc2db4a86d0c8d9ae95581d74" category="sidebar">프로비저닝 감시 목록</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">개요</block>
@@ -1207,21 +1096,12 @@
   <block id="3d771951f480b18b116afdfb0da9cb88" category="sidebar">API에 액세스하기 위한 토큰을 생성합니다</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">사용자 정의 보고서를 생성합니다</block>
   <block id="af2a4d2810d86aa0169c117f82682f9a" category="sidebar">자주 묻는 질문</block>
-  <block id="92073a6013a22635da417c415cea3970" category="sidebar">Active IQ에 대해 자세히 알아보십시오</block>
-  <block id="80f522a133d5c0697a1422b8cba4f439" category="sidebar">Active IQ를 빠르게 시작합니다</block>
-  <block id="3903992d449534623e64de4fb24bc7bf" category="sidebar">Active IQ를 사용합니다</block>
   <block id="11d4d5337b73945892437ccbc95a0733" category="sidebar">위험을 확인하고 수정 조치를 취합니다</block>
   <block id="a54afc6b3736cfe74798cc6c434300fc" category="sidebar">구성 편차를 감지합니다</block>
   <block id="7a61fe0aacb0733ede2f886638474e22" category="sidebar">중요한 보안 위험을 해결합니다</block>
-  <block id="d30be8ed596e28125eabf3aaa9088577" category="sidebar">Active IQ를 사용하여 분석합니다</block>
   <block id="0aace9b9585a40db8e20e3e200feeb89" category="sidebar">ONTAP 업그레이드 권장 사항을 봅니다</block>
   <block id="29cb371773858a73b7aca64ff6f208f4" category="sidebar">NetApp Keystone 유연한 구독으로 용량 활용도를 확인할 수 있습니다</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">더 많은 리소스</block>
-  <block id="f706543e3bc2ef8cf127bd6a70d0b831" category="sidebar">Active IQ 웹 포털</block>
-  <block id="dd4f53241a447bade15efabb4cd19ce4" category="sidebar">Active IQ 비디오</block>
-  <block id="df332e88c38c4fe66059f71090f042ca" category="sidebar">NetApp 커뮤니티 – Active IQ</block>
-  <block id="9fb5d585aad7cbcbf4b27548d6b5e072" category="sidebar">Active IQ 모바일 애플리케이션(Android)</block>
-  <block id="1b2c7b8f8e2694e94122b68464b31c9f" category="sidebar">Active IQ 모바일 애플리케이션(iOS)</block>
   <block id="2eec6525cedefe6316db600adeaf337c" category="section-title">멀티 홉 업그레이드</block>
   <block id="01b9a3f3b3303730f5c2525f136ad86b" category="paragraph">비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.</block>
   <block id="1e3c19e3742fbfc0e6dd22bb91d109a3" category="inline-image-macro">Upgrade Advisor</block>
@@ -1230,4 +1110,137 @@
   <block id="6398194d87822fdaa5a4dac58b51a1cd" category="list-text">필요한 업그레이드 옵션을 선택합니다.<block ref="63134457816850025801f96a7797e55c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b58373ef1164bbd04be01f9d80e8c58e" category="inline-image-macro">업그레이드 계획을 생성합니다</block>
   <block id="7438b9deedb82087dad294ad34018afe" category="paragraph">릴리스 노트를 확인하여 릴리스에 대한 자세한 정보를 볼 수도 있습니다.<block ref="04306a8a1debf79f0ac04ae6415d891b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="241d0a5c7d11b08c4b6742aafec7ad3e" category="paragraph">재고 * 위젯은 보유한 총 시스템의 롤업을 제공합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.</block>
+  <block id="e58b12802a7d54b8bca5c0033174b2d8" category="summary">Digital Advisor 로그인 정보를 제공합니다.</block>
+  <block id="5a68b284b7bcd8f7a66fdc39f1dcbcd7" category="doc">Digital Advisor에 로그인합니다</block>
+  <block id="37590f3349dc615946e2bde66219f592" category="paragraph">디지털 어드바이저에 로그인하려면 유효한 NetApp Support 사이트 자격 증명이 있어야 합니다. 계정이 없는 경우 를 클릭합니다 <block ref="967ddad47d4311162e2dc8cf03423cdc" category="inline-link-macro-rx"></block>.</block>
+  <block id="45f615e2033fe61475056e1d49532aee" category="list-text">을 클릭합니다 <block ref="348c59707f27a8ca5472dc7d66de9883" category="inline-link-macro-rx"></block> Digital Advisor에 액세스합니다.</block>
+  <block id="45b708abb9ee2f917c7896e31ae4c7b6" category="paragraph">Digital Advisor는 유효한 지원 계약이 있는 시스템을 표시합니다. 계약이 만료되면 90일의 유예 기간이 주어지면 시스템이 계속 표시됩니다. 그 이후에는 Digital Advisor 내에서 시스템을 검색 또는 볼 수 없습니다.</block>
+  <block id="5c711ca6514b7bc5e8b54eb7d0514b90" category="paragraph">이 데이터는 NetApp 기술 지원 팀이 문제의 진단 및 해결 속도를 높이기 위해, Digital Advisor가 잠재적인 문제를 사전에 감지하여 해결하는 데 사용됩니다. 내부 지원 조직 및 지원 파트너에게 전송될 수도 있습니다.</block>
+  <block id="5da64b23743d20365a812a148d09b65f" category="admonition">디지털 어드바이저는 AutoSupport 데이터가 60일 미만인 시스템에 대해서만 AutoSupport 관련 데이터를 표시합니다.</block>
+  <block id="2d0aa76ea44ffecf44fd1e54e726b8a1" category="summary">Digital Advisor를 사용하면 클라우드 기반 포털 및 모바일 앱을 통해 실행 가능한 예측 분석과 사전 예방적 지원을 제공하여 글로벌 하이브리드 클라우드 전반에서 데이터 인프라를 최적화할 수 있습니다. 디지털 자문업체의 클라우드 기반 서비스는 NetApp의 방대한 설치 기반을 기반으로 한 커뮤니티 지혜 및 동종 업계 비교를 활용하여 이러한 통찰력을 AutoSupport 원격 측정 및 My AutoSupport 기능과 결합하여 탁월한 고급 분석 서비스를 제공합니다.</block>
+  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="doc">Digital Advisor 설명서</block>
+  <block id="571d621f51c49640d8adb2c5bb15554a" category="paragraph">Digital Advisor는 시스템을 지속적으로 분석하고 시스템의 성능, 효율성 및 상태를 개선하기 위한 권장 사항을 제공합니다.</block>
+  <block id="ee8a7221101a63a879e7b11a9e134817" category="admonition">디지털 어드바이저는 BlueXP로 이동하여 권장 사항을 구현합니다.</block>
+  <block id="9cac49c92865c9a3284e5600374cfa39" category="list-text">Migrate to Cloud * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
+  <block id="044be2af3d7a8e5a1f40d130d2438c9f" category="list-text">계층 데이터 * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
+  <block id="d47e8f11a965b60f93af502da96f983a" category="list-text">Backup to Cloud * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
+  <block id="75bbd62b379d56356d9a8bb6cfdedb8d" category="list-text">클라우드로 복제 * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
+  <block id="37d1c7cc9a28ed0051987a7bb5b7d027" category="summary">Digital Advisor(이전의 Active IQ Digital Advisor)는 이제 BlueXP와 완벽하게 통합됩니다. 이제 클러스터를 관리하고 BlueXP UI(사용자 인터페이스)에서 Digital Advisor의 모든 기능에 액세스할 수 있습니다.</block>
+  <block id="460143bcf999273db551806a244f984a" category="doc">BlueXP와 디지털 어드바이저 통합</block>
+  <block id="8c36f4cc3d20ca0b82973d5efc0db5f7" category="paragraph">IT 전문가와 클라우드 설계자는 BlueXP를 사용하여 하이브리드 멀티 클라우드 인프라를 중앙에서 관리할 수 있습니다. BlueXP의 디지털 어드바이저에 액세스하려면 NetApp Support 사이트(NSS) 계정만 있으면 됩니다.</block>
+  <block id="ef968e276f61485a7817ba225a8c20b6" category="section-title">통합 개요</block>
+  <block id="8a31c46450be3e07eb3a415a38403202" category="paragraph">2022년 11월부터 Digital Advisor 사용자는 BlueXP에서 Digital Advisor를 사용하는 것이 좋습니다. BlueXP에서 사용하던 것과 동일한 Digital Advisor 인터페이스에 액세스할 수 있습니다. BlueXP를 사용하면 클라우드 스토리지(예: Cloud Volumes ONTAP)를 생성 및 관리하고, NetApp의 데이터 서비스(예: 클라우드 백업)를 사용하고, 많은 사내 및 에지 스토리지 장치를 제어할 수 있습니다.</block>
+  <block id="1e4e863e9bb066c5ea215c0e2d8f2294" category="section-title">BlueXP의 Digital Advisor에 액세스합니다</block>
+  <block id="e6511c2050ba50e9735ddc384cd6c266" category="paragraph">BlueXP의 Digital Advisor에 액세스하여 클러스터를 관리할 수 있습니다.</block>
+  <block id="9b9477e579c3b44dd623d5a6e1ea8d78" category="inline-link">BlueXP</block>
+  <block id="f207a2ae57c57cda458c66d1a31abdc5" category="list-text">웹 브라우저를 열고 로 이동합니다<block ref="728980458233383868b0f55c1d2cfb83" category="inline-link-rx"></block></block>
+  <block id="3d8ba78e98400d1897334797f80e1dae" category="list-text">NetApp Support 사이트 자격 증명으로 로그인 * 을 선택하고 자격 증명을 입력합니다.</block>
+  <block id="7bf7a114c4d9a11615b02eb4c0feafa4" category="paragraph">이전에 전자 메일 및 암호를 사용하여 BlueXP 로그인을 만든 경우 대신 해당 로그인 옵션을 계속 사용해야 합니다.</block>
+  <block id="468fcd95163fdf7aa102458d21bf0cf2" category="list-text">메시지가 표시되면 NetApp Support 사이트 자격 증명을 사용하여 로그인합니다.</block>
+  <block id="f5fa28b6af542125a18f0d6aeb5096f2" category="paragraph">이 로그인은 2단계에서 완료한 로그인과 다릅니다. 2단계에서 BlueXP 플랫폼에 로그인했습니다. 이제 Digital Advisor에 로그인했습니다.</block>
+  <block id="600901e70afccc50e18676048766ba78" category="paragraph">결과 *</block>
+  <block id="87fb1e35365d1159833f632569b95ca4" category="paragraph">기존의 모든 관심 목록과 구성이 표시되며, 이제 Digital Advisor를 일반적인 방식으로 사용할 수 있습니다.</block>
+  <block id="78d1c9f9c86eecd86f5f568cfe0c0721" category="section-title">BlueXP에 대해 자세히 알아보십시오</block>
+  <block id="a4a905679dfffb1a3a7838893b13c23e" category="inline-link">자세한 내용은 BlueXP 설명서를 참조하십시오</block>
+  <block id="48c964ad1de807447dde351c1714184d" category="paragraph"><block ref="48c964ad1de807447dde351c1714184d" category="inline-link-rx"></block></block>
+  <block id="79017d339350abc9b4fad94b4618ddbe" category="paragraph">Digital Advisor는 이제 Cloud Insights Basic 버전과 통합되어 고객에게 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다.</block>
+  <block id="ed4e4f8de723a17e6e6c4047c2858152" category="admonition">이 기능은 SupportEdge Advisor, SupportEdge Expert 및 디지털 어드바이저 업그레이드 계약에만 사용할 수 있습니다.</block>
+  <block id="0e7d981aa2a68d23eec3e0bd5998b81a" category="paragraph">Digital Advisor는 시스템 상태 및 운영 성공을 모니터링하고 관리할 수 있는 다양한 보고 옵션을 제공합니다.</block>
+  <block id="729ee1fe065c2a9eddbc991953f9e9ea" category="paragraph">다음은 Digital Advisor에서 사용할 수 있는 보고서 유형입니다.</block>
+  <block id="066ec3a176aff9b4f9af4ff3ece3ded7" category="doc">Digital Advisor에 대한 FAQ(자주 묻는 질문</block>
+  <block id="d081980d8864e66b493d75e555fbb3e9" category="paragraph">다음 질문은 Digital Advisor에 대한 자주 묻는 질문에 대한 답변입니다.</block>
+  <block id="78922dd3155059d302d1fdc4e6e2d629" category="paragraph">* 디지털 어드바이저와 관련된 피드백을 제공하거나 다른 질문을 하려면 어떻게 해야 합니까? *</block>
+  <block id="8ddbb4960ae1ce3eafd141c7e16ad702" category="paragraph">* Digital Advisor에서 스토리지 효율성에 액세스하려면 어떻게 해야 합니까? *</block>
+  <block id="f079f17b0940258743d34e7b771c715f" category="inline-link-macro">디지털 자문업체</block>
+  <block id="72ad3932c594cc8330139ca85deb062e" category="list-text">의 홈 페이지를 엽니다 <block ref="b14a1f08a6d5b6b71c0d3622c0d1ab6d" category="inline-link-macro-rx"></block>.</block>
+  <block id="2206003195e83e7dfa4c2c9011926729" category="paragraph">* 모든 ONTAP 시스템에 대한 디지털 자문업체 디스플레이 비율은 얼마입니까? *</block>
+  <block id="2c66ccfb9136989ebd0b2f7794383ba0" category="paragraph">Digital Advisor는 ONTAP 9.1 이상을 실행하는 시스템의 비율을 표시합니다.</block>
+  <block id="1d12326dce386ed19f23df20370e5e13" category="paragraph">기본적으로 Digital Advisor Efficiency Dashboard는 고객 레벨, 사이트 레벨, 그룹 레벨, 클러스터 레벨 및 노드 레벨에서 전반적인 비율을 계산합니다. 전체 비율에는 다음 스토리지 효율성 기술의 비율이 포함됩니다.</block>
+  <block id="32e9d50c870e81367dbe4239acf80f7a" category="paragraph">스냅샷 없음 * 확인란을 선택하면 Digital Advisor가 고객 레벨, 사이트 레벨, 그룹 레벨, 클러스터 레벨 및 노드 레벨에서 효율성 비율(중복제거, 압축, 데이터 컴팩션, 클론 스토리지 효율성 기술의 비율)을 계산합니다.</block>
+  <block id="b158ad6d14f96b16232682ec9719f63d" category="paragraph">* Digital Advisor에서 용량을 어떻게 계산합니까? * Digital Advisor의 용량은 루트 및 스냅샷 복사본을 제외하고 클러스터와 노드에 대해 계산됩니다</block>
+  <block id="d7a018b0994fcd8c73438187d3cd257d" category="paragraph">Digital Advisor Base 2 또는 Base 10에 용량이 표시되어 있습니까? * Digital Advisor에 표시되는 모든 용량은 Base 2(1024로 구분)이며 용량은 GiB/TiB입니다. ONTAP 스토리지 및 기타 NetApp 제품에도 기본 2의 용량 사용량이 표시됩니다.</block>
+  <block id="a6f53b7c2d98e66115a149a04939e113" category="list-text">SAP에서 새 시스템이 추가되거나 업데이트되면 Digital Advisor에 반영되기까지 하루 이상이 걸립니다.</block>
+  <block id="7b8ca3eb07a8240bd90e77dc0b6b4b64" category="list-text">Digital Advisor에서는 보고서를 편집할 수 없습니다. 기존 보고서를 삭제하고 새 보고서를 만들어야 합니다.</block>
+  <block id="b38cbc17f5d9a4695d51db9473e7dffd" category="admonition">이 보고서는 Digital Advisor에 3일간 저장됩니다.</block>
+  <block id="ba5f7135032775c8c999ecabfd7ec65b" category="summary">Digital Advisor에 대한 자세한 내용은 에 나와 있습니다.</block>
+  <block id="e3f44fedccc2711587690bd9581827ed" category="paragraph">Digital Advisor는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. 디지털 어드바이저가 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.</block>
+  <block id="e4a01f7a7f6646fdbc005accd650783f" category="paragraph">Digital Advisor가 적용되지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 <block ref="2b116f024b5e4a0f9c1d319872f1fc7d" category="inline-link-macro-rx"></block></block>
+  <block id="6c0397360aa8b37bbbe1fa3a38744674" category="list-text">Digital Advisor에 로그인합니다.</block>
+  <block id="ca249192c36cc85e44209b65bfb3ec3d" category="list-text">가장 중요한 단계는 디지털 어드바이저의 * Upgrade Advisor * 에서 OS 업그레이드를 계획하는 것입니다.</block>
+  <block id="16d182da6aeb172074cbe06d557991cc" category="paragraph">감시 목록은 Digital Advisor 내에서 미리 선택된 시스템에 빠르고 쉽게 액세스하는 데 사용됩니다. 특정 고객 또는 시스템 집합을 자주 보는 경우 감시 목록을 만드는 것이 좋습니다. 최대 50개의 감시 목록을 생성할 수 있으며 각 감시 목록에는 범주별로 최대 15,000개의 시스템 또는 일련 번호별로 500개의 시스템을 포함할 수 있습니다.</block>
+  <block id="fdcefef7d938550393c7f560b2c30cac" category="paragraph">처음 디지털 어드바이저에 액세스할 때 감시 목록을 생성하거나 고객 이름, 사이트 이름, 그룹 이름, StorageGRID, 호스트 이름을 검색할 수 있습니다. 클러스터, 일련 번호 또는 시스템 ID</block>
+  <block id="8fe538800aeef2cc4ce4a036305bf264" category="paragraph">Digital Advisor API Services는 자동화를 사용하여 워크플로우에 효율성을 추가합니다. API 서비스 내부에는 20개 이상의 서비스 영역으로 그룹화된 100개 이상의 서로 다른 API 엔드포인트를 설명하는 * API Catalog * 가 있습니다. NetApp 고객은 이러한 API를 사용하여 시스템 정보, 스토리지 효율성, 성능, 상태 및 업그레이드와 같은 다양한 관심 영역을 이용할 수 있습니다.</block>
+  <block id="b55b7f8ad3b486e6903c05d80410b389" category="paragraph">API는 프로그래밍 방식으로 Digital Advisor에 문의하고 데이터를 컴퓨팅 환경으로 다시 가져올 수 있는 간단한 코드를 작성할 수 있는 인터페이스입니다. 매일 Digital Advisor에 연락하여 관심 영역의 최신 데이터를 다시 가져오는 방식으로 코드를 작성할 수 있습니다. 그런 다음 이 데이터를 사용하여 발권 시스템을 채우거나 자신만의 대시보드, 웹 페이지 또는 보고서를 만들 수 있습니다. Digital Advisor API 카탈로그에는 코드 샘플과 브라우저 API를 사용해 볼 수 있는 기능이 모두 포함되어 있습니다.</block>
+  <block id="2eba3fd530b8be90290c1ea2652f4310" category="paragraph">API를 통한 자동화는 일상적인 또는 주간 작업에 효율성과 정확성을 더할 수 있는 좋은 방법입니다. 리소스를 확보하여 더욱 복잡한 작업을 수행하거나 새 워크플로우를 자동화할 수 있습니다. 예를 들어, 수정해야 할 시스템 상태 위험이 있는 경우 최소한 Digital Advisor 및 티켓 시스템에 대한 푸시를 자동화할 수 있습니다.</block>
+  <block id="ee67d4518095f8899eb8244097de7a35" category="paragraph">활성화는 자동으로 이루어지며 즉시 이루어져야 합니다. Digital Advisor API를 사용하도록 허가된 후에는 프로그래밍 API 호출을 수행할 때 사용할 토큰을 생성할 수 있습니다. 이러한 토큰을 사용하여 API 카탈로그 내에서 "시험 사용"을 실행할 수도 있습니다. 프로그래밍 방식으로 가져온 토큰은 항상 액세스 토큰과 새로 고침 토큰의 두 집합으로 제공됩니다. 모든 API를 성공적으로 사용하려면 액세스 토큰을 전달해야 합니다. 단, 하나는 예외입니다. 새로 고침 토큰을 사용하여 프로그래밍 방식으로 새 토큰 집합을 가져옵니다.</block>
+  <block id="ea91f255c0d20a5fbac87ebc9647b943" category="paragraph">Digital Advisor에 로그인하면 * 랜섬웨어 방어 * 위젯에 강조 표시된 * 조치 * 를 볼 수 있습니다. 이 위젯은 위험 수를 보여줍니다.</block>
+  <block id="ec51503b0f35cbc8702985e4aa3ca3c5" category="paragraph">용량 및 스토리지 효율성에 대한 자세한 내용은 를 참조하십시오 <block ref="de007cfc8081d514ce95fa7f06caeee8" category="inline-link-macro-rx"></block>.</block>
+  <block id="ddd5bde8e3e027f9a9efab7fcfa90542" category="doc">Digital Advisor의 새로운 기능</block>
+  <block id="67b15699a3be9f040c8687b7005f0de8" category="paragraph">Digital Advisor에는 다음과 같은 기능과 개선 사항이 도입되었습니다.</block>
+  <block id="ae90f5ddd6bedf0784aa3f4496ea1cad" category="section-title">2022년 11월 1일</block>
+  <block id="8170292c601a72e4a24d3cbac63d8070" category="section-title">BlueXP와 통합된 디지털 어드바이저</block>
+  <block id="7dc92aa05d634ffe404fd7ad42175cf1" category="paragraph">Active IQ 디지털 어드바이저가 디지털 어드바이저로 바뀌고 있으며, 이제 하이브리드 멀티 클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 BlueXP에 통합되었습니다. <block ref="575246a0eb7002042f4cf91d71dc2f1a" category="inline-link-macro-rx"></block>.</block>
+  <block id="f668b17ee05cd74c11dbf1d1d949072e" category="paragraph">이제 BlueXP 사용자는 Digital Advisor의 기존 기능과 마찬가지로, 해당되는 경우 새 탭에서 Digital Advisor 링크를 열 수 있습니다.</block>
+  <block id="de07e5fcc39a7c8a7ee2ef456f8e167e" category="paragraph">Digital Advisor에서 선택한 E-Series 시스템의 용량 세부 정보 및 성능 그래프를 볼 수 있습니다.</block>
+  <block id="0762a98733fb0259b2c034300821b8eb" category="list-text">Digital Advisor – Reports 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.</block>
+  <block id="df47487af8662ffcf5c1cb4c764b23fc" category="paragraph">Digital Advisor에서 NetApp Cloud Volumes ONTAP 시스템에 대한 용량 세부 정보를 볼 수 있습니다.</block>
+  <block id="c397a59d56241a37734ccf60bff818c1" category="paragraph">디지털 자문업체 에서 NetApp ONTAP ® Select 시스템의 용량 세부 정보를 확인할 수 있습니다.</block>
+  <block id="1bc6efb38e5452ae483607b4cb3f390b" category="section-title">Digital Advisor 모바일 애플리케이션</block>
+  <block id="8782b3b7fd5ab9d892fbb6380e74d09a" category="paragraph">이제 Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.</block>
+  <block id="c5529581775c24c48ba966fe62c380ea" category="inline-link-macro">Digital Advisor Mobile Application(Android)</block>
+  <block id="d2bb1a06f3434afc8ca9c8ea68155750" category="inline-link-macro">Digital Advisor Mobile Application(iOS)</block>
+  <block id="ede5133f297fb3524e463011a05dcbc2" category="paragraph">응용 프로그램을 다운로드하여 자세히 알아보십시오.<block ref="3b3c942cfc1ba603f4c8c5e6cb260955" category="inline-link-macro-rx"></block>
+<block ref="fe0e17ac3ee3049ee306c938dd1d6b0c" category="inline-link-macro-rx"></block></block>
+  <block id="d78a9201b5a1da34052eb6d1da7c7414" category="list-text">Digital Advisor에 가입되어 있는 특정 지원 서비스를 표시하도록 사용자 인터페이스가 향상되었습니다.</block>
+  <block id="606d45bc02a4e58356236313e91bb72f" category="paragraph">처음 Digital Advisor에 액세스할 때 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.</block>
+  <block id="e07c66941c84e7feebe88312021581ff" category="paragraph">FabricPool 대시보드에 계층 데이터 버튼이 추가되어 NetApp BlueXP를 사용하여 저렴한 오브젝트 스토리지 계층에 데이터를 계층화할 수 있습니다.</block>
+  <block id="41f9c9dd8e599cba3a64a6e53ff343a9" category="paragraph">Digital Advisor API를 사용하여 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다. <block ref="79a495fed0082d673c1047b883d4546e" category="inline-link-macro-rx"></block>.</block>
+  <block id="423dd400f697bb08eca274e1e810b26e" category="paragraph">Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.</block>
+  <block id="4791e1aac6a449cf242a8a6a09240ac3" category="paragraph">Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다. <block ref="1896498242b484574904ca9397362055" category="inline-link-macro-rx"></block>.</block>
+  <block id="7a528fe08556f70d64e31f51b17654f7" category="paragraph">이제 피드백을 제공하고 Digital Advisor의 기본 홈 페이지 화면을 업데이트하는 이유를 알려 주십시오.</block>
+  <block id="242af7c119838a4ad767c52325947075" category="paragraph">이제 Digital Advisor의 기본 홈 페이지 화면을 설정할 수 있습니다. Digital Advisor 또는 Classic로 설정할 수 있습니다.</block>
+  <block id="6a561fa96a3d1a7ca7d1a2e1d651de71" category="paragraph">온보딩 비디오는 사용자가 Digital Advisor의 옵션 및 기능을 빠르게 익힐 수 있도록 도와줍니다.</block>
+  <block id="f0e62003a241d3b1041b11bf3944673b" category="paragraph">Digital Advisor 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 볼 수 있습니다. 선택한 시스템의 경우 Value 보고서는 지난 1년간의 이점을 통합합니다. <block ref="d21ac6e6095a0c5ba338352404b3f707" category="inline-link-macro-rx"></block>.</block>
+  <block id="d6a9e7c7d5d1f7c1e1914573b3f70321" category="paragraph">최신 Digital Advisor 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.</block>
+  <block id="4bf24111ed7846edf31112cd54f977f7" category="summary">워크플로를 이해하고 Digital Advisor를 시작하는 데 도움이 됩니다.</block>
+  <block id="9df05130b53153d473ac75b8468832e2" category="doc">Digital Advisor의 빠른 시작</block>
+  <block id="e343dbdc5c146bf7201ffb387c076db1" category="paragraph">작업을 보다 효과적으로 수행할 수 있도록 디지털 어드바이저가 개선 및 재설계되었습니다. 사용자 인터페이스는 사용자가 원하는 목표를 수행하도록 안내하기 위해 개발되었습니다.</block>
+  <block id="57a12a643f6d5e73b46f069efe90b7a2" category="paragraph">다음 다이어그램을 참조하여 Digital Advisor의 워크플로우를 이해할 수 있습니다.</block>
+  <block id="905902c19ab6d4d3f9448f10df9d50f0" category="inline-image-macro">Digital Advisor 워크플로우</block>
+  <block id="6772c3598d37823b8896ecdd3c1dadc1" category="paragraph"><block ref="6772c3598d37823b8896ecdd3c1dadc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="52d4996b42fe03a547cbeb424690436d" category="paragraph">다음 비디오를 통해 Digital Advisor를 시작할 수 있습니다.</block>
+  <block id="baa9525000e838978ad307d2ffa6ce17" category="paragraph">일부 Digital Advisor 위젯은 일부 플랫폼에서 지원되지 않습니다. Digital Advisor는 스토리지 시스템의 플랫폼을 식별하고 스토리지 시스템에서 수행할 수 있는 작업 세트만 표시합니다.</block>
+  <block id="d429c03a130ff961e12409aee8fa2b9a" category="section-title">감시 목록을 편집하는 데는 60분 정도 걸릴 수 있습니다</block>
+  <block id="de1371cd93c5974f25486b1d0496e7ff" category="paragraph">감시 목록을 편집해도 Digital Advisor의 정보는 즉시 업데이트되지 않습니다. 디지털 어드바이저에게 변경 사항이 반영되려면 최대 60분이 걸릴 수 있습니다.</block>
+  <block id="d46650e342e5c88508541b7bf48a859f" category="section-title">승인되고 확인되지 않은 위험은 디지털 어드바이저에 반영되기까지 60분이 걸릴 수 있습니다</block>
+  <block id="de031b37ae88787ef3cdc870e9177445" category="paragraph">승인되고 확인되지 않은 위험의 상태는 Digital Advisor에 즉시 반영되지 않습니다. 변경 사항이 Digital Advisor 및 Wellness Report에 반영되려면 최대 60분이 소요될 수 있습니다.</block>
+  <block id="194c61820d9b82b7329e3153ac5cd674" category="paragraph">Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다.</block>
+  <block id="39c8987e43727590806ec031b3dd0a86" category="summary">Digital Advisor에 사용되는 주요 용어에 대한 정보를 제공합니다.</block>
+  <block id="9d20c3f0e792e5776281264573b1c017" category="paragraph">Digital Advisor를 사용하기 시작할 때 Digital Advisor 전체에서 예상할 수 있는 몇 가지 기본 용어를 이해하는 것이 중요합니다.</block>
+  <block id="d3ad3d0846f828c5868eb4c6ab09e928" category="list-text">* 관심 목록: * 이미 선택된 Digital Advisor 내부의 시스템에 액세스할 수 있는 유연성을 제공합니다. 감시 목록을 사용하여 하나 이상의 고객에 있는 시스템을 추가할 수 있습니다.</block>
+  <block id="acf7d20d0268fb3265f641fbc7ac8d68" category="list-text">* 재고 위젯: * 소유한 총 시스템의 롤업을 표시합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.</block>
+  <block id="ec20f764d25cf1eba2cf41562f1a4dc7" category="paragraph">AutoSupport 기능에 액세스하려면 Digital Advisor에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.</block>
+  <block id="56f4dbda16e117456735f4152501a126" category="list-text">* 빠른 링크: * 디지털 어드바이저를 사용하여 실행할 수 있는 응용 프로그램 목록을 제공합니다.</block>
+  <block id="8b4015616b4ebb333b0bb005e28e4b8e" category="list-text">* 고객:* 고객의 설치 기반을 보고 관리할 수 있습니다. Customer Dashboard는 Digital Advisor의 중앙 포털입니다.</block>
+  <block id="c185e2d804ea74628fccd45ec760120b" category="paragraph">Digital Advisor에 로그인하고 * Configuration * 위젯에 빨간색 배지가 표시되는 경우 위젯을 클릭하면 볼륨이 98% 차 있고 이로 인해 정전이 발생할 수 있습니다. 이 문제를 해결하면 볼륨이 채워지지 않습니다. 이렇게 하면 읽기 전용이 되어 응용 프로그램이 충돌하고 실패합니다.</block>
+  <block id="f9d46621c3d43242e4a3984f6d9b49d4" category="doc">Digital Advisor 기능 이해</block>
+  <block id="346661910d62d25c1475a0a09bd7a473" category="paragraph">Digital Advisor를 사용하여 관심 목록 레벨에서 스토리지 시스템의 전체 상태, 시스템 상태, 재고, 계획, 업그레이드 및 중요한 통찰력을 확인할 수 있습니다.</block>
+  <block id="4d7ba674630738cac5e8b1e2fed17854" category="paragraph">다음은 Digital Advisor의 몇 가지 기능입니다.</block>
+  <block id="12dfd6dec7a5455387d9e6ce595e8907" category="paragraph">지원 오퍼링의 업그레이드를 구매하여 Digital Advisor의 다양한 기능에 액세스할 수 있습니다.</block>
+  <block id="1e113c9e791f55b9d40e5564c75fd42a" category="paragraph">Keystone 가입 서비스에 가입한 경우 Digital Advisor 대시보드에서 Keystone 가입 위젯을 확인할 수 있습니다.</block>
+  <block id="46b0133ea42a96887a939d9e262c57cf" category="admonition">디지털 자문업체 사용자는 ONTAP 수집기와 AutoSupport 중에서 선택하여 용량 사용에 대한 데이터를 얻을 수 있습니다.</block>
+  <block id="ededec00f7d24950f152983df2ad1f73" category="list-text">지원 및 피드백을 보려면 Digital Advisor의 지원 버튼을 클릭하십시오.</block>
+  <block id="a66a2f6647458a57d2e6fc1df3f920bf" category="paragraph">Digital Advisor에 로그인하고 * 가용성 및 보호 * 위젯에 빨간색 배지를 보면 중요한 위험을 해결하기 위한 조치를 취할 수 있습니다. 펌웨어를 수정하지 않으면 일정 시간 동안 전원을 켠 후 드라이브가 작동하지 않을 수 있습니다. 이 문제를 수정하면 가동 중지 시간과 가능한 데이터 손실이 모두 발생하지 않습니다.</block>
+  <block id="7668feb1d998cf5c94c1e24359309154" category="list-text">Digital Advisor에 로그인합니다.</block>
+  <block id="eea107c69ccee0cbe0becace353b156f" category="paragraph">Digital Advisor는 맞춤형 Ansible 스크립트 또는 플레이북을 생성하여 디스크 펌웨어 파일을 비롯한 필수 디스크 펌웨어를 업데이트합니다.</block>
+  <block id="c8a6259aed44fea9ff6723eeb59cce9e" category="sidebar">Digital Advisor 문서</block>
+  <block id="87ff2175a631a03e0b15d2041aab4f9f" category="sidebar">BlueXP에서 클러스터를 관리합니다</block>
+  <block id="102d9716e9927264b03dcd24c0dd5cc3" category="sidebar">Digital Advisor에 대해 자세히 알아보십시오</block>
+  <block id="156203bd2f0dca053d9b9dbd8f8912c7" category="sidebar">Digital Advisor 사용</block>
+  <block id="6cb30ae6af19fc79cca62d705f6b0744" category="sidebar">Digital Advisor를 이용한 분석</block>
+  <block id="ff40d476eb35d6d339a7a745c5825109" category="sidebar">Digital Advisor Web Portal을 참조하십시오</block>
+  <block id="4238f8b700953551a4ce57636e1b3b11" category="sidebar">Digital Advisor 비디오</block>
+  <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
 </blocks>
