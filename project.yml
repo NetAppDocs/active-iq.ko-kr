@@ -32,8 +32,6 @@ sidebar:
       url: "/concept_autosupport.html"
     - title: Digital Advisor에 로그인합니다
       url: "/task_login_activeiq.html"
-    - title: BlueXP에서 클러스터를 관리합니다
-      url: "/concept_manage_your_cluster_in_cloud_manager.html"
   - title: 프로비저닝 감시 목록
     entries:
     - title: 개요
