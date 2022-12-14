@@ -19,6 +19,7 @@ summary: Docker 이미지를 사용하여 Ansible Playbook을 실행하는 방�
 
 
 .단계
+[role="lead"]
 . 설치합니다 link:https://docs.python.org/3/using/windows.html["파이썬"] 및 link:https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html["Ansible"].
 . PIP * 를 사용하여 필요한 Python 패키지를 설치합니다.
 +
