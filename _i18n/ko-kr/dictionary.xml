@@ -1012,7 +1012,6 @@
   <block id="55449fd175613962d882ab450cfc5f3c" category="cell">FabricPool</block>
   <block id="7eaee357275d531796b5348076c7abaa" category="cell">비활성, 콜드, 활성, 핫, 계층형, 모니터링되지 않는 데이터입니다. 이 보고서에는 비활성화된 애그리게이트에 대해 비활성 데이터 보고를 활성화하기 위한 Ansible 플레이북도 포함되어 있습니다.</block>
   <block id="2a414d2cb2f384ea04369dd0623dab64" category="cell">선택한 감시 목록, 고객, 사이트, 그룹 수준에 대한 설치 기반에 대한 정보를 제공합니다. 이 보고서는 재고 상세 정보 페이지에서 직접 다운로드로 생성하거나 보고서 페이지에서 생성할 수 있습니다.</block>
-  <block id="7a1964d60060b532bf912499ef0e5419" category="cell">지원 종료 수명</block>
   <block id="945bdabc5825ce732fb5d22e7dd80610" category="cell">지원 종료(EOS)에 도달한 컨트롤러, 쉘프 및 디스크 목록에 대한 정보를 제공합니다.</block>
   <block id="8a12eef10db15850c4fa22387e8a4ff9" category="cell">권장 구성</block>
   <block id="c829d71ff8f116d3f11dc69d03aa4c34" category="cell">원격 관리 구성, 스페어 및 드라이브, HA 쌍 및 SVM 상태에 대한 권장 구성 격차에 대한 정보를 제공합니다.</block>
@@ -1268,4 +1267,10 @@
   <block id="0acf8be1231e24946c3d10b649fb576f" category="cell">볼륨</block>
   <block id="21f34cc44dc8079bb3c3e391a241dae2" category="paragraph">정규식 을 사용하면 볼륨, 애그리게이트, 클러스터 등의 이름 불일치로 인해 발생하는 DRIFTS를 포함하는 구성 드리프트 보고서를 만들 수 있습니다. 예를 들어, 그룹 * 집계 * 의 섹션 * AGGR-INFO.XML * 에 대한 * Name * 에 대해 정규식 * aggr-name** 이 언급된 경우, 접두사 * aggr-name * 이 없는 특성 값은 구성 드리프트 보고서가 생성될 때 드리프트로 표시됩니다.</block>
   <block id="2eb59240b774cdd59bd034ded7487a51" category="list-text">선택 사항: 그룹을 편집하거나 템플릿에 필요하지 않은 그룹을 삭제하여 템플릿을 사용자 지정할 수 있습니다.</block>
+  <block id="65ad691748c94924b6f326c7c9439c6f" category="section-title">2023년 1월 12일</block>
+  <block id="af8ffc565aa8e5b74351ac5b3619d11e" category="section-title">성능 보고서</block>
+  <block id="da1d47d31f2c9af4c95e87ea269228d6" category="paragraph">볼륨 레벨의 성능 보고서에서 평균 읽기, 쓰기 및 기타 작업을 볼 수 있습니다.</block>
+  <block id="02e55cfbe6e55152bef274ca4a6a3d14" category="cell">지원 계약/하드웨어 EOS</block>
+  <block id="e5f2463f379aba48a0f9ca6c913203cc" category="cell">IO 밀도</block>
+  <block id="7f5c8fc8352c3e254ac3f5c7cf32c466" category="cell">IO Density Report는 데이터 및 메타데이터 소비 및 밀도 측면에서 고객이 가장 많이 사용하는 입출력 작업에 대한 통찰력을 제공합니다.</block>
 </blocks>
