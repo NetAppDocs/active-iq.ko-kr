@@ -1270,7 +1270,7 @@
   <block id="7f5c8fc8352c3e254ac3f5c7cf32c466" category="cell">IO Density Report는 데이터 및 메타데이터 소비 및 밀도 측면에서 고객이 가장 많이 사용하는 입출력 작업에 대한 통찰력을 제공합니다.</block>
   <block id="deaf5bbabe29231a9826b313fee569a1" category="inline-link-macro">Keystone 구독 대시보드 및 리포팅</block>
   <block id="706f9582e4d14591a9eeeaf6db8cc6c5" category="paragraph">Keystone 구독에 대한 자세한 내용은 을 참조하십시오 <block ref="42d99877a3bdc96c47aeda69738db0f2" category="inline-link-macro-rx"></block>.</block>
-  <block id="271fb73110ffc5de8ec449a60893024c" category="section-title">2023년 2월 9일</block>
   <block id="1c6ca21b0d3e6f38c91e416032c3b178" category="paragraph">볼륨 IOPS 차트에서 평균 읽기, 쓰기 및 기타 작업을 볼 수 있습니다.</block>
   <block id="80a2eb22b09cbe781077565f06b74dbf" category="paragraph">SAN 및 NAS 스토리지 효율성은 노드 레벨에서 AFF A 시리즈, AFF C190, 모든 SAN 어레이 및 ONTAP 9.10 이상을 실행하는 FAS500을 포함한 ONTAP 시스템에 제공됩니다.</block>
+  <block id="7002d0318dc4f195c464ca83f3d2ca86" category="section-title">2023년 2월 22일</block>
 </blocks>
