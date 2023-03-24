@@ -301,7 +301,7 @@ NetApp Cloud Insights에서 유지 관리 및 모니터링하는 시스템에 �
 
 === 비활성 데이터 보고(IDR)
 
-FabricPool 어드바이저 화면에서 비활성 데이터 보고(IDR)를 활성화하여 애그리게이트를 모니터링하고 Ansible 플레이북을 생성할 수 있습니다. link:task_monitor_and_tier_inactive_data_with_FabricPool_Advisor.html["자세한 정보"]
+FabricPool 어드바이저 화면에서 비활성 데이터 보고(IDR)를 활성화하여 애그리게이트를 모니터링하고 Ansible 플레이북을 생성할 수 있습니다.
 
 
 
@@ -427,8 +427,8 @@ Capacity Forecast 위젯이 시스템 재구성을 보다 잘 지원하는 개�
 
 이제 Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.
 
-응용 프로그램을 다운로드하여 자세히 알아보십시오.link:https://play.google.com/store/apps/details?id=com.netapp.aiqda&hl=en_IN&gl=US["Digital Advisor Mobile Application(Android)"]
-link:https://apps.apple.com/in/app/active-iq-digital-advisor/id1562880322["Digital Advisor Mobile Application(iOS)"]
+응용 프로그램을 다운로드하여 자세히 알아보십시오.link:https://play.google.com/store/apps/details?id=com.netapp.myautosupport["Digital Advisor Mobile Application(Android)"^]
+link:https://apps.apple.com/us/app/active-iq/id1230542480["Digital Advisor Mobile Application(iOS)"^]
 
 
 
@@ -504,7 +504,7 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
-=== 유연한 구독 위젯
+=== Keystone 구독 위젯
 
 * 용량 사용에 대한 데이터를 얻기 위해 ONTAP Collector를 선택한 경우 공유 및 디스크 탭에서 파일 공유 및 디스크의 세부 정보를 볼 수 있습니다. 커밋된 용량에 근접하는 용량을 식별하여 스토리지 공간을 절약할 수 있습니다.
 * Keystone - 용량 활용률 대시보드에 표시되며 청구에 사용되는 용량 사용량이 이제 논리적 용량을 기준으로 합니다.
@@ -712,7 +712,7 @@ Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어�
 
 === 상태 점검 대시보드
 
-Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다. link:concept_understand_health_check_assessment_dashboard.html["자세한 정보"].
+Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다.
 
 
 
@@ -746,9 +746,9 @@ AutoSupport 데이터를 보고 세부 정보를 검토할 수 있습니다.
 
 
 
-=== 유연한 구독 위젯
+=== Keystone 구독 위젯
 
-NetApp Keystone 유연한 구독 서비스에서 커밋된 스토리지 용량, 사용된 스토리지 용량 및 버스트 스토리지 용량을 모니터링할 수 있습니다.
+NetApp Keystone 구독 서비스에서 커밋된 스토리지 용량, 사용된 스토리지 용량 및 버스트 스토리지 용량을 모니터링할 수 있습니다.
 
 
 

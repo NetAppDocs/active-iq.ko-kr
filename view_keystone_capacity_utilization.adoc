@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: view_keystone_capacity_utilization.html 
 keywords: keystone, capacity utilization, service tiers, Keystone subscription, keystone subscription, shares, disks 
-summary: NetApp Keystone 유연한 서브스크립션의 용량 활용도에 대한 정보를 제공합니다. 
+summary: NetApp Keystone 서브스크립션을 통한 용량 활용에 대한 정보를 제공합니다. 
 ---
 = NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다
 :toc: macro
@@ -23,9 +23,9 @@ Keystone 가입 서비스에 가입한 경우 Digital Advisor 대시보드에서
 
 Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 이 차트는 물리적 용량에 대한 용량 활용도 차트로 구성되며 스냅샷은 마지막 5분으로 반올림됩니다. 약정 용량 이상의 사용률(버스트 용량)은 빨간색으로 표시됩니다.
 
-위젯의 데이터를 분석하고 서비스된 모든 스토리지의 용량 및 사용 추세를 그래픽으로 나타내는 * Keystone - 용량 활용률 * 대시보드를 볼 수 있습니다 link:https://docs.netapp.com/us-en/keystone/nkfsosm_performance.html["서비스 계층"]프리미엄, 익스트림 및 표준과 같은 NetApp Keystone 가입 계정에 연결됩니다.
+위젯의 데이터를 분석하고 서비스된 모든 스토리지의 용량 및 사용 추세를 그래픽으로 나타내는 * Keystone - 용량 활용률 * 대시보드를 볼 수 있습니다 link:https://docs.netapp.com/us-en/keystone/nkfsosm_performance.html["서비스 계층"^]프리미엄, 익스트림 및 표준과 같은 NetApp Keystone 가입 계정에 연결됩니다.
 
-를 볼 수 있습니다 link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html["Keystone 구독 서비스 용량"] 및 대시보드에서 블록, 파일 서비스 또는 오브젝트 스토리지에 대해 요청된 각 서비스의 사용
+를 볼 수 있습니다 link:https://docs.netapp.com/us-en/keystone/nkfsosm_keystone_service_capacity_definitions.html["Keystone 구독 서비스 용량"^] 및 대시보드에서 블록, 파일 서비스 또는 오브젝트 스토리지에 대해 요청된 각 서비스의 사용
 
 
 NOTE: 디지털 자문업체 사용자는 ONTAP 수집기와 AutoSupport 중에서 선택하여 용량 사용에 대한 데이터를 얻을 수 있습니다.

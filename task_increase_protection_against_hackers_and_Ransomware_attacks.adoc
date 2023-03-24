@@ -19,11 +19,11 @@ summary: 해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방�
 
 
 [role="lead"]
-NetApp 보안 사이트는 NetApp 제품 보안의 소스: link:https://security.netapp.com[""]
+NetApp 보안 사이트는 NetApp 제품 보안의 소스: link:https://security.netapp.com["NetApp 제품 보안"^]
 
 Digital Advisor는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. 디지털 어드바이저가 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.
 
-Digital Advisor가 적용되지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 link:https://security.netapp.com[""]
+Digital Advisor가 적용되지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 link:https://security.netapp.com["NetApp 제품 보안"^]
 
 * 적용 제품: ONTAP 9(온프레미스 및 클라우드), SANtricity OS 컨트롤러 소프트웨어, NetApp SolidFire(Element 소프트웨어), StorageGRID, Active IQ Unified Manager, ONTAP for VMware(OTV)
 
