@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: concept_get_started_with_sustainability_dashboard.html 
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, working environments, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives 
+summary: 대시보드, 지속 가능성 점수, 작업 환경 및 권장 조치에 대한 정보를 제공합니다. 
+---
+= Sustainability 대시보드를 시작합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+대시보드는 스토리지 시스템에 대한 환경 평가 및 NetApp의 권장 조치 형태로 개선을 위한 실행 가능한 통찰력을 제공합니다.
+
+* Sustainability 점수 *: 스토리지 시스템의 환경 지속 가능성을 나타내는 총 점수를 표시합니다. 다음 제품군을 기반으로 스토리지 시스템의 지속 가능성 수준을 평가할 수 있습니다.
+
+* 76-100: 지속 가능성이 최우선 순위임을 나타냅니다.
+* 51-75: 지속 가능성 이니셔티브에 대한 높은 수준의 투자를 나타냅니다.
+* 26-50: 지속 가능성 이니셔티브에 대한 좋은 진전을 나타냅니다.
+* 25 미만: 지속 가능성 관행의 개선 필요성을 나타냅니다.
+
+
+최대 5주 동안 점수의 그래픽 표현을 볼 수 있으며, 이는 매주 업데이트됩니다. 또한 그래프 위로 마우스를 이동하면 지속 가능성 점수가 증가하거나 감소하는 이유를 확인할 수 있습니다.
+
+image:sustainability_score.png["그래프와 함께 지속 가능성 점수를 보여 주는 스크린샷."]
+
+* 환경 지표 *: 스토리지 시스템의 환경 상태를 평가하기 위해 사용자의 전력, 직접 탄소 사용량 및 열 방출에 대한 예측을 표시합니다. 이 섹션의 오른쪽 상단 모서리에 있는 드롭다운에서 원하는 기간을 선택하여 월간, 분기별 또는 연별 예상 기간을 볼 수 있습니다.
+
+* 탄소 완화율 *: 각 사업장/도시에서 탄소 완화율을 표시하고 제시된 기준값은 사용자의 위치를 기준으로 합니다. 를 클릭하여 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다 image:edit_icon_1.png["편집 가능한 아이콘이 표시된 스크린샷"] 아이콘은 백분율 값 옆에 있으며 탄소 번호는 그에 따라 자동으로 조정됩니다.
+
+* 권장 조치 *: 스토리지 시스템의 지속 가능성 점수를 높이기 위한 권장 조치 목록을 표시합니다. 이러한 작업은 * Fix * 을 선택하여 즉시 수행할 수 있습니다. Fix * 또는 아래쪽 화살표를 클릭하여 보기를 확장할 수 있으며, * Fix * 옵션을 진행하면 클러스터 이름, 지속 가능성 점수 및 이후 증가 수치를 확인할 수 있습니다. 확장된 보기에서는 * Fix * 옵션을 진행하라는 정보 메시지를 볼 수도 있습니다.
+
+image:recommended_actions.png["확장된 보기의 작업 목록을 보여 주는 스크린샷."]
+
+나중에 이러한 작업을 처리하려는 경우 * Later * 를 선택하여 * Actions for Later * 탭으로 이동할 수 있습니다. 이 작업은 30일 동안 연기됩니다. 30일이 지나면 이러한 작업이 * 권장 조치 * 탭으로 자동으로 돌아갑니다. 또한 연기된 작업을 언제든지 검토할 수 있으며 * 고려 * 를 클릭하여 * 권장 조치 * 탭으로 되돌릴 수 있습니다.
+
+* 작업 환경 *: 설치 기반의 클러스터 레벨에 다양한 환경 매개 변수를 표시합니다. 클러스터 수준에서 지속 가능성 점수를 보고 클러스터 이름을 선택하여 * ClusterViewer * 에 액세스하고, 여기서 권장되는 특정 작업을 수행하여 지속 가능성을 개선할 수 있습니다.
+
+
+NOTE: 현재는 AFF, FAS 및 CVO가 포함된 ONTAP 시스템이 지원됩니다.
