@@ -34,7 +34,7 @@ NetApp Docker를 사용하여 Ansible Playbook을 실행하기 전에 다음을 
 
 
 .단계
-. link:https://docs.docker.com/get-started/["Docker를 설정합니다"].
+. link:https://docs.docker.com/get-started/["Docker를 설정합니다"^].
 . 다음 명령을 실행하여 DockerHub에서 NetApp Docker 이미지를 가져옵니다.
 +
 [listing]
@@ -46,7 +46,7 @@ latest: Pulling from schmots1/netapp-ansible
 docker.io/schmots1/netapp-ansible:lates
 ----
 +
-Docker 풀 명령에 대한 자세한 내용은 를 참조하십시오 link:https://docs.docker.com/engine/reference/commandline/pull/["Docker 풀 문서"].
+Docker 풀 명령에 대한 자세한 내용은 를 참조하십시오 link:https://docs.docker.com/engine/reference/commandline/pull/["Docker 풀 문서"^].
 
 . Docker 이미지를 컨테이너로 실행하고 컨테이너에 로그인하여 Ansible 플레이북을 실행하십시오.
 . 추출된 Ansible Playbook 및 인벤토리 파일이 들어 있는 폴더 경로(예: * downloaded_Playbook_path *)를 복사합니다. 성공적인 실행을 위해 Ansible Playbook과 재고 파일은 같은 폴더에 있어야 합니다.
@@ -57,7 +57,7 @@ Docker 풀 명령에 대한 자세한 내용은 를 참조하십시오 link:http
 $ docker run -v <downloaded_playbook_path>:/<container_path> -it schmots1/netapp-ansible:latest /bin/bash
 ----
 +
-컨테이너가 시작되고 콘솔이 이제 컨테이너의 bash 셸에 있습니다. Docker Run 명령에 대한 자세한 내용은 를 참조하십시오 link:https://docs.docker.com/engine/reference/run/["Docker 실행 설명서"].
+컨테이너가 시작되고 콘솔이 이제 컨테이너의 bash 셸에 있습니다. Docker Run 명령에 대한 자세한 내용은 를 참조하십시오 link:https://docs.docker.com/engine/reference/run/["Docker 실행 설명서"^].
 
 . Ansible-플레이북 * 명령을 사용하여 컨테이너 내부에서 Ansible 플레이북을 실행하십시오.
 +
@@ -77,6 +77,6 @@ NOTE: 로그인 자격 증명이 서로 다른 클러스터 세트가 있는 경
 
 
 
-Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html["Ansible 플레이북 문서"] Ansible 플레이북을 점검 모드(건식 실행)로 실행하려면 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html["Ansible: 점검 모드"].
+Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html["Ansible 플레이북 문서"^] Ansible 플레이북을 점검 모드(건식 실행)로 실행하려면 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html["Ansible: 점검 모드"^].
 
 Ansible 플레이북을 실행한 후 을 참조하십시오 link:task_validate_firmware_installation.html["펌웨어 설치 검증"] 실행 후 지침을 참조하십시오.

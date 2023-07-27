@@ -21,7 +21,7 @@ summary: 웹 서버를 사용하여 펌웨어 파일을 호스팅하는 방법�
 [role="lead"]
 자동화 패키지를 다운로드한 후에는 웹 서버에서 펌웨어 파일을 호스팅해야 합니다.
 
-웹 서버는 여러 가지 방법으로 설정할 수 있습니다. Python을 사용하여 간단한 웹 서버를 설정하는 방법은 을 참조하십시오 link:https://docs.python.org/3/library/http.server.html["Python을 사용하는 웹서버"].
+웹 서버는 여러 가지 방법으로 설정할 수 있습니다. Python을 사용하여 간단한 웹 서버를 설정하는 방법은 을 참조하십시오 link:https://docs.python.org/3/library/http.server.html["Python을 사용하는 웹서버"^].
 
 .단계
 . 웹 서버의 기본 URL을 저장합니다. 디스크 펌웨어, 쉘프 펌웨어 및 서비스 프로세서 펌웨어의 URL이 *\http://<web-server>/path/all_shelf_fw.zip*, *\http://<web-server>/path/all.zip* 및 *\http://<web-server>/path/<SP/BMC>_<version_number>_fw.zip* 이면 *\http://<web-server>/path/* 을 기본 URL로 저장합니다.

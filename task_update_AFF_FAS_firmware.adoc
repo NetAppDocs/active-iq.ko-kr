@@ -27,8 +27,8 @@ Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하여 식별된 �
 
 Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하기 전에 다음을 수행해야 합니다.
 
-* link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/["스토리지 시스템에 Ansible을 설치 및 설정합니다"]
-* link:https://netapp.io/2019/09/17/coming-together-nicely/["스토리지 시스템에 Ansible 2.9을 컬렉션에 설치합니다"]
+* link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/["스토리지 시스템에 Ansible을 설치 및 설정합니다"^]
+* link:https://netapp.io/2019/09/17/coming-together-nicely/["스토리지 시스템에 Ansible 2.9을 컬렉션에 설치합니다"^]
 * 스토리지 시스템을 ONTAP 9.1 이상으로 업그레이드하십시오
 * 관리자 역할을 사용하여 계정을 구성합니다
 
