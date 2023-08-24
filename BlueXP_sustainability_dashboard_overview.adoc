@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: BlueXP_sustainability_dashboard_overview.html 
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, working environments, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives 
+summary: 대시보드, 지속 가능성 점수, 작업 환경 및 권장 조치에 대한 정보를 제공합니다. 
+---
+= Sustainability 대시보드 개요
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+지속 가능성 대시보드는 스토리지 시스템에 대한 환경 평가와 NetApp이 권장하는 작업의 형태를 개선할 수 있는 실행 가능한 통찰력을 제공합니다.
+
+image:get_started_sustainability_dashboard.png["지속 가능성 대시보드를 보여 주는 UI 스크린샷"]
+
+
+NOTE: 대시보드에서 최상의 결과를 얻으려면 AutoSupport을 활성화해야 합니다. AutoSupport가 활성화되지 않은 경우 데이터는 제품 사양을 기반으로 합니다. 실시간 전력 세부 정보를 보려면 Cloud Insights를 활성화해야 합니다. Cloud Insights를 활성화하는 방법에 대한 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
+
+* Sustainability 점수 *: 스토리지 시스템의 환경 지속 가능성을 나타내는 총 점수를 표시합니다. 다음 제품군을 기반으로 스토리지 시스템의 지속 가능성 수준을 평가할 수 있습니다.
+
+* 76-100: 지속 가능성이 최우선 순위임을 나타냅니다.
+* 51-75: 지속 가능성 이니셔티브에 대한 높은 수준의 투자를 나타냅니다.
+* 26-50: 지속 가능성 이니셔티브에 대한 좋은 진전을 나타냅니다.
+* 25 미만: 지속 가능성 관행의 개선 필요성을 나타냅니다.
+
+
+최대 5주 동안 점수의 그래픽 표현을 볼 수 있으며, 이는 매주 업데이트됩니다. 또한 그래프 위로 마우스를 이동하면 지속 가능성 점수가 증가하거나 감소하는 이유를 확인할 수 있습니다.
+
+image:sustainability_score.png["그래프와 함께 지속 가능성 점수를 보여 주는 스크린샷."]
+
+* 환경 지표 *: 스토리지 시스템의 환경 상태를 평가하기 위해 사용자의 전력, 직접 탄소 사용량 및 열 방출에 대한 예측을 표시합니다. 이러한 투사는 실제 전력(사용할 수 없는 경우)을 기반으로 하며 일반적인 전력 값을 기준으로 합니다. 이 섹션의 오른쪽 상단 모서리에 있는 드롭다운에서 원하는 옵션을 선택하여 이러한 투영법을 월간, 분기별 또는 연간으로 볼 수 있습니다.
+
+* 탄소 완화율 *: 각 사업장/도시에서 탄소 완화율을 표시하고 제시된 기준값은 사용자의 위치를 기준으로 합니다. 를 클릭하여 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다 image:edit_icon_1.png["편집 가능한 아이콘이 표시된 스크린샷"] 아이콘은 백분율 값 옆에 있으며 탄소 번호는 그에 따라 자동으로 조정됩니다.
+
+image:carbon_mitigation_percentage.png["사이트의 탄소 완화 비율과 이 비율을 편집하는 방법을 보여 주는 스크린샷."]
+
+* 권장 조치 *: 스토리지 시스템의 지속 가능성 점수를 높이기 위한 권장 조치 목록을 표시합니다. 이러한 작업은 즉시 또는 나중에 수행할 수 있습니다.
+지속 가능성 점수를 높이는 방법에 대한 자세한 내용은 을 참조하십시오 link:improve_sustainability_score.html["지속 가능성 점수 개선"].
+
+* 작업 환경 *: 보다 효율적인 스토리지로 이동하기 위해 클러스터를 식별하는 데 도움이 되는 환경 매개 변수를 표에 표시합니다. 이 표에서 다음을 수행할 수 있습니다.
+
+* 클러스터 수준에서 지속 가능성 점수를 보고, * ClusterViewer * 에 액세스할 클러스터 이름을 선택하고, 지속 가능성을 개선하기 위해 권장되는 특정 조치를 취합니다. 자세한 내용은 을 참조하십시오 link:improve_sustainability_score.html["클러스터 수준에서 지속 가능성 점수를 개선합니다"].
++
+image:working_environments.png["다양한 환경 매개 변수를 보여 주는 UI 스크린샷"]
+
+* 클러스터 수준에서 실시간 전력 세부 정보를 보려면 * Real-time power * coslumn에서 모니터링을 활성화하십시오. 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
+

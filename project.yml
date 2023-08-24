@@ -65,6 +65,16 @@ sidebar:
       url: "/task_renew_software_and_hardware.html"
     - title: 클러스터 및 노드의 상태 분석
       url: "/task_analyze_wellness_clusters_and_nodes.html"
+  - title: 스토리지 시스템의 지속 가능성을 분석합니다
+    entries:
+    - title: 지속 가능성에 대해 자세히 알아보십시오
+      url: "/learn_BlueXP_sustainability.html"
+    - title: Sustainability 대시보드를 사용해 보십시오
+      url: "/get_started_sustainability_dashboard.html"
+    - title: Sustainability 대시보드 개요
+      url: "/BlueXP_sustainability_dashboard_overview.html"
+    - title: 지속 가능성 점수 개선
+      url: "/improve_sustainability_score.html"
   - title: 시스템 세부 정보를 봅니다
     entries:
     - title: 재고 세부 정보를 봅니다
@@ -113,12 +123,6 @@ sidebar:
       url: "/concept_get_started_with_health_check_dashboard.html"
     - title: 지원 계약을 갱신하십시오
       url: "/task_renew_support_contracts_for_your_systems.html"
-  - title: 스토리지 시스템의 지속 가능성을 분석합니다
-    entries:
-    - title: BlueXP 지속 가능성 서비스에 대해 알아보십시오
-      url: "/concept_understand_sustainability_dashboard.html"
-    - title: Sustainability 대시보드를 시작합니다
-      url: "/concept_get_started_with_sustainability_dashboard.html"
   - title: 설치 기반을 최적화하려면 업그레이드하십시오
     entries:
     - title: 스토리지 시스템의 ONTAP 버전을 업그레이드합니다
