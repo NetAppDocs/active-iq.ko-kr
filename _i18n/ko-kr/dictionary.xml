@@ -244,9 +244,6 @@
   <block id="88b68e34df9db916b4fe94948231ccbb" category="list-text">템플릿 추가 * 를 클릭합니다.</block>
   <block id="db3c8b301a3ce6ee5fa41ab7a54740f3" category="list-text">요청된 값을 제공하십시오.</block>
   <block id="b5d0947d6bc5e70f868d560d859163f5" category="doc">NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다</block>
-  <block id="da8d3bbd5e630a0cb154a6c5d8885297" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 이 차트는 물리적 용량에 대한 용량 활용도 차트로 구성되며 스냅샷은 마지막 5분으로 반올림됩니다. 약정 용량 이상의 사용률(버스트 용량)은 빨간색으로 표시됩니다.</block>
-  <block id="6ba7120903e272ef8ff94c3d3cd58f57" category="inline-link-macro">서비스 계층</block>
-  <block id="986127c46ede44cd6e9ba2b5754cafca" category="inline-link-macro">Keystone 구독 서비스 용량</block>
   <block id="9ca3a412ada6ce6666248783cc1577f6" category="summary">릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="58ca82356452d9a9a7ccfcd96b19f5cf" category="section-title">2022년 8월 25일</block>
   <block id="3348dcc393bde37af6464ca44f92a231" category="inline-link-macro">자세히 알아보기</block>
@@ -1105,8 +1102,6 @@
   <block id="346661910d62d25c1475a0a09bd7a473" category="paragraph">Digital Advisor를 사용하여 관심 목록 레벨에서 스토리지 시스템의 전체 상태, 시스템 상태, 재고, 계획, 업그레이드 및 중요한 통찰력을 확인할 수 있습니다.</block>
   <block id="4d7ba674630738cac5e8b1e2fed17854" category="paragraph">다음은 Digital Advisor의 몇 가지 기능입니다.</block>
   <block id="12dfd6dec7a5455387d9e6ce595e8907" category="paragraph">지원 오퍼링의 업그레이드를 구매하여 Digital Advisor의 다양한 기능에 액세스할 수 있습니다.</block>
-  <block id="1e113c9e791f55b9d40e5564c75fd42a" category="paragraph">Keystone 가입 서비스에 가입한 경우 Digital Advisor 대시보드에서 Keystone 가입 위젯을 확인할 수 있습니다.</block>
-  <block id="46b0133ea42a96887a939d9e262c57cf" category="admonition">디지털 자문업체 사용자는 ONTAP 수집기와 AutoSupport 중에서 선택하여 용량 사용에 대한 데이터를 얻을 수 있습니다.</block>
   <block id="ededec00f7d24950f152983df2ad1f73" category="list-text">지원 및 피드백을 보려면 Digital Advisor의 지원 버튼을 클릭하십시오.</block>
   <block id="a66a2f6647458a57d2e6fc1df3f920bf" category="paragraph">Digital Advisor에 로그인하고 * 가용성 및 보호 * 위젯에 빨간색 배지를 보면 중요한 위험을 해결하기 위한 조치를 취할 수 있습니다. 펌웨어를 수정하지 않으면 일정 시간 동안 전원을 켠 후 드라이브가 작동하지 않을 수 있습니다. 이 문제를 수정하면 가동 중지 시간과 가능한 데이터 손실이 모두 발생하지 않습니다.</block>
   <block id="7668feb1d998cf5c94c1e24359309154" category="list-text">Digital Advisor에 로그인합니다.</block>
@@ -1153,8 +1148,6 @@
   <block id="02e55cfbe6e55152bef274ca4a6a3d14" category="cell">지원 계약/하드웨어 EOS</block>
   <block id="e5f2463f379aba48a0f9ca6c913203cc" category="cell">IO 밀도</block>
   <block id="7f5c8fc8352c3e254ac3f5c7cf32c466" category="cell">IO Density Report는 데이터 및 메타데이터 소비 및 밀도 측면에서 고객이 가장 많이 사용하는 입출력 작업에 대한 통찰력을 제공합니다.</block>
-  <block id="deaf5bbabe29231a9826b313fee569a1" category="inline-link-macro">Keystone 구독 대시보드 및 리포팅</block>
-  <block id="706f9582e4d14591a9eeeaf6db8cc6c5" category="paragraph">Keystone 구독에 대한 자세한 내용은 을 참조하십시오 <block ref="42d99877a3bdc96c47aeda69738db0f2" category="inline-link-macro-rx"></block>.</block>
   <block id="1c6ca21b0d3e6f38c91e416032c3b178" category="paragraph">볼륨 IOPS 차트에서 평균 읽기, 쓰기 및 기타 작업을 볼 수 있습니다.</block>
   <block id="80a2eb22b09cbe781077565f06b74dbf" category="paragraph">SAN 및 NAS 스토리지 효율성은 노드 레벨에서 AFF A 시리즈, AFF C190, 모든 SAN 어레이 및 ONTAP 9.10 이상을 실행하는 FAS500을 포함한 ONTAP 시스템에 제공됩니다.</block>
   <block id="7002d0318dc4f195c464ca83f3d2ca86" category="section-title">2023년 2월 22일</block>
@@ -1162,8 +1155,6 @@
   <block id="30becc7ff660741781b33df4424a976b" category="paragraph">NetApp 보안 사이트는 NetApp 제품 보안의 소스: <block ref="5e78a47b9f3f07f171347317054eb0a4" category="inline-link-macro-rx"></block></block>
   <block id="1a0fefe07d105bbdb30fd8b35268ac5f" category="paragraph">Digital Advisor가 적용되지 않는 제품을 포함한 추가 NetApp 제품 보안 정보는 를 참조하십시오 <block ref="5e78a47b9f3f07f171347317054eb0a4" category="inline-link-macro-rx"></block></block>
   <block id="bbca9981d6b0f3a88a20d77f9f0b515e" category="summary">NetApp Keystone 서브스크립션을 통한 용량 활용에 대한 정보를 제공합니다.</block>
-  <block id="ce1aa13636f163ff457fae8432a2f4ec" category="paragraph">위젯의 데이터를 분석하고 서비스된 모든 스토리지의 용량 및 사용 추세를 그래픽으로 나타내는 * Keystone - 용량 활용률 * 대시보드를 볼 수 있습니다 <block ref="471fbca756054ddae280268222b19bf9" category="inline-link-macro-rx"></block>프리미엄, 익스트림 및 표준과 같은 NetApp Keystone 가입 계정에 연결됩니다.</block>
-  <block id="27363af66f7c7e4630979587cc9ad936" category="paragraph">를 볼 수 있습니다 <block ref="641f2bb6b5e44be4cae8acd4ce2983c0" category="inline-link-macro-rx"></block> 및 대시보드에서 블록, 파일 서비스 또는 오브젝트 스토리지에 대해 요청된 각 서비스의 사용</block>
   <block id="1583e3cf3d8d7b04d46e1fc4c3378657" category="paragraph">FabricPool 어드바이저 화면에서 비활성 데이터 보고(IDR)를 활성화하여 애그리게이트를 모니터링하고 Ansible 플레이북을 생성할 수 있습니다.</block>
   <block id="a44ea0c484f7b46a675c3900938f5c9e" category="paragraph">응용 프로그램을 다운로드하여 자세히 알아보십시오.<block ref="9f34f1e9a1a1b7a5470e007139e444f5" category="inline-link-macro-rx"></block>
 <block ref="45e5ff1f89e77ef1cc1575bf78209669" category="inline-link-macro-rx"></block></block>
@@ -1418,4 +1409,7 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="4ab7ab489ac4d021f39004a1bc70c209" category="paragraph"><block ref="ab7ef85b2ffc5cc75de4e5a966fa1b9d" category="inline-link-macro-rx"></block>.</block>
   <block id="37cce083eef0841e779db21ca8daef7e" category="paragraph">Active IQ Unified Manager를 사용하여 위험을 보고 수정할 수 있습니다. <block ref="f4086b11d800cf115240026fc88182a0" category="inline-link-macro-rx"></block>.</block>
   <block id="68eadb44b69eeb166a72c254148cc4c3" category="paragraph">을 참조하십시오 <block ref="b0240cce700bb082e59a979e57faa1fc" category="inline-link-macro-rx"></block> 를 참조하십시오.</block>
+  <block id="fa67fcdec3a9597a8256117c23529953" category="paragraph">NetApp Keystone STaaS 서비스를 구독하는 경우 디지털 어드바이저 대시보드에서 Keystone 구독 위젯을 볼 수 있습니다.</block>
+  <block id="580577f00c6e952d8dad642fa30380db" category="inline-link-macro">Keystone 및 디지털 자문</block>
+  <block id="2f9ac5e4626cf891d09ebda2d18327db" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 물리적 용량에 대한 용량 활용도 차트로 구성됩니다. 다양한 수준의 구독 데이터 및 사용 현황 정보에 대한 자세한 내용은 를 참조하십시오 <block ref="db5795af5cbf28cf9af79d32298b7715" category="inline-link-macro-rx"></block>.</block>
 </blocks>
