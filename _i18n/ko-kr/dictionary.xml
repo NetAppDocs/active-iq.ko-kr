@@ -660,12 +660,6 @@
   <block id="03f27531419e8390d55e5ee184b373c7" category="list-text">NetApp Ansible 컬렉션 설치:</block>
   <block id="9b838c4ce633e917e74290b161349c3a" category="list-text">Ansible Playbook과 인벤토리 파일이 같은 경로에 있는지 확인한 다음 Ansible Playbook을 실행합니다. 펌웨어 업데이트는 백그라운드에서 몇 시간 동안 실행됩니다.</block>
   <block id="d22d74dd6e0a6c5cd64ecb61ba45759d" category="summary">스토리지 시스템의 ONTAP 버전을 보고 업그레이드하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
-  <block id="d6917a390639e0a267939dc55858c685" category="doc">업그레이드 계획을 생성하여 ONTAP 버전을 업그레이드합니다</block>
-  <block id="46a187e39eefc3fd35138a494e565b49" category="paragraph">업그레이드 계획을 생성하여 스토리지 시스템의 보류 중인 업그레이드를 확인하고 최신 버전의 ONTAP로 업그레이드할 수 있습니다. 또한 업그레이드로 인해 완화될 * Risk Advisor * 탭에서 위험 목록을 확인해야 합니다.</block>
-  <block id="38fafc5e9c9553727750b9510171bb41" category="list-text">보류 중인 업그레이드를 보려면 * Actions * 의 수를 클릭합니다.</block>
-  <block id="01d220f359ae904005a0944f594a1bcd" category="list-text">위젯에 표시된 시스템 수를 클릭하여 * Upgrade Advisor * 탭을 봅니다.</block>
-  <block id="ac73a7625c762ca863d294bc61f64a16" category="list-text">위험 관리자 * 탭의 위험 목록과 함께 심각도 수준을 확인합니다. 이 위험 수준은 업그레이드로 인해 완화됩니다.</block>
-  <block id="281921503952801e23be5489728f4728" category="list-text">Upgrade Advisor * 로 이동하려면 * Upgrade Plan * 생성 을 클릭합니다.</block>
   <block id="aecb526721c5811e8b940ed95c7e8b18" category="doc">주요 개념</block>
   <block id="f7aec255f127e937f979de1bed372a50" category="list-text">* Wellness Dashboard: * 시청목록에 있는 시스템의 전반적인 상태를 제공합니다.</block>
   <block id="b6f36a5587ee48036508da1d84d1b299" category="list-text">* 위젯: * 시스템 상태에 대한 빠른 요약을 제공하는 작은 응용 프로그램을 대시보드에 표시합니다.</block>
@@ -991,11 +985,8 @@
   <block id="2eec6525cedefe6316db600adeaf337c" category="section-title">멀티 홉 업그레이드</block>
   <block id="01b9a3f3b3303730f5c2525f136ad86b" category="paragraph">비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.</block>
   <block id="1e3c19e3742fbfc0e6dd22bb91d109a3" category="inline-image-macro">Upgrade Advisor</block>
-  <block id="e9588616576594b7265f748171c85266" category="list-text">대시보드에서 * Upgrades * 위젯에서 보류 중인 업그레이드를 확인합니다.<block ref="aee744d64cc19e679b53b0c639b25694" category="inline-image-macro-rx" type="image"></block></block>
   <block id="64916198004d1ee19b1b50002f51f1a8" category="inline-image-macro">업그레이드 옵션</block>
-  <block id="6398194d87822fdaa5a4dac58b51a1cd" category="list-text">필요한 업그레이드 옵션을 선택합니다.<block ref="63134457816850025801f96a7797e55c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b58373ef1164bbd04be01f9d80e8c58e" category="inline-image-macro">업그레이드 계획을 생성합니다</block>
-  <block id="7438b9deedb82087dad294ad34018afe" category="paragraph">릴리스 노트를 확인하여 릴리스에 대한 자세한 정보를 볼 수도 있습니다.<block ref="04306a8a1debf79f0ac04ae6415d891b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="241d0a5c7d11b08c4b6742aafec7ad3e" category="paragraph">재고 * 위젯은 보유한 총 시스템의 롤업을 제공합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.</block>
   <block id="e58b12802a7d54b8bca5c0033174b2d8" category="summary">Digital Advisor 로그인 정보를 제공합니다.</block>
   <block id="5a68b284b7bcd8f7a66fdc39f1dcbcd7" category="doc">Digital Advisor에 로그인합니다</block>
@@ -1412,4 +1403,32 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="fa67fcdec3a9597a8256117c23529953" category="paragraph">NetApp Keystone STaaS 서비스를 구독하는 경우 디지털 어드바이저 대시보드에서 Keystone 구독 위젯을 볼 수 있습니다.</block>
   <block id="580577f00c6e952d8dad642fa30380db" category="inline-link-macro">Keystone 및 디지털 자문</block>
   <block id="2f9ac5e4626cf891d09ebda2d18327db" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 물리적 용량에 대한 용량 활용도 차트로 구성됩니다. 다양한 수준의 구독 데이터 및 사용 현황 정보에 대한 자세한 내용은 를 참조하십시오 <block ref="db5795af5cbf28cf9af79d32298b7715" category="inline-link-macro-rx"></block>.</block>
+  <block id="31b9d852bd062a4549ad97725d279a03" category="doc">업그레이드 계획을 사용하여 ONTAP 버전을 업그레이드합니다</block>
+  <block id="05101a0f55d1824ea65fdd4aed3a0df5" category="paragraph">스토리지 시스템의 보류 중인 업그레이드를 확인하고 업그레이드 계획을 사용하여 최신 버전의 ONTAP로 업그레이드할 수 있습니다. 또한 * Risk Advisor * 탭에서 위험 목록을 볼 수 있으며, 이는 업그레이드로 인해 완화됩니다.</block>
+  <block id="88c21efa97d0237f72649c201f8b8d3e" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 작업 수를 클릭하여 보류 중인 업그레이드를 확인합니다.</block>
+  <block id="aee744d64cc19e679b53b0c639b25694" category="paragraph"><block ref="aee744d64cc19e679b53b0c639b25694" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5bd5fef463b4aadc5c62af290cab7b03" category="list-text">필요한 업그레이드 옵션을 선택합니다.</block>
+  <block id="63134457816850025801f96a7797e55c" category="paragraph"><block ref="63134457816850025801f96a7797e55c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="21161aff1728668cb5f36b56c240c89c" category="list-text">선택한 업그레이드 옵션에서 호환 시스템 수를 클릭하여 * 업그레이드 세부 정보 * 페이지로 이동하여 업그레이드 계획을 생성합니다.</block>
+  <block id="04306a8a1debf79f0ac04ae6415d891b" category="paragraph"><block ref="04306a8a1debf79f0ac04ae6415d891b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0d67c629baadb827d64b6f908a024ff7" category="inline-image-macro">Risk Advisor(위험 관리자) 탭</block>
+  <block id="0520934f7f277be53d0e5af988901e83" category="list-text">위험 관리자 * 탭으로 이동하여 심각도 수준과 함께 위험 목록을 볼 수 있습니다. 이 위험 목록은 업그레이드로 인해 완화됩니다.
+  를 누릅니다
+<block ref="54041361f5c1eaef6bcf2a769063421a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="10df3b7bc0d299d1789736d691e0d81b" category="list-text">선택한 업그레이드 옵션에 * Total Risk * 가 포함된 경우 총 위험 수를 클릭하여 * Risk Advisor * 탭에서 위험 목록을 볼 수 있습니다.</block>
+  <block id="c406705ee0488217955ba39bbcd3e0f3" category="inline-image-macro">전체 위험</block>
+  <block id="545606e93056e8efc230dfc45f3dffd2" category="paragraph"><block ref="545606e93056e8efc230dfc45f3dffd2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0d3a6c12cad96c6c84d2e06211666b7a" category="list-text">Upgrade Advisor * 탭에서 * Generate Upgrade Plan * 을 클릭합니다.</block>
+  <block id="ee86a97709cbf5c06d97b73c231dde60" category="list-text">표시된 팝업에 세부 정보를 제공합니다. 또한 * Revert Plan * 확인란을 선택하여 업그레이드 계획 보고서에 취소 계획을 포함할 수 있습니다.</block>
+  <block id="9b9689199f95721c2dbffc551f8161fa" category="inline-image-macro">업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업</block>
+  <block id="d9884ccdf942ab0c8a261c9bf340eefe" category="paragraph"><block ref="d9884ccdf942ab0c8a261c9bf340eefe" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5d97ab11aa1e9f44020218850b335941" category="list-text">보고서 * 로 이동합니다. 업그레이드 계획의 상태를 모니터링하고 사용 가능한 경우 다운로드할 수 있습니다.</block>
+  <block id="c1b382578ccbe1b4821d0b8a7f29e343" category="paragraph">업그레이드 계획이 생성되면 업그레이드 계획이 포함된 전자 메일도 받게 됩니다.</block>
+  <block id="3cefe062f61e5f64624dd75eec82a381" category="inline-image-macro">업그레이드 계획 보고서의 상태를 보여 주는 스크린샷</block>
+  <block id="6f8fd13bf5cb0b5816478a43f298af9e" category="paragraph"><block ref="6f8fd13bf5cb0b5816478a43f298af9e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0d2ad64b559232943585fd7b1d8a6a97" category="section-title">2023년 9월 27일</block>
+  <block id="ca6933ae0f261efa98f09526aba05bf1" category="paragraph">를 사용하여 기본 감시 목록 또는 대시보드에 대한 Upgrade Advisor 페이지에 액세스할 수 있습니다 <block ref="2a9dc4897c9bae502dc40fd9fb7b1c92" category="inline-link-macro-rx"></block> 링크. 기본 감시 목록 또는 대시보드가 없는 경우 링크를 클릭하면 검색 페이지로 리디렉션됩니다.</block>
+  <block id="9622c46ac664d07f743905654edd5f26" category="section-title">업그레이드 계획</block>
+  <block id="bd3f220b24dc61548511364f320ec8ea" category="inline-link-macro">업그레이드 계획을 사용하여 ONTAP 버전을 업그레이드합니다</block>
+  <block id="62418fbf78b58ba84b3c5a6987815772" category="paragraph">업그레이드 계획은 중복 업그레이드 단계를 제거하고, 정보 및 경고를 수정하고, 백아웃 계획을 간소화하도록 최적화되었습니다. 클러스터의 모든 노드에서 공통되는 단계는 일반 정보 섹션에서 통합되고 사용할 수 있습니다. 향상된 계획을 보려면 에 설명된 단계를 사용하여 업그레이드 계획을 생성합니다 <block ref="90927e731c81adade70cb7e4c40b43bd" category="inline-link-macro-rx"></block>.</block>
 </blocks>
