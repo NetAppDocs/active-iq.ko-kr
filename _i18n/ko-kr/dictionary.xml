@@ -1371,7 +1371,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="567b01f0b5cd67001d808012ef0e7dd2" category="paragraph">데이터 축소 효과는 볼륨 및 로컬 계층(애그리게이트)에 대한 스토리지 효율성 대시보드에 표시됩니다.  서로 다른 스토리지 개체에서 볼륨 절약 및 애그리게이트 절약 효과를 추가할 수 없습니다.</block>
   <block id="fb8e35ae91d9f2d1bbfa26a865e3bdde" category="paragraph">* ONTAP로 업그레이드하기 전에 데이터 축소가 더 높거나 잘못된 것으로 보고된 이유는 무엇입니까? *</block>
   <block id="d9358f68a6e1323e55b1eaead9cd9368" category="paragraph">ONTAP의 버그로 인해 데이터 보호 볼륨이 노드에 있을 경우 데이터 축소가 더 높게 표시됩니다. 이 문제는 ONTAP 9.3P11에서 해결되었습니다. 9.3P11 이전 버전의 ONTAP에서 업그레이드하고 데이터 보호 볼륨이 노드에 있을 때 스토리지 효율성이 올바른 값이나 낮은 값을 보고합니다.</block>
-  <block id="157e4d0632e88d94ee663058894a5415" category="paragraph">Sustainability Dashboard는 스토리지 시스템의 환경 지속 가능성에 대한 중요한 통찰력을 제공합니다. 지속 가능성 점수, 탄소 완화 비율, 예상 전력 사용, 직접 탄소, 열 등의 정보를 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 평가하여 스토리지 시스템의 전체 효율성을 평가하고 NetApp의 권장 조치에 부합하여 지속 가능성을 향상할 수 있습니다. <block ref="14f04672b3a078b1589b8f46c67500a4" category="inline-link-macro-rx"></block>.</block>
   <block id="111e2574729518f75d68b12a141895ca" category="paragraph">Active IQ 디지털 어드바이저가 디지털 어드바이저로 바뀌고 있으며, 이제 하이브리드 멀티 클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 BlueXP에 통합되었습니다. <block ref="00345514845e0d86c9c648d29a98b060" category="inline-link-macro-rx"></block>.</block>
   <block id="685c75c1df83c508b4344c2b7bddc69a" category="paragraph">이제 vCenter, ESXi 호스트 및 가상 머신에 대한 VMware 자산 정보가 인벤토리 세부 정보에 포함되어 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다. <block ref="a4fd8b50f9fa1d3acd0018ed3d197139" category="inline-link-macro-rx"></block>.</block>
   <block id="689f0156b8d6f21052bcf808d6c62508" category="paragraph">SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service 및 NetApp 클라우드 백업(이전의 AltaVault)으로 이동할 수 있는 워크로드 및 해당 볼륨에 대한 권장 사항을 제공합니다. <block ref="6170547bf38252f5bd3b005d8df0f331" category="inline-link-macro-rx"></block>.</block>
@@ -1403,7 +1402,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="fa67fcdec3a9597a8256117c23529953" category="paragraph">NetApp Keystone STaaS 서비스를 구독하는 경우 디지털 어드바이저 대시보드에서 Keystone 구독 위젯을 볼 수 있습니다.</block>
   <block id="580577f00c6e952d8dad642fa30380db" category="inline-link-macro">Keystone 및 디지털 자문</block>
   <block id="2f9ac5e4626cf891d09ebda2d18327db" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 물리적 용량에 대한 용량 활용도 차트로 구성됩니다. 다양한 수준의 구독 데이터 및 사용 현황 정보에 대한 자세한 내용은 를 참조하십시오 <block ref="db5795af5cbf28cf9af79d32298b7715" category="inline-link-macro-rx"></block>.</block>
-  <block id="31b9d852bd062a4549ad97725d279a03" category="doc">업그레이드 계획을 사용하여 ONTAP 버전을 업그레이드합니다</block>
   <block id="05101a0f55d1824ea65fdd4aed3a0df5" category="paragraph">스토리지 시스템의 보류 중인 업그레이드를 확인하고 업그레이드 계획을 사용하여 최신 버전의 ONTAP로 업그레이드할 수 있습니다. 또한 * Risk Advisor * 탭에서 위험 목록을 볼 수 있으며, 이는 업그레이드로 인해 완화됩니다.</block>
   <block id="88c21efa97d0237f72649c201f8b8d3e" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 작업 수를 클릭하여 보류 중인 업그레이드를 확인합니다.</block>
   <block id="aee744d64cc19e679b53b0c639b25694" category="paragraph"><block ref="aee744d64cc19e679b53b0c639b25694" category="inline-image-macro-rx" type="image"></block></block>
@@ -1427,8 +1425,8 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="3cefe062f61e5f64624dd75eec82a381" category="inline-image-macro">업그레이드 계획 보고서의 상태를 보여 주는 스크린샷</block>
   <block id="6f8fd13bf5cb0b5816478a43f298af9e" category="paragraph"><block ref="6f8fd13bf5cb0b5816478a43f298af9e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0d2ad64b559232943585fd7b1d8a6a97" category="section-title">2023년 9월 27일</block>
-  <block id="ca6933ae0f261efa98f09526aba05bf1" category="paragraph">를 사용하여 기본 감시 목록 또는 대시보드에 대한 Upgrade Advisor 페이지에 액세스할 수 있습니다 <block ref="2a9dc4897c9bae502dc40fd9fb7b1c92" category="inline-link-macro-rx"></block> 링크. 기본 감시 목록 또는 대시보드가 없는 경우 링크를 클릭하면 검색 페이지로 리디렉션됩니다.</block>
-  <block id="9622c46ac664d07f743905654edd5f26" category="section-title">업그레이드 계획</block>
-  <block id="bd3f220b24dc61548511364f320ec8ea" category="inline-link-macro">업그레이드 계획을 사용하여 ONTAP 버전을 업그레이드합니다</block>
-  <block id="62418fbf78b58ba84b3c5a6987815772" category="paragraph">업그레이드 계획은 중복 업그레이드 단계를 제거하고, 정보 및 경고를 수정하고, 백아웃 계획을 간소화하도록 최적화되었습니다. 클러스터의 모든 노드에서 공통되는 단계는 일반 정보 섹션에서 통합되고 사용할 수 있습니다. 향상된 계획을 보려면 에 설명된 단계를 사용하여 업그레이드 계획을 생성합니다 <block ref="90927e731c81adade70cb7e4c40b43bd" category="inline-link-macro-rx"></block>.</block>
+  <block id="f32be3299de249a0d2ea856582aaf567" category="list-text">를 사용하여 기본 시청목록에 대한 Upgrade Advisor 페이지에 액세스할 수 있습니다 <block ref="2a9dc4897c9bae502dc40fd9fb7b1c92" category="inline-link-macro-rx"></block> 링크.</block>
+  <block id="d733f1a5970e5ea99d583388ac25e9cf" category="inline-link-macro">업그레이드 계획을 생성하고 보는 방법에 대해 알아봅니다</block>
+  <block id="b01f37f1151c1eda43d977dc266311ad" category="list-text">업그레이드 계획은 중복 업그레이드 단계를 제거하고 백아웃 계획을 간소화하도록 최적화되어 있습니다. 클러스터의 모든 노드에 대한 공통 단계는 통합되며 업그레이드 계획의 일반 정보 섹션에서 사용할 수 있습니다. <block ref="818a7808067ecc2956de5a6af27e7278" category="inline-link-macro-rx"></block>.</block>
+  <block id="728961fac8324355b6e6e72caa3fcab4" category="paragraph">지속 가능성 대시보드는 스토리지 시스템의 환경 지속 가능성에 대한 유용한 통찰력을 제공합니다. 지속 가능성 점수, 탄소 완화 비율, 예상 전력 사용, 직접 탄소, 열 등의 정보를 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 기준으로 스토리지 시스템의 전반적인 효율성을 평가하고 지속 가능성을 개선하기 위해 NetApp이 권장하는 조치에 맞출 수 있습니다. <block ref="14f04672b3a078b1589b8f46c67500a4" category="inline-link-macro-rx"></block>.</block>
 </blocks>
