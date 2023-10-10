@@ -964,7 +964,6 @@
   <block id="5b333f7c3257e7754518c2d09d86555e" category="sidebar">스토리지 성능 분석</block>
   <block id="b0f4d50e3b0a80acae4cdfe5ec415bf2" category="sidebar">스토리지 시스템의 상태를 분석합니다</block>
   <block id="5c76b7629087dd257b9ab47efd972727" category="sidebar">설치 기반을 최적화하려면 업그레이드하십시오</block>
-  <block id="1d6e1053c3a5ac9c901ad8624d357a85" category="sidebar">스토리지 시스템의 ONTAP 버전을 업그레이드합니다</block>
   <block id="bcbe3404f4519b7a276724fb02a336ec" category="sidebar">Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다</block>
   <block id="cac43af1157491380365a3fbc40ffd0e" category="sidebar">AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)</block>
   <block id="296c50bb7122e36d72b344edcdd0c679" category="sidebar">AFF 및 FAS 펌웨어 Ansible 자동화 패키지(Beginners) 설치 및 실행</block>
@@ -1179,7 +1178,6 @@
   <block id="c2b079f6f62fe899dec7b1a93823c546" category="list-text">호스트의 호환성을 확인하고 호스트 운영 체제, 드라이버 및 에 대한 업그레이드 권장 사항을 제공합니다.</block>
   <block id="daea2bcb0af4558719fc040fddad5b69" category="list-text">원하는 것을 더 스마트하고 빠르게 찾을 수 있습니다.</block>
   <block id="325e4e14529c96a60b99d9cecba4d5a6" category="section-title">2023년 6월 21일</block>
-  <block id="10774cfa8212ea83d9277785a67ca25c" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다</block>
   <block id="23c5744a4c274e51948ba5ceeb6db0f9" category="paragraph">* Digital Advisor에서 특정 시스템을 찾을 수 없는 이유는 무엇입니까? *
 다음과 같은 이유 중 하나로 인해 특정 시스템을 검색하거나 재고 페이지에서 볼 수 없을 수 있습니다.</block>
   <block id="f2c1cd072b0801929f6eda1e5bff8545" category="list-text">SAP에서 시스템이 비활성, 아카이브 또는 폐기됩니다.</block>
@@ -1402,22 +1400,13 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="fa67fcdec3a9597a8256117c23529953" category="paragraph">NetApp Keystone STaaS 서비스를 구독하는 경우 디지털 어드바이저 대시보드에서 Keystone 구독 위젯을 볼 수 있습니다.</block>
   <block id="580577f00c6e952d8dad642fa30380db" category="inline-link-macro">Keystone 및 디지털 자문</block>
   <block id="2f9ac5e4626cf891d09ebda2d18327db" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 물리적 용량에 대한 용량 활용도 차트로 구성됩니다. 다양한 수준의 구독 데이터 및 사용 현황 정보에 대한 자세한 내용은 를 참조하십시오 <block ref="db5795af5cbf28cf9af79d32298b7715" category="inline-link-macro-rx"></block>.</block>
-  <block id="05101a0f55d1824ea65fdd4aed3a0df5" category="paragraph">스토리지 시스템의 보류 중인 업그레이드를 확인하고 업그레이드 계획을 사용하여 최신 버전의 ONTAP로 업그레이드할 수 있습니다. 또한 * Risk Advisor * 탭에서 위험 목록을 볼 수 있으며, 이는 업그레이드로 인해 완화됩니다.</block>
   <block id="88c21efa97d0237f72649c201f8b8d3e" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 작업 수를 클릭하여 보류 중인 업그레이드를 확인합니다.</block>
   <block id="aee744d64cc19e679b53b0c639b25694" category="paragraph"><block ref="aee744d64cc19e679b53b0c639b25694" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="5bd5fef463b4aadc5c62af290cab7b03" category="list-text">필요한 업그레이드 옵션을 선택합니다.</block>
   <block id="63134457816850025801f96a7797e55c" category="paragraph"><block ref="63134457816850025801f96a7797e55c" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="21161aff1728668cb5f36b56c240c89c" category="list-text">선택한 업그레이드 옵션에서 호환 시스템 수를 클릭하여 * 업그레이드 세부 정보 * 페이지로 이동하여 업그레이드 계획을 생성합니다.</block>
   <block id="04306a8a1debf79f0ac04ae6415d891b" category="paragraph"><block ref="04306a8a1debf79f0ac04ae6415d891b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0d67c629baadb827d64b6f908a024ff7" category="inline-image-macro">Risk Advisor(위험 관리자) 탭</block>
-  <block id="0520934f7f277be53d0e5af988901e83" category="list-text">위험 관리자 * 탭으로 이동하여 심각도 수준과 함께 위험 목록을 볼 수 있습니다. 이 위험 목록은 업그레이드로 인해 완화됩니다.
-  를 누릅니다
-<block ref="54041361f5c1eaef6bcf2a769063421a" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="10df3b7bc0d299d1789736d691e0d81b" category="list-text">선택한 업그레이드 옵션에 * Total Risk * 가 포함된 경우 총 위험 수를 클릭하여 * Risk Advisor * 탭에서 위험 목록을 볼 수 있습니다.</block>
   <block id="c406705ee0488217955ba39bbcd3e0f3" category="inline-image-macro">전체 위험</block>
   <block id="545606e93056e8efc230dfc45f3dffd2" category="paragraph"><block ref="545606e93056e8efc230dfc45f3dffd2" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="0d3a6c12cad96c6c84d2e06211666b7a" category="list-text">Upgrade Advisor * 탭에서 * Generate Upgrade Plan * 을 클릭합니다.</block>
-  <block id="ee86a97709cbf5c06d97b73c231dde60" category="list-text">표시된 팝업에 세부 정보를 제공합니다. 또한 * Revert Plan * 확인란을 선택하여 업그레이드 계획 보고서에 취소 계획을 포함할 수 있습니다.</block>
   <block id="9b9689199f95721c2dbffc551f8161fa" category="inline-image-macro">업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업</block>
   <block id="d9884ccdf942ab0c8a261c9bf340eefe" category="paragraph"><block ref="d9884ccdf942ab0c8a261c9bf340eefe" category="inline-image-macro-rx" type="image"></block></block>
   <block id="5d97ab11aa1e9f44020218850b335941" category="list-text">보고서 * 로 이동합니다. 업그레이드 계획의 상태를 모니터링하고 사용 가능한 경우 다운로드할 수 있습니다.</block>
@@ -1429,4 +1418,17 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="d733f1a5970e5ea99d583388ac25e9cf" category="inline-link-macro">업그레이드 계획을 생성하고 보는 방법에 대해 알아봅니다</block>
   <block id="b01f37f1151c1eda43d977dc266311ad" category="list-text">업그레이드 계획은 중복 업그레이드 단계를 제거하고 백아웃 계획을 간소화하도록 최적화되어 있습니다. 클러스터의 모든 노드에 대한 공통 단계는 통합되며 업그레이드 계획의 일반 정보 섹션에서 사용할 수 있습니다. <block ref="818a7808067ecc2956de5a6af27e7278" category="inline-link-macro-rx"></block>.</block>
   <block id="728961fac8324355b6e6e72caa3fcab4" category="paragraph">지속 가능성 대시보드는 스토리지 시스템의 환경 지속 가능성에 대한 유용한 통찰력을 제공합니다. 지속 가능성 점수, 탄소 완화 비율, 예상 전력 사용, 직접 탄소, 열 등의 정보를 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 기준으로 스토리지 시스템의 전반적인 효율성을 평가하고 지속 가능성을 개선하기 위해 NetApp이 권장하는 조치에 맞출 수 있습니다. <block ref="14f04672b3a078b1589b8f46c67500a4" category="inline-link-macro-rx"></block>.</block>
+  <block id="cdb49ecd8a62ade62c327a64e1695566" category="doc">스토리지 시스템의 ONTAP 버전을 업그레이드합니다</block>
+  <block id="0311d8be615519ede7fdf56e28c4e87a" category="paragraph">Upgrade Advisor를 사용하여 권장 업그레이드를 확인하고 스토리지 시스템에 대한 업그레이드 계획을 생성할 수 있습니다. 스토리지 시스템을 최신 버전의 ONTAP로 업그레이드할 경우 스토리지 시스템과 연결된 위험 관리자 탭에서 위험 목록을 보고 이러한 위험을 완화할 수 있습니다.</block>
+  <block id="a51f3b59b1e2e55eb492198c5498a7bf" category="list-text">업그레이드 옵션을 선택합니다.</block>
+  <block id="fd23e666b2cc48f70922dc0a25bed60d" category="list-text">업그레이드 계획을 생성하려면 준수 시스템의 수를 클릭하십시오.
+업그레이드 세부 정보 * 페이지가 표시됩니다.</block>
+  <block id="075d151109499e2e30fc7ffd634ce560" category="list-text">위험 관리자 * 탭으로 이동하여 심각도 수준과 함께 위험 목록을 볼 수 있습니다.
+  를 누릅니다
+<block ref="54041361f5c1eaef6bcf2a769063421a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f4e13f16e7fba0f60794942036b0d5b3" category="list-text">업그레이드 옵션에 * Total Risk * 가 포함된 경우 총 위험 수를 클릭하여 * Risk Advisor * 탭에서 위험 목록을 볼 수 있습니다.</block>
+  <block id="ace70623d17cb73b373d377d0c453895" category="list-text">Upgrade Advisor * 탭에서 업그레이드할 시스템을 선택합니다.</block>
+  <block id="81ff79ba6c57be0faaf7131e8c633f75" category="list-text">업그레이드 계획 생성 * 을 클릭합니다.</block>
+  <block id="06cb9645f9905dac3c50116c8abb865c" category="list-text">표시된 팝업에 세부 정보를 제공합니다. 또한 * 계획 되돌리기 * 확인란을 선택하여 업그레이드 계획에 취소 계획을 포함할 수 있습니다.</block>
+  <block id="98f475d7aa8f966d87ccc93ba94fba94" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다</block>
 </blocks>
