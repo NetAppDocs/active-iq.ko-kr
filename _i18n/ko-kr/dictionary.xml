@@ -1103,7 +1103,6 @@
   <block id="ff40d476eb35d6d339a7a745c5825109" category="sidebar">Digital Advisor Web Portal을 참조하십시오</block>
   <block id="4238f8b700953551a4ce57636e1b3b11" category="sidebar">Digital Advisor 비디오</block>
   <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
   <block id="8081688f219c172dde2cb99dbacc51d8" category="doc">클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다</block>
   <block id="e404f7c0800eac65e5e44442bb4fd0cc" category="admonition">나중에 사용할 수 있도록 액세스 토큰을 다운로드하여 저장하고 토큰을 새로 고쳐야 합니다. 액세스 토큰은 생성 후 1시간 후에 만료되며, 토큰을 새로 고치려면 7일마다 수동으로 다시 생성하고 응용 프로그램에 설치해야 합니다. 이렇게 하려면 응용 프로그램에 로그인하지 않아도 됩니다. 그러나 90일이 지난 후에는 애플리케이션에 로그인하여 새 액세스 권한을 얻고 토큰을 새로 고쳐야 합니다.</block>
   <block id="73924ddc2c905c2855a59dc4ad4e29a7" category="paragraph">구성 드리프트 템플릿의 속성은 편집할 수 있으며, 템플릿의 다음 그룹은 일부 섹션에 대한 정규식을 지원합니다.</block>
@@ -1431,4 +1430,7 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="81ff79ba6c57be0faaf7131e8c633f75" category="list-text">업그레이드 계획 생성 * 을 클릭합니다.</block>
   <block id="06cb9645f9905dac3c50116c8abb865c" category="list-text">표시된 팝업에 세부 정보를 제공합니다. 또한 * 계획 되돌리기 * 확인란을 선택하여 업그레이드 계획에 취소 계획을 포함할 수 있습니다.</block>
   <block id="98f475d7aa8f966d87ccc93ba94fba94" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다</block>
+  <block id="d36a1ccbf2d01a1ff61c0e50416882e9" category="section-title">2023년 10월 4일</block>
+  <block id="ec795e7f7ea26d9d59bc0e1e031d4234" category="section-title">계획 위젯</block>
+  <block id="cf75b31aeb339e309fa309a49a276a28" category="paragraph">기술 업데이트 권장 사항 수는 고객 레벨 대시보드의 계획 위젯에 포함됩니다. 다음 권장 사항은 하드웨어의 지원이 부족하거나 지원 종료가 가까워질 때 하드웨어 기술 업데이트 작업을 계획하는 데 도움이 됩니다.</block>
 </blocks>
