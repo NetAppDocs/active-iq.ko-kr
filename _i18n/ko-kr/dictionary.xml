@@ -948,7 +948,6 @@
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">빠른 시작</block>
-  <block id="e179ba0b158b2a7f9047aea26b6a2227" category="sidebar">AutoSupport 이해</block>
   <block id="f9e8725fc2db4a86d0c8d9ae95581d74" category="sidebar">프로비저닝 감시 목록</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">개요</block>
   <block id="a847a249ea34e3557fd4b0faa9b1a58c" category="sidebar">Active IQ Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다</block>
@@ -1202,10 +1201,6 @@
   <block id="425f3e0f4d6e9e92e654e9ba5e993d54" category="paragraph">디지털 어드바이저에 로그인하려면 유효한 NetApp Support 사이트 자격 증명이 있어야 합니다. 계정이 없고 시작하는 경우 로 이동합니다 <block ref="6e6f0f52d614dd0ec77faf300e34ad53" category="inline-link-macro-rx"></block>.</block>
   <block id="d3b731ac977fc38e625943ab24125e73" category="list-text">로 이동합니다 <block ref="6ea90873ff127896ae7a3eaf21cda455" category="inline-link-macro-rx"></block> 로그인 페이지.</block>
   <block id="2cf504c669255f96f48e417bf3c86399" category="paragraph">ONTAP 시스템의 경우 스토리지 시스템을 처음 구성할 때 AutoSupport가 기본적으로 설정됩니다. 당신은 해야 한다 <block ref="03ce3f8b24f3ba6194d1a4f01375a3eb" category="inline-link-macro-rx"></block> ONTAP 시스템에서 AutoSupport 정보가 기술 지원 부서 및 내부 지원 조직에 전송되는 방식을 제어합니다.</block>
-  <block id="c69712b80ef7bcc235093f9221047c47" category="list-text"><block ref="c69712b80ef7bcc235093f9221047c47" category="inline-link-macro-rx"></block></block>
-  <block id="0ecea5b3f45d0b317fc17c67ecadeec6" category="list-text"><block ref="0ecea5b3f45d0b317fc17c67ecadeec6" category="inline-link-macro-rx"></block></block>
-  <block id="2c4b22e05e691d4ce96f7b4e3c02df4c" category="list-text"><block ref="2c4b22e05e691d4ce96f7b4e3c02df4c" category="inline-link-macro-rx"></block></block>
-  <block id="cbf41252f5082da209304e5ca48c34d8" category="list-text"><block ref="cbf41252f5082da209304e5ca48c34d8" category="inline-link-macro-rx"></block></block>
   <block id="836b35da2a4494ce20730d485e090b9b" category="list-text"><block ref="836b35da2a4494ce20730d485e090b9b" category="inline-link-macro-rx"></block></block>
   <block id="58789b5243f3cbb2a8a30f59de135896" category="list-text"><block ref="58789b5243f3cbb2a8a30f59de135896" category="inline-link-macro-rx"></block></block>
   <block id="155b92b0d3df6f08f7a22ee41987478d" category="paragraph">FabricPool에 대한 자세한 내용은 을 참조하십시오 <block ref="95721715db0d24514cff915b8dac95f3" category="inline-link-macro-rx"></block>.</block>
@@ -1433,4 +1428,9 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="d36a1ccbf2d01a1ff61c0e50416882e9" category="section-title">2023년 10월 4일</block>
   <block id="ec795e7f7ea26d9d59bc0e1e031d4234" category="section-title">계획 위젯</block>
   <block id="cf75b31aeb339e309fa309a49a276a28" category="paragraph">기술 업데이트 권장 사항 수는 고객 레벨 대시보드의 계획 위젯에 포함됩니다. 다음 권장 사항은 하드웨어의 지원이 부족하거나 지원 종료가 가까워질 때 하드웨어 기술 업데이트 작업을 계획하는 데 도움이 됩니다.</block>
+  <block id="0f39f4240371d8ece7d1695a2c16fc9b" category="doc">AutoSupport란 무엇입니까</block>
+  <block id="da0ad1a41b699c5a3226f922417a0037" category="list-text"><block ref="da0ad1a41b699c5a3226f922417a0037" category="inline-link-macro-rx"></block></block>
+  <block id="f1882284408a9b189100dc3da835bb13" category="list-text"><block ref="f1882284408a9b189100dc3da835bb13" category="inline-link-macro-rx"></block></block>
+  <block id="f4547f31c09ed6f71cd2e94db143fffd" category="list-text"><block ref="f4547f31c09ed6f71cd2e94db143fffd" category="inline-link-macro-rx"></block></block>
+  <block id="4f0ba3197c25744bb644bb7e83a43b5f" category="list-text"><block ref="4f0ba3197c25744bb644bb7e83a43b5f" category="inline-link-macro-rx"></block></block>
 </blocks>
