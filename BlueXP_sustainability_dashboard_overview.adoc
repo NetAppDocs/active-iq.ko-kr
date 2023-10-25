@@ -53,5 +53,5 @@ image:carbon_mitigation_percentage.png["사이트의 탄소 완화 비율과 이
 +
 image:working_environments.png["다양한 환경 매개 변수를 보여 주는 UI 스크린샷"]
 
-* 클러스터 수준에서 실시간 전력 세부 정보를 보려면 * Real-time power * coslumn에서 모니터링을 활성화하십시오. 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
+* 클러스터 수준에서 실시간 전력 세부 정보를 보려면 * Real-time power * 열에서 모니터링을 활성화하십시오. 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
 
