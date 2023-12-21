@@ -5,17 +5,14 @@ keywords: firmware, web server, hosting
 summary: 웹 서버를 사용하여 펌웨어 파일을 호스팅하는 방법에 대한 정보를 제공합니다. 
 ---
 = 웹 서버를 사용하여 펌웨어 파일을 호스트합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

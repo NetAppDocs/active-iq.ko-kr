@@ -5,17 +5,14 @@ keywords: valuable insight, support cases, storage efficiency savings, mitigated
 summary: 유용한 정보 위젯에 대한 정보를 제공합니다. 
 ---
 = 귀중한 인사이트를 확인하십시오
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

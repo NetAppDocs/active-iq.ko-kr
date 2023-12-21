@@ -5,17 +5,14 @@ keywords: overview, get started, wellness, performance, configuration, renewal, 
 summary: 워크플로를 이해하고 Digital Advisor를 시작하는 데 도움이 됩니다. 
 ---
 = Digital Advisor의 빠른 시작
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

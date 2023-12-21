@@ -5,17 +5,14 @@ keywords: ransomware, risks, ransomware risks
 summary:  
 ---
 = 랜섬웨어 위험으로부터 시스템을 보호합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

@@ -5,17 +5,14 @@ keywords: templates, share template, clone template, edit template, delete templ
 summary: 템플릿을 관리하는 데 필요한 정보는 에 나와 있습니다. 
 ---
 = 서식 파일 관리
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

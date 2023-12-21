@@ -5,17 +5,14 @@ keywords: upgrade, support offering, supportedge, premium, standard, basic, expe
 summary: 지원 서비스 업그레이드에 대한 내용은 에 나와 있습니다. 
 ---
 = 지원 서비스를 업그레이드하십시오
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

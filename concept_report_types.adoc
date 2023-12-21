@@ -5,17 +5,14 @@ keywords: reports, report types, reporting, performance reports
 summary: 사용자가 사용할 수 있는 다양한 유형의 보고서에 대한 정보를 제공합니다. 
 ---
 = 보고서 유형
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

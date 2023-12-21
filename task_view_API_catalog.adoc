@@ -5,17 +5,14 @@ keywords: API Catalog, APIs, integrate data, view catalog
 summary: API 카탈로그에서 사용할 수 있는 API에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = API 카탈로그를 사용하여 API를 실행합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

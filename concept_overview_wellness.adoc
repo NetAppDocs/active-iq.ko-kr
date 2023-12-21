@@ -5,17 +5,14 @@ keywords: overview, wellness, risk types, risk definition, mitigate risks, perfo
 summary: 스토리지 시스템의 상태 및 위험 유형에 대한 정보를 제공합니다. 
 ---
 = 웰빙을 이해합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

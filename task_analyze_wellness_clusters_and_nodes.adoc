@@ -5,17 +5,14 @@ keywords: cluster, node, clusterviewer, configuration
 summary: ClusterViewer에 대한 내용은 에 나와 있습니다. 
 ---
 = 클러스터 및 노드의 상태 분석
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

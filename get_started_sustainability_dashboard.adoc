@@ -4,22 +4,19 @@ permalink: get_started_sustainability_dashboard.html
 keywords: activeiq, sustainability dashboard, bluexp login, sustainability dashboard login, bluexp 
 summary: BlueXP 또는 Digital Advisor에서 BlueXP 지속 가능성 대시보드를 시작하십시오. 
 ---
-= Sustainability 대시보드를 사용해 보십시오
-:toc: macro
+= Sustainability 대시보드에 액세스합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
-Sustainability 대시보드는 AIOps 지원 보고 및 채점을 통해 지속 가능성 환경을 개선하는 실행 가능한 인사이트를 제공합니다. NetApp BlueXP 또는 Digital Advisor를 사용하여 Sustainability 대시보드를 볼 수 있습니다.
+Sustainability 대시보드는 AIOps 지원 보고 및 채점을 통해 지속 가능성 환경을 개선하는 실행 가능한 인사이트를 제공합니다. NetApp BlueXP 또는 Digital Advisor를 통해 Sustainability 대시보드에 액세스할 수 있습니다.
 
 [role="tabbed-block"]
 ====

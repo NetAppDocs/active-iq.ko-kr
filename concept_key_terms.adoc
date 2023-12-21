@@ -5,17 +5,14 @@ keywords: overview, inventory, wellness, widgets, actions
 summary: Digital Advisor에 사용되는 주요 용어에 대한 정보를 제공합니다. 
 ---
 = 주요 개념
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

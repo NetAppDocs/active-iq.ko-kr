@@ -5,17 +5,14 @@ keywords: API services, access token, refresh token, API Catalog
 summary: API 서비스 기능에 대한 개요를 제공합니다. 
 ---
 = API 서비스 이해
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

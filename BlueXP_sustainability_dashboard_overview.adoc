@@ -5,17 +5,14 @@ keywords: activeiq, sustainability dashboard, sustainability score, sustainabili
 summary: 대시보드, 지속 가능성 점수, 작업 환경 및 권장 조치에 대한 정보를 제공합니다. 
 ---
 = Sustainability 대시보드 개요
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
@@ -24,7 +21,7 @@ summary: 대시보드, 지속 가능성 점수, 작업 환경 및 권장 조치�
 image:get_started_sustainability_dashboard.png["지속 가능성 대시보드를 보여 주는 UI 스크린샷"]
 
 
-NOTE: 대시보드에서 최상의 결과를 얻으려면 AutoSupport을 활성화해야 합니다. AutoSupport가 활성화되지 않은 경우 데이터는 제품 사양을 기반으로 합니다. 실시간 전력 세부 정보를 보려면 Cloud Insights를 활성화해야 합니다. Cloud Insights를 활성화하는 방법에 대한 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
+NOTE: 지속 가능성 점수를 정확하게 계산하려면 AutoSupport를 활성화해야 합니다.
 
 * Sustainability 점수 *: 스토리지 시스템의 환경 지속 가능성을 나타내는 총 점수를 표시합니다. 다음 제품군을 기반으로 스토리지 시스템의 지속 가능성 수준을 평가할 수 있습니다.
 

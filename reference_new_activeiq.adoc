@@ -5,17 +5,14 @@ keywords: 'what"s new, features, new'
 summary: 릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = Digital Advisor의 새로운 기능
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

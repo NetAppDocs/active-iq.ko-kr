@@ -5,17 +5,14 @@ keywords: cloud recommendations, migration, backup and archive, disaster recover
 summary: 정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공합니다. 
 ---
 = 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

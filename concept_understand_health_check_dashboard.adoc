@@ -5,17 +5,14 @@ keywords: activeiq, health check, health, HCA, health check dashboard, health ch
 summary: 상태 점검 대시보드 에 익숙해지도록 정보를 제공합니다. 
 ---
 = 상태 점검 대시보드 이해
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

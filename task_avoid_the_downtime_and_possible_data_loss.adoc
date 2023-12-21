@@ -5,17 +5,14 @@ keywords: downtime, data loss, avoid downtime, avoid data loss
 summary: 다운타임 및 가능한 데이터 손실을 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = 다운타임 및 가능한 데이터 손실 방지
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

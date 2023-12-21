@@ -5,17 +5,14 @@ keywords: install, execute, firmware update, Ansible Playbook, ansible, playbook
 summary: Ansible 플레이북을 사용하여 펌웨어 업데이트를 설치 및 실행하는 방법에 대한 정보를 제공합니다. 
 ---
 = AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

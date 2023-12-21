@@ -5,17 +5,14 @@ keywords: risks, actions, remediation, corrective action, unified manager
 summary: Unified Manager를 사용하여 자동으로 해결할 수 있는 위험을 확인하는 정보를 제공합니다. 
 ---
 = Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

@@ -5,17 +5,14 @@ keywords: generate token, access token, refresh token, API services
 summary: API 액세스에 대한 토큰을 생성하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = API를 사용할 토큰을 생성합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

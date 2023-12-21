@@ -5,17 +5,14 @@ keywords: AutoSupport
 summary: AutoSupport에 대한 개요를 제공합니다. 
 ---
 = AutoSupport란 무엇입니까
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

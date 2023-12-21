@@ -5,17 +5,14 @@ keywords: capacity, space, increase,
 summary: 시스템 용량을 늘리는 방법에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = 용량 제한에 도달한 시스템을 식별합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

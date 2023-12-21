@@ -5,26 +5,21 @@ keywords: activeiq, sustainability dashboard, recommended actions, digital advis
 summary: 권장 조치를 통해 지속 가능성 점수를 개선하기 위한 단계를 제공합니다. 
 ---
 = 지속 가능성 점수 개선
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
-Sustainability 대시보드는 지속 가능성 점수를 개선하는 데 사용할 수 있는 권장 조치를 생성합니다. NetApp BlueXP 또는 디지털 자문업체에서 이러한 권장 작업을 확인하고 구현할 수 있습니다.
-
-전반적인 지속 가능성 점수와 클러스터 수준의 지속 가능성 점수를 개선할 수 있습니다.
+Sustainability 대시보드는 전반적인 지속 가능성 점수 및 클러스터 수준의 지속 가능성 점수를 개선하기 위해 구현할 수 있는 권장 조치를 제공합니다.
 
 
-NOTE: 전체 지속 가능성 점수 및 클러스터 레벨 지속 가능성 점수를 계산하려면 AutoSupport를 활성화해야 합니다.
+NOTE: 대시보드에서 최상의 결과를 얻으려면 AutoSupport을 활성화해야 합니다. AutoSupport가 활성화되지 않은 경우 데이터는 제품 사양을 기반으로 합니다. 실시간 전력 세부 정보를 보려면 Cloud Insights를 활성화해야 합니다. Cloud Insights를 활성화하는 방법에 대한 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
 
 
 

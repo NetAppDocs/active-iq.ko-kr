@@ -5,17 +5,14 @@ keywords: overview, provision, dashboard, widget, watchlist
 summary: 대시보드, 시청목록 및 위젯에 대한 정보를 제공합니다. 
 ---
 = 시청목록 이해
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
