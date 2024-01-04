@@ -659,7 +659,6 @@
   <block id="112380f3f709a44ef8f75f6d665ac2c9" category="list-text">Python과 Ansible을 설치한 다음 PIP를 사용하여 Python 패키지를 다운로드하십시오.</block>
   <block id="03f27531419e8390d55e5ee184b373c7" category="list-text">NetApp Ansible 컬렉션 설치:</block>
   <block id="9b838c4ce633e917e74290b161349c3a" category="list-text">Ansible Playbook과 인벤토리 파일이 같은 경로에 있는지 확인한 다음 Ansible Playbook을 실행합니다. 펌웨어 업데이트는 백그라운드에서 몇 시간 동안 실행됩니다.</block>
-  <block id="d22d74dd6e0a6c5cd64ecb61ba45759d" category="summary">스토리지 시스템의 ONTAP 버전을 보고 업그레이드하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="aecb526721c5811e8b940ed95c7e8b18" category="doc">주요 개념</block>
   <block id="f7aec255f127e937f979de1bed372a50" category="list-text">* Wellness Dashboard: * 시청목록에 있는 시스템의 전반적인 상태를 제공합니다.</block>
   <block id="b6f36a5587ee48036508da1d84d1b299" category="list-text">* 위젯: * 시스템 상태에 대한 빠른 요약을 제공하는 작은 응용 프로그램을 대시보드에 표시합니다.</block>
@@ -1196,9 +1195,6 @@
   <block id="801b554762e480a183c2424cbe8c2fb6" category="list-text"><block ref="801b554762e480a183c2424cbe8c2fb6" category="inline-link-macro-rx"></block></block>
   <block id="373fd27c1797dca500c6c9dbce1225f7" category="paragraph">웹 서버는 여러 가지 방법으로 설정할 수 있습니다. Python을 사용하여 간단한 웹 서버를 설정하는 방법은 을 참조하십시오 <block ref="303512ecf00930b786dea080d96799d8" category="inline-link-macro-rx"></block>.</block>
   <block id="713451159dacf58d1a99e356169dfb3f" category="list-text">을 클릭합니다 <block ref="9b2adf8ad12dd16d4d2b3750ca65e5de" category="inline-link-macro-rx"></block> API 카탈로그 * 아이콘 아래.</block>
-  <block id="6300a3453f44e919baf2a9aa05a8acaf" category="paragraph">웹 기반 콘솔에서 Digital Advisor에 로그인하여 스토리지 시스템의 전체 상태를 볼 수 있는 관심 목록을 작성할 수 있습니다.</block>
-  <block id="315ad4061cc238e6dcb01825e9ab9572" category="inline-link-macro">계정을 만듭니다</block>
-  <block id="425f3e0f4d6e9e92e654e9ba5e993d54" category="paragraph">디지털 어드바이저에 로그인하려면 유효한 NetApp Support 사이트 자격 증명이 있어야 합니다. 계정이 없고 시작하는 경우 로 이동합니다 <block ref="6e6f0f52d614dd0ec77faf300e34ad53" category="inline-link-macro-rx"></block>.</block>
   <block id="d3b731ac977fc38e625943ab24125e73" category="list-text">로 이동합니다 <block ref="6ea90873ff127896ae7a3eaf21cda455" category="inline-link-macro-rx"></block> 로그인 페이지.</block>
   <block id="2cf504c669255f96f48e417bf3c86399" category="paragraph">ONTAP 시스템의 경우 스토리지 시스템을 처음 구성할 때 AutoSupport가 기본적으로 설정됩니다. 당신은 해야 한다 <block ref="03ce3f8b24f3ba6194d1a4f01375a3eb" category="inline-link-macro-rx"></block> ONTAP 시스템에서 AutoSupport 정보가 기술 지원 부서 및 내부 지원 조직에 전송되는 방식을 제어합니다.</block>
   <block id="836b35da2a4494ce20730d485e090b9b" category="list-text"><block ref="836b35da2a4494ce20730d485e090b9b" category="inline-link-macro-rx"></block></block>
@@ -1384,34 +1380,17 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="fa67fcdec3a9597a8256117c23529953" category="paragraph">NetApp Keystone STaaS 서비스를 구독하는 경우 디지털 어드바이저 대시보드에서 Keystone 구독 위젯을 볼 수 있습니다.</block>
   <block id="580577f00c6e952d8dad642fa30380db" category="inline-link-macro">Keystone 및 디지털 자문</block>
   <block id="2f9ac5e4626cf891d09ebda2d18327db" category="paragraph">Keystone 가입 위젯은 계정의 용량 사용량을 요약해서 제공합니다. 물리적 용량에 대한 용량 활용도 차트로 구성됩니다. 다양한 수준의 구독 데이터 및 사용 현황 정보에 대한 자세한 내용은 를 참조하십시오 <block ref="db5795af5cbf28cf9af79d32298b7715" category="inline-link-macro-rx"></block>.</block>
-  <block id="88c21efa97d0237f72649c201f8b8d3e" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 작업 수를 클릭하여 보류 중인 업그레이드를 확인합니다.</block>
-  <block id="aee744d64cc19e679b53b0c639b25694" category="paragraph"><block ref="aee744d64cc19e679b53b0c639b25694" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="63134457816850025801f96a7797e55c" category="paragraph"><block ref="63134457816850025801f96a7797e55c" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="04306a8a1debf79f0ac04ae6415d891b" category="paragraph"><block ref="04306a8a1debf79f0ac04ae6415d891b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0d67c629baadb827d64b6f908a024ff7" category="inline-image-macro">Risk Advisor(위험 관리자) 탭</block>
   <block id="c406705ee0488217955ba39bbcd3e0f3" category="inline-image-macro">전체 위험</block>
-  <block id="545606e93056e8efc230dfc45f3dffd2" category="paragraph"><block ref="545606e93056e8efc230dfc45f3dffd2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="9b9689199f95721c2dbffc551f8161fa" category="inline-image-macro">업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업</block>
-  <block id="d9884ccdf942ab0c8a261c9bf340eefe" category="paragraph"><block ref="d9884ccdf942ab0c8a261c9bf340eefe" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="5d97ab11aa1e9f44020218850b335941" category="list-text">보고서 * 로 이동합니다. 업그레이드 계획의 상태를 모니터링하고 사용 가능한 경우 다운로드할 수 있습니다.</block>
-  <block id="c1b382578ccbe1b4821d0b8a7f29e343" category="paragraph">업그레이드 계획이 생성되면 업그레이드 계획이 포함된 전자 메일도 받게 됩니다.</block>
-  <block id="3cefe062f61e5f64624dd75eec82a381" category="inline-image-macro">업그레이드 계획 보고서의 상태를 보여 주는 스크린샷</block>
-  <block id="6f8fd13bf5cb0b5816478a43f298af9e" category="paragraph"><block ref="6f8fd13bf5cb0b5816478a43f298af9e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0d2ad64b559232943585fd7b1d8a6a97" category="section-title">2023년 9월 27일</block>
   <block id="f32be3299de249a0d2ea856582aaf567" category="list-text">를 사용하여 기본 시청목록에 대한 Upgrade Advisor 페이지에 액세스할 수 있습니다 <block ref="2a9dc4897c9bae502dc40fd9fb7b1c92" category="inline-link-macro-rx"></block> 링크.</block>
   <block id="d733f1a5970e5ea99d583388ac25e9cf" category="inline-link-macro">업그레이드 계획을 생성하고 보는 방법에 대해 알아봅니다</block>
-  <block id="b01f37f1151c1eda43d977dc266311ad" category="list-text">업그레이드 계획은 중복 업그레이드 단계를 제거하고 백아웃 계획을 간소화하도록 최적화되어 있습니다. 클러스터의 모든 노드에 대한 공통 단계는 통합되며 업그레이드 계획의 일반 정보 섹션에서 사용할 수 있습니다. <block ref="818a7808067ecc2956de5a6af27e7278" category="inline-link-macro-rx"></block>.</block>
   <block id="728961fac8324355b6e6e72caa3fcab4" category="paragraph">지속 가능성 대시보드는 스토리지 시스템의 환경 지속 가능성에 대한 유용한 통찰력을 제공합니다. 지속 가능성 점수, 탄소 완화 비율, 예상 전력 사용, 직접 탄소, 열 등의 정보를 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 기준으로 스토리지 시스템의 전반적인 효율성을 평가하고 지속 가능성을 개선하기 위해 NetApp이 권장하는 조치에 맞출 수 있습니다. <block ref="14f04672b3a078b1589b8f46c67500a4" category="inline-link-macro-rx"></block>.</block>
-  <block id="cdb49ecd8a62ade62c327a64e1695566" category="doc">스토리지 시스템의 ONTAP 버전을 업그레이드합니다</block>
-  <block id="0311d8be615519ede7fdf56e28c4e87a" category="paragraph">Upgrade Advisor를 사용하여 권장 업그레이드를 확인하고 스토리지 시스템에 대한 업그레이드 계획을 생성할 수 있습니다. 스토리지 시스템을 최신 버전의 ONTAP로 업그레이드할 경우 스토리지 시스템과 연결된 위험 관리자 탭에서 위험 목록을 보고 이러한 위험을 완화할 수 있습니다.</block>
   <block id="a51f3b59b1e2e55eb492198c5498a7bf" category="list-text">업그레이드 옵션을 선택합니다.</block>
   <block id="fd23e666b2cc48f70922dc0a25bed60d" category="list-text">업그레이드 계획을 생성하려면 준수 시스템의 수를 클릭하십시오.
 업그레이드 세부 정보 * 페이지가 표시됩니다.</block>
-  <block id="075d151109499e2e30fc7ffd634ce560" category="list-text">위험 관리자 * 탭으로 이동하여 심각도 수준과 함께 위험 목록을 볼 수 있습니다.
-  를 누릅니다
-<block ref="54041361f5c1eaef6bcf2a769063421a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f4e13f16e7fba0f60794942036b0d5b3" category="list-text">업그레이드 옵션에 * Total Risk * 가 포함된 경우 총 위험 수를 클릭하여 * Risk Advisor * 탭에서 위험 목록을 볼 수 있습니다.</block>
-  <block id="ace70623d17cb73b373d377d0c453895" category="list-text">Upgrade Advisor * 탭에서 업그레이드할 시스템을 선택합니다.</block>
   <block id="81ff79ba6c57be0faaf7131e8c633f75" category="list-text">업그레이드 계획 생성 * 을 클릭합니다.</block>
   <block id="06cb9645f9905dac3c50116c8abb865c" category="list-text">표시된 팝업에 세부 정보를 제공합니다. 또한 * 계획 되돌리기 * 확인란을 선택하여 업그레이드 계획에 취소 계획을 포함할 수 있습니다.</block>
   <block id="98f475d7aa8f966d87ccc93ba94fba94" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다</block>
@@ -1435,4 +1414,93 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="d99a4bbfe0f45d32ff5e507f38f9f1a7" category="admonition">지속 가능성 점수를 정확하게 계산하려면 AutoSupport를 활성화해야 합니다.</block>
   <block id="f1a07ac2a47e6ae773882ceb0f2e9570" category="doc">Sustainability 대시보드에 액세스합니다</block>
   <block id="4a94cc80e3bef643a461eac57bc8c9ef" category="paragraph">Sustainability 대시보드는 AIOps 지원 보고 및 채점을 통해 지속 가능성 환경을 개선하는 실행 가능한 인사이트를 제공합니다. NetApp BlueXP 또는 Digital Advisor를 통해 Sustainability 대시보드에 액세스할 수 있습니다.</block>
+  <block id="be5178143d843340e4e67eba4c9e81e5" category="summary">노드(스토리지 시스템)의 ONTAP 버전을 확인하고 업그레이드하는 정보를 제공합니다.</block>
+  <block id="8601f406e80391d056c58948aa581fb2" category="doc">노드에 대한 업그레이드 계획을 생성합니다</block>
+  <block id="2bd844d4631a34a970dfaf3be90c4a0b" category="paragraph">Upgrade Advisor를 사용하여 권장 업그레이드를 확인하고 노드(스토리지 시스템)에 대한 업그레이드 계획을 생성할 수 있습니다. 노드와 관련된 위험 관리자 탭에서 위험 목록을 보고 최신 버전의 ONTAP로 업그레이드하는 경우 이러한 위험을 완화할 수 있습니다.</block>
+  <block id="24fbd138c7dc295cdff7b25fb0003595" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 클러스터 수를 클릭합니다.</block>
+  <block id="bcc117d8c868654bdcb5b2de44d7fbf2" category="inline-image-macro">클러스터 수를 보여 주는 스크린샷</block>
+  <block id="28c5b9b9eefe3c1e8c902c9d79cc6787" category="paragraph"><block ref="28c5b9b9eefe3c1e8c902c9d79cc6787" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a66487996a06c28a71be20aa0af1d26c" category="paragraph">Upgrade Advisor - ONTAP * 페이지가 나타납니다.</block>
+  <block id="154c77c413a39ecb8c39b457c5252f40" category="list-text">Enhanced Upgrade Advisor * 토글을 비활성화합니다.</block>
+  <block id="8b60d322239e9b30aae8b8fd47a48ce3" category="inline-image-macro">향상된 Upgrade Advisor 토글이 비활성화되었음을 보여 주는 스크린샷</block>
+  <block id="0041204be6f9f2e470c98ebfb3d5b0b0" category="paragraph"><block ref="0041204be6f9f2e470c98ebfb3d5b0b0" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="aad5368020cbd683aeba5851f49b4a38" category="paragraph"><block ref="aad5368020cbd683aeba5851f49b4a38" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7b4dbfcbcafcdcc68cd3071fff921ef" category="paragraph"><block ref="a7b4dbfcbcafcdcc68cd3071fff921ef" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9d13760352c3ef2c67f70c65eb9218c3" category="inline-image-macro">편집 단추 이미지</block>
+  <block id="42dc80a9f868807808bfb3bd6d3fa3e4" category="list-text">를 클릭할 수 있습니다 <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 클러스터의 다른 대상 OS 버전을 선택하려면 * 대상 OS 버전 * 의 아이콘을 클릭합니다.</block>
+  <block id="81782223768cc597145a7fe6649737aa" category="list-text">위험 관리자 * 탭으로 이동하여 심각도 수준과 함께 위험 목록을 볼 수 있습니다.
+  를 누릅니다
+<block ref="64ab9e5ee435c8d4125b4c4b2f334200" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="141bbe67ced8a85bfd11063ebb59d88d" category="paragraph"><block ref="141bbe67ced8a85bfd11063ebb59d88d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="13c6c834b23acb47e87a7edcc32e7f88" category="list-text">Upgrade Advisor * 탭에서 업그레이드할 시스템을 선택합니다.</block>
+  <block id="f5a352aea6c7a54f54feff2b5821b2f0" category="paragraph"><block ref="f5a352aea6c7a54f54feff2b5821b2f0" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="680ec4642757efc9cf2d150edf5ce5fc" category="list-text">제출 * 을 클릭합니다.
+보고서 * 페이지로 이동합니다.</block>
+  <block id="d983f30395f8346ffd80f3672dfe8b2a" category="list-text">업그레이드 계획이 제공되면 * Reports * 페이지에서 다운로드할 수 있습니다.</block>
+  <block id="e914294f6ad533c4cc5d44ff79ab35e3" category="inline-link-macro">ONTAP 업그레이드 후 수행할 작업</block>
+  <block id="bbc10f30b2ee9ee55d84238475ba20b0" category="paragraph">ONTAP를 업그레이드한 후 클러스터의 준비 상태를 확인하기 위해 수행해야 할 몇 가지 작업이 있습니다. 자세한 내용은 을 참조하십시오 <block ref="49be8ce40deb1a0b7eb5c98a4fed6622" category="inline-link-macro-rx"></block>.</block>
+  <block id="ef2ca72de9895714706408c3a660a3ad" category="summary">ONTAP 업그레이드 계획을 간소화하는 Upgrade Advisor에 대해 간략하게 설명합니다.</block>
+  <block id="67ee936e795ffe8e8018ac6757105eae" category="paragraph">Upgrade Advisor를 사용하면 성공적인 ONTAP 업그레이드 또는 되돌리는 데 필요한 자세한 단계별 정보가 포함된 업그레이드 계획을 생성할 수 있습니다.</block>
+  <block id="d9b9898ac1165db3daef0e6e50933c02" category="inline-link-macro">단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성합니다</block>
+  <block id="db336d8bf73f1c92f4ed725650c533e9" category="paragraph">단일 클러스터와 여러 클러스터에 대한 자동화된 무중단 업그레이드 계획을 생성할 수 있습니다. 클러스터와 관련된 위험 목록, 업그레이드 차단 및 경고 목록이 포함된 업그레이드 전 확인 보고서, 새 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대해서만 업그레이드 권장 사항을 볼 수 있습니다. 자세한 내용은 을 참조하십시오 <block ref="41932a416de65dadbc9f715244a32fe5" category="inline-link-macro-rx"></block>.</block>
+  <block id="86889b2158b4ac7c9d8fcef2845d3f55" category="admonition">MetroCluster 구성의 각 클러스터에 대해 전체 업그레이드 지침을 보려면 개별 업그레이드 계획을 생성합니다.</block>
+  <block id="5681200d8f1383312047ace6aad75922" category="inline-link-macro">노드에 대한 업그레이드 계획을 생성합니다</block>
+  <block id="9b7d1ab37e6749081c5ac63cb683b1c4" category="paragraph">노드(스토리지 시스템)에 대한 무중단, 운영 중단 및 무중단 업그레이드 계획을 자동으로 생성할 수 있습니다. 권장되는 업그레이드 경로를 검토하고 업그레이드 계획을 생성할 수 있습니다. 자세한 내용은 을 참조하십시오 <block ref="480e8086971f91861d6dfe49fd297465" category="inline-link-macro-rx"></block>.</block>
+  <block id="7b410e5aa098af7d98f180ce6460fdfe" category="inline-link-macro">ONTAP 업그레이드를 준비합니다</block>
+  <block id="222865b37915c0c4bc9b2b9bfcf5b07b" category="paragraph">업그레이드 계획을 생성하기 전에 ONTAP 업그레이드를 준비해야 합니다. 적절한 준비를 통해 업그레이드 프로세스를 시작하기 전에 잠재적 업그레이드 위험 또는 방해 요인을 식별하고 완화할 수 있습니다. 자세한 내용은 을 참조하십시오 <block ref="ea9d3240085371b5bf3a3755f96d8f6d" category="inline-link-macro-rx"></block>.</block>
+  <block id="0850cf3036348eacfcb9da9c7e6dff71" category="section-title">2024년 1월 3일</block>
+  <block id="9c818280eee76d75834ab648289ae85f" category="inline-link-macro">업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성하는 방법에 대해 알아봅니다.</block>
+  <block id="bdc2200252b96cc6ed0c081012882ca8" category="paragraph">Upgrade Advisor는 단일 클러스터와 여러 클러스터에 대해 자동화된 무중단 업그레이드 계획을 제공하도록 개선되었습니다. 위험 요약, 업그레이드 전 확인 보고서, 새로운 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대해서만 업그레이드 권장 사항을 볼 수 있습니다. <block ref="5432771afbfeb8bee17b110b384d0041" category="inline-link-macro-rx"></block></block>
+  <block id="fdee59a37f60e4c66e5c6b1c6c80b2c1" category="list-text">업그레이드 계획은 중복 업그레이드 단계를 제거하고 백아웃 계획을 간소화하도록 최적화되어 있습니다. 클러스터의 모든 노드에 대한 공통 단계는 통합되며 업그레이드 계획의 일반 정보 섹션에서 사용할 수 있습니다. <block ref="f0e67dfcb5ef41ef22b88debd0952b4f" category="inline-link-macro-rx"></block>.</block>
+  <block id="54c8d286439441f65d676d4c8b3f8e5d" category="paragraph">웹 기반 콘솔에서 Digital Advisor에 로그인하여 스토리지 시스템의 전체 상태를 볼 수 있습니다.</block>
+  <block id="1e483625e81b84fcdebccdf1e8a9446a" category="inline-link-macro">NetApp Support 사이트 계정을 고객 또는 게스트 사용자로 등록하는 방법</block>
+  <block id="dd535b546ee88a50134df4a8bcb9ebc7" category="paragraph">디지털 어드바이저에 로그인하려면 유효한 NetApp Support 사이트 자격 증명이 있어야 합니다. 계정이 없고 시작하는 경우 계정을 만들려면 다음 KB 문서를 참조하십시오.
+<block ref="b73ff2fa987bdb24b44ced01bb2bd4c6" category="inline-link-macro-rx"></block>.</block>
+  <block id="cb6d856529734d9ca63ed119e0c1bba6" category="summary">단일 클러스터 및 여러 클러스터에 대한 성공적인 ONTAP 업그레이드 또는 복원을 위한 업그레이드 계획을 생성하는 단계를 제공합니다.</block>
+  <block id="85af6d120b0bc5a9e283fc346b4434ba" category="paragraph">Upgrade Advisor를 사용하여 업그레이드를 받을 자격이 있거나 적합하지 않은 클러스터 목록을 볼 수 있습니다. 적격 클러스터에 대한 업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성할 수 있습니다. 업그레이드 대상으로 적합하지 않은 클러스터의 문제를 해결할 수 있습니다.</block>
+  <block id="6e394bcec3129051274784fa1f725065" category="paragraph">다음 단계에 따라 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성할 수 있습니다.</block>
+  <block id="94df3919fe9cfa11e61d8a1c34ab29ac" category="open-title">단일 클러스터</block>
+  <block id="a8a13bd076efa14c76bf4d2412097a76" category="list-text">Enhanced Upgrade Advisor * 토글이 활성화되어 있는지 확인합니다.</block>
+  <block id="b8b6bd2d3e7273f469feb9820cd57266" category="inline-image-macro">향상된 Upgrade Advisor 토글이 켜져 있음을 보여 주는 스크린샷</block>
+  <block id="e5030f0aad42928362a1dd6d459850f1" category="paragraph"><block ref="e5030f0aad42928362a1dd6d459850f1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="97bf638dd7855f5b871198e3de655fb7" category="paragraph">업그레이드를 위한 적격 클러스터와 비적격 클러스터 목록을 볼 수 있습니다.</block>
+  <block id="b3264e5abfc7f8aa9cbe9bbf2bf2839e" category="list-text">업그레이드할 클러스터를 선택합니다.
+대상 OS 버전 * 열에는 권장되는 대상 OS 버전이 표시됩니다. 를 클릭할 수 있습니다 <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭하여 클러스터의 다른 타겟 OS 버전을 선택합니다.</block>
+  <block id="c25dba4666d739afcf74fafca0e16ec1" category="inline-image-macro">대상 버전을 선택하는 방법을 보여 주는 이미지입니다.</block>
+  <block id="df54a2761f4e27e29bd65d8ac649e3a9" category="paragraph"><block ref="df54a2761f4e27e29bd65d8ac649e3a9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="33934d5a93267aecc3bf0f2c43482311" category="list-text">Nodes * 열에서 노드 수를 클릭하여 클러스터의 노드 요약을 볼 수 있습니다.</block>
+  <block id="d4586bd723aa7ed4cd56bae25e8c11c6" category="inline-image-macro">문제 유형 및 문제 해결에 필요한 해결 방법을 보여 주는 이미지입니다.</block>
+  <block id="e56c89382384db93bf68a52b43fa244d" category="list-text">권장 조치 * 열에서 * 문제 해결 * 을 클릭하여 부적합한 클러스터 관련 문제를 해결하여 업그레이드를 받을 수 있습니다.
+ 를 누릅니다
+<block ref="dd4506ad5994ec27eaf432e5646257a2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6aa4c290298860f81a97d2d4eb92f157" category="list-text">업그레이드 계획 생성 * 을 클릭합니다.
+업그레이드 권장 * 페이지로 이동합니다.</block>
+  <block id="be3de2fbd923b98d3ddce6f87604687b" category="list-text">업그레이드 권장 * 페이지에서 * 위험 관리자 * 탭을 통해 클러스터와 관련된 위험에 대한 세부 정보를 볼 수 있습니다. 업그레이드 차단, 업그레이드 경고 및 필요한 작업은 * 업그레이드 전 확인 * 탭을 통해 확인할 수 있으며, * 고급 및 업데이트된 ONTAP 기능 * 탭을 통해 선택한 대상 OS 버전과 관련된 새로운 기능 및 개선 사항에 대한 정보를 확인할 수 있습니다.</block>
+  <block id="3968a0cc76421e54bc6b6ab94ab3ef6d" category="inline-image-macro">업그레이드 권장 사항 페이지의 전체 보기를 보여 주는 스크린샷</block>
+  <block id="8cb031ec78addd4251b0d98fadb1f16d" category="paragraph"><block ref="8cb031ec78addd4251b0d98fadb1f16d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7911af84e5893fc16119ebbbd79e0ddd" category="list-text">다른 대상 OS 버전을 선택하고 위험 요약, 업그레이드 전 확인 보고서 및 해당 대상 OS 버전과 관련된 새로운 기능 및 개선 사항에 대한 정보를 볼 수 있습니다.</block>
+  <block id="5ff9a8a8f5a8e1185c269de1ae1f16fa" category="inline-image-macro">내보내기 버튼</block>
+  <block id="d0ff34d4ed0d434b63065177d69660b4" category="list-text">를 클릭할 수 있습니다 <block ref="db6dc66ed954c8de99897788c99c122a" category="inline-image-macro-rx" type="image"></block> 위험 요약을 Excel 시트로 내보내는 아이콘</block>
+  <block id="f4c01d8521810198d0aedeb1804292d2" category="list-text">업그레이드 권장 * 페이지에서 * 업그레이드 계획 생성 * 을 클릭합니다.</block>
+  <block id="391ae857ef756e131304172e405792b4" category="inline-image-macro">업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업.</block>
+  <block id="224d1474fa987e54a2ac30c76ea2e21e" category="list-text">표시된 팝업에 세부 정보를 제공합니다.
+  를 누릅니다
+<block ref="b84846bb39db1b32d099a86ab30da18d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ed103c2a26bede51077e4be32d323609" category="list-text">Generate * 를 클릭합니다.
+보고서 * 페이지로 이동합니다.</block>
+  <block id="d33dd907f0f2e416c58ccfa29cd01d18" category="inline-image-macro">View Upgrade Advisor의 위치를 보여 주는 스크린샷. </block>
+  <block id="e6a714556ba607de0796b5ebf874022b" category="admonition">업그레이드 관리자 보고서 보기 * 를 클릭하여 * 보고서 * 페이지로 이동할 수 있습니다.
+ 를 누릅니다
+<block ref="17bf329c781a0dba1bb8097588dd3401" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="18e4f5c6e58b95e97aff34068b2ebc6c" category="open-title">여러 클러스터</block>
+  <block id="9847c4aa92db55ca2d4698117caccc8b" category="list-text">업그레이드할 클러스터를 선택합니다.
+대상 OS 버전 * 열에 권장 대상 OS 버전이 표시됩니다. 을 클릭하면 됩니다 <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭하여 클러스터의 다른 타겟 OS 버전을 선택합니다.</block>
+  <block id="02a1c6ad942cf70822b83555179da604" category="paragraph"><block ref="02a1c6ad942cf70822b83555179da604" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9fe2ae1dc4e08b83a8b63d06803dd564" category="list-text">권장 조치 * 열에서 * 문제 해결 * 을 클릭하여 부적합한 클러스터 관련 문제를 해결하여 업그레이드를 받을 수 있습니다.
+ 를 누릅니다
+<block ref="dd4506ad5994ec27eaf432e5646257a2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b323017de005e05ca9af3f3a9807384d" category="list-text">표시된 팝업에 세부 정보를 제공합니다.
+  를 누릅니다
+<block ref="f898fc4c474d90827399fc16cb1ce540" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c99a7dfbdf4d3cd808ff275e0e323d69" category="sidebar">업그레이드 계획을 생성합니다</block>
 </blocks>

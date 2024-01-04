@@ -75,6 +75,14 @@ sidebar:
       url: "/BlueXP_sustainability_dashboard_overview.html"
     - title: 지속 가능성 점수 개선
       url: "/improve_sustainability_score.html"
+  - title: 업그레이드 계획을 생성합니다
+    entries:
+    - title: 개요
+      url: "/upgrade_advisor_overview.html"
+    - title: 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성합니다
+      url: "/generate_upgrade_plan_single_multiple_clusters.html"
+    - title: 노드에 대한 업그레이드 계획을 생성합니다
+      url: "/task_view_upgrade.html"
   - title: 시스템 세부 정보를 봅니다
     entries:
     - title: 재고 세부 정보를 봅니다
@@ -125,8 +133,6 @@ sidebar:
       url: "/task_renew_support_contracts_for_your_systems.html"
   - title: 설치 기반을 최적화하려면 업그레이드하십시오
     entries:
-    - title: 스토리지 시스템의 ONTAP 버전을 업그레이드합니다
-      url: "/task_view_upgrade.html"
     - title: 지원 서비스를 업그레이드하십시오
       url: "/task_upgrade_support_offering.html"
     - title: Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다

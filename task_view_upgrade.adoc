@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task_view_upgrade.html 
 keywords: upgrade, ONTAP version, upgrade advisor, upgrade plan, risk advisor, pending upgrades 
-summary: 스토리지 시스템의 ONTAP 버전을 보고 업그레이드하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
+summary: '노드(스토리지 시스템)의 ONTAP 버전을 확인하고 업그레이드하는 정보를 제공합니다.' 
 ---
-= 스토리지 시스템의 ONTAP 버전을 업그레이드합니다
+= 노드에 대한 업그레이드 계획을 생성합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
@@ -16,29 +16,37 @@ summary: 스토리지 시스템의 ONTAP 버전을 보고 업그레이드하는 
 
 
 [role="lead"]
-Upgrade Advisor를 사용하여 권장 업그레이드를 확인하고 스토리지 시스템에 대한 업그레이드 계획을 생성할 수 있습니다. 스토리지 시스템을 최신 버전의 ONTAP로 업그레이드할 경우 스토리지 시스템과 연결된 위험 관리자 탭에서 위험 목록을 보고 이러한 위험을 완화할 수 있습니다.
+Upgrade Advisor를 사용하여 권장 업그레이드를 확인하고 노드(스토리지 시스템)에 대한 업그레이드 계획을 생성할 수 있습니다. 노드와 관련된 위험 관리자 탭에서 위험 목록을 보고 최신 버전의 ONTAP로 업그레이드하는 경우 이러한 위험을 완화할 수 있습니다.
 
 .단계
-. 대시보드의 * Upgrade Advisor * 위젯에서 작업 수를 클릭하여 보류 중인 업그레이드를 확인합니다.
+. 대시보드의 * Upgrade Advisor * 위젯에서 클러스터 수를 클릭합니다.
 +
-image:upgrade_advisor_widget.png["Upgrade Advisor"]
+image:ua_widget.png["클러스터 수를 보여 주는 스크린샷"]
+
++
+Upgrade Advisor - ONTAP * 페이지가 나타납니다.
+
+. Enhanced Upgrade Advisor * 토글을 비활성화합니다.
++
+image:ua_disable_toggle.png["향상된 Upgrade Advisor 토글이 비활성화되었음을 보여 주는 스크린샷"]
 
 . 업그레이드 옵션을 선택합니다.
 +
-image:upgrade_options.png["업그레이드 옵션"]
+image:ua_upgrade_options.png["업그레이드 옵션"]
 
 . 업그레이드 계획을 생성하려면 준수 시스템의 수를 클릭하십시오.
 업그레이드 세부 정보 * 페이지가 표시됩니다.
 +
-image:generate_upgrade_plan.png["업그레이드 계획을 생성합니다"]
+image:r_ua_generate_upgrade_plan.png["업그레이드 계획을 생성합니다"]
 
 +
+** 를 클릭할 수 있습니다 image:edit_icon.png["편집 단추 이미지"] 클러스터의 다른 대상 OS 버전을 선택하려면 * 대상 OS 버전 * 의 아이콘을 클릭합니다.
 ** 위험 관리자 * 탭으로 이동하여 심각도 수준과 함께 위험 목록을 볼 수 있습니다.
   를 누릅니다
-image:view_risks.png["Risk Advisor(위험 관리자) 탭"]
+image:ua_view_risks.png["Risk Advisor(위험 관리자) 탭"]
 ** 업그레이드 옵션에 * Total Risk * 가 포함된 경우 총 위험 수를 클릭하여 * Risk Advisor * 탭에서 위험 목록을 볼 수 있습니다.
 +
-image:total_risks.png["전체 위험"]
+image:ua_total_risks.png["전체 위험"]
 
 
 
@@ -46,14 +54,11 @@ image:total_risks.png["전체 위험"]
 . 업그레이드 계획 생성 * 을 클릭합니다.
 . 표시된 팝업에 세부 정보를 제공합니다. 또한 * 계획 되돌리기 * 확인란을 선택하여 업그레이드 계획에 취소 계획을 포함할 수 있습니다.
 +
-image:details_upgrade_plan.png["업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업"]
+image:ua_details_upgrade_plan.png["업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업"]
 
 . 제출 * 을 클릭합니다.
-. 보고서 * 로 이동합니다. 업그레이드 계획의 상태를 모니터링하고 사용 가능한 경우 다운로드할 수 있습니다.
-+
-업그레이드 계획이 생성되면 업그레이드 계획이 포함된 전자 메일도 받게 됩니다.
-
-+
-image:download_upgrade_plan.png["업그레이드 계획 보고서의 상태를 보여 주는 스크린샷"]
+보고서 * 페이지로 이동합니다.
+. 업그레이드 계획이 제공되면 * Reports * 페이지에서 다운로드할 수 있습니다.
 
 
+ONTAP를 업그레이드한 후 클러스터의 준비 상태를 확인하기 위해 수행해야 할 몇 가지 작업이 있습니다. 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/ontap/upgrade/task_what_to_do_after_upgrade.html["ONTAP 업그레이드 후 수행할 작업"].
