@@ -79,7 +79,7 @@ image:r_ua_view_reports.png["View Upgrade Advisor의 위치를 보여 주는 스
 ONTAP를 업그레이드한 후 클러스터의 준비 상태를 확인하기 위해 수행해야 할 몇 가지 작업이 있습니다. 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/ontap/upgrade/task_what_to_do_after_upgrade.html["ONTAP 업그레이드 후 수행할 작업"].
 
 --
-.여러 클러스터
+.다중 클러스터
 --
 . 대시보드의 * Upgrade Advisor * 위젯에서 클러스터 수를 클릭합니다.
 +
