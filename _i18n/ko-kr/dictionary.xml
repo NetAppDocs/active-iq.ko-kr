@@ -858,7 +858,6 @@
   <block id="c97def108b37d464e0c4a724252e49d9" category="list-text">지역 또는 사이트 수준에서 .yml 및 .ini 형식의 시스템 세부 정보를 보려면 * Ansible Inventory * 보고서를 다운로드하십시오.</block>
   <block id="cf9a05044c598886b8421db3045b9edd" category="paragraph">Ansible 인벤토리 파일을 맞춤형 Ansible 플레이북 파일과 함께 사용하여 인프라 구성을 변경할 수 있습니다.</block>
   <block id="9d094e845c465f9cb6c298c2cfa8c71d" category="summary">정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공합니다.</block>
-  <block id="5649476905365d651ff75a651e4e79a8" category="doc">클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다</block>
   <block id="19f59b74448f6a27519db281a44e4b12" category="section-title">마이그레이션</block>
   <block id="4fc6b52f3180163cea93aa7c8da0e7dd" category="paragraph">스토리지 시스템 내에서 사용 가능한 다양한 워크로드 유형에 대한 정보를 제공하고 클라우드에서 바로 사용할 수 있는 워크로드를 식별합니다. 워크로드를 클라우드로 이동할 경우 비용을 절감하고 클라우드 재해 복구를 제공할 수 있습니다.</block>
   <block id="46c5977f0ec6a34283e38ed39033952e" category="paragraph">CVO(Cloud Volumes ONTAP) 및 CVS(Cloud Volumes Service)로 마이그레이션할 때는 다음 기준을 충족하는 볼륨을 사용하는 것이 좋습니다.</block>
@@ -974,11 +973,6 @@
   <block id="3d771951f480b18b116afdfb0da9cb88" category="sidebar">API에 액세스하기 위한 토큰을 생성합니다</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">사용자 정의 보고서를 생성합니다</block>
   <block id="af2a4d2810d86aa0169c117f82682f9a" category="sidebar">자주 묻는 질문</block>
-  <block id="11d4d5337b73945892437ccbc95a0733" category="sidebar">위험을 확인하고 수정 조치를 취합니다</block>
-  <block id="a54afc6b3736cfe74798cc6c434300fc" category="sidebar">구성 편차를 감지합니다</block>
-  <block id="7a61fe0aacb0733ede2f886638474e22" category="sidebar">중요한 보안 위험을 해결합니다</block>
-  <block id="0aace9b9585a40db8e20e3e200feeb89" category="sidebar">ONTAP 업그레이드 권장 사항을 봅니다</block>
-  <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">더 많은 리소스</block>
   <block id="2eec6525cedefe6316db600adeaf337c" category="section-title">멀티 홉 업그레이드</block>
   <block id="01b9a3f3b3303730f5c2525f136ad86b" category="paragraph">비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.</block>
   <block id="1e3c19e3742fbfc0e6dd22bb91d109a3" category="inline-image-macro">Upgrade Advisor</block>
@@ -1095,12 +1089,6 @@
   <block id="7668feb1d998cf5c94c1e24359309154" category="list-text">Digital Advisor에 로그인합니다.</block>
   <block id="eea107c69ccee0cbe0becace353b156f" category="paragraph">Digital Advisor는 맞춤형 Ansible 스크립트 또는 플레이북을 생성하여 디스크 펌웨어 파일을 비롯한 필수 디스크 펌웨어를 업데이트합니다.</block>
   <block id="c8a6259aed44fea9ff6723eeb59cce9e" category="sidebar">Digital Advisor 문서</block>
-  <block id="102d9716e9927264b03dcd24c0dd5cc3" category="sidebar">Digital Advisor에 대해 자세히 알아보십시오</block>
-  <block id="156203bd2f0dca053d9b9dbd8f8912c7" category="sidebar">Digital Advisor 사용</block>
-  <block id="6cb30ae6af19fc79cca62d705f6b0744" category="sidebar">Digital Advisor를 이용한 분석</block>
-  <block id="ff40d476eb35d6d339a7a745c5825109" category="sidebar">Digital Advisor Web Portal을 참조하십시오</block>
-  <block id="4238f8b700953551a4ce57636e1b3b11" category="sidebar">Digital Advisor 비디오</block>
-  <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
   <block id="8081688f219c172dde2cb99dbacc51d8" category="doc">클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다</block>
   <block id="e404f7c0800eac65e5e44442bb4fd0cc" category="admonition">나중에 사용할 수 있도록 액세스 토큰을 다운로드하여 저장하고 토큰을 새로 고쳐야 합니다. 액세스 토큰은 생성 후 1시간 후에 만료되며, 토큰을 새로 고치려면 7일마다 수동으로 다시 생성하고 응용 프로그램에 설치해야 합니다. 이렇게 하려면 응용 프로그램에 로그인하지 않아도 됩니다. 그러나 90일이 지난 후에는 애플리케이션에 로그인하여 새 액세스 권한을 얻고 토큰을 새로 고쳐야 합니다.</block>
   <block id="73924ddc2c905c2855a59dc4ad4e29a7" category="paragraph">구성 드리프트 템플릿의 속성은 편집할 수 있으며, 템플릿의 다음 그룹은 일부 섹션에 대한 정규식을 지원합니다.</block>
@@ -1402,7 +1390,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="f4547f31c09ed6f71cd2e94db143fffd" category="list-text"><block ref="f4547f31c09ed6f71cd2e94db143fffd" category="inline-link-macro-rx"></block></block>
   <block id="4f0ba3197c25744bb644bb7e83a43b5f" category="list-text"><block ref="4f0ba3197c25744bb644bb7e83a43b5f" category="inline-link-macro-rx"></block></block>
   <block id="dc52fcbf0f80ad7cfad9b3efcbd2df3d" category="list-text">클러스터 수준에서 실시간 전력 세부 정보를 보려면 * Real-time power * 열에서 모니터링을 활성화하십시오. 자세한 내용은 을 참조하십시오 <block ref="0287186bd1777b27f244433b8d45ea17" category="inline-link-macro-rx"></block>.</block>
-  <block id="17ee9449f19b1975afdae38c7db7d001" category="admonition">지속 가능성은 AFF 시스템, A-Series 및 C-Series, FAS 시스템 및 CVO(Cloud Volumes ONTAP)에서 지원됩니다.</block>
   <block id="20cc757c4cb0c9b6153ae0f56705ae36" category="section-title">2023년 11월 16일</block>
   <block id="20015eaa9dc8feb8cbf1eaadb95c6b20" category="paragraph">이제 최대 100개의 시청자 목록을 만들 수 있습니다.</block>
   <block id="752f0c78427b5fffe498798d609a58a7" category="list-text">이제 관심 목록, 사이트 및 그룹 대시보드에서 기술 업데이트 권장 사항을 사용할 수 있습니다.</block>
@@ -1506,4 +1493,9 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="48c86fda9292a5b410c6b86a0d2e64b7" category="paragraph">* 왼쪽 탐색 창의 저장소 상태 아래 기능이 비활성화된 이유는 무엇입니까? *
 스토리지 상태 * 에서 기능의 가용성은 시스템 유형과 레벨에 따라 다릅니다. 예를 들어, ClusterViewer는 클러스터 및 노드 레벨에서 ONTAP 및 CVO(Cloud Volumes ONTAP) 시스템에 사용할 수 있습니다. 각 기능 옆에 있는 * i * 아이콘 위로 마우스를 가져가면 적용 가능한 시스템 유형 및 수준에 대해 알아볼 수 있습니다.</block>
   <block id="568d1629463645988ff4868c31e4cba7" category="open-title">다중 클러스터</block>
+  <block id="d873b57150944650b53661161f297953" category="admonition">지속 가능성은 AFF 시스템, A-Series 및 C-Series, FAS 시스템 및 Cloud Volumes ONTAP에서 모두 지원됩니다.</block>
+  <block id="82e62a186bc8e1499e10d1400cd762e1" category="section-title">2024년 2월 8일</block>
+  <block id="f66a566e9695faf3a9ac3f398a6e5dcd" category="inline-link-macro">Sustainability 대시보드</block>
+  <block id="abb657094a0038dadd2b0ad8a1f2644b" category="paragraph">이제 를 사용하여 기본 대시보드 또는 시청목록에 대한 Sustainability 메트릭에 직접 액세스할 수 있습니다 <block ref="3bfa14a7a0d533bd50f797d3680bb9e4" category="inline-link-macro-rx"></block> 링크.</block>
+  <block id="3f0a64c1722e89371bae517923a9f798" category="paragraph">이제 디스크 요약 섹션에서 디스크 RPM 정보를 볼 수 있습니다. 디스크 요약 섹션은 Storage 탭 및 ClusterViewer 보고서에서 사용할 수 있습니다.</block>
 </blocks>

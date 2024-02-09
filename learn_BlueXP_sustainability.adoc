@@ -21,7 +21,7 @@ summary: 에너지 소비를 줄이고 환경 목표를 달성할 수 있는 지
 Sustainability 대시보드를 사용하여 지속 가능성 점수와 지속 가능성 대시보드의 예상 전력 사용량, 직접 탄소 및 열 사용량을 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 기준으로 지속 가능성 자세를 평가하고 NetApp이 권장하는 조치를 시행하여 점수를 향상할 수 있습니다. Sustainability 대시보드에 대한 자세한 내용은 을 참조하십시오 link:BlueXP_sustainability_dashboard_overview.html["Sustainability 대시보드 개요"].
 
 
-NOTE: 지속 가능성은 AFF 시스템, A-Series 및 C-Series, FAS 시스템 및 CVO(Cloud Volumes ONTAP)에서 지원됩니다.
+NOTE: 지속 가능성은 AFF 시스템, A-Series 및 C-Series, FAS 시스템 및 Cloud Volumes ONTAP에서 모두 지원됩니다.
 
 Sustainability 대시보드를 이해하기 위해 다음 비디오를 볼 수 있습니다.
 
