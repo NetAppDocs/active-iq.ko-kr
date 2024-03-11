@@ -543,12 +543,10 @@
   <block id="1dce4feb01121addbdaf71931c469035" category="list-text">사용자 이름과 암호를 입력하고 * 로그인 * 을 클릭합니다.</block>
   <block id="f39b53c109ef22724fc3808f3709808c" category="summary">대시보드에 관심 목록을 추가하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="19a1aa0085c346ac0453f3463cfe5ae0" category="doc">시청목록 생성</block>
-  <block id="a6b5018db137b1873575388bb66fd696" category="paragraph">감시 목록을 만들어 일련의 시스템에 빠르고 쉽게 액세스할 수 있습니다. 범주 또는 위치에 따라 시스템 집합을 결합할 수 있습니다.</block>
   <block id="da2d66a259f4a63d3108ebfd2b3e72c3" category="list-text">왼쪽 창에서 * Watchlists * 를 클릭합니다</block>
   <block id="ba76cc75fba1482c23f5d61fcf99fc47" category="paragraph">시청목록 관리 * 화면이 표시됩니다.</block>
   <block id="f93fd0b56ed95d156b42c479f821efef" category="list-text">시청목록 만들기 * 를 클릭합니다.</block>
   <block id="6e6456ff615835fa78db50bf4c134885" category="list-text">감시 목록의 이름을 입력합니다.</block>
-  <block id="d92f20aa0037ca0433951e4c3075ac1e" category="list-text">감시 목록에 추가할 시스템에 대한 세부 정보를 제공합니다.</block>
   <block id="d757f95a394959d080114b15fde1d52e" category="paragraph">제품 번호별로 범주 아래에 최대 15,000대의 시스템을, 500대의 시스템을 추가할 수 있습니다.</block>
   <block id="4e8d1ca8d221cc5795ac4f7e56661686" category="paragraph">시청목록 대시보드가 표시됩니다.</block>
   <block id="a0a811ca28574ec3a01b64693e2fe336" category="summary">대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제공합니다.</block>
@@ -984,7 +982,6 @@
   <block id="45b708abb9ee2f917c7896e31ae4c7b6" category="paragraph">Digital Advisor는 유효한 지원 계약이 있는 시스템을 표시합니다. 계약이 만료되면 90일의 유예 기간이 주어지면 시스템이 계속 표시됩니다. 그 이후에는 Digital Advisor 내에서 시스템을 검색 또는 볼 수 없습니다.</block>
   <block id="5c711ca6514b7bc5e8b54eb7d0514b90" category="paragraph">이 데이터는 NetApp 기술 지원 팀이 문제의 진단 및 해결 속도를 높이기 위해, Digital Advisor가 잠재적인 문제를 사전에 감지하여 해결하는 데 사용됩니다. 내부 지원 조직 및 지원 파트너에게 전송될 수도 있습니다.</block>
   <block id="5da64b23743d20365a812a148d09b65f" category="admonition">디지털 어드바이저는 AutoSupport 데이터가 60일 미만인 시스템에 대해서만 AutoSupport 관련 데이터를 표시합니다.</block>
-  <block id="2d0aa76ea44ffecf44fd1e54e726b8a1" category="summary">Digital Advisor를 사용하면 클라우드 기반 포털 및 모바일 앱을 통해 실행 가능한 예측 분석과 사전 예방적 지원을 제공하여 글로벌 하이브리드 클라우드 전반에서 데이터 인프라를 최적화할 수 있습니다. 디지털 자문업체의 클라우드 기반 서비스는 NetApp의 방대한 설치 기반을 기반으로 한 커뮤니티 지혜 및 동종 업계 비교를 활용하여 이러한 통찰력을 AutoSupport 원격 측정 및 My AutoSupport 기능과 결합하여 탁월한 고급 분석 서비스를 제공합니다.</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="doc">Digital Advisor 설명서</block>
   <block id="571d621f51c49640d8adb2c5bb15554a" category="paragraph">Digital Advisor는 시스템을 지속적으로 분석하고 시스템의 성능, 효율성 및 상태를 개선하기 위한 권장 사항을 제공합니다.</block>
   <block id="ee8a7221101a63a879e7b11a9e134817" category="admonition">디지털 어드바이저는 BlueXP로 이동하여 권장 사항을 구현합니다.</block>
@@ -1030,7 +1027,6 @@
   <block id="e3f44fedccc2711587690bd9581827ed" category="paragraph">Digital Advisor는 원격 측정 데이터와 게시된 제품 보안 권고를 활용하여 적용 * 및 지원 대상 제품의 보안 문제를 감지합니다. 디지털 어드바이저가 위험을 감지할 수 있도록 제품 원격 측정 데이터를 AutoSupport를 통해 NetApp으로 전송해야 합니다.</block>
   <block id="6c0397360aa8b37bbbe1fa3a38744674" category="list-text">Digital Advisor에 로그인합니다.</block>
   <block id="ca249192c36cc85e44209b65bfb3ec3d" category="list-text">가장 중요한 단계는 디지털 어드바이저의 * Upgrade Advisor * 에서 OS 업그레이드를 계획하는 것입니다.</block>
-  <block id="16d182da6aeb172074cbe06d557991cc" category="paragraph">감시 목록은 Digital Advisor 내에서 미리 선택된 시스템에 빠르고 쉽게 액세스하는 데 사용됩니다. 특정 고객 또는 시스템 집합을 자주 보는 경우 감시 목록을 만드는 것이 좋습니다. 최대 50개의 감시 목록을 생성할 수 있으며 각 감시 목록에는 범주별로 최대 15,000개의 시스템 또는 일련 번호별로 500개의 시스템을 포함할 수 있습니다.</block>
   <block id="fdcefef7d938550393c7f560b2c30cac" category="paragraph">처음 디지털 어드바이저에 액세스할 때 감시 목록을 생성하거나 고객 이름, 사이트 이름, 그룹 이름, StorageGRID, 호스트 이름을 검색할 수 있습니다. 클러스터, 일련 번호 또는 시스템 ID</block>
   <block id="8fe538800aeef2cc4ce4a036305bf264" category="paragraph">Digital Advisor API Services는 자동화를 사용하여 워크플로우에 효율성을 추가합니다. API 서비스 내부에는 20개 이상의 서비스 영역으로 그룹화된 100개 이상의 서로 다른 API 엔드포인트를 설명하는 * API Catalog * 가 있습니다. NetApp 고객은 이러한 API를 사용하여 시스템 정보, 스토리지 효율성, 성능, 상태 및 업그레이드와 같은 다양한 관심 영역을 이용할 수 있습니다.</block>
   <block id="b55b7f8ad3b486e6903c05d80410b389" category="paragraph">API는 프로그래밍 방식으로 Digital Advisor에 문의하고 데이터를 컴퓨팅 환경으로 다시 가져올 수 있는 간단한 코드를 작성할 수 있는 인터페이스입니다. 매일 Digital Advisor에 연락하여 관심 영역의 최신 데이터를 다시 가져오는 방식으로 코드를 작성할 수 있습니다. 그런 다음 이 데이터를 사용하여 발권 시스템을 채우거나 자신만의 대시보드, 웹 페이지 또는 보고서를 만들 수 있습니다. Digital Advisor API 카탈로그에는 코드 샘플과 브라우저 API를 사용해 볼 수 있는 기능이 모두 포함되어 있습니다.</block>
@@ -1498,4 +1494,27 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="f66a566e9695faf3a9ac3f398a6e5dcd" category="inline-link-macro">Sustainability 대시보드</block>
   <block id="abb657094a0038dadd2b0ad8a1f2644b" category="paragraph">이제 를 사용하여 기본 대시보드 또는 시청목록에 대한 Sustainability 메트릭에 직접 액세스할 수 있습니다 <block ref="3bfa14a7a0d533bd50f797d3680bb9e4" category="inline-link-macro-rx"></block> 링크.</block>
   <block id="3f0a64c1722e89371bae517923a9f798" category="paragraph">이제 디스크 요약 섹션에서 디스크 RPM 정보를 볼 수 있습니다. 디스크 요약 섹션은 Storage 탭 및 ClusterViewer 보고서에서 사용할 수 있습니다.</block>
+  <block id="ee994369582acbd0aa1a2c594329160a" category="section-title">2024년 2월 29일</block>
+  <block id="a87afd0ebe87406d33b58f65b33a438b" category="paragraph">이제 Keystone 구독 번호를 기반으로 관심 목록을 만들고 구독 번호 또는 관심 목록 이름의 처음 3자를 사용하여 Keystone 구독을 검색할 수 있습니다.</block>
+  <block id="bb6677c30e1599d498cc331db9ae9ac1" category="paragraph">감시 목록은 Digital Advisor 내에서 미리 선택된 시스템에 빠르고 쉽게 액세스하는 데 사용됩니다. 특정 고객 또는 시스템 집합을 자주 보는 경우 감시 목록을 만드는 것이 좋습니다. 감시 목록은 최대 100개까지 생성할 수 있으며, 각 감시 목록은 범주별로 최대 15,000대의 시스템 또는 일련 번호별로 500대의 시스템을 포함할 수 있습니다.</block>
+  <block id="0c9919bc11a911adb7dfe0c3fcfec57e" category="paragraph">디지털 어드바이저에 처음 액세스할 때 시청자 목록을 만들거나 고객 이름, 사이트 이름, 그룹 이름, StorageGRID, 호스트 이름을 검색할 수 있습니다. 클러스터, 일련 번호, 시스템 ID 또는 Keystone 구독입니다.</block>
+  <block id="696132aa64e1de699fed134cebca0cb4" category="paragraph">감시 목록을 만들어 일련의 시스템에 빠르고 쉽게 액세스할 수 있습니다. 범주 또는 일련 번호를 기준으로 시스템을 추가할 수 있습니다.</block>
+  <block id="8724cab6ff3882b095d7f7a1af087d3c" category="list-text">다음 옵션 중 하나를 선택하여 시스템을 감시 목록에 추가합니다.</block>
+  <block id="046b77894dfde73619bb48b4dc431dd0" category="list-text">* 범주 *: 이 옵션을 사용하면 고객, 사이트, 그룹 또는 Keystone 구독과 같은 특정 범주와 관련된 전체 재고를 추가할 수 있습니다. 시청자 명단에 올리십시오.</block>
+  <block id="ca5b91a68ba656cb1cb6cdd4e75f646a" category="inline-link-macro">Keystone 관심 목록으로 검색합니다</block>
+  <block id="a5a3e88ca2e2f72fdd690c7bf4473d53" category="admonition">Keystone 구독 * 옵션을 사용하면 Keystone 구독과 관련된 모든 구독 번호를 포함할 수 있습니다. 관심 목록을 기준으로 검색할 경우 Digital Advisor 대시보드의 * Keystone 구독 * 위젯에서 구독을 볼 수 있습니다. 자세한 내용은 을 참조하십시오 <block ref="6c48397e666066c17d428674ea869bc7" category="inline-link-macro-rx"></block>.</block>
+  <block id="abc045a62577e8c80a76e2f49162b3ae" category="list-text">*일련 번호*: 이 옵션을 사용하면 지정된 일련 번호를 기준으로 감시 목록에 재고를 포함할 수 있습니다. 일련 번호를 직접 입력하거나 고객, 사이트 또는 그룹과 같은 범주에서 일련 번호를 선택할 수 있습니다.</block>
+  <block id="28fa24f22582565336a20a99aac1a3b6" category="sidebar">Active IQ Digital Advisor(Digital Advisor라고도 함)를 사용하면 클라우드 기반 포털 및 모바일 앱을 통해 실행 가능한 예측 분석 및 사전 예방적 지원을 제공함으로써 글로벌 하이브리드 클라우드의 데이터 인프라를 최적화할 수 있습니다. 디지털 자문업체의 클라우드 기반 서비스는 NetApp의 방대한 설치 기반을 기반으로 한 커뮤니티 지혜 및 동종 업계 비교를 활용하여 이러한 통찰력을 AutoSupport 원격 측정 및 My AutoSupport 기능과 결합하여 탁월한 고급 분석 서비스를 제공합니다.</block>
+  <block id="102d9716e9927264b03dcd24c0dd5cc3" category="sidebar">Digital Advisor에 대해 자세히 알아보십시오</block>
+  <block id="156203bd2f0dca053d9b9dbd8f8912c7" category="sidebar">Digital Advisor 사용</block>
+  <block id="11d4d5337b73945892437ccbc95a0733" category="sidebar">위험을 확인하고 수정 조치를 취합니다</block>
+  <block id="a54afc6b3736cfe74798cc6c434300fc" category="sidebar">구성 편차를 감지합니다</block>
+  <block id="7a61fe0aacb0733ede2f886638474e22" category="sidebar">중요한 보안 위험을 해결합니다</block>
+  <block id="6cb30ae6af19fc79cca62d705f6b0744" category="sidebar">Digital Advisor를 이용한 분석</block>
+  <block id="0aace9b9585a40db8e20e3e200feeb89" category="sidebar">ONTAP 업그레이드 권장 사항을 봅니다</block>
+  <block id="5649476905365d651ff75a651e4e79a8" category="sidebar">클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다</block>
+  <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">더 많은 리소스</block>
+  <block id="ff40d476eb35d6d339a7a745c5825109" category="sidebar">Digital Advisor Web Portal을 참조하십시오</block>
+  <block id="4238f8b700953551a4ce57636e1b3b11" category="sidebar">Digital Advisor 비디오</block>
+  <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
 </blocks>

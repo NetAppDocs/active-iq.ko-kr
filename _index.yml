@@ -1,0 +1,55 @@
+---
+indexpage:
+  title: Digital Advisor 설명서
+  summary: Active IQ Digital Advisor(Digital Advisor라고도 함)를 사용하면 클라우드 기반 포털 및 모바일
+    앱을 통해 실행 가능한 예측 분석 및 사전 예방적 지원을 제공함으로써 글로벌 하이브리드 클라우드의 데이터 인프라를 최적화할 수 있습니다. 디지털
+    자문업체의 클라우드 기반 서비스는 NetApp의 방대한 설치 기반을 기반으로 한 커뮤니티 지혜 및 동종 업계 비교를 활용하여 이러한 통찰력을
+    AutoSupport 원격 측정 및 My AutoSupport 기능과 결합하여 탁월한 고급 분석 서비스를 제공합니다.
+  keywords: Digital Advisor, Watchlist, Sustainability, Upgrade Advisor, ONTAP
+  lead: Active IQ Digital Advisor(Digital Advisor라고도 함)를 사용하면 클라우드 기반 포털 및 모바일 앱을
+    통해 실행 가능한 예측 분석 및 사전 예방적 지원을 제공함으로써 글로벌 하이브리드 클라우드의 데이터 인프라를 최적화할 수 있습니다. 디지털
+    자문업체의 클라우드 기반 서비스는 NetApp의 방대한 설치 기반을 기반으로 한 커뮤니티 지혜 및 동종 업계 비교를 활용하여 이러한 통찰력을
+    AutoSupport 원격 측정 및 My AutoSupport 기능과 결합하여 탁월한 고급 분석 서비스를 제공합니다.
+  tiles:
+  - title: 시작하십시오
+    links:
+    - title: Digital Advisor에 대해 자세히 알아보십시오
+      url: https://tv.netapp.com/detail/video/6254074753001/what-can-you-do-with-active-iq
+    - title: Digital Advisor의 빠른 시작
+      url: concept_getting_started_2.html
+    - title: 주요 개념
+      url: concept_key_terms.html
+    - title: 시청목록 생성
+      url: task_add_watchlist.html
+  - title: Digital Advisor 사용
+    links:
+    - title: 위험을 확인하고 수정 조치를 취합니다
+      url: task_view_risk_and_take_action.html
+    - title: 구성 편차를 감지합니다
+      url: task_compare_config_drift_template.html
+    - title: 중요한 보안 위험을 해결합니다
+      url: task_increase_protection_against_hackers_and_Ransomware_attacks.html
+    - title: 스토리지 성능 분석
+      url: task_view_performance_graphs.html
+    - title: 보고서를 생성합니다
+      url: task_generate_reports.html
+  - title: Digital Advisor를 이용한 분석
+    links:
+    - title: ONTAP 업그레이드 권장 사항을 봅니다
+      url: task_view_upgrade.html
+    - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
+      url: task-informed-decisions-based-on-cloud-recommendations.html
+    - title: NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다
+      url: view_keystone_capacity_utilization.html
+  - title: 더 많은 리소스
+    links:
+    - title: Digital Advisor Web Portal을 참조하십시오
+      url: https://mysupport.netapp.com/myautosupport/home.html
+    - title: Digital Advisor 비디오
+      url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7kWBxqwLYBchpMW4k9Z6Vum
+    - title: NetApp 커뮤니티 – 디지털 자문업체
+      url: https://community.netapp.com/t5/Active-IQ-and-AutoSupport/ct-p/autosupport-and-my-autosupport
+    - title: Digital Advisor Mobile Application(Android)
+      url: https://play.google.com/store/apps/details?id=com.netapp.myautosupport
+    - title: Digital Advisor Mobile Application(iOS)
+      url: https://apps.apple.com/us/app/active-iq/id1230542480
