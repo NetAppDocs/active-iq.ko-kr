@@ -1517,4 +1517,9 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="ff40d476eb35d6d339a7a745c5825109" category="sidebar">Digital Advisor Web Portal을 참조하십시오</block>
   <block id="4238f8b700953551a4ce57636e1b3b11" category="sidebar">Digital Advisor 비디오</block>
   <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
+  <block id="a05a52081b0fa90b1547ef6f59f35788" category="summary">기술 지원 계약 또는 하드웨어의 기술 업데이트를 평가하기 위한 정보를 제공합니다</block>
+  <block id="33a9c4b5f0c522c38ff9b1b46ebd1498" category="doc">기술 업데이트를 평가합니다</block>
+  <block id="2d6605eb73e95419014e86f084d39681" category="paragraph">기술 업데이트가 기술 지원 계약 또는 하드웨어에 권장되는지 여부를 확인하려면 기술 업데이트 옵션을 사용할 수 있습니다.</block>
+  <block id="65a5dc35cec4fdb5b8c204304a2ab99a" category="admonition">이 기능은 BlueXP의 경제 효율성(* 거버넌스 &gt; 경제적 효율성 &gt; 기술 업데이트 *) 또는 NetApp 디지털 어드바이저(* 대시보드 &gt; 계획 위젯 &gt; 기술 업데이트 *)를 통해 액세스할 수 있습니다.</block>
+  <block id="26528bfb42ca87e3e5f7846afd863bb0" category="paragraph">이 기능에 대한 자세한 내용은 을 참조하십시오 <block ref="a230b818a44a7d13155b37e12838fa41" category="inline-link-macro-rx"></block> 검토합니다.</block>
 </blocks>
