@@ -26,10 +26,10 @@ Digital Advisor가 적용되지 않는 제품을 포함한 추가 NetApp 제품 
 
 .단계
 . Digital Advisor에 로그인합니다.
-. 보안 취약점 * 위젯에서 * 조치 * 를 클릭합니다.image:Security_Image 1 Ransomware attacks.png["보안 취약점 위젯"]
-+
-보안 위험이 높은 경우 운영 체제를 업그레이드하는 권장 조치를 따르십시오.
-
+. 보안 및 랜섬웨어 방어 * 위젯에서 * 조치 * 를 클릭합니다.
+image:Security_Image 2 Ransomware attacks.png["보안 취약점 위젯"]
+. 랜섬웨어 방어 * 확인란의 선택을 취소합니다.
+. 보안 위험이 높은 경우 운영 체제를 업그레이드하는 권장 조치를 따르십시오.
 . 고유 위험 * 탭을 클릭한 다음 * 수정 조치 * 열의 링크를 클릭합니다.image:Corrective Action_Image 2 Ransomware attacks.png["수정 조치 열"]
 +
 이 위험은 ONTAP 9.7P8 이상에서 해결되었습니다.image:Remediations_Image 3 Ransomware attacks.png["수정 탭"]
