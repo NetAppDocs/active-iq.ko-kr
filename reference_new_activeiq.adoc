@@ -20,6 +20,16 @@ Digital Advisor에는 다음과 같은 기능과 개선 사항이 도입되었�
 
 
 
+== 2024년 3월 28일
+
+
+
+=== Upgrade Advisor
+
+이전 버전의 Upgrade Advisor는 이제 더 이상 사용되지 않습니다. 향상된 버전의 Upgrade Advisor를 사용하여 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html["업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성하는 방법에 대해 알아봅니다."]
+
+
+
 == 2024년 3월 15일
 
 
