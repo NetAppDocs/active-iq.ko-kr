@@ -56,9 +56,7 @@
   <block id="73cbb404e3fdd583d819be0e2eb8034e" category="section-title">비기술적인 케이스</block>
   <block id="b09ac678fb70485b6003259d225086ea" category="paragraph">* 비기술적 사례는 무엇입니까? *</block>
   <block id="49b0363cd6699cf55e78d722000a5e8c" category="paragraph">재고 시스템을 볼 수 없는 문제, 잘못된 계약 기간 날짜 등 기술적인 문제는 비기술적인 경우로 분류됩니다.</block>
-  <block id="5eb51f8ff81951a471d845f526636e66" category="paragraph">* 비기술적 케이스를 생성해야 하는 경우는 언제입니까? *</block>
   <block id="53184e7a4bde7d1975ba90074c0a52d3" category="paragraph">다음과 같은 경우 비기술 케이스를 생성해야 합니다.</block>
-  <block id="83f77ac81e7b9adec1ae7943c11aef16" category="list-text">특정 기능에 액세스할 수 없습니다</block>
   <block id="9f289da80756bc405e29b49d51ac81d8" category="list-text">인벤토리에 시스템이 없습니다</block>
   <block id="7f03ee6a26eada8c343d4876fe635184" category="list-text">설치 기반에서 시스템 폐기</block>
   <block id="e8298308fc4d536ad5a50bc21152434f" category="list-text">계약 기간 날짜가 올바르지 않거나 누락되었습니다</block>
@@ -1503,4 +1501,23 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="9d10674ae163e749f65c1eeb852cdf2b" category="paragraph">이전 버전의 Upgrade Advisor는 이제 더 이상 사용되지 않습니다. 향상된 버전의 Upgrade Advisor를 사용하여 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성할 수 있습니다. <block ref="b6cac2681a05b9a8dd19bf0553cd1066" category="inline-link-macro-rx"></block></block>
   <block id="09e1051fd25e78ca51d5f56f36581890" category="paragraph">Upgrade Advisor는 단일 클러스터와 여러 클러스터에 대해 자동화된 무중단 업그레이드 계획을 제공하도록 개선되었습니다. 위험 요약, 업그레이드 전 확인 보고서, 새로운 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대해서만 업그레이드 권장 사항을 볼 수 있습니다. <block ref="b6cac2681a05b9a8dd19bf0553cd1066" category="inline-link-macro-rx"></block></block>
   <block id="cd798e0859b41c1efded8de089ce45b3" category="paragraph">Upgrade Advisor를 사용하여 업그레이드를 받을 자격이 있거나 적합하지 않은 클러스터 목록을 볼 수 있습니다. 적합한 클러스터에 대한 업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성할 수 있습니다. 업그레이드 대상으로 적합하지 않은 클러스터의 문제를 해결할 수 있습니다.</block>
+  <block id="1f9ef86a19fb9104f4d7a15dcd85da08" category="section-title">기술 케이스</block>
+  <block id="3a3fe5cea8eb171bc705034869baf974" category="paragraph">* 기술 케이스는 언제 생성합니까? *</block>
+  <block id="34146078710488bcb88e2208ddabb74e" category="paragraph">기술 케이스는 하드웨어 중단, 성능 저하, 데이터 문제 또는 기술 정보 요청과 관련된 기술 문제에 대해 NetApp 제품과 함께 지원을 받기 위해 생성됩니다.</block>
+  <block id="8fa70b8a3fbd3112ebe49465f5e4f6f4" category="paragraph">* 기술 케이스를 어떻게 생성합니까? *</block>
+  <block id="74345213f8d76009dd92f861947ff81d" category="list-text">을 클릭합니다 <block ref="a45cbd48db1a7657ddea8845179b9e30" category="inline-link-macro-rx"></block> NetApp Support 사이트를 엽니다.</block>
+  <block id="ab26c6ed73849626062a39e18c415af0" category="list-text">상단 메뉴에서 * My Cases * 를 클릭합니다.</block>
+  <block id="97026494f28ea8b85c28720a5dcc49ba" category="list-text">케이스 생성 * 을 클릭합니다.</block>
+  <block id="2017e57b58cd03255505cd1386833eda" category="list-text">범주를 선택하고 필요한 세부 정보를 입력한 다음 * 새 검색 * 을 클릭하여 재고에서 시스템을 검색합니다.</block>
+  <block id="3a7cf8f60b6dbf828b28e59d650f69c7" category="list-text">표시된 시스템 목록에서 케이스를 생성할 시스템을 선택합니다.</block>
+  <block id="d25803d7582f3b219af4a612ad2ec38a" category="list-text">새 케이스의 우선 순위를 선택합니다.</block>
+  <block id="d58cf7db3887b590a8c6217f53660b52" category="list-text">문제 범주 * 드롭다운 목록에서 적절한 범주를 선택합니다.</block>
+  <block id="5b2a1684bf941c030a190eeaca82ea46" category="list-text">문제 설명 필드에 문제 설명을 입력하고 * Proceed * 를 클릭합니다.</block>
+  <block id="4f42268c65a397c8cddfe11341e788b6" category="list-text">문제에 대한 추가 세부 정보를 제공합니다.</block>
+  <block id="0d105b5d8aad07987a8fc6ca830c5c98" category="list-text">문제 진단에 도움이 될 수 있는 파일 또는 이미지를 업로드하려면 * 파일 선택 * 을 클릭합니다.</block>
+  <block id="2f88e5cbd35ab951b0bce5a96b06bb36" category="list-text">Proceed * 를 클릭합니다.</block>
+  <block id="dd270a8aa811a52ca44969147eaf4518" category="list-text">연락처 정보를 입력합니다.</block>
+  <block id="06d3f9f9f2de449fd422952b01199c74" category="list-text">케이스 생성 * 을 클릭합니다.</block>
+  <block id="04bfee7a9caf8ee1fb8cd6090edec89f" category="paragraph">* 비기술적 케이스를 언제 생성합니까? *</block>
+  <block id="748f6ba28053e4e8537665ce73aed705" category="list-text">특정 기능에 액세스할 수 없거나 Digital Advisor 기능에 대한 지원이 필요합니다</block>
 </blocks>
