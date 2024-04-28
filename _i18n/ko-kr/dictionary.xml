@@ -631,14 +631,6 @@
   <block id="07fd0f116aaad9b880128783daa7bc1a" category="list-text">위젯의 정보를 검토하여 지원 계약에서 얻은 비즈니스 및 기술 가치를 이해합니다.</block>
   <block id="8830ebf30b3e1ad7b344461753f7d3dd" category="summary">시스템 용량을 늘리는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="9438f616517805af3f4c395324944dff" category="doc">용량 제한에 도달한 시스템을 식별합니다</block>
-  <block id="9112a7f041cc3afbe8bca565f29fc0a9" category="paragraph">용량 제한에 도달한 시스템을 능동적으로 식별하고 라이브 채팅을 통해 요청을 보내 스토리지 시스템의 용량을 늘리십시오.</block>
-  <block id="99a992296fff4706d4ef607ee5c43843" category="paragraph">90% 용량을 초과하거나 1, 3, 6개월 이내에 90%를 초과하는 시스템을 볼 수 있습니다. 영업 담당자와 채팅을 통해 용량 추가 요청을 쉽게 요청하고 실시간 지원을 받을 수 있습니다.</block>
-  <block id="7f5131aab7fa520fc9551135afbbe9e3" category="list-text">Planning * 위젯에서 * Capacity Additions * 를 클릭하여 용량이 90% 초과되었거나 용량이 90% 가까이 있는 시스템을 확인합니다.</block>
-  <block id="64130d6cdb0009d5982c553eaac6efd4" category="paragraph">용량 90%를 초과했거나 향후 1, 3, 6개월 이내에 90%를 초과하는 시스템 수를 볼 수 있습니다.</block>
-  <block id="050156d031ad136ed72a48cba4a7a4cf" category="list-text">시스템을 보려면 카드를 선택하십시오.</block>
-  <block id="60dc2e9f7ab275abe0ffe373abf95dae" category="list-text">용량을 늘릴 시스템을 선택하고 * 영업 담당자에게 문의 * 를 클릭합니다.</block>
-  <block id="a234330eca66f8c170189efebab23db1" category="list-text">연락처 세부 정보를 확인합니다.</block>
-  <block id="19f756ea7d458dddec483de6c8fb3ddc" category="list-text">최대 5개의 호스트 이름을 복사하여 채팅에 붙여 넣으면 용량 추가 요청이 증가합니다.</block>
   <block id="fea651c80f853524fd5c34e4ec0610f8" category="summary">Ansible 플레이북을 사용하여 펌웨어 업데이트를 설치 및 실행하는 방법에 대한 정보를 제공합니다.</block>
   <block id="c8cc6f58456eb3a7923573bb5d9a8b03" category="doc">AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)</block>
   <block id="c35aa20a55cbeb586909eacd3abea8d0" category="paragraph">숙련된 사용자는 AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 빠르게 설치 및 실행할 수 있습니다.</block>
@@ -1520,4 +1512,14 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="06d3f9f9f2de449fd422952b01199c74" category="list-text">케이스 생성 * 을 클릭합니다.</block>
   <block id="04bfee7a9caf8ee1fb8cd6090edec89f" category="paragraph">* 비기술적 케이스를 언제 생성합니까? *</block>
   <block id="748f6ba28053e4e8537665ce73aed705" category="list-text">특정 기능에 액세스할 수 없거나 Digital Advisor 기능에 대한 지원이 필요합니다</block>
+  <block id="71ba49d3e291eb6557085c00a26f1f0e" category="paragraph">사전 예방적으로 용량 제한에 도달한 시스템을 식별하고 스토리지 시스템의 용량 증가 요청을 보냅니다.</block>
+  <block id="64c0215a49227967002da65613b613e8" category="paragraph">ONTAP의 경우 1, 3, 6개월 만에 용량이 90%를 초과하거나 90%를 초과하는 시스템을 볼 수 있습니다. StorageGRID의 경우 1, 3 및 6개월 이내에 용량이 70%를 초과하거나 70%를 초과하는 시스템을 볼 수 있습니다.</block>
+  <block id="c8a74c1549aa26d254c47b2fe445b5be" category="list-text">Planning * 위젯에서 * Capacity Additions * 를 클릭합니다.</block>
+  <block id="6af6f792a8c574d32c21182caaac6294" category="paragraph">기본적으로 용량이 90%를 초과했거나 90%에 가까운 ONTAP 시스템이 표시됩니다.</block>
+  <block id="8774a5436b96ad3e78450845bce43111" category="list-text">StorageGRID * 탭을 클릭하여 용량이 70%를 초과했거나 70%에 가까운 StorageGRID 시스템을 확인합니다.</block>
+  <block id="cd521d4f21b981f0132bcab8c1cd1129" category="list-text">용량을 늘릴 시스템을 선택합니다.</block>
+  <block id="6aeda814c1d41515a83e1377f67f46b6" category="list-text">향후 6개월 동안의 용량 예측을 보려면 * 용량 예측 보기 * 를 클릭합니다.</block>
+  <block id="8d79993c5d29c4e1c65aa5714a30b889" category="list-text">용량 추가 요청 * 을 클릭합니다.</block>
+  <block id="db58d45951c63fe2dd675478f6b9865f" category="list-text">필요한 경우 설명을 입력합니다.</block>
+  <block id="1b4b8457b3e396737f084de0f45936c7" category="list-text">선택한 시스템의 용량 추가를 지원하기 위해 NetApp 스토리지 팀에 요청을 보내려면 * 보내기 * 를 클릭합니다.</block>
 </blocks>
