@@ -33,7 +33,7 @@ IT 전문가와 클라우드 설계자는 BlueXP를 사용하여 하이브리드
 BlueXP의 Digital Advisor에 액세스하여 클러스터를 관리할 수 있습니다.
 
 .단계
-. 웹 브라우저를 열고 로 이동합니다 https://cloudmanager.netapp.com/app-redirect/active-iq["BlueXP"^]
+. 웹 브라우저를 열고 로 이동합니다 https://cloudmanager.netapp.com/app-redirect/active-iq["BlueXP"^].
 . NetApp Support 사이트 자격 증명으로 로그인 * 을 선택하고 자격 증명을 입력합니다.
 +
 이전에 전자 메일 및 암호를 사용하여 BlueXP 로그인을 만든 경우 대신 해당 로그인 옵션을 계속 사용해야 합니다.
@@ -52,4 +52,4 @@ BlueXP의 Digital Advisor에 액세스하여 클러스터를 관리할 수 있�
 
 == BlueXP에 대해 자세히 알아보십시오
 
-https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html["자세한 내용은 BlueXP 설명서를 참조하십시오"^]
+https://docs.netapp.com/us-en/bluexp-family/index.html["자세한 내용은 BlueXP 설명서를 참조하십시오"^]
