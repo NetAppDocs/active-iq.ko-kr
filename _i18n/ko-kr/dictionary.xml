@@ -972,7 +972,6 @@
   <block id="044be2af3d7a8e5a1f40d130d2438c9f" category="list-text">계층 데이터 * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
   <block id="d47e8f11a965b60f93af502da96f983a" category="list-text">Backup to Cloud * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
   <block id="75bbd62b379d56356d9a8bb6cfdedb8d" category="list-text">클라우드로 복제 * 를 클릭하여 * BlueXP * 를 실행합니다.</block>
-  <block id="37d1c7cc9a28ed0051987a7bb5b7d027" category="summary">Digital Advisor(이전의 Active IQ Digital Advisor)는 이제 BlueXP와 완벽하게 통합됩니다. 이제 클러스터를 관리하고 BlueXP UI(사용자 인터페이스)에서 Digital Advisor의 모든 기능에 액세스할 수 있습니다.</block>
   <block id="460143bcf999273db551806a244f984a" category="doc">BlueXP와 디지털 어드바이저 통합</block>
   <block id="8c36f4cc3d20ca0b82973d5efc0db5f7" category="paragraph">IT 전문가와 클라우드 설계자는 BlueXP를 사용하여 하이브리드 멀티 클라우드 인프라를 중앙에서 관리할 수 있습니다. BlueXP의 디지털 어드바이저에 액세스하려면 NetApp Support 사이트(NSS) 계정만 있으면 됩니다.</block>
   <block id="ef968e276f61485a7817ba225a8c20b6" category="section-title">통합 개요</block>
@@ -1174,17 +1173,13 @@
   <block id="0212b08a947e9079148b138fa48a9e62" category="list-text"><block ref="0212b08a947e9079148b138fa48a9e62" category="inline-link-macro-rx"></block></block>
   <block id="3bb41de04026c13803b9189b287bb05a" category="list-text"><block ref="3bb41de04026c13803b9189b287bb05a" category="inline-link-macro-rx"></block></block>
   <block id="8934fed115a0b826a4b438906a11bfa9" category="doc">Sustainability 대시보드 개요</block>
-  <block id="4c2b4426b7dc09f399ba26ed28948574" category="paragraph">지속 가능성 대시보드는 스토리지 시스템에 대한 환경 평가와 NetApp이 권장하는 작업의 형태를 개선할 수 있는 실행 가능한 통찰력을 제공합니다.</block>
   <block id="ca83c30c00a0e9764753dfe902966c87" category="inline-image-macro">지속 가능성 대시보드를 보여 주는 UI 스크린샷</block>
   <block id="3cab16f01bfdfc4bc2969c6d95293181" category="paragraph"><block ref="3cab16f01bfdfc4bc2969c6d95293181" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b4f83b03956523a39e8bbbd0895f0f29" category="inline-link-macro">Cloud Insights</block>
   <block id="b571f57eccbda9dd69031db85e4d4c3c" category="admonition">대시보드에서 최상의 결과를 얻으려면 AutoSupport을 활성화해야 합니다. AutoSupport가 활성화되지 않은 경우 데이터는 제품 사양을 기반으로 합니다. 실시간 전력 세부 정보를 보려면 Cloud Insights를 활성화해야 합니다. Cloud Insights를 활성화하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="0287186bd1777b27f244433b8d45ea17" category="inline-link-macro-rx"></block>.</block>
-  <block id="349d5b603d0e4251a3e164f95f8c02f8" category="paragraph">* 환경 지표 *: 스토리지 시스템의 환경 상태를 평가하기 위해 사용자의 전력, 직접 탄소 사용량 및 열 방출에 대한 예측을 표시합니다. 이러한 투사는 실제 전력(사용할 수 없는 경우)을 기반으로 하며 일반적인 전력 값을 기준으로 합니다. 이 섹션의 오른쪽 상단 모서리에 있는 드롭다운에서 원하는 옵션을 선택하여 이러한 투영법을 월간, 분기별 또는 연간으로 볼 수 있습니다.</block>
   <block id="e3667627bec4bfd6e60dea46e855352c" category="inline-image-macro">사이트의 탄소 완화 비율과 이 비율을 편집하는 방법을 보여 주는 스크린샷.</block>
   <block id="369583cace99a57a955a633843c9e566" category="paragraph"><block ref="369583cace99a57a955a633843c9e566" category="inline-image-macro-rx" type="image"></block></block>
   <block id="beb260be8cea3e84f70f9430a752b705" category="inline-link-macro">지속 가능성 점수 개선</block>
-  <block id="fe143bdce72bc5ab4569489181cdd2e4" category="paragraph">* 권장 조치 *: 스토리지 시스템의 지속 가능성 점수를 높이기 위한 권장 조치 목록을 표시합니다. 이러한 작업은 즉시 또는 나중에 수행할 수 있습니다.
-지속 가능성 점수를 높이는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="873cf785eea222f4f03b5ce3115ed1d1" category="inline-link-macro-rx"></block>.</block>
   <block id="8567bc66d7819e8863325a79e4709020" category="paragraph">* 작업 환경 *: 보다 효율적인 스토리지로 이동하기 위해 클러스터를 식별하는 데 도움이 되는 환경 매개 변수를 표에 표시합니다. 이 표에서 다음을 수행할 수 있습니다.</block>
   <block id="62fddd607dc9693b0c872b37a4574243" category="inline-link-macro">클러스터 수준에서 지속 가능성 점수를 개선합니다</block>
   <block id="d349bd444ea7cf19afb8883ebd796f29" category="list-text">클러스터 수준에서 지속 가능성 점수를 보고, * ClusterViewer * 에 액세스할 클러스터 이름을 선택하고, 지속 가능성을 개선하기 위해 권장되는 특정 조치를 취합니다. 자세한 내용은 을 참조하십시오 <block ref="7b74333fc84c714028dfd344685516f9" category="inline-link-macro-rx"></block>.</block>
@@ -1518,10 +1513,20 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="db58d45951c63fe2dd675478f6b9865f" category="list-text">필요한 경우 설명을 입력합니다.</block>
   <block id="1b4b8457b3e396737f084de0f45936c7" category="list-text">선택한 시스템의 용량 추가를 지원하기 위해 NetApp 스토리지 팀에 요청을 보내려면 * 보내기 * 를 클릭합니다.</block>
   <block id="93716955add4f66b2af685a33bac4789" category="section-title">2024년 5월 15일</block>
-  <block id="0108740b4afbf178bb60484e5406b8b8" category="paragraph">지속가능성은 현재 E-Series 및 StorageGRID 시스템에서 지원됩니다. 이러한 시스템에 대한 Sustainability 대시보드에서 전력, 직접 탄소 사용량 및 열에 대한 예측을 표시하는 권장 조치 및 환경 지표 목록을 볼 수 있습니다. 자세한 내용은 을 참조하십시오 <block ref="8ef455a63dd9427c902954b8e3c7f21b" category="inline-link-macro-rx"></block>.</block>
   <block id="7f7cec1be1735b1983c4a5c393d28f95" category="list-text">웹 브라우저를 열고 로 이동합니다<block ref="728980458233383868b0f55c1d2cfb83" category="inline-link-rx"></block>.</block>
   <block id="75a2fb3e65876cbcfa3205242ff8f481" category="paragraph"><block ref="75a2fb3e65876cbcfa3205242ff8f481" category="inline-link-rx"></block></block>
   <block id="aa5dc235d62725940283cabf93c99f56" category="paragraph">Sustainability 대시보드에서 지속 가능성 점수와 예상 전력 사용량, 직접 탄소 및 열 사용량을 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 기준으로 지속 가능성 자세를 평가하고 NetApp이 권장하는 조치를 시행하여 점수를 향상할 수 있습니다. Sustainability 대시보드에 대한 자세한 내용은 을 참조하십시오 <block ref="53113380bf04c6731431f3e5ed0db598" category="inline-link-macro-rx"></block>.</block>
   <block id="e5ec30fe5fd65ba8d529a625838c30d8" category="admonition">지속 가능성은 Cloud Volumes ONTAP, AFF 시스템(A-Series 및 C-Series), E-Series, FAS, StorageGRID 시스템에서 지원됩니다.</block>
   <block id="85146254574b987d9cbb6cab677e0b41" category="list-text">지속 가능성 점수와 예상 전력, 직접 탄소, 열 사용량을 확인하십시오. 지속 가능성 점수를 기준으로 스토리지 시스템의 전반적인 효율성을 평가하고 NetApp의 권장 조치에 따라 점수를 높이십시오. <block ref="39c6b2486cd9bf17fda30dbe2d930cc2" category="inline-link-macro-rx"></block>.</block>
+  <block id="f78aea7a273ac10c7cb721f1b73054d6" category="paragraph">지속 가능성 대시보드는 스토리지 시스템에 대한 환경 평가와 NetApp이 권장하는 작업의 형태를 개선할 수 있는 실행 가능한 통찰력을 제공합니다.</block>
+  <block id="1894439cce0793aa137fea7a4b35dabb" category="paragraph">* 환경 지표 *: 스토리지 시스템의 환경 상태를 평가하기 위해 전력, 직접 탄소 사용량 및 열 방출에 대한 예측을 표시합니다. 이러한 투사는 실제 전력(사용할 수 없는 경우)을 기반으로 하며 일반적인 전력 값을 기준으로 합니다. 이 섹션의 오른쪽 상단 모서리에 있는 드롭다운에서 원하는 옵션을 선택하여 이러한 투영법을 월간, 분기별 또는 연간으로 볼 수 있습니다.</block>
+  <block id="be7240e9b76d1939220e2878a2db9c57" category="paragraph">* 권장 조치 *: 스토리지 시스템의 지속 가능성 점수를 개선하기 위해 권장되는 조치 목록을 표시합니다. 이러한 작업은 즉시 또는 나중에 수행할 수 있습니다. 지속 가능성 점수를 높이는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="873cf785eea222f4f03b5ce3115ed1d1" category="inline-link-macro-rx"></block>.</block>
+  <block id="e24114b3239c82dab2f946aab9cd9d56" category="summary">Digital Advisor가 이제 BlueXP와 완전히 통합되었습니다. 이제 클러스터를 관리하고 BlueXP UI(사용자 인터페이스)에서 Digital Advisor의 모든 기능에 액세스할 수 있습니다.</block>
+  <block id="d16ed76d9bbe68a33a560068a6d75b3a" category="section-title">지속 가능성 점수 계산</block>
+  <block id="1edb693117135d541a37bbf14f07ec73" category="paragraph">지속 가능성 점수는 스토리지 시스템과 관련된 규칙 집합을 기준으로 계산되며 각 규칙은 특정 위험을 해결하고 권장 조치를 제공합니다. 모든 규칙에는 중요성을 반영하기 위한 점수가 부여됩니다. 예를 들어, 스토리지 시스템과 관련하여 주변 온도 유지, 이상적인 용량 활용 보장, 티타늄 전원 공급 장치 사용, 각각 점수 30, 40, 30점 등 세 가지 규칙이 있는 경우 이 점수를 더하면 총 100점이 주어지며, 이는 분모 역할을 합니다.</block>
+  <block id="4d17f9cca03c70725a36605d7c17e756" category="paragraph">스토리지 시스템이 모든 기준을 완벽하게 충족한다면 지속 가능성 점수를 100% 달성할 것입니다. 시스템이 절반의 성능으로 작동할 경우 최적의 수준은 50%의 점수를 얻을 수 있습니다. 총점은 표준 역할을 하며 실제 성능과 이상적인 성능을 비교하는 데 사용됩니다. 권장 조치를 구현하여 이러한 규칙의 준수를 강화하여 지속 가능성 점수를 향상시킬 수 있습니다.</block>
+  <block id="8e4743bb176d909e65d015847fc93346" category="admonition">지속 가능성 점수는 처음에 클러스터 수준에서 계산된 다음 고객 또는 시청자 목록 수준과 같은 다른 수준에서 집계됩니다.</block>
+  <block id="a6cba69e97a9115b21cbf35b24b33d83" category="section-title">2024년 7월 4일</block>
+  <block id="5e63fb298525a46837cedfd7fc3c5002" category="paragraph">스토리지 시스템의 환경 상태에 대한 통찰력을 제공하는 환경 지표는 고급 예측 모델을 기반으로 예상 전력 사용, 직접 탄소 사용량 및 열 배출에 대한 더욱 정확한 값을 제공합니다. 자세한 내용은 을 <block ref="8ef455a63dd9427c902954b8e3c7f21b" category="inline-link-macro-rx"></block>참조하십시오.</block>
+  <block id="8352fdd61dbba9f97925bd7797c4eb47" category="paragraph">지속가능성은 현재 E-Series 및 StorageGRID 시스템에서 지원됩니다. 이러한 시스템에 대한 Sustainability 대시보드에서 전력, 직접 탄소 사용량 및 열에 대한 예측을 표시하는 권장 조치 및 환경 지표 목록을 볼 수 있습니다. 자세한 내용은 을 <block ref="8ef455a63dd9427c902954b8e3c7f21b" category="inline-link-macro-rx"></block>참조하십시오.</block>
 </blocks>
