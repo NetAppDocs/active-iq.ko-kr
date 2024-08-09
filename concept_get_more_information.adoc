@@ -20,6 +20,6 @@ summary: Digital Advisor에 대한 자세한 내용은 에 나와 있습니다.
 
 * link:https://community.netapp.com/t5/Active-IQ-Digital-Advisor-and-AutoSupport/ct-p/autosupport-and-my-autosupport["NetApp 커뮤니티"^]
 * link:https://www.netapp.com/us/documentation/active-iq.aspx["설명서 리소스"^]
-* link:https://www.netapp.com/us/media/tr-4688.pdf["NetApp 원격 측정 데이터의 보안 및 개인 정보 보호"^]
-* link:https://www.netapp.com/us/media/tr-4444.pdf["ONTAP AutoSupport 및 AutoSupport 온디맨드"^]
+* link:https://www.netapp.com/pdf.html?item=/media/10439-tr4688pdf.pdf["NetApp 원격 측정 데이터의 보안 및 개인 정보 보호"^]
+* link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444pdf.pdf["ONTAP AutoSupport 및 AutoSupport 온디맨드"^]
 

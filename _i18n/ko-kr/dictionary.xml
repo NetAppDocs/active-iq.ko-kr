@@ -1170,8 +1170,6 @@
   <block id="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="list-text"><block ref="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="inline-link-macro-rx"></block></block>
   <block id="2eb6f862ee3ec494c6f43826c23b83da" category="list-text"><block ref="2eb6f862ee3ec494c6f43826c23b83da" category="inline-link-macro-rx"></block></block>
   <block id="847b7c4d19d7d7ef0daee103975b7b83" category="list-text"><block ref="847b7c4d19d7d7ef0daee103975b7b83" category="inline-link-macro-rx"></block></block>
-  <block id="0212b08a947e9079148b138fa48a9e62" category="list-text"><block ref="0212b08a947e9079148b138fa48a9e62" category="inline-link-macro-rx"></block></block>
-  <block id="3bb41de04026c13803b9189b287bb05a" category="list-text"><block ref="3bb41de04026c13803b9189b287bb05a" category="inline-link-macro-rx"></block></block>
   <block id="8934fed115a0b826a4b438906a11bfa9" category="doc">Sustainability 대시보드 개요</block>
   <block id="ca83c30c00a0e9764753dfe902966c87" category="inline-image-macro">지속 가능성 대시보드를 보여 주는 UI 스크린샷</block>
   <block id="3cab16f01bfdfc4bc2969c6d95293181" category="paragraph"><block ref="3cab16f01bfdfc4bc2969c6d95293181" category="inline-image-macro-rx" type="image"></block></block>
@@ -1529,4 +1527,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="a6cba69e97a9115b21cbf35b24b33d83" category="section-title">2024년 7월 4일</block>
   <block id="5e63fb298525a46837cedfd7fc3c5002" category="paragraph">스토리지 시스템의 환경 상태에 대한 통찰력을 제공하는 환경 지표는 고급 예측 모델을 기반으로 예상 전력 사용, 직접 탄소 사용량 및 열 배출에 대한 더욱 정확한 값을 제공합니다. 자세한 내용은 을 <block ref="8ef455a63dd9427c902954b8e3c7f21b" category="inline-link-macro-rx"></block>참조하십시오.</block>
   <block id="8352fdd61dbba9f97925bd7797c4eb47" category="paragraph">지속가능성은 현재 E-Series 및 StorageGRID 시스템에서 지원됩니다. 이러한 시스템에 대한 Sustainability 대시보드에서 전력, 직접 탄소 사용량 및 열에 대한 예측을 표시하는 권장 조치 및 환경 지표 목록을 볼 수 있습니다. 자세한 내용은 을 <block ref="8ef455a63dd9427c902954b8e3c7f21b" category="inline-link-macro-rx"></block>참조하십시오.</block>
+  <block id="2a4b13cd943c24cfe2735c05922d1427" category="list-text"><block ref="2a4b13cd943c24cfe2735c05922d1427" category="inline-link-macro-rx"></block></block>
+  <block id="7581b2408d4adfb3df4e98d5f1f96473" category="list-text"><block ref="7581b2408d4adfb3df4e98d5f1f96473" category="inline-link-macro-rx"></block></block>
 </blocks>
