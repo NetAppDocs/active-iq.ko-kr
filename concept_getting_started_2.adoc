@@ -40,7 +40,7 @@ video::rEPtldosjWM[youtube,width=848,height=480]
 | 갱신 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 
 
 
-| 용량 추가 | ONTAP 플랫폼에서만 지원됨(7-Mode 및 clustered Data ONTAP에서 작동하는 Data ONTAP) | ONTAP 플랫폼에서만 지원됨(7-Mode 및 clustered Data ONTAP에서 작동하는 Data ONTAP) | ONTAP 플랫폼에서만 지원됨(7-Mode 및 clustered Data ONTAP에서 작동하는 Data ONTAP) 
+| 용량 추가 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
 
 
 | 인벤토리 | 모든 플랫폼에서 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
