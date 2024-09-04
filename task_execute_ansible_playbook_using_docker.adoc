@@ -24,8 +24,8 @@ Ansible 플레이북을 실행하기 전에 * NetApp_Ansible_**. * zip * 파일�
 
 NetApp Docker를 사용하여 Ansible Playbook을 실행하기 전에 다음을 수행해야 합니다.
 
-* link:task_update_AFF_FAS_firmware.html["AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하십시오"]
-* link:task_hosting_firmware_files_using_web_server.html["웹 서버를 사용하여 펌웨어 파일을 호스팅합니다"]
+* link:task_update_AFF_FAS_firmware.html["AFF 및 FAS 펌웨어 Ansible Automation 패키지를 다운로드하십시오"]
+* link:task_hosting_firmware_files_using_web_server.html["웹 서버를 사용하여 펌웨어 파일을 호스트합니다"]
 * link:concept_working_with_inventory_file.html["재고 파일로 작업합니다"]
 * NetApp Docker가 설치되어 있는지 확인합니다.
 

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="79e6bb72bf3b27322743b85d46e7028f" category="summary">다운타임 및 가능한 데이터 손실을 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
-  <block id="aab3d4ecb2113aebbbf0fc0f4e0bd569" category="doc">다운타임 및 가능한 데이터 손실 방지</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
   <block id="a9d1a3c661cd780de1547f8874ba7fa9" category="inline-image-macro">가용성 및 보호 위젯</block>
   <block id="4b5886406c71d9a6478bc858959901d2" category="list-text">가용성 및 보호 * 위젯에서 * 작업 * 을 클릭합니다.<block ref="5a8b574aaf1c16ebb902595925228ace" category="inline-image-macro-rx" type="image"></block></block>
@@ -46,7 +45,6 @@
   <block id="3c1579e4105c256057f7f7b8f1c3f947" category="cell">문서화된 모범 사례와 차이가 있습니다</block>
   <block id="6fe43a0bc5267b501dd5c7825c17e1be" category="paragraph">다음 동영상을 통해 웰니스 특성의 중요성을 이해할 수 있습니다.</block>
   <block id="a789bbd5cd15d75a39f05ef8f875cf51" category="summary">스토리지 시스템의 소프트웨어 및 하드웨어를 갱신하기 위한 정보를 제공합니다.</block>
-  <block id="20827f5f11724ac7658af2f39f50f964" category="doc">스토리지 시스템의 소프트웨어 및 하드웨어를 갱신합니다</block>
   <block id="6134af206850e07eeb1d6838aae2ceb5" category="paragraph">향후 6개월 내에 만료되었거나 거의 만료된 소프트웨어 및 하드웨어를 사전에 식별하고 하드웨어 및 소프트웨어 갱신 요청을 보낼 수 있습니다.</block>
   <block id="86592c16b8e8d8d0b3cfdda42cfb12b9" category="list-text">Planning * 위젯에서 * Renewals * 를 클릭합니다.</block>
   <block id="0d9283785cad0930c05662c95f72d63d" category="list-text">갱신하려는 시스템을 선택하고 * 갱신 * 을 클릭합니다.</block>
@@ -209,9 +207,7 @@
   <block id="1d644c91a129f4fee67bbeac164d1355" category="list-text">보고서의 시작 날짜 및 종료 날짜를 선택합니다.</block>
   <block id="da46c99001fe56b84201c7d1c1bb16f1" category="paragraph">선택한 시스템 간의 구성 편차에 대한 세부 정보가 포함된 이메일이 전송됩니다.</block>
   <block id="9f7c9f58bb8756fe75c88f458c094ff5" category="summary">상태 점검 대시보드 에 익숙해지도록 정보를 제공합니다.</block>
-  <block id="8bd30f76be476058b4d8d425fef989b2" category="doc">상태 점검 대시보드 이해</block>
   <block id="3cc3a0dbf287ac1f117caad7c4ff3529" category="paragraph">상태 점검 점수를 기준으로 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 장기적인 계획을 도모할 수 있습니다. 중앙 집중식 사용자 인터페이스를 통해 소프트웨어 및 하드웨어에서 실행 중인 모든 시스템을 모니터링할 수 있습니다. 상태 점검 점수를 통해 시스템 위험에 대한 통찰력을 빠르게 얻을 수 있습니다. 주요 권장사항 및 모범 사례를 사용하면 설치 기반의 상태를 개선하기 위한 조치를 취할 수 있습니다.</block>
-  <block id="73b22abb2810760940bcbce346e76523" category="admonition">상태 점검 대시보드는 NetApp SupportEdge Advisor 및 SupportEdge Expert 서비스 오퍼링을 통해서만 액세스할 수 있습니다.</block>
   <block id="cf03e3b283bc7fa70a7713acb40de102" category="doc">건강 리뷰 이메일을 구독하십시오</block>
   <block id="21ad3730eb42f0e7e97440864d89b224" category="paragraph">웰빙 검토 이메일을 구독하면 상태, 갱신 날짜가 임박한 시스템, 설치 기반의 NetApp 제품 업그레이드가 필요한 시스템이 요약된 월별 이메일을 받을 수 있습니다. 월별 요약을 확인하고 시스템에 대한 조치를 취할 수 있도록 건강 검토 이메일이 발송됩니다. 또한 구독을 확인, 편집, 공유 및 삭제할 수 있는 옵션도 있습니다. 이메일을 받지 않으려면 언제든지 이메일 수신을 거부할 수 있습니다.</block>
   <block id="74bac88334325995c9ac3011aacb8ce6" category="paragraph">구독이 활성화된 후에는 구독을 추가할 때 시작 날짜를 선택해야 합니다. 월간 이메일 요약에서는 뛰어난 건강 상태, 갱신, 업그레이드 및 상태 점검 작업을 확인할 수 있습니다. 이메일 주소를 확인할 수 있으며 이메일이 지정된 이메일 주소로 전송됩니다. 구독을 삭제할 수도 있습니다.</block>
@@ -240,7 +236,6 @@
   <block id="a90d025280adc02fe67b217063675d0d" category="paragraph">템플릿을 추가하여 시스템과 클러스터 구성을 비교하고 거의 실시간으로 구성 편차를 감지해야 합니다. 구성 드리프트 템플릿은 AutoSupport 데이터를 실행하는 시스템을 사용하여 추가됩니다.</block>
   <block id="88b68e34df9db916b4fe94948231ccbb" category="list-text">템플릿 추가 * 를 클릭합니다.</block>
   <block id="db3c8b301a3ce6ee5fa41ab7a54740f3" category="list-text">요청된 값을 제공하십시오.</block>
-  <block id="b5d0947d6bc5e70f868d560d859163f5" category="doc">NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다</block>
   <block id="9ca3a412ada6ce6666248783cc1577f6" category="summary">릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="58ca82356452d9a9a7ccfcd96b19f5cf" category="section-title">2022년 8월 25일</block>
   <block id="3348dcc393bde37af6464ca44f92a231" category="inline-link-macro">자세히 알아보기</block>
@@ -471,7 +466,6 @@
   <block id="e350176e2ca4464b7c8bb3efa4e581fa" category="inline-link-macro">여유 작업 공간</block>
   <block id="e1ceb514961568f187bb88fa116f776f" category="list-text">mailto:ng-active-iq-feedback@netapp.com [이메일]</block>
   <block id="989ffda8482c36243642e39d9d8e50ff" category="summary">AFF 및 FAS 펌웨어를 업데이트하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
-  <block id="439d63cd3905d44125be50793bdd3ab5" category="doc">AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하십시오</block>
   <block id="6032e7db579fa00df8e3062fcbc04a91" category="paragraph">Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하여 식별된 위험을 완화하고 스토리지 시스템을 최신 상태로 유지해야 합니다.</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="section-title">시작하기 전에</block>
   <block id="1564b29b093f31fb45180a4db5577505" category="paragraph">Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하기 전에 다음을 수행해야 합니다.</block>
@@ -546,7 +540,6 @@
   <block id="d757f95a394959d080114b15fde1d52e" category="paragraph">제품 번호별로 범주 아래에 최대 15,000대의 시스템을, 500대의 시스템을 추가할 수 있습니다.</block>
   <block id="4e8d1ca8d221cc5795ac4f7e56661686" category="paragraph">시청목록 대시보드가 표시됩니다.</block>
   <block id="a0a811ca28574ec3a01b64693e2fe336" category="summary">대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제공합니다.</block>
-  <block id="e916508b5fb2cdc772d71fc2a189c67b" category="doc">Health Check Dashboard를 시작합니다</block>
   <block id="0283692678f3caa0a73dcdba11b167a0" category="paragraph">이 대시보드는 다음 위젯을 통해 설치 기반에 대한 요약 정보를 제공합니다.</block>
   <block id="820ed668f5824044ba24b743388d94f8" category="list-text">* AutoSupport 채택 *: AutoSupport가 활성화된 시스템의 수와 비율을 표시합니다. 또한, 최근 7일 동안 AutoSupport 데이터 전송을 중지한 시스템에 대해 * HTTPS * 및 * AutoSupport On Demand * 가 활성화된 '디라인'으로 표시된 시스템과 * 신호 손실 * 을 볼 수 있습니다. 설치 기반의 시스템에 대한 상태 점검 점수와 정보를 보려면 * AutoSupport 채택 * 위젯을 클릭하십시오.</block>
   <block id="5a203b8ad736b84e1741fd3d04b50fd8" category="list-text">* 권장 구성 *: * 권장 구성 * 위젯에 따라 준수 및 비준수 시스템을 표시합니다. 이 프로그램을 사용하면 설치 기반 전반에 걸쳐 시스템이 제대로 구성되도록 하는 조치를 취할 수 있습니다. 대시보드에서 제공된 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다.</block>
@@ -773,7 +766,6 @@
   <block id="e151846aa3b308b87c9d25ba4b1deba4" category="list-text">기타 모든 업그레이드 요청</block>
   <block id="0c152bcc14bc08edd4b0de34a463af86" category="list-text">가지고 있는 설명을 추가하고 * 보내기 * 를 클릭합니다. 지원 오퍼링 업그레이드 구매 요청이 NetApp 갱신 팀에 전송됩니다.</block>
   <block id="144deae4a5b0b4c9284528157c461f6c" category="summary">해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방법에 대한 정보를 제공합니다.</block>
-  <block id="f7e6c88265534036ac8e0f442a755875" category="doc">보안 취약점 감지</block>
   <block id="820369c7769d4f36cf2076f618fe371d" category="paragraph">* 적용 제품: ONTAP 9(온프레미스 및 클라우드), SANtricity OS 컨트롤러 소프트웨어, NetApp SolidFire(Element 소프트웨어), StorageGRID, Active IQ Unified Manager, ONTAP for VMware(OTV)</block>
   <block id="9e49d2928b0f9c506afa91618789cc95" category="inline-image-macro">보안 취약점 위젯</block>
   <block id="c17e33981c0b062b393672808567a4ab" category="paragraph">보안 위험이 높은 경우 운영 체제를 업그레이드하는 권장 조치를 따르십시오.</block>
@@ -782,7 +774,6 @@
   <block id="ac7de22f816f2710cfe2e83f6abc78bf" category="inline-image-macro">수정 탭</block>
   <block id="159d95fb8858b00a76199e1c9300be15" category="paragraph">이 위험은 ONTAP 9.7P8 이상에서 해결되었습니다.<block ref="4975e5a0a99336b95db3342c05516170" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f839cdbae8d80bc224d943c9c45a46f0" category="summary">스토리지 시스템의 상태를 확인 및 분석하고 위험을 완화할 수 있는 정보를 제공합니다.</block>
-  <block id="20ee74a30034c5c1341368bee35c84ff" category="doc">위험을 확인하고 수정 조치를 수동으로 수행합니다</block>
   <block id="0e3a68f1f6b2f1d1d9fe331b11c5efa2" category="paragraph">관련 작업 및 위험을 확인하여 스토리지 시스템의 상태 특성을 분석할 수 있습니다. 관련 수정 조치를 확인하고 위험을 수동으로 완화해야 합니다.</block>
   <block id="9bbf83543e304f4973370a44626c0d09" category="list-text">대시보드에서 * Wellness * 위젯을 클릭하거나 * View All Actions * 를 클릭하여 모든 조치 및 위험 목록을 봅니다.</block>
   <block id="4c1501034b347258e5d755cf7e7fb1a3" category="list-text">위험 이름을 클릭하여 위험에 대한 정보를 확인합니다.</block>
@@ -792,9 +783,6 @@
   <block id="ffa09fb8e8764d736920c50362846ed7" category="doc">NetApp Docker 이미지를 사용하여 Ansible 플레이북을 실행합니다</block>
   <block id="18e4b799fc66943cb5ca094c22421d14" category="paragraph">Ansible 플레이북을 실행하기 전에 * NetApp_Ansible_**. * zip * 파일의 압축이 풀렸는지, 디스크 또는 쉘프 펌웨어 파일이 있는 웹 서버가 준비되었는지 확인하십시오.</block>
   <block id="2e539a8b55656611ca1f039b25d5987b" category="paragraph">NetApp Docker를 사용하여 Ansible Playbook을 실행하기 전에 다음을 수행해야 합니다.</block>
-  <block id="82d6e33ffa2d3e136792c8074ac54f9c" category="list-text"><block ref="82d6e33ffa2d3e136792c8074ac54f9c" category="inline-link-macro-rx"></block></block>
-  <block id="cd52899f1679a9b2e3b756255e5c3676" category="inline-link-macro">웹 서버를 사용하여 펌웨어 파일을 호스팅합니다</block>
-  <block id="4e934f63fd61cf954bde477d71345e3c" category="list-text"><block ref="4e934f63fd61cf954bde477d71345e3c" category="inline-link-macro-rx"></block></block>
   <block id="6b4dbbb245371383fcc0b1b43ca85958" category="inline-link-macro">재고 파일로 작업합니다</block>
   <block id="27f8f6c7481c543f7ac1c0d9d320816e" category="list-text"><block ref="27f8f6c7481c543f7ac1c0d9d320816e" category="inline-link-macro-rx"></block></block>
   <block id="3570d1e60985f402f1d406b1bb17fabe" category="list-text">NetApp Docker가 설치되어 있는지 확인합니다.</block>
@@ -812,7 +800,6 @@
   <block id="5769cb0edb876ded60913f5ed79c0ed3" category="inline-link-macro">펌웨어 설치 검증</block>
   <block id="09fb789b79f3191a076b495425e54de6" category="paragraph">Ansible 플레이북을 실행한 후 을 참조하십시오 <block ref="e7460fd6e68b3cae327d70e23589cd2e" category="inline-link-macro-rx"></block> 실행 후 지침을 참조하십시오.</block>
   <block id="2ddb7471f4505c6b0aa8e3464634debc" category="summary">ClusterViewer에 대한 내용은 에 나와 있습니다.</block>
-  <block id="6e6b112d636d5497f59ccca67738fac3" category="doc">클러스터 및 노드의 상태 분석</block>
   <block id="964f0ca73e7ebb063af3a2240b8483fb" category="paragraph">클러스터 및 노드의 물리적 및 논리적 구성에 대한 정보를 제공하는 원스톱 소스인 ClusterViewer를 사용하여 클러스터와 노드의 상태를 분석할 수 있습니다.</block>
   <block id="6db3885477641d8e5ca59335970bf0b0" category="paragraph">ClusterViewer는 노드 스택 다이어그램, 스토리지 사용 및 효율성, 하드웨어 용량 여유 공간 등의 정보를 제공하므로 클러스터 및 노드의 상태 향상을 위해 정보에 입각한 의사 결정을 내릴 수 있습니다.</block>
   <block id="acc7732ef13d215f323b715a75c23913" category="paragraph">케이블, 스택 및 RAID 디스크 수준에서 노드의 물리적 구성에 대한 시각화 또는 그래픽 표현을 볼 수 있습니다. SVG 형식으로 시각화를 다운로드할 수도 있습니다.</block>
@@ -820,7 +807,6 @@
   <block id="05f9cea794823bcfe9edd186fcb424a3" category="list-text">클러스터 또는 노드 레벨에서 * Configuration * 위젯 옆에 있는 * ClusterViewer * 를 클릭합니다.</block>
   <block id="6551f219e2490db3bc60a0ba2bac261d" category="list-text">클러스터의 그래픽 표현을 보려면 * Visualization * 탭을 클릭합니다.</block>
   <block id="bd006ceeb17633ee0556ac28eaf949f6" category="summary">API 카탈로그에서 사용할 수 있는 API에 대한 자세한 내용은 에 나와 있습니다.</block>
-  <block id="99690ba41792c97440fb7507094c827d" category="doc">API 카탈로그를 사용하여 API를 실행합니다</block>
   <block id="40626d7035cc7f4a6caa9d104fd7d387" category="paragraph">API 카탈로그를 사용하면 각 범주 내에서 범주 및 사용 가능한 API를 찾아볼 수 있습니다.</block>
   <block id="2b033bd9dec6fb568acb85aff511102a" category="paragraph">유효한 액세스 토큰과 필수 필드에 대한 올바른 입력을 사용하여 API에 대한 테스트 호출을 수행할 수 있습니다.</block>
   <block id="1dce9bd049d6c9e9c500be142e33de38" category="inline-link-macro">* 찾아보기 *</block>
@@ -928,31 +914,16 @@
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">빠른 시작</block>
   <block id="f9e8725fc2db4a86d0c8d9ae95581d74" category="sidebar">프로비저닝 감시 목록</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">개요</block>
-  <block id="a847a249ea34e3557fd4b0faa9b1a58c" category="sidebar">Active IQ Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다</block>
-  <block id="e5c576a815351e15ac0b32011a7cd066" category="sidebar">소프트웨어 및 하드웨어를 교체합니다</block>
   <block id="b99a21b99fb9e230b533835afc100672" category="sidebar">시스템 세부 정보를 봅니다</block>
-  <block id="46edca0ff6e552183e1d49c7d4a3ff08" category="sidebar">Cloud Insights와 통합하여 가상 머신 세부 정보 보기</block>
-  <block id="6721d14778dfec7598747969baedc497" category="sidebar">Keystone 가입 용량 활용률 보기</block>
   <block id="2cedeaac2dc61820b8d8fc6586834073" category="sidebar">시스템 요구 사항을 사전에 식별합니다</block>
-  <block id="b3f73dc804d731e2fd50580bfb4bd2bb" category="sidebar">구성 편차를 식별합니다</block>
-  <block id="2239c723cc5ca3dc6ba1585521896ba0" category="sidebar">변경 사항 타임라인 보고서를 생성합니다</block>
   <block id="0cc0b1a131ca25b1ae5d22ddb1c11865" category="sidebar">스토리지 시스템의 효율성 및 성능 향상</block>
-  <block id="6029b29ba0bf4fa906d9b33aeb4affea" category="sidebar">용량 및 효율성 절감 분석</block>
   <block id="5b333f7c3257e7754518c2d09d86555e" category="sidebar">스토리지 성능 분석</block>
   <block id="b0f4d50e3b0a80acae4cdfe5ec415bf2" category="sidebar">스토리지 시스템의 상태를 분석합니다</block>
   <block id="5c76b7629087dd257b9ab47efd972727" category="sidebar">설치 기반을 최적화하려면 업그레이드하십시오</block>
   <block id="bcbe3404f4519b7a276724fb02a336ec" category="sidebar">Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다</block>
-  <block id="cac43af1157491380365a3fbc40ffd0e" category="sidebar">AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)</block>
-  <block id="296c50bb7122e36d72b344edcdd0c679" category="sidebar">AFF 및 FAS 펌웨어 Ansible 자동화 패키지(Beginners) 설치 및 실행</block>
-  <block id="d9daa9f2104f9630f56fba5a79e00e16" category="sidebar">웹 서버를 사용하는 호스트 펌웨어 파일</block>
-  <block id="1ecec82935ab6d53ed561471cf78dfed" category="sidebar">재고 파일 작업</block>
   <block id="09a5a45f88e6f466acff860555335df6" category="sidebar">NetApp Docker 이미지를 사용하여 Ansible 플레이북을 실행합니다</block>
-  <block id="72d8c17b82a8128c57dce58c29f29979" category="sidebar">Docker 없이 Ansible 플레이북을 실행합니다</block>
-  <block id="624bf3c50fda6cdcdab599281e893dee" category="sidebar">문제 해결, 피드백 및 지원</block>
   <block id="94248bdab6eca12666593501ea5684f7" category="sidebar">API를 사용하여 데이터 통합</block>
-  <block id="3d771951f480b18b116afdfb0da9cb88" category="sidebar">API에 액세스하기 위한 토큰을 생성합니다</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">사용자 정의 보고서를 생성합니다</block>
-  <block id="af2a4d2810d86aa0169c117f82682f9a" category="sidebar">자주 묻는 질문</block>
   <block id="2eec6525cedefe6316db600adeaf337c" category="section-title">멀티 홉 업그레이드</block>
   <block id="01b9a3f3b3303730f5c2525f136ad86b" category="paragraph">비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.</block>
   <block id="1e3c19e3742fbfc0e6dd22bb91d109a3" category="inline-image-macro">Upgrade Advisor</block>
@@ -1043,7 +1014,6 @@
   <block id="de1371cd93c5974f25486b1d0496e7ff" category="paragraph">감시 목록을 편집해도 Digital Advisor의 정보는 즉시 업데이트되지 않습니다. 디지털 어드바이저에게 변경 사항이 반영되려면 최대 60분이 걸릴 수 있습니다.</block>
   <block id="d46650e342e5c88508541b7bf48a859f" category="section-title">승인되고 확인되지 않은 위험은 디지털 어드바이저에 반영되기까지 60분이 걸릴 수 있습니다</block>
   <block id="de031b37ae88787ef3cdc870e9177445" category="paragraph">승인되고 확인되지 않은 위험의 상태는 Digital Advisor에 즉시 반영되지 않습니다. 변경 사항이 Digital Advisor 및 Wellness Report에 반영되려면 최대 60분이 소요될 수 있습니다.</block>
-  <block id="194c61820d9b82b7329e3153ac5cd674" category="paragraph">Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다.</block>
   <block id="39c8987e43727590806ec031b3dd0a86" category="summary">Digital Advisor에 사용되는 주요 용어에 대한 정보를 제공합니다.</block>
   <block id="9d20c3f0e792e5776281264573b1c017" category="paragraph">Digital Advisor를 사용하기 시작할 때 Digital Advisor 전체에서 예상할 수 있는 몇 가지 기본 용어를 이해하는 것이 중요합니다.</block>
   <block id="d3ad3d0846f828c5868eb4c6ab09e928" category="list-text">* 관심 목록: * 이미 선택된 Digital Advisor 내부의 시스템에 액세스할 수 있는 유연성을 제공합니다. 감시 목록을 사용하여 하나 이상의 고객에 있는 시스템을 추가할 수 있습니다.</block>
@@ -1355,7 +1325,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="4a33ef12db92e241992049db5250349e" category="paragraph">Sustainability 대시보드는 전반적인 지속 가능성 점수 및 클러스터 수준의 지속 가능성 점수를 개선하기 위해 구현할 수 있는 권장 조치를 제공합니다.</block>
   <block id="5e5fa64fce688126dbdf2ee76a2a88dc" category="paragraph">Sustainability 대시보드를 이해하기 위해 다음 비디오를 볼 수 있습니다.</block>
   <block id="d99a4bbfe0f45d32ff5e507f38f9f1a7" category="admonition">지속 가능성 점수를 정확하게 계산하려면 AutoSupport를 활성화해야 합니다.</block>
-  <block id="f1a07ac2a47e6ae773882ceb0f2e9570" category="doc">Sustainability 대시보드에 액세스합니다</block>
   <block id="4a94cc80e3bef643a461eac57bc8c9ef" category="paragraph">Sustainability 대시보드는 AIOps 지원 보고 및 채점을 통해 지속 가능성 환경을 개선하는 실행 가능한 인사이트를 제공합니다. NetApp BlueXP 또는 Digital Advisor를 통해 Sustainability 대시보드에 액세스할 수 있습니다.</block>
   <block id="24fbd138c7dc295cdff7b25fb0003595" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 클러스터 수를 클릭합니다.</block>
   <block id="bcc117d8c868654bdcb5b2de44d7fbf2" category="inline-image-macro">클러스터 수를 보여 주는 스크린샷</block>
@@ -1530,4 +1499,29 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="fc1d748db1b5b488ce7af7d17ea15d55" category="inline-link-macro">소프트웨어 버전 지원</block>
   <block id="846815401f996d92d6775164d37e6015" category="inline-link-macro">7-Mode에서 운영 중인 Data ONTAP 스토리지 시스템의 업그레이드</block>
   <block id="bebf3b3af19cc5d4d44b97e70e8b3ffb" category="paragraph">7-Mode 시스템이 제한된 지원이 종료되었으므로 * 7-Mode Upgrade Advisor 계획 * 보고서를 더 이상 사용할 수 없습니다. 자세한 내용은 을 <block ref="20732c2f8b67b7236a6509e096709359" category="inline-link-macro-rx"></block>참조하십시오. 에 대해 자세히 <block ref="ee2cd00409c56591f09249cc9e682f11" category="inline-link-macro-rx"></block>알아보십시오.</block>
+  <block id="f316bc2d9abc434547fa8fee1b52c8ca" category="doc">상태 점검 대시보드를 사용해 보십시오</block>
+  <block id="67b672f77d14898a21dd7c6d39e4fa6a" category="doc">상태 점검 대시보드를 이해합니다</block>
+  <block id="1fca6cd27ed3729b316e545f40560430" category="paragraph">Digital Advisor 상태 점검 대시보드는 전체 환경에 대한 시점 검토를 제공합니다.</block>
+  <block id="85de05b2e998b63934fdb41cb0ae1267" category="admonition">상태 점검 대시보드는 NetApp SupportEdge Advisor 및 SupportEdge Expert 서비스 오퍼링을 통해서만 액세스할 수 있습니다.</block>
+  <block id="65d0a6b734949784b0887407ba3ca70d" category="doc">Sustainability 대시보드를 사용해 보십시오</block>
+  <block id="bf8be6c11a39d44324275419a51aa06d" category="doc">클러스터 및 노드의 웰니스를 분석합니다</block>
+  <block id="3a9edb9763f2d4f0983c1ba1d9c37307" category="doc">다운타임과 잠재적인 데이터 손실을 방지합니다</block>
+  <block id="2ffe9e86d8e5979dbd4b981f50f1aa43" category="inline-link-macro">AFF 및 FAS 펌웨어 Ansible Automation 패키지를 다운로드하십시오</block>
+  <block id="16fa1266171f008ddc9bdf0c3a3101de" category="list-text"><block ref="16fa1266171f008ddc9bdf0c3a3101de" category="inline-link-macro-rx"></block></block>
+  <block id="5d66e54e3beb67d22f4fce6eed9083ee" category="inline-link-macro">웹 서버를 사용하여 펌웨어 파일을 호스트합니다</block>
+  <block id="fe767912a8dc4f32a2931397397e89a4" category="list-text"><block ref="fe767912a8dc4f32a2931397397e89a4" category="inline-link-macro-rx"></block></block>
+  <block id="c2abfe15bc2ca33fe842167128892ed3" category="doc">보안 취약점을 감지합니다</block>
+  <block id="88ee9568f7a3ba0f64aee190914804a5" category="doc">스토리지 시스템의 소프트웨어와 하드웨어를 갱신합니다</block>
+  <block id="87d10a1ebc7440bb06c109388cf143ad" category="doc">API 카탈로그를 사용하여 API 실행</block>
+  <block id="a1b35cc8af8f9016bf417e1cb56f58c4" category="doc">위험을 확인하고 수동으로 수정 조치를 취합니다</block>
+  <block id="c65128dfcbb07719f3725e4d63112c78" category="doc">NetApp Keystone 구독을 통해 용량 활용률을 확인하십시오</block>
+  <block id="483a5da192f46e3cfe8391d3ef234fc4" category="sidebar">FAQ 를 참조하십시오</block>
+  <block id="10774cfa8212ea83d9277785a67ca25c" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다</block>
+  <block id="f79801f4d29b490bbe3ea28f5605af09" category="sidebar">구성 편차를 식별합니다</block>
+  <block id="952f02280592bc013c384a90a7d80069" category="sidebar">AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)</block>
+  <block id="52337cbca028caf9e3f5a7f4d46f0bf5" category="sidebar">AFF 및 FAS 펌웨어 Ansible 자동화 패키지(초보자) 설치 및 실행</block>
+  <block id="bb56f3fc7f81eda7cac1534c7986e8f5" category="sidebar">NetApp Docker 이미지 없이 Ansible 플레이북을 실행합니다</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식 및 지원</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="sidebar">지원을 위해 등록하십시오</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="sidebar">도움을 받으십시오</block>
 </blocks>

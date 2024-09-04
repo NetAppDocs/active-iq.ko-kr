@@ -4,7 +4,7 @@ permalink: concept_get_started_with_health_check_dashboard.html
 keywords: activeiq, health check, health, HCA, health check dashboard, autosupport, autosupport adoption, recommended configuration, best practices, support, support and entitlements, support contract, contracts, active contracts, expired contracts, nearing-expiration, key recommendations, recommendations,  digital advisor, features, recommended software 
 summary: 대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제공합니다. 
 ---
-= Health Check Dashboard를 시작합니다
+= 상태 점검 대시보드를 사용해 보십시오
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

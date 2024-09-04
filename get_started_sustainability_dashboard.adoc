@@ -4,7 +4,7 @@ permalink: get_started_sustainability_dashboard.html
 keywords: activeiq, sustainability dashboard, bluexp login, sustainability dashboard login, bluexp 
 summary: BlueXP 또는 Digital Advisor에서 BlueXP 지속 가능성 대시보드를 시작하십시오. 
 ---
-= Sustainability 대시보드에 액세스합니다
+= Sustainability 대시보드를 사용해 보십시오
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

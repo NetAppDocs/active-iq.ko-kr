@@ -4,7 +4,7 @@ permalink: task_increase_protection_against_hackers_and_Ransomware_attacks.html
 keywords: protection, hackers, ransomware, ransomware attacks, attack 
 summary: 해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방법에 대한 정보를 제공합니다. 
 ---
-= 보안 취약점 감지
+= 보안 취약점을 감지합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

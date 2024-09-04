@@ -4,7 +4,7 @@ permalink: task_view_risk_and_take_action.html
 keywords: wellness, performance, efficiency, availability, capacity, security vulnerabilities, protection, protect, mitigate, rectify 
 summary: 스토리지 시스템의 상태를 확인 및 분석하고 위험을 완화할 수 있는 정보를 제공합니다. 
 ---
-= 위험을 확인하고 수정 조치를 수동으로 수행합니다
+= 위험을 확인하고 수동으로 수정 조치를 취합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

@@ -4,7 +4,7 @@ permalink: task_analyze_wellness_clusters_and_nodes.html
 keywords: cluster, node, clusterviewer, configuration 
 summary: ClusterViewer에 대한 내용은 에 나와 있습니다. 
 ---
-= 클러스터 및 노드의 상태 분석
+= 클러스터 및 노드의 웰니스를 분석합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

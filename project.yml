@@ -13,8 +13,6 @@ sidebar:
   entries:
   - title: Digital Advisor 문서
     url: "/index.html"
-  - title: BlueXP와 디지털 어드바이저 통합
-    url: "/digital-advisor-integration-with-bluexp.html"
   - title: 릴리스 정보
     entries:
     - title: 새로운 소식
@@ -27,152 +25,158 @@ sidebar:
       url: "/concept_getting_started_2.html"
     - title: Digital Advisor 기능 이해
       url: "/concept_understand_activeiq_features.html"
+    - title: BlueXP와 디지털 어드바이저 통합
+      url: "/digital-advisor-integration-with-bluexp.html"
     - title: 주요 개념
       url: "/concept_key_terms.html"
     - title: AutoSupport란 무엇입니까
       url: "/concept_autosupport.html"
     - title: Digital Advisor에 로그인합니다
       url: "/task_login_activeiq.html"
-  - title: 프로비저닝 감시 목록
-    entries:
-    - title: 개요
-      url: "/concept_overview_dashboard.html"
-    - title: 시청목록 생성
-      url: "/task_add_watchlist.html"
-    - title: 감시 목록을 관리합니다
-      url: "/task_manage_watchlists.html"
-  - title: 건강 특성 분석
-    entries:
-    - title: 개요
-      url: "/concept_overview_wellness.html"
-    - title: 위험을 확인하고 수정 조치를 수동으로 수행합니다
-      url: "/task_view_risk_and_take_action.html"
-    - title: 보안 취약점 감지
-      url: "/task_increase_protection_against_hackers_and_Ransomware_attacks.html"
-    - title: 랜섬웨어 위험으로부터 시스템을 보호합니다
-      url: "/task_protect_systems_against_ransomware_risks.html"
-    - title: 위험을 보고 확인합니다
-      url: "/task_view_and_acknowledge_risks.html"
-    - title: 건강 기록 보기
-      url: "/task_view_wellness_history.html"
-    - title: Active IQ Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다
-      url: "/task_view_risks_remediated_unified_manager.html"
-    - title: 다운타임 및 가능한 데이터 손실 방지
-      url: "/task_avoid_the_downtime_and_possible_data_loss.html"
-    - title: 건강 리뷰 이메일을 구독하십시오
-      url: "/task_subscribe_to_wellness_review_email.html"
-    - title: 소프트웨어 및 하드웨어를 교체합니다
-      url: "/task_renew_software_and_hardware.html"
-    - title: 클러스터 및 노드의 상태 분석
-      url: "/task_analyze_wellness_clusters_and_nodes.html"
-  - title: 스토리지 시스템의 지속 가능성을 분석합니다
-    entries:
-    - title: 지속 가능성에 대해 자세히 알아보십시오
-      url: "/learn_BlueXP_sustainability.html"
-    - title: Sustainability 대시보드에 액세스합니다
-      url: "/get_started_sustainability_dashboard.html"
-    - title: Sustainability 대시보드 개요
-      url: "/BlueXP_sustainability_dashboard_overview.html"
-    - title: 지속 가능성 점수 개선
-      url: "/improve_sustainability_score.html"
-  - title: 업그레이드 계획을 생성합니다
-    entries:
-    - title: 개요
-      url: "/upgrade_advisor_overview.html"
-    - title: 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성합니다
-      url: "/generate_upgrade_plan_single_multiple_clusters.html"
-  - title: 시스템 세부 정보를 봅니다
-    entries:
-    - title: 재고 세부 정보를 봅니다
-      url: "/task_view_inventory_details.html"
-    - title: Cloud Insights와 통합하여 가상 머신 세부 정보 보기
-      url: "/task-integrating-with-cloud-insights-to-view-vm-details.html"
-    - title: 귀중한 인사이트를 확인하십시오
-      url: "/task_view_valuable_insight_widget.html"
-    - title: Keystone 가입 용량 활용률 보기
-      url: "/view_keystone_capacity_utilization.html"
-  - title: 시스템 요구 사항을 사전에 식별합니다
-    entries:
-    - title: 개요
-      url: "/concept_overview_planning.html"
-    - title: 용량 제한에 도달한 시스템을 식별합니다
-      url: "/task_identify_capacity_system.html"
-    - title: 운영 중단을 방지하기 위해 볼륨을 가득 채우지 마십시오
-      url: "/task_avoid_a_volume_filling_up_to_prevent_an_outage.html"
-    - title: 기술 업데이트를 평가합니다
-      url: "/evaluate-tech-refresh.html"
-    - title: 소프트웨어 및 하드웨어를 교체합니다
-      url: "/task_renew_software_and_hardware.html"
-  - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
-    url: "/task-informed-decisions-based-on-cloud-recommendations.html"
-  - title: 구성 편차를 식별합니다
-    entries:
-    - title: 개요
-      url: "/concept_overview_config_drift.html"
-    - title: 구성 드리프트 템플릿을 추가합니다
-      url: "/task_add_config_drift_template.html"
-    - title: 구성 드리프트 템플릿을 비교합니다
-      url: "/task_compare_config_drift_template.html"
-    - title: 변경 사항 타임라인 보고서를 생성합니다
-      url: "/task_generate_drift_timeline_report.html"
-    - title: 서식 파일 관리
-      url: "/task_manage_template.html"
-  - title: 스토리지 시스템의 효율성 및 성능 향상
-    entries:
-    - title: 용량 및 효율성 절감 분석
-      url: "/task_analyze_storage_efficiency.html"
-    - title: 스토리지 성능 분석
-      url: "/task_view_performance_graphs.html"
-  - title: 스토리지 시스템의 상태를 분석합니다
-    entries:
-    - title: 개요
-      url: "/concept_understand_health_check_dashboard.html"
-    - title: Health Check Dashboard를 시작합니다
-      url: "/concept_get_started_with_health_check_dashboard.html"
-    - title: 지원 계약을 갱신하십시오
-      url: "/task_renew_support_contracts_for_your_systems.html"
-  - title: 설치 기반을 최적화하려면 업그레이드하십시오
-    entries:
-    - title: 지원 서비스를 업그레이드하십시오
-      url: "/task_upgrade_support_offering.html"
-    - title: Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다
+    - title: 프로비저닝 감시 목록
       entries:
-      - title: AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하십시오
-        url: "/task_update_AFF_FAS_firmware.html"
-      - title: AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)
-        url: "/task_install_execute_firmware_update_exp_user.html"
-      - title: AFF 및 FAS 펌웨어 Ansible 자동화 패키지(Beginners) 설치 및 실행
+      - title: 개요
+        url: "/concept_overview_dashboard.html"
+      - title: 시청목록 생성
+        url: "/task_add_watchlist.html"
+      - title: 감시 목록을 관리합니다
+        url: "/task_manage_watchlists.html"
+    - title: FAQ 를 참조하십시오
+      url: reference_aiq_faq.html
+  - title: Digital Advisor 사용
+    entries:
+    - title: 건강 특성 분석
+      entries:
+      - title: 개요
+        url: "/concept_overview_wellness.html"
+      - title: 위험을 확인하고 수동으로 수정 조치를 취합니다
+        url: "/task_view_risk_and_take_action.html"
+      - title: 보안 취약점을 감지합니다
+        url: "/task_increase_protection_against_hackers_and_Ransomware_attacks.html"
+      - title: 랜섬웨어 위험으로부터 시스템을 보호합니다
+        url: "/task_protect_systems_against_ransomware_risks.html"
+      - title: 위험을 보고 확인합니다
+        url: "/task_view_and_acknowledge_risks.html"
+      - title: 건강 기록 보기
+        url: "/task_view_wellness_history.html"
+      - title: Unified Manager 또는 Ansible 플레이북을 사용하여 자동으로 완화할 수 있는 위험을 확인합니다
+        url: "/task_view_risks_remediated_unified_manager.html"
+      - title: 다운타임과 잠재적인 데이터 손실을 방지합니다
+        url: "/task_avoid_the_downtime_and_possible_data_loss.html"
+      - title: 건강 리뷰 이메일을 구독하십시오
+        url: "/task_subscribe_to_wellness_review_email.html"
+      - title: 스토리지 시스템의 소프트웨어와 하드웨어를 갱신합니다
+        url: "/task_renew_software_and_hardware.html"
+      - title: 클러스터 및 노드의 웰니스를 분석합니다
+        url: "/task_analyze_wellness_clusters_and_nodes.html"
+    - title: 스토리지 시스템의 지속 가능성을 분석합니다
+      entries:
+      - title: 지속 가능성에 대해 자세히 알아보십시오
+        url: "/learn_BlueXP_sustainability.html"
+      - title: Sustainability 대시보드를 사용해 보십시오
+        url: "/get_started_sustainability_dashboard.html"
+      - title: Sustainability 대시보드 개요
+        url: "/BlueXP_sustainability_dashboard_overview.html"
+      - title: 지속 가능성 점수 개선
+        url: "/improve_sustainability_score.html"
+    - title: 업그레이드 계획을 생성합니다
+      entries:
+      - title: 개요
+        url: "/upgrade_advisor_overview.html"
+      - title: 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성합니다
+        url: "/generate_upgrade_plan_single_multiple_clusters.html"
+    - title: 시스템 세부 정보를 봅니다
+      entries:
+      - title: 재고 세부 정보를 봅니다
+        url: "/task_view_inventory_details.html"
+      - title: Cloud Insights와 통합하여 가상 머신 세부 정보 보기
+        url: "/task-integrating-with-cloud-insights-to-view-vm-details.html"
+      - title: 귀중한 인사이트를 확인하십시오
+        url: "/task_view_valuable_insight_widget.html"
+      - title: NetApp Keystone 구독을 통해 용량 활용률을 확인하십시오
+        url: "/view_keystone_capacity_utilization.html"
+    - title: 시스템 요구 사항을 사전에 식별합니다
+      entries:
+      - title: 개요
+        url: "/concept_overview_planning.html"
+      - title: 용량 제한에 도달한 시스템을 식별합니다
+        url: "/task_identify_capacity_system.html"
+      - title: 운영 중단을 방지하기 위해 볼륨을 가득 채우지 마십시오
+        url: "/task_avoid_a_volume_filling_up_to_prevent_an_outage.html"
+      - title: 기술 업데이트를 평가합니다
+        url: "/evaluate-tech-refresh.html"
+      - title: 스토리지 시스템의 소프트웨어와 하드웨어를 갱신합니다
+        url: "/task_renew_software_and_hardware.html"
+    - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
+      url: "/task-informed-decisions-based-on-cloud-recommendations.html"
+    - title: 구성 편차를 식별합니다
+      entries:
+      - title: 개요
+        url: "/concept_overview_config_drift.html"
+      - title: 구성 드리프트 템플릿을 추가합니다
+        url: "/task_add_config_drift_template.html"
+      - title: 구성 드리프트 템플릿을 비교합니다
+        url: "/task_compare_config_drift_template.html"
+      - title: 변경 사항 타임라인 보고서를 생성합니다
+        url: "/task_generate_drift_timeline_report.html"
+      - title: 서식 파일 관리
+        url: "/task_manage_template.html"
+    - title: 스토리지 시스템의 효율성 및 성능 향상
+      entries:
+      - title: 용량 및 스토리지 효율성 절감 분석
+        url: "/task_analyze_storage_efficiency.html"
+      - title: 성능 그래프를 분석합니다
+        url: "/task_view_performance_graphs.html"
+    - title: 스토리지 시스템의 상태를 분석합니다
+      entries:
+      - title: 개요
+        url: "/concept_understand_health_check_dashboard.html"
+      - title: 상태 점검 대시보드를 사용해 보십시오
+        url: "/concept_get_started_with_health_check_dashboard.html"
+      - title: 지원 계약을 갱신하십시오
+        url: "/task_renew_support_contracts_for_your_systems.html"
+    - title: 설치 기반을 최적화하려면 업그레이드하십시오
+      entries:
+      - title: 지원 서비스를 업그레이드하십시오
+        url: "/task_upgrade_support_offering.html"
+      - title: Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다
         entries:
-        - title: 웹 서버를 사용하는 호스트 펌웨어 파일
-          url: "/task_hosting_firmware_files_using_web_server.html"
-        - title: 재고 파일 작업
-          url: "/concept_working_with_inventory_file.html"
-        - title: NetApp Docker 이미지를 사용하여 Ansible 플레이북을 실행합니다
-          url: "/task_execute_ansible_playbook_using_docker.html"
-        - title: Docker 없이 Ansible 플레이북을 실행합니다
-          url: "/task_execute_ansible_playbook_without_docker.html"
-        - title: 펌웨어 설치를 확인합니다
-          url: "/task_validate_firmware_installation.html"
-        - title: 문제 해결, 피드백 및 지원
-          url: "/reference_ansible_troubleshoot_feedback_support.html"
-  - title: API를 사용하여 데이터 통합
+        - title: AFF 및 FAS 펌웨어 Ansible Automation 패키지를 다운로드하십시오
+          url: "/task_update_AFF_FAS_firmware.html"
+        - title: AFF 및 FAS 펌웨어 Ansible 자동화 패키지 설치 및 실행(숙련된 사용자)
+          url: "/task_install_execute_firmware_update_exp_user.html"
+        - title: AFF 및 FAS 펌웨어 Ansible 자동화 패키지(초보자) 설치 및 실행
+          entries:
+          - title: 웹 서버를 사용하여 펌웨어 파일을 호스트합니다
+            url: "/task_hosting_firmware_files_using_web_server.html"
+          - title: 재고 파일 작업
+            url: "/concept_working_with_inventory_file.html"
+          - title: NetApp Docker 이미지를 사용하여 Ansible 플레이북을 실행합니다
+            url: "/task_execute_ansible_playbook_using_docker.html"
+          - title: NetApp Docker 이미지 없이 Ansible 플레이북을 실행합니다
+            url: "/task_execute_ansible_playbook_without_docker.html"
+          - title: 펌웨어 설치를 확인합니다
+            url: "/task_validate_firmware_installation.html"
+    - title: API를 사용하여 데이터 통합
+      entries:
+      - title: 개요
+        url: "/concept_overview_API_service.html"
+      - title: API를 사용할 토큰을 생성합니다
+        url: "/task_generate_tokens_API_services.html"
+      - title: API 카탈로그를 사용하여 API 실행
+        url: "/task_view_API_catalog.html"
+    - title: 사용자 정의 보고서를 생성합니다
+      entries:
+      - title: 보고서 유형
+        url: "/concept_report_types.html"
+      - title: 보고서를 생성합니다
+        url: "/task_generate_reports.html"
+  - title: 지식 및 지원
     entries:
-    - title: 개요
-      url: "/concept_overview_API_service.html"
-    - title: API에 액세스하기 위한 토큰을 생성합니다
-      url: "/task_generate_tokens_API_services.html"
-    - title: API 카탈로그를 사용하여 API를 실행합니다
-      url: "/task_view_API_catalog.html"
-  - title: 사용자 정의 보고서를 생성합니다
-    entries:
-    - title: 보고서 유형
-      url: "/concept_report_types.html"
-    - title: 보고서를 생성합니다
-      url: "/task_generate_reports.html"
-  - title: 자주 묻는 질문
-    url: reference_aiq_faq.html
-  - title: 자세한 정보를 확인하십시오
-    url: "/concept_get_more_information.html"
+    - title: 지원을 위해 등록하십시오
+      url: "/reference_ansible_troubleshoot_feedback_support.html"
+    - title: 도움을 받으십시오
+      url: "/concept_get_more_information.html"
   - title: 법적 고지
     url: "/legal-notices.html"
 product-family:

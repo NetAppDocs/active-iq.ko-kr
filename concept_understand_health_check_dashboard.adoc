@@ -4,7 +4,7 @@ permalink: concept_understand_health_check_dashboard.html
 keywords: activeiq, health check, health, HCA, health check dashboard, health check score 
 summary: 상태 점검 대시보드 에 익숙해지도록 정보를 제공합니다. 
 ---
-= 상태 점검 대시보드 이해
+= 상태 점검 대시보드를 이해합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
@@ -16,7 +16,7 @@ summary: 상태 점검 대시보드 에 익숙해지도록 정보를 제공합�
 
 
 [role="lead"]
-Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다.
+Digital Advisor 상태 점검 대시보드는 전체 환경에 대한 시점 검토를 제공합니다.
 
 상태 점검 점수를 기준으로 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 장기적인 계획을 도모할 수 있습니다. 중앙 집중식 사용자 인터페이스를 통해 소프트웨어 및 하드웨어에서 실행 중인 모든 시스템을 모니터링할 수 있습니다. 상태 점검 점수를 통해 시스템 위험에 대한 통찰력을 빠르게 얻을 수 있습니다. 주요 권장사항 및 모범 사례를 사용하면 설치 기반의 상태를 개선하기 위한 조치를 취할 수 있습니다.
 

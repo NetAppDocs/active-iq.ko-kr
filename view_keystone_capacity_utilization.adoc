@@ -4,7 +4,7 @@ permalink: view_keystone_capacity_utilization.html
 keywords: keystone, capacity utilization, service tiers, Keystone subscription, keystone subscription, shares, disks 
 summary: NetApp Keystone 서브스크립션을 통한 용량 활용에 대한 정보를 제공합니다. 
 ---
-= NetApp Keystone 서브스크립션을 통해 용량 활용도를 확인할 수 있습니다
+= NetApp Keystone 구독을 통해 용량 활용률을 확인하십시오
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

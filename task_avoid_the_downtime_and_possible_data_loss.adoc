@@ -4,7 +4,7 @@ permalink: task_avoid_the_downtime_and_possible_data_loss.html
 keywords: downtime, data loss, avoid downtime, avoid data loss 
 summary: 다운타임 및 가능한 데이터 손실을 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
 ---
-= 다운타임 및 가능한 데이터 손실 방지
+= 다운타임과 잠재적인 데이터 손실을 방지합니다
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
