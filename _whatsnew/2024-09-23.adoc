@@ -1,0 +1,9 @@
+= 지원 서비스
+:allow-uri-read: 
+
+
+
+
+=== 지원 서비스
+
+NetApp SupportEdge Basic 서비스 제품에는 현재 SupportEdge Advisor 및 SupportEdge Expert에서 사용할 수 있는 모든 디지털 어드바이저 기능이 포함되어 있으며, 전체 스택 토폴로지(VMware)는 활성화되어 있더라도 VMware 전체 스택 모니터링에 대한 가시성을 제공하지 않습니다.

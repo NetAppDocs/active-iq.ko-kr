@@ -1,0 +1,9 @@
+= 보고서
+:allow-uri-read: 
+
+
+
+
+=== 보고서
+
+7-Mode 시스템이 제한된 지원이 종료되었으므로 * 7-Mode Upgrade Advisor 계획 * 보고서를 더 이상 사용할 수 없습니다. 자세한 내용은 을 link:https://mysupport.netapp.com/site/info/version-support["소프트웨어 버전 지원"^]참조하십시오. 에 대해 자세히 link:https://docs.netapp.com/a/ontap/7-mode/8.2.1/Upgrade-And-Revert-Or-Downgrade-Guide-For-7-Mode.pdf["7-Mode에서 운영 중인 Data ONTAP 스토리지 시스템의 업그레이드"^]알아보십시오.

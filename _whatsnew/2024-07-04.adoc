@@ -1,0 +1,9 @@
+= Sustainability 대시보드
+:allow-uri-read: 
+
+
+
+
+=== Sustainability 대시보드
+
+스토리지 시스템의 환경 상태에 대한 통찰력을 제공하는 환경 지표는 고급 예측 모델을 기반으로 예상 전력 사용, 직접 탄소 사용량 및 열 배출에 대한 더욱 정확한 값을 제공합니다. 자세한 내용은 을 link:https://docs.netapp.com/us-en/active-iq/BlueXP_sustainability_dashboard_overview.html["Sustainability 대시보드 개요"]참조하십시오.
