@@ -1441,7 +1441,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="4d7b0b036dd7f28233ff7e59c3c1dbf5" category="list-text">보안 취약성 * 확인란을 지웁니다.</block>
   <block id="8ab2cb8f529884d0aa70d068b846421e" category="admonition">노드 지연 시간, 로컬 계층(애그리게이트) 및 볼륨 성능 그래프는 ONTAP 9.2 이상을 실행 중인 시스템에서만 지원됩니다.</block>
   <block id="fbf668c351539b8a0b137fcc8beb4b5e" category="paragraph">단일 클러스터와 여러 클러스터에 대한 자동화된 무중단 업그레이드 계획을 생성할 수 있습니다. 클러스터와 관련된 위험 목록, 업그레이드 차단기와 경고 목록이 포함된 업그레이드 전 확인 보고서, 새로운 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대한 업그레이드 권장 사항을 볼 수 있습니다. 여러 클러스터에 대해서는 업그레이드 권장 사항을 사용할 수 없습니다. 자세한 내용은 을 참조하십시오 <block ref="41932a416de65dadbc9f715244a32fe5" category="inline-link-macro-rx"></block>.</block>
-  <block id="cd65827c11cd37b34e44b3a7ab206c41" category="list-text">ONTAP 9.6 이하 버전을 실행하는 클러스터의 경우 업그레이드 권장 사항에서 새로운 기능과 개선사항에 대한 정보를 볼 수 있습니다. 업그레이드 전 확인 보고서 및 위험 요약을 사용할 수 없으며 이전 형식으로 업그레이드 계획을 생성할 수 있습니다.</block>
   <block id="83c0915932deaf70b0873b6eb47c3a28" category="section-title">2024년 3월 28일</block>
   <block id="888059a12fa3532d54872d17517e780c" category="inline-link-macro">업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성하는 방법에 대해 알아봅니다.</block>
   <block id="9d10674ae163e749f65c1eeb852cdf2b" category="paragraph">이전 버전의 Upgrade Advisor는 이제 더 이상 사용되지 않습니다. 향상된 버전의 Upgrade Advisor를 사용하여 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성할 수 있습니다. <block ref="b6cac2681a05b9a8dd19bf0553cd1066" category="inline-link-macro-rx"></block></block>
@@ -1528,4 +1527,15 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="38d80ed5e3a33df19ee71c05059b6258" category="paragraph">스토리지 시스템의 환경 상태에 대한 통찰력을 제공하는 환경 지표는 고급 예측 모델을 기반으로 예상 전력 사용, 직접 탄소 사용량 및 열 배출에 대한 더욱 정확한 값을 제공합니다. 자세한 내용은 을 <block ref="093aadbd7a28ff730cdbe5efbf5b8c02" category="inline-link-macro-rx"></block>참조하십시오.</block>
   <block id="cd0b2a52b53e1925d55439a6132bad52" category="doc">지원 서비스</block>
   <block id="6a64512211dad24384990fce8b83ddf8" category="section-title">해커와 공격으로부터 보호합니다</block>
+  <block id="39ca8580b0e6a065fa25faac2a2acc86" category="inline-link-macro">펌웨어 업데이트 권장 사항을 보는 방법에 대해 알아봅니다</block>
+  <block id="af79dd5dc56c84e383198dba47e6f6fe" category="paragraph">이제 업데이트에 권장되는 스토리지 펌웨어, SP/BMC 펌웨어 및 ARP(자율적 랜섬웨어 패키지)를 볼 수 있습니다. <block ref="bb189956f648b21665d5198deffedcc8" category="inline-link-macro-rx"></block>..</block>
+  <block id="e3f867c1e04dce86520c139a0ae60b18" category="section-title">2024년 12월 12일</block>
+  <block id="85384a7ec038b3ed06c50841a285d5fc" category="summary">스토리지 펌웨어, SP/BMC 펌웨어, 시스템 파일 및 보안 파일에 대한 업데이트 권장 사항을 봅니다.</block>
+  <block id="432405c0f2c1d2289f6d8e3b11ebfd8b" category="doc">펌웨어 업데이트 권장 사항을 봅니다</block>
+  <block id="789b0be6ddd32dcc2218519990c16b5c" category="paragraph">이제 고객은 Control Tower가 최신 펌웨어 버전으로 시스템을 자동으로 업데이트함으로써 시간과 노력을 절약할 수 있으므로 수동 개입이나 예약 작업이 필요하지 않습니다. 이 업데이트는 오래되거나 호환되지 않는 펌웨어 버전으로 인해 문제가 발생할 위험을 줄여 최적의 시스템 성능, 안정성 및 보안을 보장합니다.</block>
+  <block id="715a43f582d65ce08f118788f9800f7d" category="paragraph">고객은 AutoSupport 및 자동 업데이트 설정을 활성화하는 옵션과 함께 펌웨어 업데이트 상태에 대한 알림 및 경고를 적시에 받게 됩니다.</block>
+  <block id="fe47ca91d8c9f313f60692015dd2b72c" category="list-text">대시보드 페이지에서 * Upgrade Advisor * 위젯에서 * 기타 권장 사항 * 을 클릭합니다.</block>
+  <block id="d7e31a0bb5b5ba6257ea5fda3503a013" category="list-text">권장 사항 목록을 보려면 * 권장 사항 보기 * 를 클릭하십시오.</block>
+  <block id="11672318e1b710ceb9ea65a5a12aa393" category="list-text">업데이트 상태 * 열에서 * 진행 상황 보기 * 를 클릭하여 업데이트 대상 클러스터를 확인합니다.</block>
+  <block id="ea9fb85557d50ae07af62f60044c60d5" category="list-text">문제가 발생한 경우 해당 링크를 클릭하여 문제를 완화하기 위한 단계를 확인하십시오.</block>
 </blocks>

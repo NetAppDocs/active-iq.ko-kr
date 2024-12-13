@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: view-firmware-update-recommendations.html 
+keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP/BMC firmware, system files, security files 
+summary: 스토리지 펌웨어, SP/BMC 펌웨어, 시스템 파일 및 보안 파일에 대한 업데이트 권장 사항을 봅니다. 
+---
+= 펌웨어 업데이트 권장 사항을 봅니다
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+이제 고객은 Control Tower가 최신 펌웨어 버전으로 시스템을 자동으로 업데이트함으로써 시간과 노력을 절약할 수 있으므로 수동 개입이나 예약 작업이 필요하지 않습니다. 이 업데이트는 오래되거나 호환되지 않는 펌웨어 버전으로 인해 문제가 발생할 위험을 줄여 최적의 시스템 성능, 안정성 및 보안을 보장합니다.
+
+고객은 AutoSupport 및 자동 업데이트 설정을 활성화하는 옵션과 함께 펌웨어 업데이트 상태에 대한 알림 및 경고를 적시에 받게 됩니다.
+
+.단계
+. 대시보드 페이지에서 * Upgrade Advisor * 위젯에서 * 기타 권장 사항 * 을 클릭합니다.
+. 권장 사항 목록을 보려면 * 권장 사항 보기 * 를 클릭하십시오.
+. 업데이트 상태 * 열에서 * 진행 상황 보기 * 를 클릭하여 업데이트 대상 클러스터를 확인합니다.
+. 문제가 발생한 경우 해당 링크를 클릭하여 문제를 완화하기 위한 단계를 확인하십시오.
+

@@ -8,7 +8,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: false
-  langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+  langs: ko-kr,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,zh-cn,zh-tw
 sidebar:
   entries:
   - title: Digital Advisor 문서
@@ -85,6 +85,8 @@ sidebar:
         url: "/upgrade_advisor_overview.html"
       - title: 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성합니다
         url: "/generate_upgrade_plan_single_multiple_clusters.html"
+      - title: 펌웨어 업데이트 권장 사항을 봅니다
+        url: "/view-firmware-update-recommendations.html"
     - title: 시스템 세부 정보를 봅니다
       entries:
       - title: 재고 세부 정보를 봅니다
