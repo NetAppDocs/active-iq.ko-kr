@@ -1,0 +1,9 @@
+= AutoSupport 위젯
+:allow-uri-read: 
+
+
+
+
+=== AutoSupport 위젯
+
+AutoSupport 상태 관련 문제를 고객에게 알리기 위해 AutoSupport 위젯이 기본 대시보드 화면에 추가되었습니다.

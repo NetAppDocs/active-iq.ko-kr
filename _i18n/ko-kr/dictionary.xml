@@ -1538,4 +1538,13 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="d7e31a0bb5b5ba6257ea5fda3503a013" category="list-text">권장 사항 목록을 보려면 * 권장 사항 보기 * 를 클릭하십시오.</block>
   <block id="11672318e1b710ceb9ea65a5a12aa393" category="list-text">업데이트 상태 * 열에서 * 진행 상황 보기 * 를 클릭하여 업데이트 대상 클러스터를 확인합니다.</block>
   <block id="ea9fb85557d50ae07af62f60044c60d5" category="list-text">문제가 발생한 경우 해당 링크를 클릭하여 문제를 완화하기 위한 단계를 확인하십시오.</block>
+  <block id="998e01ff2383d2b9e06b55738a27346b" category="doc">AutoSupport 위젯</block>
+  <block id="526c3ba007bad7c7b6408ba4672f5f6e" category="paragraph">AutoSupport 상태 관련 문제를 고객에게 알리기 위해 AutoSupport 위젯이 기본 대시보드 화면에 추가되었습니다.</block>
+  <block id="92806a8b46867129d50cde3d86748bb6" category="section-title">클러스터 및 일련 번호에 AutoSupport 위젯을 사용할 수 없습니다</block>
+  <block id="03d676ea619bd44dde41c38b2851a15d" category="paragraph">AutoSupport 위젯은 클러스터 및 일련 번호 검색에 대한 경고를 제공하지 않습니다.</block>
+  <block id="c0ac6b1bce52487f5b5af28ecef07c1f" category="section-title">AutoSupport 위젯이 직렬 레벨 AutoSupport 세부 정보로 드릴다운할 수 없습니다</block>
+  <block id="84262a27dab2047f1176d0c336762208" category="paragraph">AutoSupport 보고 페이지에서 상태, 최근에 전송을 중지한 시스템 또는 AutoSupport가 꺼진 시스템을 클릭해도 상태 점검 화면으로 이동하지 않습니다.</block>
+  <block id="82a9da1ab6bff23f72740b42a10ddeb9" category="section-title">재고 위젯에서는 필터링 및 정렬을 사용할 수 없습니다</block>
+  <block id="eeb5db985fd60cfebc33e606802e2112" category="paragraph">재고 위젯에서는 데이터를 필터링하고 정렬할 수 없습니다. "필터 기준" 드롭다운에서 ONTAP AFF, ONTAP ASA, ONTAP Edge 또는 ONTAP Select를 선택하면 데이터가 표시되지 않습니다.</block>
+  <block id="4b546cad2ee01a6cbf9ccc96b97242b6" category="section-title">2024년 12월 4일</block>
 </blocks>
