@@ -863,26 +863,17 @@
   <block id="fb988f484e2c15b2a450e5b4c6255e46" category="cell">보고서 이름</block>
   <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">설명</block>
   <block id="8d4f3dea5577dce7739de17b3c022f16" category="cell">미확인 및 확인된 위험, 위험 세부 정보, 수정 조치 및 영향을 받는 시스템에 대한 정보를 제공합니다.</block>
-  <block id="117d48eb5d133fd5a508d66f884c3c85" category="cell">웰니스 – 통합</block>
-  <block id="df67990129d3bd9cbda01755e666bbee" category="cell">미해결된 위험 및 영향을 받는 시스템 수에 대한 요약을 제공합니다.</block>
   <block id="f34a643181d75dbba89d10d14f0d8041" category="cell">지역 또는 사이트별로 모든 시스템 인벤토리 세부 정보가 나열된 Ansible 인벤토리 파일을 제공합니다. 이 파일은 자동화에 사용할 수 있습니다.</block>
-  <block id="55449fd175613962d882ab450cfc5f3c" category="cell">FabricPool</block>
-  <block id="7eaee357275d531796b5348076c7abaa" category="cell">비활성, 콜드, 활성, 핫, 계층형, 모니터링되지 않는 데이터입니다. 이 보고서에는 비활성화된 애그리게이트에 대해 비활성 데이터 보고를 활성화하기 위한 Ansible 플레이북도 포함되어 있습니다.</block>
   <block id="2a414d2cb2f384ea04369dd0623dab64" category="cell">선택한 감시 목록, 고객, 사이트, 그룹 수준에 대한 설치 기반에 대한 정보를 제공합니다. 이 보고서는 재고 상세 정보 페이지에서 직접 다운로드로 생성하거나 보고서 페이지에서 생성할 수 있습니다.</block>
-  <block id="945bdabc5825ce732fb5d22e7dd80610" category="cell">지원 종료(EOS)에 도달한 컨트롤러, 쉘프 및 디스크 목록에 대한 정보를 제공합니다.</block>
   <block id="8a12eef10db15850c4fa22387e8a4ff9" category="cell">권장 구성</block>
-  <block id="c829d71ff8f116d3f11dc69d03aa4c34" category="cell">원격 관리 구성, 스페어 및 드라이브, HA 쌍 및 SVM 상태에 대한 권장 구성 격차에 대한 정보를 제공합니다.</block>
   <block id="fca571dd1b59c732f4bccd0d20435b5d" category="cell">기술 케이스 세부 정보</block>
   <block id="d6cb167525a6b69100791b38c109bfe9" category="cell">모든 기술 케이스 및 상태에 대한 연간 보고서를 제공합니다.</block>
   <block id="5cbae6debb1f76f9bf4bec9196da5dc6" category="cell">업그레이드 권장 사항(SW 및 FW)</block>
   <block id="9932f2379db681a01520e32c482a3ddb" category="cell">검색 기준의 각 컨트롤러 또는 계열별 소프트웨어 및 펌웨어 통화 및 권장 버전에 대한 다중 탭 보고서입니다.</block>
-  <block id="7ba03c87de2b2098f95107674c8477ff" category="cell">ClusterViewer 보고서</block>
   <block id="acaaa059ccc549a29b26a0c1ad515bba" category="cell">고객 및 감시 대상 목록 레벨의 단일 또는 다중 클러스터에 대한 정보를 제공합니다. 최대 100개의 노드가 있는 감시 목록에만 이 보고서를 생성할 수 있습니다.</block>
   <block id="2d99f2b259d1d48f91090cd494f911f9" category="cell">용량 및 효율성</block>
   <block id="5da3b92de536337b0597bb58ef5868ac" category="cell">클러스터, 고객, 사이트, 그룹, 감시 목록 및 노드 레벨의 용량 및 효율성 세부 정보를 제공합니다.</block>
-  <block id="7780a058aaed86fab91b6e7629c71e93" category="cell">볼륨 성능 보고서</block>
   <block id="2bc63cd07b97ee266354dc14df194285" category="cell">클러스터 레벨에서 볼륨의 성능 세부 정보에 대한 자세한 내용은 에 나와 있습니다.</block>
-  <block id="f7ced170f0a650cade73ee4d9d2d75de" category="cell">성능 보고서</block>
   <block id="a26bfd54d2d0360c1432f1b51ff336ad" category="cell">클러스터, 노드, 로컬 계층(애그리게이트) 및 볼륨의 성능에 대한 정보를 관심 목록 레벨에서 제공합니다. 최대 100개의 노드가 있는 감시 목록에만 이 보고서를 생성할 수 있습니다.</block>
   <block id="23ed0325a3e4b1fb0cb88618017f6637" category="doc">NetApp Docker 이미지가 없는 Ansible 플레이북을 실행합니다</block>
   <block id="a7f5f35426b927411fc9231b56382173" category="inline-link-macro">파이썬</block>
@@ -1547,4 +1538,22 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="82a9da1ab6bff23f72740b42a10ddeb9" category="section-title">재고 위젯에서는 필터링 및 정렬을 사용할 수 없습니다</block>
   <block id="eeb5db985fd60cfebc33e606802e2112" category="paragraph">재고 위젯에서는 데이터를 필터링하고 정렬할 수 없습니다. "필터 기준" 드롭다운에서 ONTAP AFF, ONTAP ASA, ONTAP Edge 또는 ONTAP Select를 선택하면 데이터가 표시되지 않습니다.</block>
   <block id="4b546cad2ee01a6cbf9ccc96b97242b6" category="section-title">2024년 12월 4일</block>
+  <block id="1ae1cd0b4937cfa4a52d9dd9c59a7bff" category="cell">ONTAP에서 사용 가능</block>
+  <block id="eda9493cdedf376a22ce96af673b5ce1" category="cell">E-Series에서 사용 가능</block>
+  <block id="ae816a91a9239284b014c29def79b1a9" category="cell">StorageGRID에서 사용 가능</block>
+  <block id="93cba07454f06a4a960172bbd6e2a435" category="cell">예</block>
+  <block id="bafd7322c6e97d25b6299b5d6fe8920b" category="cell">아니요</block>
+  <block id="9c575f87ce93324cdc7902925f6337cc" category="cell">클라우드 리소스 최적화를 위한 인사이트 및 권고 사항을 제공합니다. 재해 복구, 백업, 계층화 및 마이그레이션에 대한 세부 정보가 포함되어 있습니다.</block>
+  <block id="710106984647f0730faca0e1eaeeee6d" category="cell">사용자가 시스템 구성을 위한 "황금색 기준"을 설정하고 이 기준선과 차이가 발생할 경우 이를 알릴 수 있습니다. 시스템 성능 또는 보안에 영향을 미칠 수 있는 구성 변경을 식별하고 해결하는 데 도움이 됩니다.</block>
+  <block id="cb8da66b45b686427a31e5d56a8122db" category="cell">배송 물류</block>
+  <block id="d0606acb5c07dedf89ff7c2b06144f81" category="cell">제품 및 서비스 제공 물류에 대한 정보를 제공합니다.</block>
+  <block id="fbd781a535485932684e2fdb756c3913" category="cell">상태 평가 핵심 요약</block>
+  <block id="0cb0fa6009199e89058c343d1d127fda" category="cell">PowerPoint(PPT) 형식으로 다양한 Active IQ KPI에 대한 정보를 제공하며 여러 슬라이드에 KPI가 설명되어 있습니다.</block>
+  <block id="83009b6eb15f65a7b4a558c0e23269c3" category="cell">주기적 다이제스트</block>
+  <block id="f4786124ed46b14b49d37f9f8c042ce4" category="cell">주요 지표 및 통찰력을 주기적으로 요약합니다. 시스템 성능, 용량, 효율성 등에 대한 데이터가 포함됩니다.</block>
+  <block id="17b58822f294ceb27e2330591b9224e4" category="cell">원격 관리 구성, 스페어 및 드라이브, HA 쌍, SVM 상태, 배터리 상태 및 Recovery Guru 권고사항에 대한 다양한 권장 구성 공백에 대한 정보를 제공합니다.</block>
+  <block id="67049dbeb0547988bdd3bb265ef87afc" category="cell">계약 세부 정보와 지원 중단(EOS)에 도달한 컨트롤러, 쉘프 및 디스크 목록에 대한 정보를 제공합니다.</block>
+  <block id="9622c46ac664d07f743905654edd5f26" category="cell">업그레이드 계획</block>
+  <block id="1a9aef730533c89cbf56cb32b9856a4a" category="cell">소프트웨어 및 펌웨어 업그레이드를 위한 권장 사항을 제공합니다. 여기에는 권장되는 최신 버전, 잠재적인 문제 및 업그레이드 수행 단계에 대한 세부 정보가 포함되어 있습니다.</block>
+  <block id="a86c1de3e38559902af8a77c138a08f4" category="cell">볼륨 성능</block>
 </blocks>
