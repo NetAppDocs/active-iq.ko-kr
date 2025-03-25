@@ -1556,4 +1556,7 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="9622c46ac664d07f743905654edd5f26" category="cell">업그레이드 계획</block>
   <block id="1a9aef730533c89cbf56cb32b9856a4a" category="cell">소프트웨어 및 펌웨어 업그레이드를 위한 권장 사항을 제공합니다. 여기에는 권장되는 최신 버전, 잠재적인 문제 및 업그레이드 수행 단계에 대한 세부 정보가 포함되어 있습니다.</block>
   <block id="a86c1de3e38559902af8a77c138a08f4" category="cell">볼륨 성능</block>
+  <block id="5542dbcb72159ed44fa6bf922b45c1e8" category="list-text">이제 디스크 자격 평가 패키지(DQP)를 사용하여 미리 정의된 상태 및 성능 기준에 따라 디스크 컨트롤러와 스토리지 장치 펌웨어를 자동으로 업데이트할 수 있습니다. 이로 인해 잠재적인 오류가 줄어들고 전반적인 시스템 안정성이 향상됩니다.</block>
+  <block id="90dd6f07c096c3965dc62d991f80f7fd" category="list-text">최신 표준 시간대 정의와 시스템 정렬을 자동으로 유지하기 위해 표준 시간대 데이터베이스(DB)가 도입되었습니다. 이렇게 하면 시간대 규칙이 변경되더라도 시간 종속 작업이 원활하게 진행됩니다.</block>
+  <block id="1b4189ae198caba09051ca2138497fc7" category="section-title">2025년 3월 5일</block>
 </blocks>
