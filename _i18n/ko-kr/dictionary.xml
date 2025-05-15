@@ -1529,7 +1529,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="d7e31a0bb5b5ba6257ea5fda3503a013" category="list-text">권장 사항 목록을 보려면 * 권장 사항 보기 * 를 클릭하십시오.</block>
   <block id="11672318e1b710ceb9ea65a5a12aa393" category="list-text">업데이트 상태 * 열에서 * 진행 상황 보기 * 를 클릭하여 업데이트 대상 클러스터를 확인합니다.</block>
   <block id="ea9fb85557d50ae07af62f60044c60d5" category="list-text">문제가 발생한 경우 해당 링크를 클릭하여 문제를 완화하기 위한 단계를 확인하십시오.</block>
-  <block id="998e01ff2383d2b9e06b55738a27346b" category="doc">AutoSupport 위젯</block>
   <block id="526c3ba007bad7c7b6408ba4672f5f6e" category="paragraph">AutoSupport 상태 관련 문제를 고객에게 알리기 위해 AutoSupport 위젯이 기본 대시보드 화면에 추가되었습니다.</block>
   <block id="92806a8b46867129d50cde3d86748bb6" category="section-title">클러스터 및 일련 번호에 AutoSupport 위젯을 사용할 수 없습니다</block>
   <block id="03d676ea619bd44dde41c38b2851a15d" category="paragraph">AutoSupport 위젯은 클러스터 및 일련 번호 검색에 대한 경고를 제공하지 않습니다.</block>
@@ -1559,4 +1558,10 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="5542dbcb72159ed44fa6bf922b45c1e8" category="list-text">이제 디스크 자격 평가 패키지(DQP)를 사용하여 미리 정의된 상태 및 성능 기준에 따라 디스크 컨트롤러와 스토리지 장치 펌웨어를 자동으로 업데이트할 수 있습니다. 이로 인해 잠재적인 오류가 줄어들고 전반적인 시스템 안정성이 향상됩니다.</block>
   <block id="90dd6f07c096c3965dc62d991f80f7fd" category="list-text">최신 표준 시간대 정의와 시스템 정렬을 자동으로 유지하기 위해 표준 시간대 데이터베이스(DB)가 도입되었습니다. 이렇게 하면 시간대 규칙이 변경되더라도 시간 종속 작업이 원활하게 진행됩니다.</block>
   <block id="1b4189ae198caba09051ca2138497fc7" category="section-title">2025년 3월 5일</block>
+  <block id="4503a1a889a3b7c3dc4f3af490b089c6" category="doc">AutoSupport 위젯</block>
+  <block id="41e1c349288a8b454c83244a4a28b8f7" category="paragraph">AutoSupport 데이터 전송을 중지한 시스템에 대한 세부 정보를 제공하는 팝업을 포함하도록 AutoSupport 위젯이 향상되었습니다. AutoSupport를 사용하면 다운타임 위험을 줄이고 사전 예방적인 시스템 상태 관리를 지원할 수 있습니다.</block>
+  <block id="dc82c5b795e4118bc2472e86475bf5da" category="section-title">지원 계약 보고서</block>
+  <block id="6877ece75d4d613c107eed29f14b3975" category="paragraph">새로운 ASP/LSG 플래그 필드를 포함하도록 지원 계약 보고서가 향상되었습니다. 이 필드에서 공인 지원 파트너가 지원하는 시스템, 즉 라이프사이클 서비스 인증을 필터링하고 식별할 수 있습니다.</block>
+  <block id="80604874cd369ef578265c67a223d997" category="paragraph">이제 Sustainability 프레젠테이션에 포함된 링크를 사용하여 Sustainability 대시보드를 시작할 수 있습니다.</block>
+  <block id="9b6594622a22e82296250ca296e7a0b3" category="section-title">2025년 5월 8일</block>
 </blocks>
