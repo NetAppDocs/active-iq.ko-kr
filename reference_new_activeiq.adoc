@@ -20,6 +20,34 @@ Digital Advisor에는 다음과 같은 기능과 개선 사항이 도입되었�
 
 
 
+== 2025년 8월 6일
+
+
+
+=== 지원 권한 스위치
+
+이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다.  여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html["지원 권한이 있는 스위치를 보는 방법을 알아보세요."] .
+
+
+
+=== RSS AutoSupport 데이터에 대한 임계값
+
+AutoSupport 위젯의 최근 전송 중지된 RSS(RSS) 제한이 시스템이 RSS로 표시되기 전까지 48시간(2일)에서 216시간(9일)으로 연장되었습니다.  이는 주간 AutoSupport 데이터만 전송하는 StorageGRID 와 같은 플랫폼을 수용하기 위해 수행됩니다.
+
+
+
+=== Digital Advisor API 카탈로그의 더 이상 사용되지 않는 API 섹션
+
+Digital Advisor API 카탈로그에서 더 이상 사용되지 않는 새로운 API 섹션을 사용할 수 있습니다.  여기에는 지원 중단이 예정된 API, 지원 중단 일정 및 대체 API가 나열되어 있습니다.
+
+
+
+=== 용량 예측 V2 및 지원 종료 API 모듈 사용 중단
+
+용량 예측 V2 및 지원 종료 API 모듈은 사용 중단될 예정입니다.  더 이상 지원되지 않는 API에 액세스하거나 지원 중단 일정과 대체 API에 대해 알아보려면 *API 서비스 -> 찾아보기 -> 더 이상 지원되지 않는 API*로 이동하세요.
+
+
+
 == 2025년 7월 9일
 
 

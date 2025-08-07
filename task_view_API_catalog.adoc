@@ -20,13 +20,35 @@ API 카탈로그를 사용하면 각 범주 내에서 범주 및 사용 가능�
 
 유효한 액세스 토큰과 필수 필드에 대한 올바른 입력을 사용하여 API에 대한 테스트 호출을 수행할 수 있습니다.
 
+
+
+== GraphQL API에 액세스
+
 .단계
 . 빠른 링크 * 메뉴에서 * API 서비스 * 를 클릭합니다.
 . 을 클릭합니다 link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction["* 찾아보기 *"^] API 카탈로그 * 아이콘 아래.
 +
 API 카탈로그가 표시됩니다.
 
-. 임의의 API를 선택합니다
+. *GraphQL*을 클릭하고 문서를 검토하세요.
+. 입장link:https://gql.aiq.netapp.com/["GraphQL API 엔드포인트 및 검토 스키마"^]
+. 실행 가능한 샘플 쿼리를 사용하여 GraphQL API를 시도해 보세요.link:https://studio.apollographql.com/public/ActiveIQ-Graph-Prd-API/variant/current/explorer?collectionId=251c50ce-797e-4549-bb9c-f6557ef5a176OPERATION_COLLECTIONfocusCollectionId=251c50ce-797e-4549-bb9c-f6557ef5a176["Digital Advisor GraphQL 스튜디오"^] .
+. API 요청 헤더의 권한 필드를 선택하여 사용자 토큰을 제공합니다.
+. 필요한 변수를 제공하세요
+. 쿼리를 실행하고 출력을 검토하세요
+
+
+
+
+== REST API에 액세스
+
+.단계
+. 빠른 링크 * 메뉴에서 * API 서비스 * 를 클릭합니다.
+. 을 클릭합니다 link:https://activeiq.netapp.com/catalog/internal/api-reference/introduction["* 찾아보기 *"^] API 카탈로그 * 아이콘 아래.
++
+API 카탈로그가 표시됩니다.
+
+. *ActiveIQ-Public*을 클릭하고 원하는 API를 선택하세요.
 . 페이지 맨 위에서 토글을 “실험”으로 밉니다.
 . 왼쪽 탐색 창에서 범주를 확장하고 API를 선택하여 자세한 정보를 봅니다.
 . API를 확장합니다.

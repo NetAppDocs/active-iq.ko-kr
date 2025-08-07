@@ -811,7 +811,6 @@
   <block id="2b033bd9dec6fb568acb85aff511102a" category="paragraph">유효한 액세스 토큰과 필수 필드에 대한 올바른 입력을 사용하여 API에 대한 테스트 호출을 수행할 수 있습니다.</block>
   <block id="1dce9bd049d6c9e9c500be142e33de38" category="inline-link-macro">* 찾아보기 *</block>
   <block id="54e7835f3f1f70bc142c9b5e847e6ec9" category="paragraph">API 카탈로그가 표시됩니다.</block>
-  <block id="82ee712943040cce957254912d97aba0" category="list-text">임의의 API를 선택합니다</block>
   <block id="04c8967b6880007c6fea1e2c0e66614d" category="list-text">페이지 맨 위에서 토글을 “실험”으로 밉니다.</block>
   <block id="835a43b0478137c574edbef583d126a1" category="list-text">왼쪽 탐색 창에서 범주를 확장하고 API를 선택하여 자세한 정보를 봅니다.</block>
   <block id="fcf9335996c4ed1473286f8644d4b479" category="list-text">API를 확장합니다.</block>
@@ -918,7 +917,6 @@
   <block id="2eec6525cedefe6316db600adeaf337c" category="section-title">멀티 홉 업그레이드</block>
   <block id="01b9a3f3b3303730f5c2525f136ad86b" category="paragraph">비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.</block>
   <block id="1e3c19e3742fbfc0e6dd22bb91d109a3" category="inline-image-macro">Upgrade Advisor</block>
-  <block id="241d0a5c7d11b08c4b6742aafec7ad3e" category="paragraph">재고 * 위젯은 보유한 총 시스템의 롤업을 제공합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.</block>
   <block id="e58b12802a7d54b8bca5c0033174b2d8" category="summary">Digital Advisor 로그인 정보를 제공합니다.</block>
   <block id="5a68b284b7bcd8f7a66fdc39f1dcbcd7" category="doc">Digital Advisor에 로그인합니다</block>
   <block id="45b708abb9ee2f917c7896e31ae4c7b6" category="paragraph">Digital Advisor는 유효한 지원 계약이 있는 시스템을 표시합니다. 계약이 만료되면 90일의 유예 기간이 주어지면 시스템이 계속 표시됩니다. 그 이후에는 Digital Advisor 내에서 시스템을 검색 또는 볼 수 없습니다.</block>
@@ -1570,4 +1568,29 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="081533dbbdd673ebb2632d92a90a4a77" category="list-text">ONTAP 대상 버전과 함께 제공된 버전과 함께 클러스터에 적용 가능한 권장 최신 펌웨어 업데이트를 볼 수 있습니다.</block>
   <block id="6276222a738837860023343f423eb60c" category="list-text">SAN 클러스터의 상호 운용성 검사를 제공하는 새 탭이 추가되었습니다. 이 탭 은 선택한 대상 ONTAP 버전에 지원되는 호스트 OS 버전을 보여줍니다.</block>
   <block id="be5dc5f5e2d7e93e1002f9bc9daa9179" category="section-title">2025년 7월 9일</block>
+  <block id="a30ce25654f610d7e9e47c6277028c38" category="doc">지원 권한 스위치</block>
+  <block id="d98c483ab007e03305ae5655fe6cbaf8" category="inline-link-macro">지원 권한이 있는 스위치를 보는 방법을 알아보세요.</block>
+  <block id="e71b090a525e98d8d6e64f80e67acf6f" category="paragraph">이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다.  여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. <block ref="0ccb1381392c0ca51f280aad697adc46" category="inline-link-macro-rx"></block> .</block>
+  <block id="adc76ac62c705df3456206213de66002" category="section-title">RSS AutoSupport 데이터에 대한 임계값</block>
+  <block id="3cdd6b50a4e4c3395ca5fea20c94ee5b" category="paragraph">AutoSupport 위젯의 최근 전송 중지된 RSS(RSS) 제한이 시스템이 RSS로 표시되기 전까지 48시간(2일)에서 216시간(9일)으로 연장되었습니다.  이는 주간 AutoSupport 데이터만 전송하는 StorageGRID 와 같은 플랫폼을 수용하기 위해 수행됩니다.</block>
+  <block id="bbe4dac655b49c7a3978eb5864452f05" category="section-title">Digital Advisor API 카탈로그의 더 이상 사용되지 않는 API 섹션</block>
+  <block id="4632607b0b76f87d36568a2df2c3a267" category="paragraph">Digital Advisor API 카탈로그에서 더 이상 사용되지 않는 새로운 API 섹션을 사용할 수 있습니다.  여기에는 지원 중단이 예정된 API, 지원 중단 일정 및 대체 API가 나열되어 있습니다.</block>
+  <block id="9eadf268f4ef55df53b7403a020082b1" category="section-title">용량 예측 V2 및 지원 종료 API 모듈 사용 중단</block>
+  <block id="bd2055e6fb5a6ca7ecc6d9d52f394548" category="paragraph">용량 예측 V2 및 지원 종료 API 모듈은 사용 중단될 예정입니다.  더 이상 지원되지 않는 API에 액세스하거나 지원 중단 일정과 대체 API에 대해 알아보려면 *API 서비스 -&gt; 찾아보기 -&gt; 더 이상 지원되지 않는 API*로 이동하세요.</block>
+  <block id="6e04d6bd41fa83c137f7b99364e843c9" category="admonition">NetApp Digital Advisor 성능, 유연성, 확장성을 개선하기 위해 기본 API 플랫폼으로 REST API에서 GraphQL로 전환하고 있습니다.  전환은 단계적으로 진행되며, REST API와 GraphQL API 간에 일정 기간이 중복됩니다.  더 이상 지원되지 않는 REST API가 있을 경우 Digital Advisor API 카탈로그에 지원 중단 공지가 게시되며, 해당 엔드포인트를 GraphQL로 마이그레이션하기까지 6개월이 주어집니다.  사용 중단 예정인 API 목록을 검토하려면 *API 서비스 -&gt; 찾아보기 -&gt; 사용 중단된 API*로 이동하세요.</block>
+  <block id="e8b6643d4bda95ae4c2dacb6a8e40cac" category="section-title">2025년 8월 6일</block>
+  <block id="51aa04f109d45d42868cc0b36f25fd52" category="section-title">GraphQL API에 액세스</block>
+  <block id="6bdcd3c5aba802a9e7d2f1d96dd5aff5" category="list-text">*GraphQL*을 클릭하고 문서를 검토하세요.</block>
+  <block id="9d4615fe1d2320cc19b894b5d333d7c1" category="inline-link-macro">GraphQL API 엔드포인트 및 검토 스키마</block>
+  <block id="b546d5412fcbcd954e28c950fb2a6ca4" category="list-text">입장<block ref="89a08dcaa38ea8d40daf6964132bb7ee" category="inline-link-macro-rx"></block></block>
+  <block id="e306bcdfb9b3334cf7659705e8358e27" category="inline-link-macro">Digital Advisor GraphQL 스튜디오</block>
+  <block id="b1e54092f36831f6a814e51a7c93bdd8" category="list-text">실행 가능한 샘플 쿼리를 사용하여 GraphQL API를 시도해 보세요.<block ref="ae67cca60092e176d8c2dddd34356b5e" category="inline-link-macro-rx"></block> .</block>
+  <block id="637bbe10a2e1fa5eea6be6cb23319cca" category="list-text">API 요청 헤더의 권한 필드를 선택하여 사용자 토큰을 제공합니다.</block>
+  <block id="85608152841a7f2e1feb0fe64d6e0ea6" category="list-text">필요한 변수를 제공하세요</block>
+  <block id="f957bd87c6ca02f7e8d3b7e94c1b1992" category="list-text">쿼리를 실행하고 출력을 검토하세요</block>
+  <block id="56221c5b2b531b839a3cd5c7e9c9cd9f" category="section-title">REST API에 액세스</block>
+  <block id="35c99013ee51309b261a35e68d7b57ba" category="list-text">*ActiveIQ-Public*을 클릭하고 원하는 API를 선택하세요.</block>
+  <block id="b564cac98074bd875d810d6572dc9927" category="paragraph">*인벤토리* 위젯은 사용자가 소유한 전체 시스템과 지원이 가능한 스위치에 대한 롤업을 제공합니다.  여기에는 Digital Advisor 지원 제품과 지원 안 되는 제품이 모두 포함됩니다.</block>
+  <block id="9714b9edaef026c9c44f49389eb60d44" category="section-title">지원 권한이 있는 스위치 세부 정보 보기</block>
+  <block id="e5449af777fdc7f9d2eec34f87da1138" category="list-text">*인벤토리* 위젯에서 *지원 가능 스위치*를 클릭하면 모든 지원 가능 스위치에 대한 정보를 볼 수 있습니다.</block>
 </blocks>
