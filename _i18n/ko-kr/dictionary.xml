@@ -1569,8 +1569,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="6276222a738837860023343f423eb60c" category="list-text">SAN 클러스터의 상호 운용성 검사를 제공하는 새 탭이 추가되었습니다. 이 탭 은 선택한 대상 ONTAP 버전에 지원되는 호스트 OS 버전을 보여줍니다.</block>
   <block id="be5dc5f5e2d7e93e1002f9bc9daa9179" category="section-title">2025년 7월 9일</block>
   <block id="a30ce25654f610d7e9e47c6277028c38" category="doc">지원 권한 스위치</block>
-  <block id="d98c483ab007e03305ae5655fe6cbaf8" category="inline-link-macro">지원 권한이 있는 스위치를 보는 방법을 알아보세요.</block>
-  <block id="e71b090a525e98d8d6e64f80e67acf6f" category="paragraph">이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다.  여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. <block ref="0ccb1381392c0ca51f280aad697adc46" category="inline-link-macro-rx"></block> .</block>
   <block id="adc76ac62c705df3456206213de66002" category="section-title">RSS AutoSupport 데이터에 대한 임계값</block>
   <block id="3cdd6b50a4e4c3395ca5fea20c94ee5b" category="paragraph">AutoSupport 위젯의 최근 전송 중지된 RSS(RSS) 제한이 시스템이 RSS로 표시되기 전까지 48시간(2일)에서 216시간(9일)으로 연장되었습니다.  이는 주간 AutoSupport 데이터만 전송하는 StorageGRID 와 같은 플랫폼을 수용하기 위해 수행됩니다.</block>
   <block id="bbe4dac655b49c7a3978eb5864452f05" category="section-title">Digital Advisor API 카탈로그의 더 이상 사용되지 않는 API 섹션</block>
@@ -1593,4 +1591,6 @@ NetApp BlueXP 로그인 페이지가 나타납니다.</block>
   <block id="b564cac98074bd875d810d6572dc9927" category="paragraph">*인벤토리* 위젯은 사용자가 소유한 전체 시스템과 지원이 가능한 스위치에 대한 롤업을 제공합니다.  여기에는 Digital Advisor 지원 제품과 지원 안 되는 제품이 모두 포함됩니다.</block>
   <block id="9714b9edaef026c9c44f49389eb60d44" category="section-title">지원 권한이 있는 스위치 세부 정보 보기</block>
   <block id="e5449af777fdc7f9d2eec34f87da1138" category="list-text">*인벤토리* 위젯에서 *지원 가능 스위치*를 클릭하면 모든 지원 가능 스위치에 대한 정보를 볼 수 있습니다.</block>
+  <block id="617f2d0adf2001440f244bf5c45be277" category="inline-link-macro">지원 권한이 있는 스위치를 보는 방법을 알아보세요</block>
+  <block id="ef3139c75debdd9ee259a4ea386083d3" category="paragraph">이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다. 여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. <block ref="de42528af60c9393a2c8b32539c694f1" category="inline-link-macro-rx"></block> .</block>
 </blocks>
