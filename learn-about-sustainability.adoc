@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
-permalink: learn_BlueXP_sustainability.html 
-keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp, benefits, ONTAP 
+permalink: learn-about-sustainability.html 
+keywords: activeiq, sustainability, sustainability score, sustainability dashboard, bluexp, benefits, ONTAP, NetApp Console 
 summary: 에너지 소비를 줄이고 환경 목표를 달성할 수 있는 지속 가능성에 대한 정보를 제공합니다. 
 ---
 = 지속 가능성에 대해 자세히 알아보십시오
@@ -16,9 +16,9 @@ summary: 에너지 소비를 줄이고 환경 목표를 달성할 수 있는 지
 
 
 [role="lead"]
-지속 가능성은 서비스로서 에너지 소비를 줄이고 환경 목표를 향해 작업할 수 있도록 합니다. 이를 통해 스토리지 시스템을 환경 친화적 방식에 맞춰 지속 가능성 목표를 달성할 수 있습니다.
+지속 가능성을 통해 에너지 소비를 줄이고 환경 목표를 향해 나아갈 수 있습니다.  이를 통해 친환경적 관행에 맞춰 보관 시스템을 조정하고 지속 가능성 목표를 달성할 수 있습니다.
 
-Sustainability 대시보드에서 지속 가능성 점수와 예상 전력 사용량, 직접 탄소 및 열 사용량을 볼 수 있습니다. 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다. 또한 클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다. 지속 가능성 점수를 기준으로 지속 가능성 자세를 평가하고 NetApp이 권장하는 조치를 시행하여 점수를 향상할 수 있습니다. Sustainability 대시보드에 대한 자세한 내용은 을 참조하십시오 link:BlueXP_sustainability_dashboard_overview.html["Sustainability 대시보드 개요"].
+지속 가능성 대시보드에서 지속 가능성 점수와 예상 전력, 직접 탄소, 열 사용량을 볼 수 있습니다.  특정 사이트의 탄소 감축 비율을 조정할 수 있습니다.  클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다.  지속 가능성 점수를 기반으로 지속 가능성 태세를 평가하고 NetApp에서 권장하는 조치를 구현하여 점수를 개선할 수 있습니다.  지속 가능성 대시보드에 대해 자세히 알아보려면 다음으로 이동하세요.link:sustainability-dashboard-overview.html["Sustainability 대시보드 개요"] .
 
 
 NOTE: 지속 가능성은 Cloud Volumes ONTAP, AFF 시스템(A-Series 및 C-Series), E-Series, FAS, StorageGRID 시스템에서 지원됩니다.

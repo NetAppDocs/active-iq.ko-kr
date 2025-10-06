@@ -19,7 +19,7 @@ summary: 정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공
 Digital Advisor는 시스템을 지속적으로 분석하고 시스템의 성능, 효율성 및 상태를 개선하기 위한 권장 사항을 제공합니다.
 
 
-NOTE: 디지털 어드바이저는 BlueXP로 이동하여 권장 사항을 구현합니다.
+NOTE: Digital Advisor 권장 사항을 구현하기 위해 NetApp 콘솔로 안내합니다.
 
 
 
@@ -39,7 +39,7 @@ CVO(Cloud Volumes ONTAP) 및 CVS(Cloud Volumes Service)로 마이그레이션할
 .단계
 . 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
 . Migration * 창에서 링크를 클릭합니다.
-. Migrate to Cloud * 를 클릭하여 * BlueXP * 를 실행합니다.
+. *클라우드로 마이그레이션*을 클릭하여 *콘솔*을 시작합니다.
 
 
 
@@ -62,7 +62,7 @@ NOTE: IDR(Inactive Data Reporting)을 활성화하여 Ansible Playbook 파일로
 .단계
 . 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
 . Tiering * 창에서 링크를 클릭합니다.
-. 계층 데이터 * 를 클릭하여 * BlueXP * 를 실행합니다.
+. *티어 데이터*를 클릭하여 *콘솔*을 시작하세요.
 
 
 FabricPool에 대한 자세한 내용은 을 참조하십시오 link:https://www.netapp.com/pdf.html?item=/media/17239-tr4598pdf.pdf["FabricPool 모범 사례"^].
@@ -82,7 +82,7 @@ FabricPool에 대한 자세한 내용은 을 참조하십시오 link:https://www
 .단계
 . 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
 . Backup & Archive * 창에서 링크를 하나 클릭합니다.
-. Backup to Cloud * 를 클릭하여 * BlueXP * 를 실행합니다.
+. *클라우드에 백업*을 클릭하여 *콘솔*을 시작합니다.
 
 
 
@@ -101,5 +101,5 @@ FabricPool에 대한 자세한 내용은 을 참조하십시오 link:https://www
 .단계
 . 왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.
 . Disaster Recovery* 창에서 하나의 링크를 클릭합니다.
-. 클라우드로 복제 * 를 클릭하여 * BlueXP * 를 실행합니다.
+. *클라우드에 복제*를 클릭하여 *콘솔*을 시작합니다.
 

@@ -1,0 +1,55 @@
+---
+sidebar: sidebar 
+permalink: digital-advisor-integration-with-console.html 
+keywords: digital advisor, integration, bluexp, NetApp Console 
+summary: 'Digital Advisor 이제 NetApp Console과 완벽하게 통합되었습니다.  이제 NetApp 콘솔 사용자 인터페이스(UI)에서 클러스터를 관리하고 Digital Advisor 의 모든 기능에 액세스할 수 있습니다.' 
+---
+= NetApp 콘솔과 Digital Advisor 통합
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Digital Advisor 이제 NetApp Console과 완벽하게 통합되었습니다.  이제 콘솔 사용자 인터페이스(UI)에서 클러스터를 관리하고 Digital Advisor 의 모든 기능에 액세스할 수 있습니다.
+
+콘솔을 사용하면 IT 전문가와 클라우드 아키텍트가 하이브리드 멀티클라우드 인프라를 중앙에서 관리할 수 있습니다.  콘솔에서 Digital Advisor 액세스하려면 NetApp 지원 사이트(NSS) 계정만 있으면 됩니다.
+
+
+
+== NetApp 콘솔
+
+Digital Advisor NetApp 콘솔을 통해 접속할 수 있습니다.
+
+NetApp 콘솔은 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다.  NetApp 데이터 서비스에 액세스하고 사용하려면 콘솔이 필요합니다.  관리 인터페이스로서, 하나의 인터페이스에서 여러 스토리지 리소스를 관리할 수 있습니다.  콘솔 관리자는 기업 내 모든 시스템의 저장소와 서비스에 대한 액세스를 제어할 수 있습니다.
+
+NetApp Console을 사용하려면 라이선스나 구독이 필요하지 않으며, 스토리지 시스템이나 NetApp 데이터 서비스에 대한 연결을 보장하기 위해 클라우드에 Console 에이전트를 배포해야 할 때만 요금이 부과됩니다.  그러나 콘솔에서 액세스할 수 있는 일부 NetApp 데이터 서비스는 라이선스 기반이거나 구독 기반입니다.
+
+자세히 알아보세요 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["NetApp 콘솔"] .
+
+
+
+== NetApp 콘솔에서 Digital Advisor 에 액세스하세요
+
+콘솔에서 Digital Advisor 에 액세스하여 클러스터를 관리할 수 있습니다.
+
+.단계
+. 웹 브라우저를 열고 이동하세요link:https://console.netapp.com/["콘솔"^] .
+. NetApp Support 사이트 자격 증명으로 로그인 * 을 선택하고 자격 증명을 입력합니다.
++
+이전에 이메일과 비밀번호를 사용하여 콘솔 로그인을 만든 경우, 앞으로도 해당 로그인 옵션을 사용해야 합니다.
+
+. 메시지가 표시되면 NetApp Support 사이트 자격 증명을 사용하여 로그인합니다.
++
+이 로그인은 2단계에서 완료한 로그인과 다릅니다.  2단계에서는 콘솔에 로그인했습니다.  이제 Digital Advisor 에 로그인합니다.
+
+
+
+결과 *
+
+기존의 모든 관심 목록과 구성이 표시되며, 이제 Digital Advisor를 일반적인 방식으로 사용할 수 있습니다.

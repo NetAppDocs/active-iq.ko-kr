@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: get_started_sustainability_dashboard.html 
-keywords: activeiq, sustainability dashboard, bluexp login, sustainability dashboard login, bluexp 
-summary: BlueXP 또는 Digital Advisor에서 BlueXP 지속 가능성 대시보드를 시작하십시오. 
+keywords: activeiq, sustainability dashboard, sustainability dashboard login, bluexp, NetApp Console 
+summary: NetApp Console 또는 Digital Advisor 에서 액세스하여 지속 가능성 대시보드를 시작하세요. 
 ---
 = Sustainability 대시보드를 사용해 보십시오
 :hardbreaks:
@@ -16,22 +16,18 @@ summary: BlueXP 또는 Digital Advisor에서 BlueXP 지속 가능성 대시보�
 
 
 [role="lead"]
-Sustainability 대시보드는 AIOps 지원 보고 및 채점을 통해 지속 가능성 환경을 개선하는 실행 가능한 인사이트를 제공합니다. NetApp BlueXP 또는 Digital Advisor를 통해 Sustainability 대시보드에 액세스할 수 있습니다.
+지속 가능성 대시보드는 AIOps 기반 보고 및 점수 매기기와 실행 가능한 통찰력을 제공하여 지속 가능성 태세를 개선합니다.  NetApp Console이나 Digital Advisor 통해 지속 가능성 대시보드에 액세스할 수 있습니다.
 
 [role="tabbed-block"]
 ====
-.BlueXP
+.NetApp 콘솔
 --
-BlueXP에 로그인하려면 NetApp Support 사이트 자격 증명을 사용하거나 이메일 및 암호를 사용하여 NetApp 클라우드 로그인에 등록할 수 있습니다. 에 대해 자세히 알아보십시오 link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["BlueXP에 로그인합니다"^].
+콘솔에 로그인하려면 NetApp 지원 사이트 자격 증명을 사용하거나 이메일과 비밀번호를 사용하여 NetApp 콘솔 로그인에 가입할 수 있습니다. 자세히 알아보세요 link:https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["콘솔에 로그인"^] .
 
 .단계
-. 웹 브라우저를 열고 로 이동합니다 link:https://console.bluexp.netapp.com/["BlueXP 콘솔"^].
-NetApp BlueXP 로그인 페이지가 나타납니다.
-. BlueXP에 로그인합니다.
-. BlueXP 왼쪽 탐색 창에서 * Governance * > * Sustainability * 를 선택합니다.
-  Sustainability 대시보드가 나타납니다.
-  를 누릅니다
-image:sustainability_dashboard_bluexp.png["BlueXP의 지속 가능성 대시보드에 대한 개요를 제공하는 UI 스크린샷"]
+. 웹 브라우저를 열고 다음으로 이동하세요.link:https://console.netapp.com/["콘솔"^] .  콘솔 로그인 페이지가 나타납니다.
+. 콘솔에 로그인하세요.
+. 콘솔 왼쪽 탐색에서 *건강* > *지속 가능성*을 선택하세요.  지속 가능성 대시보드가 나타납니다. +image:sustainability_dashboard_console.png["콘솔의 지속 가능성 대시보드 개요를 제공하는 UI 스크린샷입니다."]
 
 
 
@@ -45,7 +41,7 @@ Digital Advisor에 로그인하려면 NetApp Support 사이트 자격 증명을 
 .단계
 . 웹 브라우저를 열고 로 이동합니다 link:https://activeiq.netapp.com/?source=onlinedocs["디지털 자문업체"^] 로그인 페이지.
 . 사용자 이름과 암호를 입력하고 * 로그인 * 을 클릭합니다.
-. 왼쪽 탐색 창에서 * 스토리지 상태 * > * Sustainability * 를 선택합니다.
+. 왼쪽 탐색 메뉴에서 *지속 가능성*을 선택하세요.
 +
 image:sustainability_dashboard.png["Sustainability 대시보드의 개요를 제공하는 UI 스크린 샷"]
 

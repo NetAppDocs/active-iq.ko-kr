@@ -24,8 +24,8 @@ sidebar:
       url: "/concept_getting_started_2.html"
     - title: Digital Advisor 기능 이해
       url: "/concept_understand_activeiq_features.html"
-    - title: BlueXP와 디지털 어드바이저 통합
-      url: "/digital-advisor-integration-with-bluexp.html"
+    - title: NetApp 콘솔과 Digital Advisor 통합
+      url: "/digital-advisor-integration-with-console.html"
     - title: 주요 개념
       url: "/concept_key_terms.html"
     - title: AutoSupport란 무엇입니까
@@ -71,11 +71,11 @@ sidebar:
     - title: 스토리지 시스템의 지속 가능성을 분석합니다
       entries:
       - title: 지속 가능성에 대해 자세히 알아보십시오
-        url: "/learn_BlueXP_sustainability.html"
+        url: "/learn-about-sustainability.html"
       - title: Sustainability 대시보드를 사용해 보십시오
         url: "/get_started_sustainability_dashboard.html"
       - title: Sustainability 대시보드 개요
-        url: "/BlueXP_sustainability_dashboard_overview.html"
+        url: "/sustainability-dashboard-overview.html"
       - title: 지속 가능성 점수 개선
         url: "/improve_sustainability_score.html"
     - title: 업그레이드 계획을 생성합니다
@@ -90,7 +90,7 @@ sidebar:
       entries:
       - title: 재고 세부 정보를 봅니다
         url: "/task_view_inventory_details.html"
-      - title: Cloud Insights와 통합하여 가상 머신 세부 정보 보기
+      - title: 가상 머신 세부 정보를 보려면 Data Infrastructure Insights 와 통합하세요.
         url: "/task-integrating-with-cloud-insights-to-view-vm-details.html"
       - title: 귀중한 인사이트를 확인하십시오
         url: "/task_view_valuable_insight_widget.html"
@@ -181,5 +181,5 @@ sidebar:
   - title: 법적 고지
     url: "/legal-notices.html"
 product-family:
-  name: BlueXP
-  repo: cloud-manager-family
+  name: Netapp Console
+  repo: console-family

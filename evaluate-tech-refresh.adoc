@@ -19,6 +19,6 @@ summary: 기술 지원 계약 또는 하드웨어의 기술 업데이트를 평�
 기술 업데이트가 기술 지원 계약 또는 하드웨어에 권장되는지 여부를 확인하려면 기술 업데이트 옵션을 사용할 수 있습니다.
 
 
-NOTE: 이 기능은 BlueXP의 경제 효율성(* 거버넌스 > 경제적 효율성 > 기술 업데이트 *) 또는 NetApp 디지털 어드바이저(* 대시보드 > 계획 위젯 > 기술 업데이트 *)를 통해 액세스할 수 있습니다.
+NOTE: 이 기능은 수명 주기 계획(*저장* > *수명 주기 계획*)이나 Digital Advisor (*대시보드 > 계획 위젯 > 기술 업데이트*)를 통해 이용할 수 있습니다.
 
-이 기능에 대한 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["기술 업데이트를 평가합니다"] 검토합니다.
+이 기능에 대한 자세한 내용은 다음을 참조하세요.link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["기술 업데이트를 평가합니다"] 콘솔 설명서에서.

@@ -36,7 +36,7 @@ indexpage:
   - title: Digital Advisor를 이용한 분석
     links:
     - title: ONTAP 업그레이드 권장 사항을 봅니다
-      url: task_view_upgrade.html
+      url: upgrade_advisor_overview.html
     - title: 클라우드 권장사항을 기반으로 정보에 입각한 의사 결정을 내릴 수 있습니다
       url: task-informed-decisions-based-on-cloud-recommendations.html
     - title: NetApp Keystone 구독을 통해 용량 활용률을 확인하십시오

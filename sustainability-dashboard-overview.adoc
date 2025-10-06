@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
-permalink: BlueXP_sustainability_dashboard_overview.html 
-keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, working environments, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives 
-summary: 대시보드, 지속 가능성 점수, 작업 환경 및 권장 조치에 대한 정보를 제공합니다. 
+permalink: sustainability-dashboard-overview.html 
+keywords: activeiq, sustainability dashboard, sustainability score, sustainability, environmental indicators, carbon mitigation, recommended actions, systems, best practices, support, recommendations,  digital advisor, bluexp, cluster, sustainability initatives, NetApp Console 
+summary: 대시보드, 지속 가능성 점수, 시스템 및 권장 조치에 대한 정보를 제공합니다. 
 ---
 = Sustainability 대시보드 개요
 :hardbreaks:
@@ -18,7 +18,7 @@ summary: 대시보드, 지속 가능성 점수, 작업 환경 및 권장 조치�
 [role="lead"]
 지속 가능성 대시보드는 스토리지 시스템에 대한 환경 평가와 NetApp이 권장하는 작업의 형태를 개선할 수 있는 실행 가능한 통찰력을 제공합니다.
 
-image:get_started_sustainability_dashboard.png["지속 가능성 대시보드를 보여 주는 UI 스크린샷"]
+image:sustainability_dashboard_console.png["콘솔의 지속 가능성 대시보드 개요를 제공하는 UI 스크린샷입니다."]
 
 
 NOTE: 지속 가능성 점수를 정확하게 계산하려면 AutoSupport를 활성화해야 합니다.
@@ -43,11 +43,11 @@ image:carbon_mitigation_percentage.png["사이트의 탄소 완화 비율과 이
 
 * 권장 조치 *: 스토리지 시스템의 지속 가능성 점수를 개선하기 위해 권장되는 조치 목록을 표시합니다. 이러한 작업은 즉시 또는 나중에 수행할 수 있습니다. 지속 가능성 점수를 높이는 방법에 대한 자세한 내용은 을 참조하십시오 link:improve_sustainability_score.html["지속 가능성 점수 개선"].
 
-* 작업 환경 *: 보다 효율적인 스토리지로 이동하기 위해 클러스터를 식별하는 데 도움이 되는 환경 매개 변수를 표에 표시합니다. 이 표에서 다음을 수행할 수 있습니다.
+*시스템*: 보다 효율적인 스토리지로 이동하기 위해 클러스터를 식별하는 데 도움이 되는 환경 매개변수를 표에 표시합니다.  이 표에서 다음을 수행할 수 있습니다.
 
 * 클러스터 수준에서 지속 가능성 점수를 보고, * ClusterViewer * 에 액세스할 클러스터 이름을 선택하고, 지속 가능성을 개선하기 위해 권장되는 특정 조치를 취합니다. 자세한 내용은 을 참조하십시오 link:improve_sustainability_score.html["클러스터 수준에서 지속 가능성 점수를 개선합니다"].
 +
-image:working_environments.png["다양한 환경 매개 변수를 보여 주는 UI 스크린샷"]
+image:systems.png["다양한 환경 매개 변수를 보여 주는 UI 스크린샷"]
 
-* 클러스터 수준에서 실시간 전력 세부 정보를 보려면 * Real-time power * 열에서 모니터링을 활성화하십시오. 자세한 내용은 을 참조하십시오 link:https://docs.netapp.com/us-en/cloudinsights/task_getting_started_with_cloud_insights.html["Cloud Insights"^].
+* *실시간 전력* 열에서 모니터링을 활성화하면 클러스터 수준에서 실시간 전력 세부 정보를 볼 수 있습니다. 자세한 내용은 다음을 참조하세요. link:https://docs.netapp.com/us-en/data-infrastructure-insights/task_getting_started_with_cloud_insights.html["Data Infrastructure Insights"^] .
 
