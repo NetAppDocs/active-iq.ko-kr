@@ -4,7 +4,7 @@ permalink: concept_overview_config_drift.html
 keywords: config drift, configuration deviation, add template, compare template 
 summary: 구성 드리프트 기능에 대한 개요를 제공합니다 
 ---
-= 구성 편차를 이해합니다
+= Digital Advisor 사용하여 스토리지 시스템의 구성 편차를 감지하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

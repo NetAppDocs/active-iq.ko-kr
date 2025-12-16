@@ -4,7 +4,7 @@ permalink: concept_report_types.html
 keywords: reports, report types, reporting, performance reports 
 summary: 사용자가 사용할 수 있는 다양한 유형의 보고서에 대한 정보를 제공합니다. 
 ---
-= 보고서 유형
+= Digital Advisor 보고서에 대해 알아보세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

@@ -4,7 +4,7 @@ permalink: upgrade_advisor_overview.html
 keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters, storage systems 
 summary: ONTAP 업그레이드 계획을 간소화하는 Upgrade Advisor에 대해 간략하게 설명합니다. 
 ---
-= 개요
+= Digital Advisor 에서 ONTAP 업그레이드 계획을 생성하는 방법에 대해 알아보세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

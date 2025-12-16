@@ -4,7 +4,7 @@ permalink: task_protect_systems_against_ransomware_risks.html
 keywords: ransomware, risks, ransomware risks 
 summary:  
 ---
-= 랜섬웨어 위험으로부터 시스템을 보호합니다
+= Digital Advisor 에서 관리하는 스토리지 시스템을 랜섬웨어 위험으로부터 보호하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

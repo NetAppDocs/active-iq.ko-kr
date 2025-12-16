@@ -4,7 +4,7 @@ permalink: task_view_inventory_details.html
 keywords: inventory, platforms, systems, clusters, sites 
 summary: 보유한 전체 재고에 대한 정보를 제공합니다. 
 ---
-= 재고 세부 정보를 봅니다
+= Digital Advisor 에서 스토리지 시스템 인벤토리 세부 정보를 확인하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

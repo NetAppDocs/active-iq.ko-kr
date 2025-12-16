@@ -4,7 +4,7 @@ permalink: get_started_sustainability_dashboard.html
 keywords: activeiq, sustainability dashboard, sustainability dashboard login, bluexp, NetApp Console 
 summary: NetApp Console 또는 Digital Advisor 에서 액세스하여 지속 가능성 대시보드를 시작하세요. 
 ---
-= Sustainability 대시보드를 사용해 보십시오
+= Digital Advisor 에서 지속가능성 대시보드에 접속하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

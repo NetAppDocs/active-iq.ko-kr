@@ -4,7 +4,7 @@ permalink: generate_upgrade_plan_single_multiple_clusters.html
 keywords: Upgrade Advisor, upgrade plan, ONTAP, upgrade recommendation, clusters 
 summary: 단일 클러스터 및 여러 클러스터에 대한 성공적인 ONTAP 업그레이드 또는 복원을 위한 업그레이드 계획을 생성하는 단계를 제공합니다. 
 ---
-= 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성합니다
+= Digital Advisor 에서 단일 클러스터 및 다중 클러스터용 ONTAP 업그레이드 계획을 생성합니다.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

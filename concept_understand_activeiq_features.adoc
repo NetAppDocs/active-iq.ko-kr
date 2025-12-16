@@ -4,7 +4,7 @@ permalink: concept_understand_activeiq_features.html
 keywords: digital advisor, features, upgrade, support offering 
 summary: 대시보드, 시청목록, 기능 및 위젯에 대한 정보를 제공합니다. 
 ---
-= Digital Advisor 기능 이해
+= Digital Advisor 기능에 대해 알아보세요
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

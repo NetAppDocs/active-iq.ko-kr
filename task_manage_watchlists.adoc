@@ -4,7 +4,7 @@ permalink: task_manage_watchlists.html
 keywords: dashboard, watchlist, add watchlist 
 summary: 감시 목록을 관리하기 위한 정보를 제공합니다. 
 ---
-= 감시 목록을 관리합니다
+= Digital Advisor 에서 관심 목록을 관리하세요
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

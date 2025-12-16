@@ -4,7 +4,7 @@ permalink: concept_understand_health_check_dashboard.html
 keywords: activeiq, health check, health, HCA, health check dashboard, health check score 
 summary: 상태 점검 대시보드 에 익숙해지도록 정보를 제공합니다. 
 ---
-= 상태 점검 대시보드를 이해합니다
+= Digital Advisor 의 건강 진단 대시보드에 대해 알아보세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

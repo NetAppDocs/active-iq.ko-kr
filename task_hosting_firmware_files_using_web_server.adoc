@@ -4,7 +4,7 @@ permalink: task_hosting_firmware_files_using_web_server.html
 keywords: firmware, web server, hosting 
 summary: 웹 서버를 사용하여 펌웨어 파일을 호스팅하는 방법에 대한 정보를 제공합니다. 
 ---
-= 웹 서버를 사용하여 펌웨어 파일을 호스트합니다
+= 웹 서버에 AFF 및 FAS 펌웨어 파일을 호스팅하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

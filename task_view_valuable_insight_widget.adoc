@@ -4,7 +4,7 @@ permalink: task_view_valuable_insight_widget.html
 keywords: valuable insight, support cases, storage efficiency savings, mitigated risks 
 summary: 유용한 정보 위젯에 대한 정보를 제공합니다. 
 ---
-= 귀중한 인사이트를 확인하십시오
+= Digital Advisor 의 Valuable Insights 위젯을 통해 지원 사례 및 스토리지 시스템 세부 정보를 확인하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

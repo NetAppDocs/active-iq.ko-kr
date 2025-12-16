@@ -4,7 +4,7 @@ permalink: concept_working_with_inventory_file.html
 keywords: inventory file, file format 
 summary: 인벤토리 파일 작업에 대한 자세한 내용은 에 나와 있습니다. 
 ---
-= 재고 파일 작업
+= AFF 및 FAS 펌웨어 업데이트에 필요한 인벤토리 파일을 업데이트하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

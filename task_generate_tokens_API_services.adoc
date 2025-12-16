@@ -4,7 +4,7 @@ permalink: task_generate_tokens_API_services.html
 keywords: generate token, access token, refresh token, API services 
 summary: API 액세스에 대한 토큰을 생성하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
 ---
-= API를 사용할 토큰을 생성합니다
+= Digital Advisor API 서비스를 사용하기 위한 토큰을 생성하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

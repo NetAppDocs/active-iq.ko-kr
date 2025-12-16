@@ -4,7 +4,7 @@ permalink: task_view_and_acknowledge_risks.html
 keywords: wellness, performance, efficiency, availability, capacity, security vulnerabilities, protection, protect, acknowledge, unacknowledge, disregard 
 summary: 스토리지 시스템의 상태를 확인 및 분석하고 위험을 인정하는 정보를 제공합니다. 
 ---
-= 위험을 보고 확인합니다
+= Digital Advisor 에서 웰빙 속성을 분석하고 위험 요소를 파악합니다.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

@@ -4,7 +4,7 @@ permalink: concept_overview_dashboard.html
 keywords: overview, provision, dashboard, widget, watchlist 
 summary: 대시보드, 시청목록 및 위젯에 대한 정보를 제공합니다. 
 ---
-= 시청목록 이해
+= Digital Advisor 에서 관심 목록에 대해 알아보세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 

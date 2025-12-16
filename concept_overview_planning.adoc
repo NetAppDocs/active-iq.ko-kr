@@ -4,7 +4,7 @@ permalink: concept_overview_planning.html
 keywords: overview, planning, increate capacity, renew, software, hardware, expiry, expired 
 summary: 만료되는 시스템 용량과 소프트웨어 및 하드웨어를 식별하는 정보를 제공합니다. 
 ---
-= 계획 수립 이해
+= Digital Advisor 의 계획 위젯을 사용하여 스토리지 시스템 용량 요구 사항을 관리하세요.
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
