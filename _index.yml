@@ -45,6 +45,8 @@ indexpage:
     links:
     - title: Digital Advisor Web Portal을 참조하십시오
       url: https://mysupport.netapp.com/myautosupport/home.html
+    - title: NetApp Digital Advisor API 문서
+      url: https://docs.netapp.com/us-en/digital-advisor-automation/
     - title: Digital Advisor 비디오
       url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7kWBxqwLYBchpMW4k9Z6Vum
     - title: NetApp 커뮤니티 – 디지털 자문업체
