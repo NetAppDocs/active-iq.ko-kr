@@ -106,7 +106,7 @@ sidebar:
         url: "/task_identify_capacity_system.html"
       - title: 볼륨 스토리지 용량 임계값 관리
         url: "/task_avoid_a_volume_filling_up_to_prevent_an_outage.html"
-      - title: 스토리지 시스템에 대한 기술 업그레이드가 권장되는지 여부를 판단하십시오.
+      - title: 스토리지 시스템에 대한 시스템 업데이트가 권장되는지 확인합니다
         url: "/evaluate-tech-refresh.html"
       - title: 스토리지 시스템의 소프트웨어 및 하드웨어를 갱신합니다.
         url: "/task_renew_software_and_hardware.html"

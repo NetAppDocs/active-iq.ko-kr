@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: concept_overview_wellness.html 
-keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, renewal, risk, remediation 
+keywords: overview, wellness, risk types, risk definition, mitigate risks, performance, configuration, support renewal, risk, remediation 
 summary: 스토리지 시스템의 상태 및 위험 유형에 대한 정보를 제공합니다. 
 ---
 = Digital Advisor 의 웰니스 위젯에 대해 알아보세요.
@@ -16,7 +16,7 @@ summary: 스토리지 시스템의 상태 및 위험 유형에 대한 정보를 
 
 
 [role="lead"]
-Wellness 위젯은 스토리지 시스템에 대한 자세한 정보를 제공합니다. 또한 성능 및 효율성, 용량, 구성 설정, 보안 취약성, 갱신, 서비스 등과 같은 스토리지 시스템의 다양한 특성에 대한 있습니다.
+Wellness 위젯은 스토리지 시스템에 대한 자세한 정보를 제공합니다. 성능 및 효율성, 용량, 구성 설정, 보안 취약점, 지원 갱신 등 스토리지 시스템의 다양한 속성에 대한 정보를 제공합니다.
 
 image:wellness_workflow.png["웰빙 워크플로"]
 

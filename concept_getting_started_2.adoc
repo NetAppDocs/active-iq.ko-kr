@@ -37,10 +37,10 @@ video::rEPtldosjWM[youtube,width=848,height=480]
 | 건강 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 
 
 
-| 갱신 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 
+| 지원 갱신 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 
 
 
-| 용량 추가 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
+| 스토리지 확장 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
 
 
 | 인벤토리 | 모든 플랫폼에서 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 

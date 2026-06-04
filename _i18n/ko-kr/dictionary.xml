@@ -25,7 +25,6 @@
   <block id="75a224357589706495901ad497cb3098" category="paragraph">cluster-1에서 _shelf_FW_FILE_KEY 및 값이 제거되었음을 알 수 있습니다.</block>
   <block id="dd2f14a8d126300e4d4b5f68789f76c1" category="admonition">클러스터 또는 컨트롤러를 수동으로 추가하는 것은 지원되지 않습니다.</block>
   <block id="834e689bebc0737b35009981790fcddc" category="summary">스토리지 시스템의 상태 및 위험 유형에 대한 정보를 제공합니다.</block>
-  <block id="16ae463ae4f1266939a871f237f322a5" category="paragraph">Wellness 위젯은 스토리지 시스템에 대한 자세한 정보를 제공합니다. 또한 성능 및 효율성, 용량, 구성 설정, 보안 취약성, 갱신, 서비스 등과 같은 스토리지 시스템의 다양한 특성에 대한 있습니다.</block>
   <block id="fce1523be4b4cc1966774ce59fd20610" category="inline-image-macro">웰빙 워크플로</block>
   <block id="32a4a6962e2e1ab900312c2d4eefa0de" category="paragraph"><block ref="32a4a6962e2e1ab900312c2d4eefa0de" category="inline-image-macro-rx" type="image"></block></block>
   <block id="15d214cfadac5e15f2d227c604756873" category="paragraph">웰빙 위젯은 각 건강 특성에 대한 위험을 완화하기 위해 취해야 하는 위험 및 조치에 대한 정보도 제공합니다. 다음은 각 위험에 대한 위험의 유형과 관련 결과입니다.</block>
@@ -43,7 +42,6 @@
   <block id="3c1579e4105c256057f7f7b8f1c3f947" category="cell">문서화된 모범 사례와 차이가 있습니다</block>
   <block id="6fe43a0bc5267b501dd5c7825c17e1be" category="paragraph">다음 동영상을 통해 웰니스 특성의 중요성을 이해할 수 있습니다.</block>
   <block id="a789bbd5cd15d75a39f05ef8f875cf51" category="summary">스토리지 시스템의 소프트웨어 및 하드웨어를 갱신하기 위한 정보를 제공합니다.</block>
-  <block id="86592c16b8e8d8d0b3cfdda42cfb12b9" category="list-text">Planning * 위젯에서 * Renewals * 를 클릭합니다.</block>
   <block id="f3a5f842bf6c3b73bcf58318a3511acf" category="list-text">필요한 경우 추가 설명을 제공합니다.</block>
   <block id="2939fe6c5b77679da5984bbe596d4b9a" category="list-text">보내기 * 를 클릭합니다.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.</block>
@@ -366,7 +364,6 @@
   <block id="7a02010f1fdbb3243b633245324dbadf" category="list-text">* 재고 위젯: * 선택한 레벨에서 사용 가능한 StorageGRID 시스템의 인벤토리를 봅니다.</block>
   <block id="b9928cfa30ad75fb5efb2c79cc8b812e" category="list-text">* Wellness widget: * 사용 가능한 시스템에 대한 기존 ARS 규칙에 따라 해당되는 경우 StorageGRID와 관련된 모든 위험 및 조치를 봅니다.</block>
   <block id="5c9ed548c23a9e1a91cf1c652e779a1a" category="list-text">* 계획 위젯: *</block>
-  <block id="5ad57484a0088c331d00073cc0508f63" category="list-text">* 용량 추가: * 기존 용량의 70%를 초과하는 그리드 사이트의 경우 알림을 받게 됩니다. 용량 임계값이 70%를 초과할 가능성이 높은 경우 다음 1, 3, 6개월 동안 사이트에 StorageGRID 용량을 추가할 수 있습니다.</block>
   <block id="b1022932a0a6c2bc62b19907e4e14bea" category="list-text">* 갱신:* 라이센스 계약이 만료되었거나 향후 6개월 이내에 만료될 예정인 StorageGRID 시스템의 경우 알림을 받게 됩니다. 하나 이상의 시스템을 선택하여 갱신을 위해 NetApp 지원 팀에 요청을 제출할 수 있습니다.</block>
   <block id="c4e80074735e6ff2daec051071dbc429" category="list-text">* 그리드 대시보드: * 그리드 대시보드는 선택한 그리드에 대한 웰니스, 계획 및 구성 세부 정보를 제공합니다.</block>
   <block id="b71490eeea3abb6f9a0c159a3418dd5e" category="list-text">* 구성 위젯: * 그리드 이름, 호스트 이름, 일련 번호, 모델, OS 버전 등 위젯에서 선택한 StorageGRID에 대한 기본 세부 정보를 제공합니다. 고객 이름, 배송 위치 및 연락처 세부 정보.</block>
@@ -555,7 +552,6 @@
   <block id="f72e303ceb317ddb2d49f55359f01d75" category="cell">* 클러스터 *</block>
   <block id="04eaef0c64f7604067332b0b05e598d3" category="cell">* 노드 *</block>
   <block id="fe40d8b49a8a95c2a28179b7ef3039d6" category="cell">모든 플랫폼에서 지원됩니다</block>
-  <block id="28e26766a62bd9ef329986f7963b6357" category="cell">용량 추가</block>
   <block id="7c3098d5e7bbe4908e01ab684d9cd021" category="cell">Clustered Data ONTAP에서만 지원됩니다</block>
   <block id="240f9686efc9548a1d556d924c143924" category="cell">업그레이드</block>
   <block id="5d44c7cc6a90a9fcb8dbd1a194e216bf" category="summary">감시 목록을 관리하기 위한 정보를 제공합니다.</block>
@@ -636,9 +632,6 @@
   <block id="91351fc68db7f9bca112a2fb897a0902" category="list-text">* Unacknowledged Risk(Unackk): * 확인된 위험 및 시스템을 확인할 수 있습니다.</block>
   <block id="0f4f0d8eb7497054f3f3160501e62e20" category="list-text">* Fix it: * Active IQ United Manager(UM) 9.7 이상을 사용하여 시스템에 대한 위험을 수정합니다. 이 버튼을 클릭하여 UM을 시작하고 위험을 완화하기 위한 단계를 수행합니다.</block>
   <block id="70997d9cb46f1884262203c0386ee9ba" category="list-text">* 보고서 생성: * 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 e-메일로 보냅니다.</block>
-  <block id="4f34ff28c8e6e0459e7e8b7c218ea60a" category="list-text">* 계획 위젯: * 갱신해야 하는 용량 추가, 소프트웨어 및 하드웨어에 대한 정보를 표시합니다.</block>
-  <block id="f455a78311af3f0899cacd26d802aabd" category="list-text">* 용량 추가: * 용량이 90%를 초과했거나 거의 90% 용량에 근접하는 시스템과 그리드 사이트 용량이 70%를 초과했거나 거의 용량에 근접하는 시스템을 식별합니다. 스토리지 시스템의 용량을 늘리도록 요청을 제출할 수 있습니다.</block>
-  <block id="a14095eb1402d18db0b8da516449039e" category="list-text">* 갱신: * 만료되었거나 향후 6개월 내에 만료되었을 소프트웨어 및 하드웨어에 대한 정보를 제공합니다.</block>
   <block id="893c77a9be3c9d01629801789ac3c684" category="list-text">* 업그레이드 위젯: * 은 ONTAP 및 E-Series 시스템에 사용 가능한 업그레이드 수를 제공합니다.</block>
   <block id="802c8daa153570ef0dadaf2d8be9ee78" category="list-text">ONTAP 시스템의 경우 업그레이드가 필요한 시스템 수에 대한 정보를 보고 업그레이드 계획을 요청할 수 있습니다.</block>
   <block id="ac697c7fc74ba789f9ec5a46df7312c6" category="list-text">E-Series 시스템의 경우 업그레이드가 필요한 시스템 수에 대한 정보만 볼 수 있습니다.</block>
@@ -1259,9 +1252,6 @@
   <block id="ff40d476eb35d6d339a7a745c5825109" category="sidebar">Digital Advisor Web Portal을 참조하십시오</block>
   <block id="4238f8b700953551a4ce57636e1b3b11" category="sidebar">Digital Advisor 비디오</block>
   <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
-  <block id="a05a52081b0fa90b1547ef6f59f35788" category="summary">기술 지원 계약 또는 하드웨어의 기술 업데이트를 평가하기 위한 정보를 제공합니다</block>
-  <block id="33a9c4b5f0c522c38ff9b1b46ebd1498" category="doc">기술 업데이트를 평가합니다</block>
-  <block id="2d6605eb73e95419014e86f084d39681" category="paragraph">기술 업데이트가 기술 지원 계약 또는 하드웨어에 권장되는지 여부를 확인하려면 기술 업데이트 옵션을 사용할 수 있습니다.</block>
   <block id="ef2753666e2bb535cdbdfcab50c1a017" category="list-text">* 보안 및 랜섬웨어 방어: * 보안 취약점, 랜섬웨어 감지, 예방 및 복구와 관련된 위험 및 수정 조치에 대한 정보를 제공합니다.</block>
   <block id="1f4882587636b2511732cfb3b14bfbcf" category="list-text">* 지속 가능성: * 고객, 감시 목록, 사이트 및 그룹 수준에서 지속 가능성 점수를 개선하기 위해 권장되는 작업 수를 표시합니다.</block>
   <block id="0235bcf89237278317e178c8c295ac74" category="list-text">보안 및 랜섬웨어 방어 * 위젯에서 * 조치 * 를 클릭합니다.
@@ -1303,14 +1293,12 @@
   <block id="748f6ba28053e4e8537665ce73aed705" category="list-text">특정 기능에 액세스할 수 없거나 Digital Advisor 기능에 대한 지원이 필요합니다</block>
   <block id="71ba49d3e291eb6557085c00a26f1f0e" category="paragraph">사전 예방적으로 용량 제한에 도달한 시스템을 식별하고 스토리지 시스템의 용량 증가 요청을 보냅니다.</block>
   <block id="64c0215a49227967002da65613b613e8" category="paragraph">ONTAP의 경우 1, 3, 6개월 만에 용량이 90%를 초과하거나 90%를 초과하는 시스템을 볼 수 있습니다. StorageGRID의 경우 1, 3 및 6개월 이내에 용량이 70%를 초과하거나 70%를 초과하는 시스템을 볼 수 있습니다.</block>
-  <block id="c8a74c1549aa26d254c47b2fe445b5be" category="list-text">Planning * 위젯에서 * Capacity Additions * 를 클릭합니다.</block>
   <block id="6af6f792a8c574d32c21182caaac6294" category="paragraph">기본적으로 용량이 90%를 초과했거나 90%에 가까운 ONTAP 시스템이 표시됩니다.</block>
   <block id="8774a5436b96ad3e78450845bce43111" category="list-text">StorageGRID * 탭을 클릭하여 용량이 70%를 초과했거나 70%에 가까운 StorageGRID 시스템을 확인합니다.</block>
   <block id="cd521d4f21b981f0132bcab8c1cd1129" category="list-text">용량을 늘릴 시스템을 선택합니다.</block>
   <block id="6aeda814c1d41515a83e1377f67f46b6" category="list-text">향후 6개월 동안의 용량 예측을 보려면 * 용량 예측 보기 * 를 클릭합니다.</block>
   <block id="8d79993c5d29c4e1c65aa5714a30b889" category="list-text">용량 추가 요청 * 을 클릭합니다.</block>
   <block id="db58d45951c63fe2dd675478f6b9865f" category="list-text">필요한 경우 설명을 입력합니다.</block>
-  <block id="1b4b8457b3e396737f084de0f45936c7" category="list-text">선택한 시스템의 용량 추가를 지원하기 위해 NetApp 스토리지 팀에 요청을 보내려면 * 보내기 * 를 클릭합니다.</block>
   <block id="93716955add4f66b2af685a33bac4789" category="section-title">2024년 5월 15일</block>
   <block id="e5ec30fe5fd65ba8d529a625838c30d8" category="admonition">지속 가능성은 Cloud Volumes ONTAP, AFF 시스템(A-Series 및 C-Series), E-Series, FAS, StorageGRID 시스템에서 지원됩니다.</block>
   <block id="f78aea7a273ac10c7cb721f1b73054d6" category="paragraph">지속 가능성 대시보드는 스토리지 시스템에 대한 환경 평가와 NetApp이 권장하는 작업의 형태를 개선할 수 있는 실행 가능한 통찰력을 제공합니다.</block>
@@ -1430,8 +1418,6 @@
   <block id="70eb71406501e224ffe5e1e4571fcc65" category="list-text">웹 브라우저를 열고 이동하세요<block ref="24972d13214bf960aed8a7602883d866" category="inline-link-macro-rx"></block> .</block>
   <block id="5bf5d855aa43f8908638c956b6a6ef8b" category="paragraph">이전에 이메일과 비밀번호를 사용하여 콘솔 로그인을 만든 경우, 앞으로도 해당 로그인 옵션을 사용해야 합니다.</block>
   <block id="e55f1920f154b5cf14dc8dc4428d7185" category="paragraph">이 로그인은 2단계에서 완료한 로그인과 다릅니다.  2단계에서는 콘솔에 로그인했습니다.  이제 Digital Advisor 에 로그인합니다.</block>
-  <block id="53d31668ff4a0d2a40cc587f9c13ec8e" category="admonition">이 기능은 수명 주기 계획(*저장* &gt; *수명 주기 계획*)이나 Digital Advisor (*대시보드 &gt; 계획 위젯 &gt; 기술 업데이트*)를 통해 이용할 수 있습니다.</block>
-  <block id="81726c1bdc965a2834b9dcfa001ef6b0" category="paragraph">이 기능에 대한 자세한 내용은 다음을 참조하세요.<block ref="a230b818a44a7d13155b37e12838fa41" category="inline-link-macro-rx"></block> 콘솔 설명서에서.</block>
   <block id="251a116e3518821c4cb40f8abb066a2f" category="summary">NetApp Console 또는 Digital Advisor 에서 액세스하여 지속 가능성 대시보드를 시작하세요.</block>
   <block id="eb78fdcbf8bbae675c7ee0f97a884a74" category="paragraph">지속 가능성 대시보드는 AIOps 기반 보고 및 점수 매기기와 실행 가능한 통찰력을 제공하여 지속 가능성 태세를 개선합니다.  NetApp Console이나 Digital Advisor 통해 지속 가능성 대시보드에 액세스할 수 있습니다.</block>
   <block id="f5d302c73eacff7b76d482bf489706b0" category="inline-link-macro">콘솔에 로그인</block>
@@ -1484,7 +1470,6 @@
   <block id="570719b584e6e69c4931e958bef6979e" category="doc">Digital Advisor 기능에 대해 알아보세요</block>
   <block id="8083f9b299587af579ece9bb64335b08" category="doc">Digital Advisor 의 건강 진단 대시보드에 대해 알아보세요.</block>
   <block id="e5961c9ba5d2ded320c587ca2be451d3" category="doc">AFF 및 FAS 펌웨어 업데이트에 필요한 인벤토리 파일을 업데이트하세요.</block>
-  <block id="17cf57a799d9d94a0c583f49a7f30df1" category="doc">Digital Advisor 사용하여 스토리지 시스템에 기술 업데이트가 권장되는지 확인하십시오.</block>
   <block id="2aa63ba789e73b06bdbb2c2a977b1a63" category="doc">Digital Advisor 에서 단일 클러스터 및 다중 클러스터용 ONTAP 업그레이드 계획을 생성합니다.</block>
   <block id="c1f1e34afc313dc547fc394981f53ffd" category="doc">Digital Advisor 에서 지속가능성 대시보드에 접속하세요.</block>
   <block id="6a67202f32080d987cdaf104a007ea9f" category="doc">Digital Advisor 통해 스토리지 시스템 지속가능성 점수를 향상시키세요.</block>
@@ -1560,7 +1545,6 @@
   <block id="d89f3b8963bef2ec6e2b190588136909" category="sidebar">계획 위젯을 사용하여 스토리지 시스템 용량 요구 사항을 관리하세요.</block>
   <block id="670c1f5b09d4ee058170a248707f6cf0" category="sidebar">용량 한계에 가까워지고 있는 스토리지 시스템을 식별합니다.</block>
   <block id="670d5d545130d51748bc5083b6b61b03" category="sidebar">볼륨 스토리지 용량 임계값 관리</block>
-  <block id="619122f60cc5d0d60681fb618a43634b" category="sidebar">스토리지 시스템에 대한 기술 업그레이드가 권장되는지 여부를 판단하십시오.</block>
   <block id="38ce951a3b0659ec3d5cbbb32de780f8" category="sidebar">스토리지 시스템의 소프트웨어 및 하드웨어를 갱신합니다.</block>
   <block id="df1499afb39a1c2cf9d675ff51761e59" category="sidebar">클라우드 권장 사항을 통해 스토리지 시스템 상태를 분석하세요.</block>
   <block id="29da45b00d724bc9c112a3904192176a" category="sidebar">스토리지 시스템의 구성 편차를 감지합니다.</block>
@@ -1593,4 +1577,29 @@
   <block id="ed124d5bdf3fe0a1c3c145d0a44b1707" category="list-text">AutoSupport(ASUP)이 활성화되어 있고 올바르게 구성되었는지, 그리고 필요한 모든 섹션이 포함되어 있는지 확인하십시오. 자세한 내용은 <block ref="40cef9e2460f87a6d015a209e1716d2b" category="inline-link-macro-rx"></block>을 참조하십시오.</block>
   <block id="56f8cfced748e051e690ccedbe4b5d60" category="paragraph">2026년 7월부터 Digital Advisor에서 Wellness Review 기능을 더 이상 사용할 수 없습니다. 문의 사항이 있으시면 mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]으로 이메일을 보내주세요.</block>
   <block id="3bfca6a430fa87d8630a8459fe8a4aa1" category="section-title">2026년 5월 18일</block>
+  <block id="38b5c518869129cfcd4245d3b75831ea" category="doc">Digital Advisor 위젯 이름 업데이트</block>
+  <block id="10db272222005cd4785bf41eb8f2d16f" category="paragraph">다음 Digital Advisor 기능의 이름이 변경되었습니다.</block>
+  <block id="c1e03330b4662e637d1bbe6857651076" category="inline-link-macro">시스템 새로 고침 평가</block>
+  <block id="7e46c4cf133c5a7da9a1738efe1b7df3" category="list-text">Tech Refresh 기능이 이제 System Refresh로 이름이 변경되었습니다. <block ref="b9c9fb213cb3859574b8b90c3e01e8f8" category="inline-link-macro-rx"></block> 방법을 알아보십시오.</block>
+  <block id="ffbdf4857ebb280d918de41e3ecebb17" category="inline-link-macro">Digital Advisor 위젯</block>
+  <block id="7b68bc21ce78c08210db229203879260" category="list-text">용량 추가 기능이 이제 스토리지 확장으로 명칭이 변경되었습니다. <block ref="234ea1b0eb074989e74237a3dff18337" category="inline-link-macro-rx"></block>에 대해 자세히 알아보십시오.</block>
+  <block id="6be411ea1de1ddb5d78a1efaf383f88c" category="list-text">갱신 기능이 이제 지원 갱신으로 명칭이 변경되었습니다. <block ref="234ea1b0eb074989e74237a3dff18337" category="inline-link-macro-rx"></block>에 대해 자세히 알아보십시오.</block>
+  <block id="4e48390599cbc0039283bd380eac0cdd" category="cell">지원 갱신</block>
+  <block id="a6622e39d0619e452c435935de0631a7" category="cell">스토리지 확장</block>
+  <block id="51b0c2b7b72e87dd0bf515df5f9e6f5e" category="list-text">*계획 위젯:* 갱신해야 하는 스토리지 확장, 소프트웨어 및 하드웨어에 대한 정보를 표시합니다.</block>
+  <block id="72249fa940a7ec954e6f3d3abf4091cf" category="list-text">*스토리지 확장:* 용량이 90%를 초과했거나 근접한 시스템과 용량이 70%를 초과했거나 근접한 GRID 사이트를 식별합니다. 스토리지 시스템의 용량을 늘리도록 요청할 수 있습니다.</block>
+  <block id="4147677b5e66a7db19581c18353c5d87" category="list-text">*지원 갱신:* 향후 6개월 이내에 지원이 만료되었거나 만료가 임박한 소프트웨어 및 하드웨어에 대한 정보를 제공합니다.</block>
+  <block id="05990f83c518983518d1838e09f090e8" category="paragraph">Wellness 위젯은 스토리지 시스템에 대한 자세한 정보를 제공합니다. 성능 및 효율성, 용량, 구성 설정, 보안 취약점, 지원 갱신 등 스토리지 시스템의 다양한 속성에 대한 정보를 제공합니다.</block>
+  <block id="9b9e31bebddf0b3c6a491e94b6ef64b5" category="summary">기술 지원 계약 또는 하드웨어의 시스템 갱신을 평가하는 정보를 제공합니다</block>
+  <block id="c4d91836762c79f24882b84639da9ecd" category="doc">Digital Advisor에서 스토리지 시스템에 대한 시스템 업데이트가 권장되는지 확인합니다</block>
+  <block id="ae7c8af4913d5ed60eee9eba144d34f2" category="paragraph">Tech Support 계약 또는 하드웨어에 대해 시스템 새로 고침이 권장되는지 확인하려면 시스템 새로 고침 옵션을 사용할 수 있습니다.</block>
+  <block id="b673e7cded650c08d6c0289225510337" category="paragraph">이 기능은 수명 주기 계획(*스토리지* &gt; *수명 주기 계획*) 또는 Digital Advisor(*대시보드* &gt; *계획 위젯* &gt; *시스템 새로 고침*)를 통해 액세스할 수 있습니다.</block>
+  <block id="dcd5d8e34e28517df35c9ef34326b7f8" category="inline-link-macro">시스템 새로 고침 평가</block>
+  <block id="4b6c29e1e0ca5888882f9afb85d41460" category="paragraph">이 기능에 대한 자세한 내용은 콘솔 설명서의 <block ref="60246966bc8fb02ea32471ffe11e7654" category="inline-link-macro-rx"></block>을(를) 참조하십시오.</block>
+  <block id="ded0a309adbbd30fc9482b49a9ac79cd" category="section-title">2026년 6월 3일</block>
+  <block id="2014a31fd7c5aa735efd9b3eab46bae2" category="list-text">*용량 추가:* 기존 용량의 70% 임계값을 초과하는 GRID 사이트가 있는 경우 알림을 받게 됩니다. 용량 임계값이 70%를 초과할 가능성이 있는 경우, 해당 사이트의 StorageGRID에 대해 향후 1개월, 3개월 및 6개월 동안 용량을 추가할 수 있는 옵션이 제공됩니다.</block>
+  <block id="0cd056bd26e169de7bcb1a020c6b1264" category="list-text">*Planning* 위젯에서 *Storage Expansion*을 클릭합니다.</block>
+  <block id="2e703d88e9f579295840057715d9e123" category="list-text">선택한 시스템의 스토리지 확장을 지원하도록 NetApp 스토리지 팀에 요청을 보내려면 *보내기*를 클릭하십시오.</block>
+  <block id="9db2bee503b4dd39ee519c9d3147cd82" category="list-text">*계획* 위젯에서 *지원 갱신*을 클릭합니다.</block>
+  <block id="ac7c07737d772453b955c31ac43f2b1f" category="sidebar">스토리지 시스템에 대한 시스템 업데이트가 권장되는지 확인합니다</block>
 </blocks>
