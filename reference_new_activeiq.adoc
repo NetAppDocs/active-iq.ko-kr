@@ -20,10 +20,12 @@ Digital Advisor에는 다음과 같은 기능과 개선 사항이 도입되었�
 
 
 
+[[29-june-2026]]
 == 2026년 6월 29일
 
 
 
+[[health-check-graphql-migration-and-data-accuracy-improvements]]
 === Health Check GraphQL 마이그레이션 및 데이터 정확도 개선
 
 상태 점검 모듈이 데이터 정확도 향상 및 최신 버전 표준에 맞춘 권장 사항 제공 기능을 통해 개선되었습니다. 이번 릴리스에서는 공개 API에서 GraphQL로 마이그레이션되어 성능 향상, 유연한 쿼리 기능 및 장기적인 지원을 제공합니다.
@@ -58,10 +60,12 @@ Health Check 모듈의 권장 소프트웨어 개선 사항을 통해 더욱 정
 
 
 
+[[3-june-2026]]
 == 2026년 6월 3일
 
 
 
+[[digital-advisor-widget-name-updates]]
 === Digital Advisor 위젯 이름 업데이트
 
 다음 Digital Advisor 기능의 이름이 변경되었습니다.
@@ -73,42 +77,50 @@ Health Check 모듈의 권장 소프트웨어 개선 사항을 통해 더욱 정
 
 
 
+[[18-may-2026]]
 == 2026년 5월 18일
 
 
 
+[[wellness-review]]
 === 웰빙 리뷰
 
 2026년 7월부터 Digital Advisor에서 Wellness Review 기능을 더 이상 사용할 수 없습니다. 문의 사항이 있으시면 mailto:ng-activeiq-feedback@netapp.com[[.underline]#ng-activeiq-feedback@netapp.com#]으로 이메일을 보내주세요.
 
 
 
+[[04-february-2026]]
 == 2026년 2월 4일
 
 
 
+[[new-security-report-for-comprehensive-security-oversight]]
 === 포괄적인 보안 감독을 위한 새로운 보안 보고서
 
 Digital Advisor에는 이제 스토리지 환경 전반의 ONTAP 보안 위험에 대한 통합 보기를 제공하는 보안 보고서가 포함되어 있습니다. 이 보고서를 통해 클러스터, SVM 및 볼륨 전반에 걸쳐 잘못된 구성, 규정 준수 격차 및 보안 문제를 더 빠르게 감지하여 안전한 스토리지 인프라를 유지할 수 있습니다.
 
 
 
+[[enhanced-upgrade-advisor-support-for-mixed-patch-levels]]
 === 패치 버전이 혼합된 환경에 대한 Upgrade Advisor 지원 기능이 향상되었습니다.
 
 Upgrade Advisor는 이제 동일한 ONTAP 주요 릴리스 내에서 노드가 서로 다른 패치 레벨을 실행하는 클러스터에 대한 업그레이드 보고서를 생성합니다. 이 개선 사항을 통해 고객은 클러스터가 주요 버전 간에 혼합되지 않는 한 원활하게 업그레이드를 진행할 수 있으며, 업그레이드 계획에 있어 더 큰 유연성을 제공합니다.
 
 
 
+[[extended-support-for-end-of-limited-support-ontap-versions]]
 === 지원 기간이 종료된 ONTAP 버전에 대한 지원이 확장되었습니다.
 
 Upgrade Advisor는 이제 제한적 지원이 종료된 ONTAP 버전에 대한 업그레이드 계획 생성을 지원하며, 9개월의 유예 기간을 제공합니다. 이 기능은 전환 기간 동안 명확한 지침을 제공하여 고객이 적시에 조치를 취하고 업그레이드 중단을 방지할 수 있도록 지원합니다.
 
 
 
+[[06-october-2025]]
 == 2025년 10월 6일
 
 
 
+[[bluexp-is-now-netapp-console]]
 === BlueXP 는 이제 NetApp 콘솔입니다.
 
 강화되고 재구성된 BlueXP 기반을 기반으로 구축된 NetApp 콘솔은 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지와 NetApp 데이터 서비스를 중앙에서 관리하여 실시간 통찰력, 더 빠른 워크플로, 간소화된 관리를 제공하며, 높은 보안성과 규정 준수를 보장합니다.
@@ -117,38 +129,45 @@ Upgrade Advisor는 이제 제한적 지원이 종료된 ONTAP 버전에 대한 �
 
 
 
+[[06-august-2025]]
 == 2025년 8월 6일
 
 
 
+[[support-entitled-switches]]
 === 지원 권한 스위치
 
 이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다. 여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html["지원 권한이 있는 스위치를 보는 방법을 알아보세요"] .
 
 
 
+[[threshold-for-rss-autosupport-data]]
 === RSS AutoSupport 데이터에 대한 임계값
 
 AutoSupport 위젯의 최근 전송 중지된 RSS(RSS) 제한이 시스템이 RSS로 표시되기 전까지 48시간(2일)에서 216시간(9일)으로 연장되었습니다.  이는 주간 AutoSupport 데이터만 전송하는 StorageGRID 와 같은 플랫폼을 수용하기 위해 수행됩니다.
 
 
 
+[[deprecated-api-section-in-digital-advisor-api-catalog]]
 === Digital Advisor API 카탈로그의 더 이상 사용되지 않는 API 섹션
 
 Digital Advisor API 카탈로그에서 더 이상 사용되지 않는 새로운 API 섹션을 사용할 수 있습니다.  여기에는 지원 중단이 예정된 API, 지원 중단 일정 및 대체 API가 나열되어 있습니다.
 
 
 
+[[capacity-forecast-v2-and-end-of-support-api-modules-deprecation]]
 === 용량 예측 V2 및 지원 종료 API 모듈 사용 중단
 
 용량 예측 V2 및 지원 종료 API 모듈은 사용 중단될 예정입니다.  더 이상 지원되지 않는 API에 액세스하거나 지원 중단 일정과 대체 API에 대해 알아보려면 *API 서비스 -> 찾아보기 -> 더 이상 지원되지 않는 API*로 이동하세요.
 
 
 
+[[09-july-2025]]
 == 2025년 7월 9일
 
 
 
+[[upgrade-advisor]]
 === Upgrade Advisor
 
 * ONTAP 업그레이드 계획을 간소화하고 잠재적인 방해 요소 또는 경고를 해결하기 위해 업그레이드 어드바이저 플랜에 다양한 형식의 다운로드 옵션이 추가되었습니다. 이제 업그레이드 어드바이저 플랜을 Excel, PDF, JSON 형식으로 다운로드할 수 있습니다.
@@ -163,32 +182,38 @@ Digital Advisor API 카탈로그에서 더 이상 사용되지 않는 새로운 
 
 
 
+[[08-may-2025]]
 == 2025년 5월 8일
 
 
 
+[[autosupport-widget]]
 === AutoSupport 위젯
 
 AutoSupport 데이터 전송을 중지한 시스템에 대한 세부 정보를 제공하는 팝업을 포함하도록 AutoSupport 위젯이 향상되었습니다. AutoSupport를 사용하면 다운타임 위험을 줄이고 사전 예방적인 시스템 상태 관리를 지원할 수 있습니다.
 
 
 
+[[support-contracts-report]]
 === 지원 계약 보고서
 
 새로운 ASP/LSG 플래그 필드를 포함하도록 지원 계약 보고서가 향상되었습니다. 이 필드에서 공인 지원 파트너가 지원하는 시스템, 즉 라이프사이클 서비스 인증을 필터링하고 식별할 수 있습니다.
 
 
 
+[[sustainability-dashboard]]
 === Sustainability 대시보드
 
 이제 Sustainability 프레젠테이션에 포함된 링크를 사용하여 Sustainability 대시보드를 시작할 수 있습니다.
 
 
 
+[[05-march-2025]]
 == 2025년 3월 5일
 
 
 
+[[upgrade-advisor]]
 === Upgrade Advisor
 
 * 이제 디스크 자격 평가 패키지(DQP)를 사용하여 미리 정의된 상태 및 성능 기준에 따라 디스크 컨트롤러와 스토리지 장치 펌웨어를 자동으로 업데이트할 수 있습니다. 이로 인해 잠재적인 오류가 줄어들고 전반적인 시스템 안정성이 향상됩니다.
@@ -197,80 +222,96 @@ AutoSupport 데이터 전송을 중지한 시스템에 대한 세부 정보를 �
 
 
 
+[[12-december-2024]]
 == 2024년 12월 12일
 
 
 
+[[upgrade-advisor]]
 === Upgrade Advisor
 
 이제 업데이트에 권장되는 스토리지 펌웨어, SP/BMC 펌웨어 및 ARP(자율적 랜섬웨어 패키지)를 볼 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/view-firmware-update-recommendations.html["펌웨어 업데이트 권장 사항을 보는 방법에 대해 알아봅니다"]..
 
 
 
+[[04-december-2024]]
 == 2024년 12월 4일
 
 
 
+[[autosupport-widget]]
 === AutoSupport 위젯
 
 AutoSupport 상태 관련 문제를 고객에게 알리기 위해 AutoSupport 위젯이 기본 대시보드 화면에 추가되었습니다.
 
 
 
+[[23-september-2024]]
 == 2024년 9월 23일
 
 
 
+[[support-offerings]]
 === 지원 서비스
 
 NetApp SupportEdge Basic 서비스 제품에는 현재 SupportEdge Advisor 및 SupportEdge Expert에서 사용할 수 있는 모든 디지털 어드바이저 기능이 포함되어 있으며, 전체 스택 토폴로지(VMware)는 활성화되어 있더라도 VMware 전체 스택 모니터링에 대한 가시성을 제공하지 않습니다.
 
 
 
+[[21-august-2024]]
 == 2024년 8월 21일
 
 
 
+[[reports]]
 === 보고서
 
 7-Mode 시스템이 제한된 지원이 종료되었으므로 * 7-Mode Upgrade Advisor 계획 * 보고서를 더 이상 사용할 수 없습니다. 자세한 내용은 을 link:https://mysupport.netapp.com/site/info/version-support["소프트웨어 버전 지원"^]참조하십시오. 에 대해 자세히 link:https://docs.netapp.com/a/ontap/7-mode/8.2.1/Upgrade-And-Revert-Or-Downgrade-Guide-For-7-Mode.pdf["7-Mode에서 운영 중인 Data ONTAP 스토리지 시스템의 업그레이드"^]알아보십시오.
 
 
 
+[[04-july-2024]]
 == 2024년 7월 4일
 
 
 
+[[sustainability-dashboard]]
 === Sustainability 대시보드
 
 저장 시스템의 환경적 건강에 대한 통찰력을 제공하는 환경 지표는 이제 고급 예측 모델을 기반으로 예상 전력 사용량, 직접 탄소 사용량 및 열 배출에 대한 보다 정확한 값을 제공합니다. 자세한 내용은 다음을 참조하세요.link:https://docs.netapp.com/us-en/active-iq/sustainability-dashboard-overview.html["Sustainability 대시보드 개요"] .
 
 
 
+[[15-may-2024]]
 == 2024년 5월 15일
 
 
 
+[[sustainability-dashboard]]
 === Sustainability 대시보드
 
 이제 E-Series 및 StorageGRID 시스템에서 지속 가능성이 지원됩니다.  이러한 시스템의 지속 가능성 대시보드에서 전력, 직접 탄소 사용량, 열에 대한 예측을 표시하는 권장 조치 및 환경 지표 목록을 볼 수 있습니다. 자세한 내용은 다음을 참조하세요.link:https://docs.netapp.com/us-en/active-iq/sustainability-dashboard-overview.html["Sustainability 대시보드 개요"^] .
 
 
 
+[[28-march-2024]]
 == 2024년 3월 28일
 
 
 
+[[upgrade-advisor]]
 === Upgrade Advisor
 
 이전 버전의 Upgrade Advisor는 이제 더 이상 사용되지 않습니다. 향상된 버전의 Upgrade Advisor를 사용하여 단일 클러스터 및 여러 클러스터에 대한 업그레이드 계획을 생성할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html["업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성하는 방법에 대해 알아봅니다."]
 
 
 
+[[15-march-2024]]
 == 2024년 3월 15일
 
 
 
+[[wellness]]
 === 건강
 
 * 웰니스 워크플로에는 이제 고객, 관심 목록, 사이트 및 그룹 수준에서 권장되는 작업 수를 제공하는 지속 가능성 위젯이 포함되었습니다.  지속 가능성 대시보드에서 권장되는 조치에 대한 자세한 내용을 보려면 조치 번호를 클릭하세요. 자세한 내용은 다음을 참조하세요.link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html["스토리지 시스템의 지속 가능성을 분석합니다"] .
@@ -279,58 +320,69 @@ NetApp SupportEdge Basic 서비스 제품에는 현재 SupportEdge Advisor 및 S
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 기술 케이스 타임라인이 향상되어 6개월 또는 12개월의 전체 케이스 기록을 볼 수 있습니다.
 
 
 
+[[29-february-2024]]
 == 2024년 2월 29일
 
 
 
+[[watchlist]]
 === 시청목록
 
 이제 Keystone 구독 번호를 기반으로 관심 목록을 만들고 구독 번호 또는 관심 목록 이름의 처음 3자를 사용하여 Keystone 구독을 검색할 수 있습니다.
 
 
 
+[[08-february-2024]]
 == 2024년 2월 8일
 
 
 
+[[sustainability-dashboard]]
 === Sustainability 대시보드
 
 이제 를 사용하여 기본 대시보드 또는 시청목록에 대한 Sustainability 메트릭에 직접 액세스할 수 있습니다 link:https://activeiq.netapp.com/redirect/sustainability["Sustainability 대시보드"^] 링크.
 
 
 
+[[clusterviewer]]
 === 클러스터 뷰어
 
 이제 디스크 요약 섹션에서 디스크 RPM 정보를 볼 수 있습니다. 디스크 요약 섹션은 Storage 탭 및 ClusterViewer 보고서에서 사용할 수 있습니다.
 
 
 
+[[03-january-2024]]
 == 2024년 1월 3일
 
 
 
+[[upgrade-advisor]]
 === Upgrade Advisor
 
 Upgrade Advisor는 단일 클러스터와 여러 클러스터에 대해 자동화된 무중단 업그레이드 계획을 제공하도록 개선되었습니다. 위험 요약, 업그레이드 전 확인 보고서, 새로운 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대해서만 업그레이드 권장 사항을 볼 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/upgrade_advisor_overview.html["업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성하는 방법에 대해 알아봅니다."]
 
 
 
+[[16-november-2023]]
 == 2023년 11월 16일
 
 
 
+[[watchlist]]
 === 시청목록
 
 이제 최대 100개의 시청자 목록을 만들 수 있습니다.
 
 
 
+[[planning-widget]]
 === 계획 위젯
 
 * 이제 관심 목록, 사이트 및 그룹 대시보드에서 기술 업데이트 권장 사항을 사용할 수 있습니다.
@@ -339,20 +391,24 @@ Upgrade Advisor는 단일 클러스터와 여러 클러스터에 대해 자동�
 
 
 
+[[04-october-2023]]
 == 2023년 10월 4일
 
 
 
+[[planning-widget]]
 === 계획 위젯
 
 기술 업데이트 권장 사항 수는 고객 레벨 대시보드의 계획 위젯에 포함됩니다. 다음 권장 사항은 하드웨어의 지원이 부족하거나 지원 종료가 가까워질 때 하드웨어 기술 업데이트 작업을 계획하는 데 도움이 됩니다.
 
 
 
+[[27-september-2023]]
 == 2023년 9월 27일
 
 
 
+[[upgrade-advisor]]
 === Upgrade Advisor
 
 * 를 사용하여 기본 시청목록에 대한 Upgrade Advisor 페이지에 액세스할 수 있습니다 link:https://activeiq.netapp.com/redirect/upgrade-advisor["Upgrade Advisor"^] 링크.
@@ -361,10 +417,12 @@ Upgrade Advisor는 단일 클러스터와 여러 클러스터에 대해 자동�
 
 
 
+[[16-july-2023]]
 == 2023년 7월 16일
 
 
 
+[[storage-efficiency]]
 === 스토리지 효율성
 
 * 효율성 비율을 표시하는 * 스토리지 효율성 * 이라는 레이블의 이름이 * 데이터 축소 * 로 바뀌었습니다.
@@ -374,72 +432,86 @@ Upgrade Advisor는 단일 클러스터와 여러 클러스터에 대해 자동�
 
 
 
+[[21-june-2023]]
 == 2023년 6월 21일
 
 
 
+[[sustainability-dashboard]]
 === Sustainability 대시보드
 
 지속 가능성 대시보드는 저장 시스템의 환경적 지속 가능성에 대한 귀중한 통찰력을 제공합니다.  지속 가능성 점수, 탄소 감축 비율, 예상 전력 사용량, 직접 탄소, 열 등의 정보를 볼 수 있습니다.  특정 사이트의 탄소 감축 비율을 조정할 수 있습니다.  클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다.  지속 가능성 점수를 기반으로 스토리지 시스템의 전반적인 효율성을 평가하고 이를 NetApp에서 권장하는 조치에 맞춰 지속 가능성을 향상시킬 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/learn-about-sustainability.html["자세한 정보"] .
 
 
 
+[[22-february-2023]]
 == 2023년 2월 22일
 
 
 
+[[performance-charts]]
 === 성능 차트
 
 볼륨 IOPS 차트에서 평균 읽기, 쓰기 및 기타 작업을 볼 수 있습니다.
 
 
 
+[[storage-efficiency]]
 === 스토리지 효율성
 
 SAN 및 NAS 스토리지 효율성은 노드 레벨에서 AFF A 시리즈, AFF C190, 모든 SAN 어레이 및 ONTAP 9.10 이상을 실행하는 FAS500을 포함한 ONTAP 시스템에 제공됩니다.
 
 
 
+[[12-january-2023]]
 == 2023년 1월 12일
 
 
 
+[[performance-reports]]
 === 성능 보고서
 
 볼륨 레벨의 성능 보고서에서 평균 읽기, 쓰기 및 기타 작업을 볼 수 있습니다.
 
 
 
+[[01-november-2022]]
 == 2022년 11월 1일
 
 
 
+[[digital-advisor-integrating-with-bluexp]]
 === BlueXP와 통합된 디지털 어드바이저
 
 Active IQ Digital Advisor Digital Advisor 로 변경되었으며 이제 하이브리드 멀티클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 BlueXP 에 통합되었습니다. link:https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-console.html["자세한 정보"] .
 
 
 
+[[25-august-2022]]
 == 2022년 8월 25일
 
 
 
+[[inventory]]
 === 인벤토리
 
 이제 vCenter, ESXi 호스트 및 가상 머신에 대한 VMware 자산 정보가 인벤토리 세부 정보에 포함되어 전체 스택 인벤토리 및 상호 운용성 검사를 제공합니다. link:https://docs.netapp.com/us-en/active-iq/task-integrating-with-cloud-insights-to-view-vm-details.html["자세히 알아보기"].
 
 
 
+[[multi-hop-upgrade]]
 === 멀티 홉 업그레이드
 
 비인접 릴리즈에 대한 자동 무중단 업그레이드(ANDU)의 경우 중간 릴리즈와 타겟 릴리즈용 소프트웨어 이미지를 설치할 수 있습니다. 자동 업그레이드 프로세스는 백그라운드에서 중간 이미지를 사용하여 대상 릴리스에 대한 업데이트를 완료합니다. 예를 들어, 클러스터에서 9.3을 실행 중이고 9.7로 업그레이드하려는 경우 9.5와 9.7 모두에 대해 ONTAP 설치 패키지를 로드한 다음 9.7로 ANDU를 시작합니다. 그런 다음 ONTAP가 먼저 클러스터를 9.5로 업그레이드한 다음 9.7로 자동 업그레이드합니다. 프로세스 중에 여러 테이크오버/반환 작업 및 관련 재부팅이 예상되어야 합니다.
 
 
 
+[[14-july-2022]]
 == 2022년 7월 14일
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 * 이제 상태 점검 대시보드에서 Cloud Volumes ONTAP 시스템에 대해 생성된 기술 사례 세부 정보를 볼 수 있습니다.
@@ -448,40 +520,47 @@ Active IQ Digital Advisor Digital Advisor 로 변경되었으며 이제 하이�
 
 
 
+[[e-series-systems]]
 === E-Series 시스템
 
 권장 버전 및 상태 점검 KPI에서 SANtricity 운영 체제 버전을 볼 수 있습니다.
 
 
 
+[[wellness]]
 === 건강
 
 소프트웨어 또는 펌웨어 버전 업그레이드가 필요하지 않은 시스템을 빠르고 쉽게 식별할 수 있도록 컬러 코딩을 도입했습니다.
 
 
 
+[[upgrade-workflow]]
 === 워크플로 업그레이드
 
 이제 E-Series 시스템에 대한 업그레이드 권장사항을 볼 수 있습니다.
 
 
 
+[[22-june-2022]]
 == 2022년 6월 22일
 
 
 
+[[storagegrid]]
 === StorageGRID
 
 StorageGRID용 ILM(정보 수명 주기 관리)이 그리드 뷰어에 포함되었습니다.
 
 
 
+[[cloud-recommendations]]
 === 클라우드 권장 사항
 
 SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp Cloud Volumes Service 및 NetApp 클라우드 백업(이전의 AltaVault)으로 이동할 수 있는 워크로드 및 해당 볼륨에 대한 권장 사항을 제공합니다. link:https://docs.netapp.com/us-en/active-iq/task-informed-decisions-based-on-cloud-recommendations.html["자세히 알아보기"].
 
 
 
+[[reports]]
 === 보고서
 
 * 이제 이미 생성된 보고서에 대해 정의된 조건을 사용하여 보고서를 생성할 수 있습니다.
@@ -491,10 +570,12 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 
 
+[[01-june-2022]]
 == 2022년 6월 1일
 
 
 
+[[inventory]]
 === 인벤토리
 
 * 이제 재고 에서 시스템에 대한 판매 담당자 정보를 볼 수 있습니다.
@@ -503,28 +584,33 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 
 
+[[12-may-2022]]
 == 2022년 5월 12일
 
 
 
+[[storagegrid]]
 === StorageGRID
 
 추가 용량 메트릭은 StorageGRID 용량 및 용량 보고서에 포함됩니다.
 
 
 
+[[clusterviewer]]
 === 클러스터 뷰어
 
 이제 클러스터용 SnapMirror(데이터 보호) 요약이 ClusterViewer에 포함되어 있습니다.
 
 
 
+[[upgrade-workflow]]
 === 워크플로우 업그레이드
 
 이제 업그레이드 워크플로우를 사용하여 업그레이드 권장사항을 확인하고 타겟 E-Series 릴리즈에서 사용 가능한 새로운 기능에 대한 요약을 볼 수 있습니다.
 
 
 
+[[wellness]]
 === 건강
 
 * 소프트웨어 구성 위험을 완화하기 위해 Ansible Playbook이 개선되었습니다.
@@ -533,10 +619,12 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 
 
+[[07-april-2022]]
 == 2022년 4월 7일
 
 
 
+[[wellness]]
 === 건강
 
 * 최신 운영 체제 버전 및 지원 계약 및 지원 종료에 대한 '6개월' KPI에 대한 핵심 권장 사항의 점수가 낮아져 해결되는 긴급성에 맞춰 조정되었습니다.
@@ -545,20 +633,24 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 
 
+[[31-march-2022]]
 == 2022년 3월 31일
 
 
 
+[[storagegrid]]
 === StorageGRID
 
 그리드 뷰어에서 테넌트 및 버킷에 대한 정보를 볼 수 있습니다.
 
 
 
+[[24-march-2022]]
 == 2022년 3월 24일
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 * 상태 평가 핵심 요약 PPT에 대한 개선 사항 및 버그 수정
@@ -568,22 +660,26 @@ SnapMirror 데이터 복제를 사용하여 NetApp Cloud Volumes ONTAP, NetApp C
 
 
 
+[[storagegrid]]
 === StorageGRID
 
 그리드 뷰어에서 그리드 구성 세부 정보를 볼 수 있습니다.
 
 
 
+[[bluexp]]
 === BlueXP
 
 이제 BlueXP 사용자는 Digital Advisor의 기존 기능과 마찬가지로, 해당되는 경우 새 탭에서 Digital Advisor 링크를 열 수 있습니다.
 
 
 
+[[12-january-2022]]
 == 2022년 1월 12일
 
 
 
+[[config-drift]]
 === 구성 드리프트
 
 * 템플릿을 복제하여 원본 템플릿의 복사본을 만들 수 있습니다.
@@ -593,10 +689,12 @@ link:https://docs.netapp.com/us-en/active-iq/task_manage_template.html["자세�
 
 
 
+[[15-december-2021]]
 == 2021년 12월 15일
 
 
 
+[[reports]]
 === 보고서
 
 * * 클러스터 뷰어 보고서 *: 이 보고서는 단일 클러스터 또는 고객 및 감시 대상 목록 수준의 여러 클러스터에 대한 정보를 제공합니다. ClusterViewer 보고서를 사용하여 단일 파일에 있는 모든 정보를 다운로드할 수 있습니다. 최대 100개의 노드가 있는 감시 목록에만 이 보고서를 생성할 수 있습니다.
@@ -605,26 +703,31 @@ link:https://docs.netapp.com/us-en/active-iq/task_manage_template.html["자세�
 
 
 
+[[integration-with-e-series-systems]]
 === E-Series 시스템과 통합
 
 Digital Advisor에서 선택한 E-Series 시스템의 용량 세부 정보 및 성능 그래프를 볼 수 있습니다.
 
 
 
+[[18-november-2021]]
 == 2021년 11월 18일
 
 
 
+[[storage-efficiency]]
 === 스토리지 효율성
 
 NetApp Cloud Insights에서 유지 관리 및 모니터링하는 노드의 스토리지 효율성 세부 정보를 볼 수 있습니다.
 
 
 
+[[11-november-2021]]
 == 2021년 11월 11일
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 * 이러한 상태 점검 타일에 SupportEdge Advisor 및 SupportEdge Expert 지원 서비스가 있는 시스템에만 적용되는 아이콘이 추가되었습니다. 권장 소프트웨어 – 소프트웨어 통화 및 펌웨어 통화 섹션, 권장 구성 및 모범 사례가 개선되었습니다.
@@ -633,58 +736,68 @@ NetApp Cloud Insights에서 유지 관리 및 모니터링하는 노드의 스�
 
 
 
+[[wellness-and-upgrade-widgets]]
 === 웰빙 및 업그레이드 위젯
 
 Wellness Action History의 열에 E-Series 업그레이드 권장사항과 리스크 발생 날짜가 추가되어 대시보드 강화
 
 
 
+[[clusterviewer]]
 === 클러스터 뷰어
 
 ClusterViewer 스택 시각화 모듈이 확대/축소 및 이미지 저장 기능을 포함하도록 향상되었습니다.
 
 
 
+[[storage-efficiency]]
 === 스토리지 효율성
 
 NetApp Cloud Insights에서 유지 관리 및 모니터링하는 시스템에 대한 스토리지 효율성 세부 정보를 볼 수 있습니다.
 
 
 
+[[14-october-2021]]
 == 2021년 10월 14일
 
 
 
+[[ansible-inventory]]
 === Ansible 인벤토리
 
 이제 지역 및 사이트 수준에서 .yml 및 .ini 파일 형식의 Ansible 재고 파일을 생성할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html["자세히 알아보기"].
 
 
 
+[[inactive-data-reporting-idr]]
 === 비활성 데이터 보고(IDR)
 
 FabricPool 어드바이저 화면에서 비활성 데이터 보고(IDR)를 활성화하여 애그리게이트를 모니터링하고 Ansible 플레이북을 생성할 수 있습니다.
 
 
 
+[[drift-timeline-report]]
 === 변경 사항 타임라인 보고서
 
 지난 90일의 AutoSupport 데이터를 비교하고 드리프트 타임라인 보고서를 생성할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_generate_drift_timeline_report.html["자세히 알아보기"].
 
 
 
+[[compliant-systems-toggle]]
 === 규정 준수 시스템 전환
 
 최소 OS 및 최신 OS 탭에 대한 토글으로 상태 점검 대시보드가 향상되어 권장 및 최신 버전의 최소 요구 사항을 준수하지 않고 규정을 준수하는 시스템을 볼 수 있습니다.
 
 
 
+[[key-recommendations-summary]]
 === 주요 권장 사항 요약
 
 Health Check 대시보드에서 상위 5개 주요 권장 사항에 대한 요약을 볼 수 있습니다.
 
 
 
+[[tabs-for-netapp-cloud-volumes-ontap-and-e-series-platforms]]
 === NetApp Cloud Volumes ONTAP and E-Series Platforms의 탭
 
 상태 점검 대시보드는 Cloud Volumes ONTAP** 및 E-Series 탭을 통해 개선되어 해당 플랫폼에 대한 상태 점검 KPI 및 세부 정보를 볼 수 있습니다.
@@ -693,22 +806,26 @@ Health Check 대시보드에서 상위 5개 주요 권장 사항에 대한 요�
 
 
 
+[[capacity]]
 === 용량
 
 Digital Advisor에서 NetApp Cloud Volumes ONTAP 시스템에 대한 용량 세부 정보를 볼 수 있습니다.
 
 
 
+[[reports]]
 === 보고서
 
 보고 일정은 12개월로 연장되었습니다. 일정 보고서가 만료될 예정이면 알림도 받게 됩니다.
 
 
 
+[[30-september-2021]]
 == 2021년 9월 30일
 
 
 
+[[customer-qualified-version]]
 === Customer Qualified Version(고객 대상 버전
 
 Customer Qualified Version은 지원 어카운트 관리자(SAM)가 다음과 같은 요구 사항이 필요한 애플리케이션을 호스팅하는 고객의 설치 기반 중 일부를 관리할 수 있도록 지원합니다.
@@ -719,28 +836,33 @@ Customer Qualified Version은 지원 어카운트 관리자(SAM)가 다음과 �
 
 
 
+[[technical-case-workflow]]
 === 기술 사례 워크플로우
 
 대시보드와 드릴다운 화면 모두에서 데이터 차트 및 선 그래프가 그래픽으로 개선되었습니다. 막대 그래프에서도 데이터를 볼 수 있습니다. 선 그래프 창에서는 이러한 사용자 인터페이스 모두에서 열기, 닫기 및 총 케이스의 그래프를 보고, 선택하고, 선택 취소할 수 있습니다.
 
 
 
+[[performance-graphs]]
 === 성능 그래프
 
 이제 CSV 형식 외에 PNG 및 JPG 형식의 성능 그래프를 다운로드할 수 있습니다.
 
 
 
+[[end-of-support-eos-controllers-beyond-12-months]]
 === 12개월 지원 종료(EOS) 컨트롤러
 
 상태 점검 대시보드는 12개월을 초과하는 EOS를 포함하는 컨트롤러를 표시하는 탭으로 개선되었습니다.
 
 
 
+[[16-september-2021]]
 == 2021년 9월 16일
 
 
 
+[[wellness]]
 === 건강
 
 * 이제 랜섬웨어 방어 위젯이 독립형 위젯 대신 Wellness Workflow에 포함됩니다.
@@ -749,22 +871,26 @@ Customer Qualified Version은 지원 어카운트 관리자(SAM)가 다음과 �
 
 
 
+[[capacity]]
 === 용량
 
 디지털 자문업체 에서 NetApp ONTAP ® Select 시스템의 용량 세부 정보를 확인할 수 있습니다.
 
 
 
+[[clusterviewer]]
 === 클러스터 뷰어
 
 ClusterViewer의 시각화 탭에서 케이블 연결 오류 및 기타 오류를 볼 수 있습니다.
 
 
 
+[[06-september-2021]]
 == 2021년 9월 6일
 
 
 
+[[storagegrid]]
 === StorageGRID
 
 * View AutoSupport(보기 로그): StorageGRID 및 기본 노드에 대한 AutoSupport 로그를 봅니다.
@@ -775,16 +901,19 @@ ClusterViewer의 시각화 탭에서 케이블 연결 오류 및 기타 오류�
 
 
 
+[[capacity-forecast]]
 === 용량 예측
 
 Capacity Forecast 위젯이 시스템 재구성을 보다 잘 지원하는 개선된 알고리즘으로 업데이트되었습니다. link:https://docs.netapp.com/us-en/active-iq/reference_aiq_faq.html#capacity["자세한 정보"].
 
 
 
+[[26-august-2021]]
 == 2021년 8월 26일
 
 
 
+[[digital-advisor-mobile-application]]
 === Digital Advisor 모바일 애플리케이션
 
 이제 Digital Advisor 모바일 애플리케이션에서 생체 인증을 활성화할 수 있습니다. 인증에 사용할 수 있는 옵션은 휴대폰에서 지원하는 기능에 따라 다릅니다.
@@ -794,50 +923,59 @@ link:https://apps.apple.com/us/app/active-iq/id1230542480["Digital Advisor Mobil
 
 
 
+[[wellness]]
 === 건강
 
 랜섬웨어 방어 특성으로 건강 위젯이 향상되었습니다. 이제 랜섬웨어 탐지, 예방 및 복구와 관련된 위험과 수정 조치를 볼 수 있습니다.
 
 
 
+[[16-august-2021]]
 == 2021년 8월 16일
 
 
 
+[[wellness-review]]
 === 웰빙 리뷰
 
 이제 주문형 보고서를 생성할 수 있습니다. 또한 Wellness Review Subscription(건강 검토 가입) 화면에서 마지막으로 예약된 보고서를 다운로드할 수 있습니다.
 
 
 
+[[inventory]]
 === 인벤토리
 
 이제 Grid Inventory(그리드 인벤토리) 탭에서 사이트 수준에 따라 확장 가능하고 축소할 수 있는 형식으로 노드 세부 정보를 볼 수 있습니다.
 
 
 
+[[mixed-model-cluster-flag]]
 === 혼합 모델 클러스터 플래그
 
 클러스터에서 혼합 하드웨어 모델이 있는 경우 클러스터 전체에 적용된 OS 버전이 모든 노드에서 사용할 수 있는 버전입니다. 그 결과, 최신 하드웨어 모델의 일부 노드에서 운영 체제 버전이 필요한 위치에서 다운받을 수 있습니다. 이러한 혼합 모델 클러스터를 더 잘 보이게 하기 위해 "혼합 모델" 아이콘을 적용했습니다.
 
 
 
+[[recommended-configuration-storage-virtual-machine-svm-health-volume-level-summary]]
 === 권장 구성/SVM(Storage Virtual Machine) 상태: 볼륨 레벨 요약
 
 SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일련 번호 또는 물리적 노드에 호스팅되거나 연결된 볼륨에 대한 자세한 정보가 "팝업"으로 표시됩니다.
 
 
 
+[[12-july-2021]]
 == 2021년 7월 12일
 
 
 
+[[system-firmware]]
 === 시스템 펌웨어
 
 이제 ONTAP의 주요 및 패치 버전과 함께 제공되는 시스템 펌웨어에 대한 정보를 볼 수 있습니다. 빠른 링크 메뉴에서 이 기능에 액세스할 수 있습니다.
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 * 상태 점검 대시보드는 상태 점수를 계산하는 동안 SupportEdge Advisor 및 SupportEdge Expert에서 지원하지 않는 시스템을 포함하지 않을 것임을 사용자에게 알리는 파란색 배너를 포함하도록 향상되었습니다.
@@ -848,12 +986,14 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[inventory]]
 === 인벤토리
 
 상세 인벤토리 페이지에서 하드웨어, 소프트웨어 및 반품 불가 디스크에 대한 지원 계약의 종료 날짜를 볼 수 있습니다.
 
 
 
+[[support-offering-upgrade]]
 === 지원 오퍼링 업그레이드
 
 * Digital Advisor에 가입되어 있는 특정 지원 서비스를 표시하도록 사용자 인터페이스가 향상되었습니다.
@@ -862,10 +1002,12 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[25-june-2021]]
 == 2021년 6월 25일
 
 
 
+[[keystone-subscription-widget]]
 === Keystone 구독 위젯
 
 * 용량 사용에 대한 데이터를 얻기 위해 ONTAP Collector를 선택한 경우 공유 및 디스크 탭에서 파일 공유 및 디스크의 세부 정보를 볼 수 있습니다. 커밋된 용량에 근접하는 용량을 식별하여 스토리지 공간을 절약할 수 있습니다.
@@ -874,22 +1016,26 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[17-june-2021]]
 == 2021년 6월 17일
 
 
 
+[[reports]]
 === 보고서
 
 이제 일, 주 또는 월 단위로 스토리지 VM의 모든 볼륨에 대한 애그리게이트 볼륨 성능 보고서를 생성할 수 있습니다.
 
 
 
+[[wellness-review-email]]
 === 건강 리뷰 이메일
 
 상태 점검 및 업그레이드 작업의 지원 및 소유 권한에 대한 정보를 포함하도록 건강 검토 이메일이 개선되었습니다.
 
 
 
+[[upgrade-workflow]]
 === 워크플로우 업그레이드
 
 * 사용자 인터페이스가 개선되어 정보에 대한 테이블 보기를 제공합니다.
@@ -898,6 +1044,7 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[config-drift]]
 === 구성 드리프트
 
 * 이제 Config Drift는 200개 이상의 AutoSupport 섹션을 지원하여 황금색 템플릿을 생성하고 고객, 사이트, 그룹, 감시 목록, 클러스터 간에 드리프트 보고서를 생성할 수 있습니다. 있습니다.
@@ -906,36 +1053,43 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 이 기능이 개선되어 스토리지 VM(SVM)과 사전 정의된 위험 카탈로그를 비교하여 격차를 평가하고 관련 수정 조치를 제안할 수 있습니다.
 
 
 
+[[09-june-2021]]
 == 2021년 6월 9일
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 이제 상태 점수가 계산된 시스템 수를 볼 수 있습니다. 이 개선 사항은 상태 점검 대시보드의 모든 속성에 적용됩니다.
 
 
 
+[[20-may-2021]]
 == 2021년 5월 20일
 
 
 
+[[drift-chat-for-capacity-addition-requests]]
 === 용량 추가 요청에 대한 드리프트 채팅
 
 용량 추가 요청에 대한 실시간 지원을 받으려면 대시보드에서 영업 담당자와 직접 채팅하십시오. link:https://docs.netapp.com/us-en/active-iq/task_identify_capacity_system.html["자세히 알아보기"].
 
 
 
+[[29-april-2021]]
 == 2021년 4월 29일
 
 
 
+[[protect-against-hackers-and-attacks]]
 === 해커와 공격으로부터 보호합니다
 
 * 해커와 랜섬웨어 공격으로부터 시스템을 보호하는 방법은 다음과 같습니다. link:https://docs.netapp.com/us-en/active-iq/task_increase_protection_against_hackers_and_Ransomware_attacks.html["자세히 알아보기"].
@@ -945,20 +1099,24 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[07-april-2021]]
 == 2021년 4월 7일
 
 
 
+[[watchlist]]
 === 시청목록
 
 처음 Digital Advisor에 액세스할 때 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.
 
 
 
+[[24-february-2021]]
 == 2021년 2월 24일
 
 
 
+[[config-drift]]
 === 구성 드리프트
 
 이 릴리즈에서는 다음과 같은 기능을 제공합니다.
@@ -970,16 +1128,19 @@ SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일�
 
 
 
+[[reports]]
 === 보고서
 
 용량 및 효율성 보고서를 생성하거나 예약하여 시스템의 용량 및 스토리지 효율성 절약에 대한 자세한 정보를 확인할 수 있습니다.
 
 
 
+[[10-february-2021]]
 == 2021년 2월 10일
 
 
 
+[[storagegrid]]
 === StorageGRID
 
 NextGen API 프레임워크를 사용하여 StorageGRID 대시보드를 사용할 수 있습니다.
@@ -1006,22 +1167,26 @@ StorageGRID 대시보드를 사용하여 Watchlist, Customer, Group 및 Site 수
 
 
 
+[[fabricpool-advisor]]
 === FabricPool 자문업체
 
 FabricPool 대시보드에 계층 데이터 버튼이 추가되어 NetApp BlueXP를 사용하여 저렴한 오브젝트 스토리지 계층에 데이터를 계층화할 수 있습니다.
 
 
 
+[[cloud-ready-workloads]]
 === 클라우드 지원 워크로드
 
 스토리지 시스템 내에서 사용 가능한 다양한 유형의 워크로드를 확인하고 클라우드에서 바로 사용할 수 있는 워크로드를 파악할 수 있습니다.
 
 
 
+[[21-december-2020]]
 == 2020년 12월 21일
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 다음 위젯이 대시보드에 추가되었습니다.
@@ -1032,96 +1197,113 @@ FabricPool 대시보드에 계층 데이터 버튼이 추가되어 NetApp BlueXP
 
 
 
+[[12-november-2020]]
 == 2020년 11월 12일
 
 
 
+[[integrating-data-using-apis]]
 === API를 사용하여 데이터 통합
 
 Digital Advisor API를 사용하여 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/concept_overview_API_service.html["자세한 정보"].
 
 
 
+[[wellness-upgrades-widget]]
 === 웰빙 업그레이드 위젯
 
 Enhanced Risk Advisor 및 Upgrade Advisor 탭을 사용하면 모든 시스템 위험을 확인하고 모든 위험을 완화하기 위한 업그레이드 계획을 수립할 수 있습니다.
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 권장 구성 위젯이 대시보드에 추가되었으며 원격 관리 위험, 스페어 및 장애가 발생한 드라이브 위험, HA 쌍 위험을 모니터링하는 시스템 수에 대한 요약을 제공합니다.
 
 
 
+[[fabricpool-advisor]]
 === FabricPool 자문업체
 
 비활성 로컬 계층(집계) 데이터, 비활성 볼륨 데이터, 계층형 데이터, IDR이 활성화되지 않은 데이터 등 네 가지 범주로 분류된 클러스터를 모니터링하여 스토리지 설치 공간과 관련 비용을 줄일 수 있습니다.
 
 
 
+[[localization-in-simplified-chinese-and-japanese]]
 === 중국어 간체 및 일본어 번역
 
 Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.
 
 
 
+[[reports]]
 === 보고서
 
 시스템의 물리적 및 논리적 구성에 대한 자세한 정보를 보려면 ClusterViewer 보고서를 생성하거나 예약할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_generate_reports.html["자세히 알아보기"].
 
 
 
+[[15-october-2020]]
 == 2020년 10월 15일
 
 
 
+[[health-check-dashboard]]
 === 상태 점검 대시보드
 
 Digital Advisor 상태 점검 대시보드에서는 전체 환경에 대한 시점 검토를 제공합니다. 상태 점검 점수를 기준으로, 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 설치 기반의 장기 계획을 지원하고 상태를 개선할 수 있습니다.
 
 
 
+[[config-drift]]
 === 구성 드리프트
 
 이 기능을 사용하면 시스템 구성과 클러스터 구성을 거의 실시간으로 비교하고 구성 편차를 감지할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_add_config_drift_template.html["구성 드리프트 템플릿을 추가하는 방법에 대해 알아봅니다"].
 
 
 
+[[autosupport]]
 === AutoSupport
 
 AutoSupport 데이터를 보고 세부 정보를 검토할 수 있습니다.
 
 
 
+[[wellness-review-subscription]]
 === Wellness Review 구독
 
 파트너는 갱신 날짜가 다가오고 설치 기반에 NetApp 제품을 업그레이드해야 하는 시스템의 상태 요약 이메일이 매달 수신되도록 구독할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_subscribe_to_wellness_review_email.html["지금 구독하십시오"].
 
 
 
+[[reports]]
 === 보고서
 
 보고서 기능을 사용하여 보고서를 즉시 생성하거나 주별 또는 월별 기준으로 보고서를 생성하도록 예약할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_generate_reports.html["자세히 알아보기"].
 
 
 
+[[manual-autosupport-upload]]
 === 수동 AutoSupport 업로드
 
 사용자 환경을 개선하기 위해 수동 AutoSupport 업로드가 개선되었습니다. 업로드 상태에 대한 설명을 위해 추가 열이 제공되었습니다.
 
 
 
+[[keystone-subscription-widget]]
 === Keystone 구독 위젯
 
 NetApp Keystone 구독 서비스에서 커밋된 스토리지 용량, 사용된 스토리지 용량 및 버스트 스토리지 용량을 모니터링할 수 있습니다.
 
 
 
+[[30-september-2020]]
 == 2020년 9월 30일
 
 
 
+[[aff-and-fas-firmware-using-ansible-playbook]]
 === Ansible 플레이북을 사용한 AFF 및 FAS 펌웨어
 
 AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드, 설치 및 실행하는 방법에 대한 정보를 포함하도록 설명서가 개선되었습니다.
@@ -1130,172 +1312,203 @@ link:https://docs.netapp.com/us-en/active-iq/task_update_AFF_FAS_firmware.html["
 
 
 
+[[18-august-2020]]
 == 2020년 8월 18일
 
 
 
+[[performance]]
 === 성능
 
 성능 그래프가 개선되어 볼륨 성능을 평가할 수 있습니다. 동일한 화면에서 노드 탭, 클러스터 탭, 로컬 계층 탭 및 볼륨 탭 간을 이동하거나 전환할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_view_performance_graphs.html["자세히 알아보기"].
 
 
 
+[[aff-and-fas-firmware-using-ansible-playbook]]
 === Ansible 플레이북을 사용한 AFF 및 FAS 펌웨어
 
 AFF 및 FAS 펌웨어 화면이 향상되어 더 나은 사용자 환경을 제공합니다.
 
 
 
+[[17-july-2020]]
 == 2020년 7월 17일
 
 
 
+[[performance]]
 === 성능
 
 성능 그래프가 향상되어 로컬 계층의 성능을 평가할 수 있습니다. 동일한 화면에서 노드 탭, 클러스터 탭 및 로컬 계층 탭을 탐색하고 전환할 수 있습니다.
 
 
 
+[[wellness]]
 === 건강
 
 조치 및 위험에 대해 드릴다운할 필요 없이 영향 받는 모든 시스템을 볼 수 있도록 웰니스 특성이 향상되었습니다.
 
 
 
+[[19-june-2020]]
 == 2020년 6월 19일
 
 
 
+[[generate-report-for-inventory]]
 === 재고에 대한 보고서를 생성합니다
 
 이제 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 이메일로 보낼 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_view_inventory_details.html["자세히 알아보기"].
 
 
 
+[[performance]]
 === 성능
 
 성능 그래프가 향상되어 스토리지 시스템의 클러스터 성능을 평가할 수 있습니다. 동일한 화면에서 노드 탭과 클러스터 탭 간에 탐색 및 전환할 수 있습니다.
 
 
 
+[[storage-efficiency]]
 === 스토리지 효율성
 
 클러스터 레벨에서 스토리지 효율성 비율 및 절감 효과를 볼 수 있도록 스토리지 효율성 위젯이 개선되었습니다. 동일한 화면에서 노드 탭과 클러스터 탭 간에 탐색 및 전환할 수 있습니다.
 
 
 
+[[update-the-default-home-page]]
 === 기본 홈 페이지를 업데이트합니다
 
 이제 피드백을 제공하고 Digital Advisor의 기본 홈 페이지 화면을 업데이트하는 이유를 알려 주십시오.
 
 
 
+[[update-to-the-inventory-widget]]
 === 재고 위젯으로 업데이트합니다
 
 재고 위젯은 사용자에게 친숙한 날짜 형식, 플랫폼 지원 종료를 위한 추가 열 및 버전 지원 종료를 제공하여 사용자 환경을 개선하도록 개선되었습니다.
 
 
 
+[[19-may-2020]]
 == 2020년 5월 19일
 
 
 
+[[set-the-default-home-page]]
 === 기본 홈 페이지를 설정합니다
 
 이제 Digital Advisor의 기본 홈 페이지 화면을 설정할 수 있습니다. Digital Advisor 또는 Classic로 설정할 수 있습니다.
 
 
 
+[[storage-efficiency]]
 === 스토리지 효율성
 
 AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본 유무와 관계없이 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_analyze_storage_efficiency.html["자세히 알아보기"].
 
 
 
+[[performance]]
 === 성능
 
 성능 그래프를 통해 다양한 주요 영역에서 스토리지 장치의 성능을 평가할 수 있습니다.
 
 
 
+[[aff-and-fas-firmware-upgrades-using-ansible-playbook]]
 === Ansible 플레이북을 사용하여 AFF 및 FAS 펌웨어 업그레이드
 
 식별된 위험을 완화하고 스토리지 시스템을 최신 상태로 유지하기 위해 스토리지 시스템에서 Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하십시오.
 
 
 
+[[disabling-the-wellness-score-feature]]
 === 웰빙 점수 기능을 비활성화합니다
 
 점수 부여 알고리즘을 개선하고 전반적인 경험을 단순화하기 위해 웰빙 점수 기능이 일시적으로 비활성화되었습니다.
 
 
 
+[[02-april-2020]]
 == 2020년 4월 2일
 
 
 
+[[onboarding-overview-video]]
 === 온보딩 개요 비디오
 
 온보딩 비디오는 사용자가 Digital Advisor의 옵션 및 기능을 빠르게 익힐 수 있도록 도와줍니다.
 
 
 
+[[wellness-score]]
 === 건강 점수
 
 Wellness score는 높은 위험 수와 만료된 계약을 기준으로 고객에게 설치 기반의 통합 점수를 제공합니다. 점수는 양호, 평균 또는 불량일 수 있습니다.
 
 
 
+[[risk-summary]]
 === 위험 요약
 
 위험 요약은 위험, 위험의 영향, 시정 조치에 대한 자세한 정보를 제공합니다.
 
 
 
+[[support-for-acknowledging-and-disregarding-risks]]
 === 위험 인정 및 무관용 지원
 
 위험을 완화하거나 완화하지 않으려는 경우 위험을 확인하는 옵션을 제공합니다.
 
 
 
+[[19-march-2020]]
 == 2020년 3월 19일
 
 
 
+[[upgrade-workflow]]
 === 워크플로우 업그레이드
 
 업그레이드 워크플로우를 사용하여 타겟 ONTAP 릴리즈에서 사용할 수 있는 새로운 기능과 업그레이드 권장 사항을 확인할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html["자세히 알아보기"].
 
 
 
+[[valuable-insights]]
 === 가치 있는 통찰력
 
 Digital Advisor 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 볼 수 있습니다. 선택한 시스템의 경우 Value 보고서는 지난 1년간의 이점을 통합합니다. link:https://docs.netapp.com/us-en/active-iq/task_view_valuable_insight_widget.html["지금 보기"].
 
 
 
+[[drill-into-details]]
 === 세부 정보를 상세히 파악
 
 보다 심층적인 정보를 제공합니다. 이 정보를 통해 데이터를 보다 심도 있게 파헤치고 필요한 경우 집계된 정보의 구성 정보를 즉시 파악할 수 있습니다.
 
 
 
+[[capacity-additions]]
 === 용량 추가
 
 용량을 초과하거나 용량이 90% 가까이 있는 시스템을 능동적으로 식별하고 용량 확장 요청을 보낼 수 있습니다.
 
 
 
+[[29-february-2020]]
 == 2020년 2월 29일
 
 
 
+[[enhanced-user-interfaces]]
 === 향상된 사용자 인터페이스
 
 최신 Digital Advisor 대시보드는 맞춤형 환경을 제공합니다. 직관적인 인터페이스를 통해 다양한 대시보드, 위젯 및 화면 전반에 걸쳐 원활하고 원활하게 탐색할 수 있습니다. 올인원 환경을 제공합니다. 비교, 관계 및 추세를 전달합니다. 다양한 대시보드에서 제공하는 데이터를 기반으로 중요한 관계와 의미 있는 차이를 감지하고 검증하는 데 도움이 되는 통찰력을 제공합니다.
 
 
 
+[[customizable-dashboards]]
 === 맞춤형 대시보드
 
 하나 이상의 페이지 또는 화면에서 데이터에 대한 주요 통찰력과 분석 기능을 제공하여 시스템을 한 눈에 모니터링할 수 있습니다. 최대 10개의 대시보드를 만들고 효과적인 비즈니스 결정을 내릴 수도 있습니다.
@@ -1304,12 +1517,14 @@ link:https://docs.netapp.com/us-en/active-iq/concept_overview_dashboard.html["�
 
 
 
+[[mitigate-risks-using-active-iq-unified-manager]]
 === Active IQ Unified Manager를 사용하여 위험 완화
 
 Active IQ Unified Manager를 사용하여 위험을 보고 수정할 수 있습니다. link:https://docs.netapp.com/us-en/active-iq/task_view_risks_remediated_unified_manager.html["자세히 알아보기"].
 
 
 
+[[wellness]]
 === 건강
 
 다음 6개 위젯으로 분류된 스토리지 시스템의 상태에 대한 자세한 정보를 제공합니다.
@@ -1326,6 +1541,7 @@ Active IQ Unified Manager를 사용하여 위험을 보고 수정할 수 있습�
 
 
 
+[[smarter-and-faster-search]]
 === 더 스마트하고 빠른 검색
 
 일련 번호, 시스템 ID, 호스트 이름, 사이트 이름, 그룹 이름 등의 매개 변수를 검색할 수 있습니다. 클러스터 이름은 단일 시스템 뷰를 사용하여 지정합니다. 또한 시스템 그룹을 검색할 수 있으며 시스템 그룹별로 고객 이름, 사이트 이름 또는 그룹 이름으로 검색할 수도 있습니다.

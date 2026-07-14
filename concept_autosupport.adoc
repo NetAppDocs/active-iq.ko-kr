@@ -36,6 +36,6 @@ AutoSupport에 대한 자세한 내용은 해당 문서를 참조하십시오.
 * link:https://docs.netapp.com/us-en/storagegrid-117/admin/what-is-autosupport.html["StorageGRID"^]
 * link:https://docs.netapp.com/us-en/e-series-santricity/sm-support/autosupport-feature-overview.html["SANtricity(E-Series 및 EF-Series)"^]
 * link:https://docs.netapp.com/us-en/solidfire-active-iq/concept-active-iq-learn-about-active-iq.html["요소(NetApp HCI 및 SolidFire)"^]
-* link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444pdf.pdf["기술 보고서 - ONTAP AutoSupport and AutoSupport On Demand"^]
+* link:https://www.netapp.com/pdf.html?item=/media/10438-tr-4444.pdf["기술 보고서 - ONTAP AutoSupport and AutoSupport On Demand"^]
 * link:https://www.netapp.com/pdf.html?item=/media/10439-tr4688pdf.pdf["기술 보고서 - NetApp 원격 측정 데이터의 보안 및 개인 정보 보호"^]
 

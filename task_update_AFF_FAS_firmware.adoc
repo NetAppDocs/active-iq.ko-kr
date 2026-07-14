@@ -20,6 +20,7 @@ Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하여 식별된 �
 
 
 
+[[before-you-begin]]
 == 시작하기 전에
 
 Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하기 전에 다음을 수행해야 합니다.

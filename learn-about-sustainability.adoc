@@ -28,6 +28,7 @@ Sustainability 대시보드를 이해하기 위해 다음 비디오를 볼 수 �
 video::yNRHeOvbGX8[youtube,width=848,height=480]
 
 
+[[benefits-of-sustainability]]
 == 지속 가능성의 이점
 
 지속 가능성은 다음과 같은 이점을 제공합니다.

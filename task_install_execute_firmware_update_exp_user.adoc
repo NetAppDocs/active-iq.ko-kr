@@ -20,6 +20,7 @@ summary: Ansible 플레이북을 사용하여 펌웨어 업데이트를 설치 �
 
 
 
+[[firmware-update-with-ansible-using-netapp-docker-image]]
 == NetApp Docker Image를 사용하여 Ansible으로 펌웨어 업데이트
 
 .단계
@@ -75,6 +76,7 @@ NOTE: 디스크 펌웨어, 쉘프 펌웨어 및 서비스 프로세서 펌웨어
 
 
 
+[[firmware-update-if-ansible-is-already-used]]
 == Ansible이 이미 사용 중인 경우 펌웨어 업데이트
 
 .단계

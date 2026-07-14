@@ -543,7 +543,6 @@
   <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp 소유 특허 목록은 다음 사이트에서 확인할 수 있습니다.</block>
   <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인 정보 보호 정책</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="inline-link-macro">NetApp 커뮤니티</block>
-  <block id="2250dada69ecec08ffc29ac659683495" category="inline-link-macro">설명서 리소스</block>
   <block id="2fc27556f44d8a6724ac003effded441" category="inline-link-macro">NetApp 원격 측정 데이터의 보안 및 개인 정보 보호</block>
   <block id="338fec277abf8dd8a9f3f83288b2911d" category="inline-link-macro">ONTAP AutoSupport 및 AutoSupport 온디맨드</block>
   <block id="6fda8feb3296b57c0c20a9ab7542ac2a" category="paragraph">다음 정보를 읽고 스토리지 시스템에서 지원되는 위젯을 숙지하십시오.</block>
@@ -1019,7 +1018,6 @@
   <block id="373fd27c1797dca500c6c9dbce1225f7" category="paragraph">웹 서버는 여러 가지 방법으로 설정할 수 있습니다. Python을 사용하여 간단한 웹 서버를 설정하는 방법은 을 참조하십시오 <block ref="303512ecf00930b786dea080d96799d8" category="inline-link-macro-rx"></block>.</block>
   <block id="d3b731ac977fc38e625943ab24125e73" category="list-text">로 이동합니다 <block ref="6ea90873ff127896ae7a3eaf21cda455" category="inline-link-macro-rx"></block> 로그인 페이지.</block>
   <block id="2cf504c669255f96f48e417bf3c86399" category="paragraph">ONTAP 시스템의 경우 스토리지 시스템을 처음 구성할 때 AutoSupport가 기본적으로 설정됩니다. 당신은 해야 한다 <block ref="03ce3f8b24f3ba6194d1a4f01375a3eb" category="inline-link-macro-rx"></block> ONTAP 시스템에서 AutoSupport 정보가 기술 지원 부서 및 내부 지원 조직에 전송되는 방식을 제어합니다.</block>
-  <block id="836b35da2a4494ce20730d485e090b9b" category="list-text"><block ref="836b35da2a4494ce20730d485e090b9b" category="inline-link-macro-rx"></block></block>
   <block id="58789b5243f3cbb2a8a30f59de135896" category="list-text"><block ref="58789b5243f3cbb2a8a30f59de135896" category="inline-link-macro-rx"></block></block>
   <block id="155b92b0d3df6f08f7a22ee41987478d" category="paragraph">FabricPool에 대한 자세한 내용은 을 참조하십시오 <block ref="95721715db0d24514cff915b8dac95f3" category="inline-link-macro-rx"></block>.</block>
   <block id="c9a7e25beb9575351b078da21d059517" category="list-text">* 기술 케이스 *: 선택 가능한 시간 범위에 대한 기술 케이스 내역, 케이스 유형 및 진행 상태 또는 종료 상태별 상세 보기를 제공합니다.  케이스 그룹으로 드릴다운하고 에서 케이스 세부 정보를 볼 수 있습니다 <block ref="4052dc01853e78687038691ab3fc5cc0" category="inline-link-macro-rx"></block> 또는 기타 케이스 포털입니다.</block>
@@ -1029,7 +1027,6 @@
   <block id="78c1cfc20c22b33386b17ebe2a0a7d64" category="list-text"><block ref="78c1cfc20c22b33386b17ebe2a0a7d64" category="inline-link-macro-rx"></block></block>
   <block id="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="list-text"><block ref="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="inline-link-macro-rx"></block></block>
   <block id="2eb6f862ee3ec494c6f43826c23b83da" category="list-text"><block ref="2eb6f862ee3ec494c6f43826c23b83da" category="inline-link-macro-rx"></block></block>
-  <block id="847b7c4d19d7d7ef0daee103975b7b83" category="list-text"><block ref="847b7c4d19d7d7ef0daee103975b7b83" category="inline-link-macro-rx"></block></block>
   <block id="8934fed115a0b826a4b438906a11bfa9" category="doc">Sustainability 대시보드 개요</block>
   <block id="e3667627bec4bfd6e60dea46e855352c" category="inline-image-macro">사이트의 탄소 완화 비율과 이 비율을 편집하는 방법을 보여 주는 스크린샷.</block>
   <block id="369583cace99a57a955a633843c9e566" category="paragraph"><block ref="369583cace99a57a955a633843c9e566" category="inline-image-macro-rx" type="image"></block></block>
@@ -1310,7 +1307,6 @@
   <block id="8e4743bb176d909e65d015847fc93346" category="admonition">지속 가능성 점수는 처음에 클러스터 수준에서 계산된 다음 고객 또는 시청자 목록 수준과 같은 다른 수준에서 집계됩니다.</block>
   <block id="a6cba69e97a9115b21cbf35b24b33d83" category="section-title">2024년 7월 4일</block>
   <block id="2a4b13cd943c24cfe2735c05922d1427" category="list-text"><block ref="2a4b13cd943c24cfe2735c05922d1427" category="inline-link-macro-rx"></block></block>
-  <block id="7581b2408d4adfb3df4e98d5f1f96473" category="list-text"><block ref="7581b2408d4adfb3df4e98d5f1f96473" category="inline-link-macro-rx"></block></block>
   <block id="788b77f1903c86b79d6ab3fa3aeac01e" category="section-title">2024년 8월 21일</block>
   <block id="fc1d748db1b5b488ce7af7d17ea15d55" category="inline-link-macro">소프트웨어 버전 지원</block>
   <block id="846815401f996d92d6775164d37e6015" category="inline-link-macro">7-Mode에서 운영 중인 Data ONTAP 스토리지 시스템의 업그레이드</block>
@@ -1618,4 +1614,6 @@
   <block id="e20432694f9004583c0756c875ad9910" category="cell">지난 30일 동안 AutoSupport를 전송하지 않은 시스템</block>
   <block id="17666cbe1713f97c57ab98489a603022" category="paragraph">위에 나열된 영향을 받는 시스템에서 AutoSupport를 다시 실행하여 상태 점검 보기의 현재 데이터를 복원하십시오.</block>
   <block id="f210e90dbf694c894759f78cc6d8b222" category="section-title">2026년 6월 29일</block>
+  <block id="78c07c506154e08621f506935129d56b" category="list-text"><block ref="78c07c506154e08621f506935129d56b" category="inline-link-macro-rx"></block></block>
+  <block id="47f181ab6ea1bbd9a2696556081c4ba8" category="list-text"><block ref="47f181ab6ea1bbd9a2696556081c4ba8" category="inline-link-macro-rx"></block></block>
 </blocks>

@@ -23,6 +23,7 @@ summary: 보유한 전체 재고에 대한 정보를 제공합니다.
 video::ttbpbT5uTBI[youtube,width=848,height=480]
 
 
+[[view-system-details]]
 == 시스템 세부 정보를 봅니다
 
 .단계
@@ -37,6 +38,7 @@ Ansible 인벤토리 파일을 맞춤형 Ansible 플레이북 파일과 함께 �
 
 
 
+[[view-support-entitled-switch-details]]
 == 지원 권한이 있는 스위치 세부 정보 보기
 
 .단계
