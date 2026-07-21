@@ -1331,7 +1331,6 @@
   <block id="39ca8580b0e6a065fa25faac2a2acc86" category="inline-link-macro">펌웨어 업데이트 권장 사항을 보는 방법에 대해 알아봅니다</block>
   <block id="af79dd5dc56c84e383198dba47e6f6fe" category="paragraph">이제 업데이트에 권장되는 스토리지 펌웨어, SP/BMC 펌웨어 및 ARP(자율적 랜섬웨어 패키지)를 볼 수 있습니다. <block ref="bb189956f648b21665d5198deffedcc8" category="inline-link-macro-rx"></block>..</block>
   <block id="e3f867c1e04dce86520c139a0ae60b18" category="section-title">2024년 12월 12일</block>
-  <block id="85384a7ec038b3ed06c50841a285d5fc" category="summary">스토리지 펌웨어, SP/BMC 펌웨어, 시스템 파일 및 보안 파일에 대한 업데이트 권장 사항을 봅니다.</block>
   <block id="432405c0f2c1d2289f6d8e3b11ebfd8b" category="doc">펌웨어 업데이트 권장 사항을 봅니다</block>
   <block id="789b0be6ddd32dcc2218519990c16b5c" category="paragraph">이제 고객은 Control Tower가 최신 펌웨어 버전으로 시스템을 자동으로 업데이트함으로써 시간과 노력을 절약할 수 있으므로 수동 개입이나 예약 작업이 필요하지 않습니다. 이 업데이트는 오래되거나 호환되지 않는 펌웨어 버전으로 인해 문제가 발생할 위험을 줄여 최적의 시스템 성능, 안정성 및 보안을 보장합니다.</block>
   <block id="715a43f582d65ce08f118788f9800f7d" category="paragraph">고객은 AutoSupport 및 자동 업데이트 설정을 활성화하는 옵션과 함께 펌웨어 업데이트 상태에 대한 알림 및 경고를 적시에 받게 됩니다.</block>
@@ -1501,7 +1500,6 @@
   <block id="72b48ce9fe92eb0c8e3daa730f3b40d4" category="list-text">갱신할 스토리지 시스템을 선택하고 *갱신*을 클릭하십시오.</block>
   <block id="af8b8a799d4d3f00f43e2a15c03d0b3e" category="doc">Digital Advisor 에서 지원 계약을 갱신하세요.</block>
   <block id="fec0069eb53aaf302edb450eb9a816d9" category="doc">Digital Advisor 에서 제공하는 스토리지 시스템 상태 알림을 구독하세요.</block>
-  <block id="f7f16f63ab4db119d5fadbab01ead079" category="paragraph">웰니스 검토 이메일을 구독하시면 매달 웰니스 상태 요약, 갱신일이 임박한 스토리지 시스템, 설치된 NetApp 제품 기반에서 업그레이드가 필요한 스토리지 시스템에 대한 정보를 받아보실 수 있습니다. 매월 스토리지 시스템 현황을 요약해서 보여드리는 이메일을 받으실 것이며, 해당 이메일을 통해 필요한 조치를 취하실 수 있습니다. 구독 내역을 보고, 수정하고, 공유하고, 삭제할 수도 있습니다. 언제든지 이메일 수신을 원하지 않으시면 수신 거부를 하실 수 있습니다.</block>
   <block id="35aedce653ee05a4fca3b7e9369bfd70" category="doc">Digital Advisor 에서 AFF 및 FAS 펌웨어 Ansible 패키지를 다운로드하십시오.</block>
   <block id="36d1684f85846e6901819bfb095f4fc7" category="doc">Digital Advisor 에서 지원 서비스를 업그레이드하세요.</block>
   <block id="6c96fdceac3302fe4a465f308ef622a1" category="doc">스토리지 시스템에 AFF 및 FAS 펌웨어가 설치되었는지 확인하십시오.</block>
@@ -1616,4 +1614,11 @@
   <block id="f210e90dbf694c894759f78cc6d8b222" category="section-title">2026년 6월 29일</block>
   <block id="78c07c506154e08621f506935129d56b" category="list-text"><block ref="78c07c506154e08621f506935129d56b" category="inline-link-macro-rx"></block></block>
   <block id="47f181ab6ea1bbd9a2696556081c4ba8" category="list-text"><block ref="47f181ab6ea1bbd9a2696556081c4ba8" category="inline-link-macro-rx"></block></block>
+  <block id="3cf43920c00fe2ea8865c490f81428d4" category="doc">웰니스 리뷰 서비스 중단 안내</block>
+  <block id="b5b841825c6795b46db86f189bb6b292" category="paragraph">Wellness Review 기능은 더 이상 사용되지 않으며, 2026년 7월부터 Digital Advisor에서 이용할 수 없습니다.</block>
+  <block id="8bf92def06a2ea580eaed76255b63119" category="paragraph">문의 사항이 있거나 의견을 공유하려면 ng-activeiq-feedback@netapp.com으로 Active IQ 팀에 문의하세요.</block>
+  <block id="593b7503b2bb0ab3939f80c599e28d01" category="section-title">2026년 7월 15일</block>
+  <block id="0e1f11a16da786670316988e6939f0dc" category="paragraph">설치된 기반의 NetApp 제품에 대한 건강 상태, 갱신 예정일이 임박한 스토리지 시스템, 업그레이드가 필요한 스토리지 시스템을 요약하는 월간 건강 상태 점검 이메일을 구독할 수 있습니다. 월간 요약을 확인하고 스토리지 시스템에 필요한 조치를 취할 수 있도록 건강 상태 점검 이메일을 받게 됩니다.</block>
+  <block id="5dc75508ba4ef965dd5e67e824749acf" category="paragraph">구독 내역을 보고, 수정하고, 공유하고, 삭제할 수도 있습니다. 언제든지 이메일 수신을 원하지 않으면 구독을 취소할 수 있습니다.</block>
+  <block id="9700c329d00878c280440dc2e026802a" category="summary">스토리지 펌웨어, SP 및 BMC 펌웨어, 시스템 파일, 보안 파일에 대한 업데이트 권장 사항을 확인하십시오.</block>
 </blocks>
