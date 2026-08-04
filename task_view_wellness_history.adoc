@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task_view_wellness_history.html 
-keywords: wellness history, risks, wellness, view all actions, risk history, 
+keywords: wellness history, risks, wellness, view all actions, risk history 
 summary: 시스템 위험 및 건강 기록을 보는 방법에 대한 정보를 제공합니다. 
 ---
 = Digital Advisor 에서 스토리지 시스템 위험 이력을 확인하세요.

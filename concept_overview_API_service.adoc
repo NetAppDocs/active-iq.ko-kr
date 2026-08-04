@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: concept_overview_API_service.html 
-keywords: API services, access token, refresh token, API Catalog 
+keywords: api services, access token, refresh token, api catalog 
 summary: API 서비스 기능에 대한 개요를 제공합니다. 
 ---
 = Digital Advisor API 서비스에 대해 알아보세요.

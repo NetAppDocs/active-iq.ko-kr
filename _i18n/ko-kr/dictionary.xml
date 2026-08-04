@@ -72,39 +72,21 @@
   <block id="4607346b33eee4e6a2891bed9f7bd75f" category="paragraph">* 사용되는 물리적 데이터와 사용되는 논리적 데이터는 무엇입니까? *</block>
   <block id="fa23175e7bcd622e3124ac47ad2ac225" category="list-text">물리적 블록 사용/물리적 데이터 사용</block>
   <block id="eccc5f12f48e88329c29d59f7fb7399f" category="list-text">현재 데이터에 사용 중인 공간(향후 사용을 위해 예약되지 않음)</block>
-  <block id="c299ceefe4739c6609844682b86349c4" category="list-text">Aggregate Snapshot 복사본에서 사용하는 공간을 포함합니다</block>
   <block id="fa72b749302bf3b8957c8abf2acf2d82" category="list-text">클라이언트가 실제로 사용/기록하는 공간입니다</block>
   <block id="de71714b6d790e6f2a901c6c63045604" category="list-text">사용된 총 논리적 데이터</block>
   <block id="522573efa17813e55f87c7cbae5c665d" category="list-text">Aggregate에 사용된 논리적 크기를 표시합니다.</block>
-  <block id="76961ec33cf185290a8b0dced033a18b" category="list-text">여기에는 애그리게이트의 볼륨, 클론 및 스냅샷이 포함됩니다.</block>
   <block id="43f302f7ba1d2f90ab1fb1a174f89e61" category="list-text">논리적 크기는 물리적 사용량(실제 쓰기) 및 애그리게이트에서 얻어진 절약에 따라 계산됩니다.</block>
   <block id="770b033112d1f3ec483eae3f0376cba5" category="list-text">향후 사용을 위해 예약된 공간은 포함되지 않습니다</block>
   <block id="fee1bf4ad7d1f9d9f0b5840dbdfc417a" category="list-text">루트 애그리게이트</block>
   <block id="174527e8830337d88ba77cf782633189" category="list-text">오프라인 볼륨</block>
   <block id="872d1e8c2f7648403bbfc1b139c3b484" category="list-text">SVM 루트/관리 루트 볼륨</block>
   <block id="2e3f400b5c42bd491bb0b106dbc41434" category="list-text">MCC 구성 볼륨</block>
-  <block id="5104ffb6ada9a72f38b9cfe6696d45ef" category="paragraph">스냅샷 복사본 없음(먼저 애그리게이트 당 계산됨):</block>
   <block id="aee8bfb2d0d5d3e3c92513c62e58c58e" category="cell">* 운영 *</block>
   <block id="fa556b827144248698e8b0105e5108b3" category="cell">* 수식 *</block>
-  <block id="8cc25718cb08fca5f9a9711a17f71e9b" category="cell">스냅샷 복사본 없이 애그리게이트 논리적 사용</block>
-  <block id="93e1642b9a2163d0e286ed5b4dd986a4" category="cell">볼륨, 클론, Aggregate의 스냅샷 복사본에서 사용하는 논리적 크기 - 스냅샷 복사본에 사용되는 논리적 크기입니다</block>
-  <block id="c13349c903de3c465840d6a0c76af43c" category="cell">스냅샷 복사본 없이 애그리게이트 물리적 사용</block>
-  <block id="08cef9a368702eeeac7161ce30e64036" category="cell">스냅샷 복사본이 없는 고객 효율성 비율</block>
-  <block id="f567b2b8924d3eb6ec09c5dc410cbffc" category="cell">Sum [Aggregr Logical Used Without Snapshot copies for all aggregate and for all nodes of a customer]/Sum [Aggregr Physical used without Snapshot copies for all aggregate and for all nodes of a customer]:1. 합계 [고객의 모든 애그리게이트와 모든 노드에 대해 스냅샷 복사본 없이 물리적 사용됨]: 1</block>
-  <block id="202ef30b2f3a15d4c82c8b78c06fa753" category="paragraph">스냅샷 복사본:</block>
-  <block id="888f76b18cd7638b969e9ac5eebc981e" category="cell">스냅샷 복사본이 있는 고객의 논리적 크기</block>
-  <block id="5e172371942a821fe719bb9927e028ac" category="cell">합계 [볼륨, 클론, 스냅샷 복사본에서 사용하는 논리 크기로, 모든 애그리게이트 및 고객의 모든 노드에 대해 사용됨]</block>
-  <block id="ad553b325f74022f6cdb9816eef8e372" category="cell">스냅샷 복사본에 사용되는 고객의 물리적 크기입니다</block>
   <block id="caac557a2f6913ad1dc30764cebdcb51" category="cell">합계 [모든 애그리게이트 및 고객의 모든 노드에 사용된 총 물리적 크기]</block>
-  <block id="ef57ca9e5d4bfb77cfc6e251d21a1763" category="cell">스냅샷 복사본을 사용한 고객 효율성 비율</block>
-  <block id="94ac4db23e5bf0c5c79c132d9e499226" category="cell">스냅샷 복사본 및 클론/고객 물리적 크기를 사용하는 고객의 논리적 크기 스냅샷 복사본 및 클론과 함께 사용됨: 1</block>
   <block id="504e36e2268a4abc438382c6e58210df" category="paragraph">효율성 기능 테이블 계산:</block>
   <block id="b12bcb5d643bed309360544737bf24d4" category="cell">고객의 물리적 공간이 사용됩니다</block>
   <block id="d27940afaa3670698836aa97aaaf5284" category="cell">모든 애그리게이트 및 고객 모든 노드에 대해 Aggregate에서 사용하는 물리적 공간의 합계입니다</block>
-  <block id="625abfc517917229cf36b11cf3bdec00" category="cell">스냅샷 복사본 없이 사용되는 고객의 논리적 크기입니다</block>
-  <block id="cac9b390967d1a57de89a94a58768553" category="cell">볼륨, 클론, 스냅샷 복사본에서 사용하는 논리적 크기의 합 - 고객의 모든 노드에 대해 스냅샷 복사본이 사용하는 논리적 크기입니다</block>
-  <block id="35861b17dd609cc6e380a872314d8539" category="cell">스냅샷 복사본에 사용되는 고객의 논리적 크기입니다</block>
-  <block id="f4c53520bd67a034cfda9f5ab6850807" category="cell">볼륨, 클론, 스냅샷 복사본이 고객의 모든 노드 집계에 사용하는 논리적 크기의 합계입니다</block>
   <block id="32fe127357a619e7e7f62af1d2f3819c" category="cell">총 공간이 저장되었습니다</block>
   <block id="39769b329c3be86894154b7e697acdb4" category="cell">사용된 총 논리적 공간 – 사용된 총 물리적 공간</block>
   <block id="755336e4aa89a7752f104b5a608365fc" category="cell">중복제거 절약</block>
@@ -118,7 +100,6 @@
   <block id="57b49fee86d691b1f71efb03f0ec9eb6" category="cell">FlexClone 절감</block>
   <block id="0399cea9f76ca035b776ca55a99908ef" category="cell">FlexClone 볼륨에서 사용하는 논리적 크기 - FlexClone 볼륨에서 사용하는 물리적 크기 고객의 모든 노드 각각의 애그리게이트의 총 합입니다</block>
   <block id="9eb91200dfeecc085364dc670f2b9143" category="cell">스냅샷 복사본 백업 절감액</block>
-  <block id="1f5c59c0f85bb3e3a1746576ff27a1f2" category="cell">고객의 모든 노드에 대한 모든 애그리게이트의 총(스냅샷 복사본이 사용하는 논리적 크기 - 스냅샷 복사본이 사용하는 물리적 크기)입니다</block>
   <block id="3b8f7696879f77dfc8c74aa8df8db24b" category="section-title">용량</block>
   <block id="97b94c75518b90d30aeab5f6ccdd903e" category="cell">* 용량 *</block>
   <block id="2c132960410953edab40f07fdeedf275" category="cell">* 각 집계를 추가하여 계산됨… *</block>
@@ -133,11 +114,8 @@
   <block id="6bec843fabf7f6cd4135638b444c3d76" category="cell">물리적 용량(실제)</block>
   <block id="bb5423bbb1fc0323b5236bc5dc1d9e20" category="cell">“AGGR-Efficiency.xml”에 사용된 총 물리적 용량</block>
   <block id="1e1a0981d9d71863eca6149c902bbb20" category="cell">논리적 용량(실제 용량)</block>
-  <block id="dcf1f48a16982fe7600e5723a145d50f" category="cell">"AGGR-Efficiency.xml" 집계 내의 볼륨, 클론 및 스냅샷 복사본에 사용되는 논리적 크기</block>
-  <block id="c3b80bbabb8e4b1ce4ee6427b05862ed" category="paragraph">* 로컬 계층(스냅샷 복사본으로 애그리게이트) *</block>
   <block id="0316961c4a7633e0b942acc96b6339e9" category="cell">*… * 를 사용하여 계산됩니다</block>
   <block id="2c5ce898cb91b251aea8073cb30504b1" category="cell">"DF-A"의 KB(할당됨)</block>
-  <block id="b91181e4331aac3998cc67a3414d845b" category="paragraph">* 볼륨(스냅샷 복사본이 있는 볼륨) * 의 경우</block>
   <block id="69ba447dc5e9ab1619f330f106eabbf3" category="cell">볼륨 용량</block>
   <block id="031c81f326ba7c94b87e1cb512182696" category="cell">"volume.xml"의 볼륨 크기</block>
   <block id="dbaabc345dc2b075bd176cd810e7ab94" category="cell">"volume.xml"의 사용된 크기</block>
@@ -149,13 +127,10 @@
   <block id="9f949105f5563a86c9335097398679a2" category="list-text">클라이언트가 실제로 사용 또는 쓴 공간입니다</block>
   <block id="9132eec7c7956d6b79d64f13ce5ce15e" category="list-text">논리적 용량(유효) 논리적 데이터가 사용됩니다</block>
   <block id="2f5b8aad51a721e7769a29a26b16a760" category="list-text">Aggregate에 사용된 논리적 크기를 표시합니다</block>
-  <block id="e02b370212cb3372e44be273e3f9dd04" category="list-text">이 애그리게이트에는 볼륨, 클론, 스냅샷 복사본이 포함됩니다.</block>
   <block id="c1430459f384e529728a1369a5ad1347" category="admonition">이 공간은 나중에 사용할 수 있도록 예약된 공간을 포함하지 않습니다.</block>
   <block id="acf8af6ea046a9190f032ee604a25ac1" category="list-text">사용된 총 데이터/사용된 용량(예비 공간 포함)</block>
-  <block id="f220560d0803053aa622dc91a4c63fc2" category="list-text">볼륨, 메타데이터 또는 스냅샷 복사본별 애그리게이트에 사용되거나 예약된 모든 공간의 합계입니다</block>
   <block id="004016a613c0ec93cc34b1dd36fd4bfc" category="admonition">여기에는 파일 또는 볼륨 보증 유형의 볼륨에 예약된 공간이 포함됩니다. 여기에는 지연 시간 해제, 집계 블로그, 메타데이터 및 예약 정보가 포함됩니다. 지연된 가용 블록이 제거될 때까지 사용된 공간으로 표시됩니다. 이 작업이 제거되면 사용된 공간이 감소합니다.</block>
   <block id="00de952105fc077b1333ac55d8d0bb98" category="paragraph">* 용량 예측은 어떻게 계산됩니까? * 용량 예측은 지난 해 동안의 사용된 용량 데이터를 사용하여 시스템의 평균 주별 성장률을 계산합니다. 이 시스템 사용량 변경률은 현재 사용된 용량에서 추정한 다음 향후 6개월 동안 시스템 활용도가 어떻게 변화하는지 보여줍니다(총 가용 용량이 동일하게 유지된다고 가정함).</block>
-  <block id="62b464a696f86c90363b4594cfca87f4" category="paragraph">* 추가된 각 볼륨의 사용된 용량이 노드 레벨에서 집계된 사용된 용량과 일치하지 않는 이유는 무엇입니까? * 노드 레벨에서 사용된 용량에는 볼륨, 메타데이터 및 스냅샷 복사본에 의해 예약된 공간이 포함됩니다. 또한 파일 또는 볼륨 보증 유형과 같은 볼륨용으로 예약된 공간도 포함되어 있습니다. 따라서 둘 다 일치하지 않을 수 있습니다.</block>
   <block id="5144b142028342a902f17914b7d8eeb1" category="paragraph">StorageGRID의 경우 용량은 기본 10에 표시되고 용량 단위는 TB로 표시됩니다.</block>
   <block id="4d604dd8f008145471dc845683399189" category="section-title">인벤토리</block>
   <block id="490faa3ce28cbfbdad8226dd7dc88a66" category="list-text">시스템은 안전하며 보안 시스템을 볼 수 있는 권한이 없습니다.</block>
@@ -164,7 +139,6 @@
   <block id="8e52de0d4b03d5fe87dc88da09616c7f" category="inline-xref">여기.</block>
   <block id="d05dbf74dd4a436186ee08c15e9b81d8" category="paragraph">시스템의 용량 세부 정보 및 스토리지 효율성 절감 효과를 확인하고 적절한 조치를 취할 수 있습니다. 용량 및 스토리지 효율성 정보는 클러스터 레벨 또는 노드 레벨에서 확인할 수 있습니다.</block>
   <block id="17c1d72dbea38c3c03aed0e08dbb37f9" category="admonition">이 기능은 E-Series 시스템에서 지원되지 않습니다.</block>
-  <block id="1b7b69815feec90db643b8ced3964b38" category="paragraph">용량 대시보드에는 용량 세부 정보와 시스템의 용량 예측이 표시됩니다. 용량 예측은 기간별 용량 정보를 사용하여 각 시스템의 활용도를 식별합니다. 사용 및 할당된 용량의 기록 데이터(사용 가능한 경우 1년 데이터)를 기준으로, 알고리즘은 각 시스템의 현재 사용률을 고려하여 향후 1-6개월 동안 시스템 활용도에 대한 예측을 생성합니다.</block>
   <block id="ee810de9566deba98dbe4a46fbcf7410" category="list-text">왼쪽 창에서 * 용량 및 효율성 * 을 클릭합니다.</block>
   <block id="672a98e16d598ad5d32b32f96bbf4db5" category="paragraph">기본적으로 * Capacity * 탭이 선택됩니다.</block>
   <block id="283c169bd8b723905691a0368b1eaf2a" category="list-text">클러스터 및 노드 레벨에서 용량 세부 정보를 확인합니다.</block>
@@ -175,7 +149,6 @@
   <block id="f4211b7ee285529c0082b53f3b17de86" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 높은 경우 * 성공 사례 공유 * 를 클릭하여 모범 사례를 알려주시기 바랍니다.</block>
   <block id="7e4e265e9120fa2dfd6ce41588f5706a" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 낮은 경우 * 연락처 * 를 클릭하여 스토리지 시스템 구성을 알려주십시오.</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
-  <block id="a65c2a1d83d8e29315151edd9cb20614" category="paragraph">스냅샷 생성, 보존 및 ONTAP FPolicy 위험을 확인한 다음 조치를 수행하여 문제를 해결할 수 있습니다.</block>
   <block id="5e0e2c126796ee31f891f0f923d864f9" category="list-text">표시되는 위험에 대해 영향 수준을 확인하고 권장 조치를 따르십시오.</block>
   <block id="9468b2f5ff83e6a3ed59b51e8ca38dc2" category="list-text">고유 위험 탭을 클릭하고 * 수정 조치 * 열에 있는 링크를 클릭합니다.</block>
   <block id="719f031257428b8b9c9c34ee45a1c9ae" category="list-text">위험이 있는 시스템을 보려면 * 영향받는 시스템 * 탭을 클릭하십시오.</block>
@@ -307,7 +280,6 @@
   <block id="2fab76159eccef44ca8dd94e1dee4665" category="paragraph">상태 점검 대시보드는 12개월을 초과하는 EOS를 포함하는 컨트롤러를 표시하는 탭으로 개선되었습니다.</block>
   <block id="1201772d73bae2bd2ca29d21ab61238f" category="section-title">2021년 9월 16일</block>
   <block id="e334c16b25916f028d0cccfe5500fd69" category="list-text">이제 랜섬웨어 방어 위젯이 독립형 위젯 대신 Wellness Workflow에 포함됩니다.</block>
-  <block id="0452e82e921087d7b1a83c2f02b68e57" category="list-text">Wellness Review 이메일에는 갱신 대신 랜섬웨어 방어를 위한 정보가 포함되어 있습니다.</block>
   <block id="9ee1a0b7aa28c278380f54797be2bc29" category="paragraph">ClusterViewer의 시각화 탭에서 케이블 연결 오류 및 기타 오류를 볼 수 있습니다.</block>
   <block id="6be3e4cc137acae41c32679736c4a678" category="section-title">2021년 9월 6일</block>
   <block id="b3133741a2e146480d59529cf245b52d" category="list-text">View AutoSupport(보기 로그): StorageGRID 및 기본 노드에 대한 AutoSupport 로그를 봅니다.</block>
@@ -324,7 +296,6 @@
   <block id="9d8ce84c0bf081ce006dd3eb8e15fffe" category="section-title">혼합 모델 클러스터 플래그</block>
   <block id="eb2249e8ced682cca59b7347422fd3ae" category="paragraph">클러스터에서 혼합 하드웨어 모델이 있는 경우 클러스터 전체에 적용된 OS 버전이 모든 노드에서 사용할 수 있는 버전입니다. 그 결과, 최신 하드웨어 모델의 일부 노드에서 운영 체제 버전이 필요한 위치에서 다운받을 수 있습니다. 이러한 혼합 모델 클러스터를 더 잘 보이게 하기 위해 "혼합 모델" 아이콘을 적용했습니다.</block>
   <block id="cc85a81e9d6e17fbea80420c8dbe7efa" category="section-title">권장 구성/SVM(Storage Virtual Machine) 상태: 볼륨 레벨 요약</block>
-  <block id="3a48ac5fd188547db06b9f51266e7df6" category="paragraph">SVM 테이블에서 파란색 '볼륨 요약' 상자를 클릭하면 특정 일련 번호 또는 물리적 노드에 호스팅되거나 연결된 볼륨에 대한 자세한 정보가 "팝업"으로 표시됩니다.</block>
   <block id="a9fc8b0c7515ed8f092626e8b6dfe6ae" category="section-title">2021년 7월 12일</block>
   <block id="5d74c31f1e66f6dedf097f9a9ae5f31d" category="section-title">시스템 펌웨어</block>
   <block id="18f3c6e410315e65fda0ade6fb1eb520" category="paragraph">이제 ONTAP의 주요 및 패치 버전과 함께 제공되는 시스템 펌웨어에 대한 정보를 볼 수 있습니다. 빠른 링크 메뉴에서 이 기능에 액세스할 수 있습니다.</block>
@@ -364,7 +335,6 @@
   <block id="7a02010f1fdbb3243b633245324dbadf" category="list-text">* 재고 위젯: * 선택한 레벨에서 사용 가능한 StorageGRID 시스템의 인벤토리를 봅니다.</block>
   <block id="b9928cfa30ad75fb5efb2c79cc8b812e" category="list-text">* Wellness widget: * 사용 가능한 시스템에 대한 기존 ARS 규칙에 따라 해당되는 경우 StorageGRID와 관련된 모든 위험 및 조치를 봅니다.</block>
   <block id="5c9ed548c23a9e1a91cf1c652e779a1a" category="list-text">* 계획 위젯: *</block>
-  <block id="b1022932a0a6c2bc62b19907e4e14bea" category="list-text">* 갱신:* 라이센스 계약이 만료되었거나 향후 6개월 이내에 만료될 예정인 StorageGRID 시스템의 경우 알림을 받게 됩니다. 하나 이상의 시스템을 선택하여 갱신을 위해 NetApp 지원 팀에 요청을 제출할 수 있습니다.</block>
   <block id="c4e80074735e6ff2daec051071dbc429" category="list-text">* 그리드 대시보드: * 그리드 대시보드는 선택한 그리드에 대한 웰니스, 계획 및 구성 세부 정보를 제공합니다.</block>
   <block id="b71490eeea3abb6f9a0c159a3418dd5e" category="list-text">* 구성 위젯: * 그리드 이름, 호스트 이름, 일련 번호, 모델, OS 버전 등 위젯에서 선택한 StorageGRID에 대한 기본 세부 정보를 제공합니다. 고객 이름, 배송 위치 및 연락처 세부 정보.</block>
   <block id="a22fe4c7486ab7ffb8d4bc05dcab6336" category="list-text">* 그리드 뷰어: * 구성 * 위젯에서 * 그리드 뷰어 * 링크를 클릭하여 그리드 구성을 자세히 볼 수 있습니다. 구성 * 위젯에서 * 그리드 뷰어 * 화면에서 * 다운로드 * 버튼을 클릭하여 선택한 StorageGRID의 사이트 세부 정보 및 용량 세부 정보를 다운로드할 수 있습니다.</block>
@@ -457,7 +427,6 @@
   <block id="1564b29b093f31fb45180a4db5577505" category="paragraph">Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하기 전에 다음을 수행해야 합니다.</block>
   <block id="745230e54aaf2b7a27c00a64f7313bd5" category="inline-link-macro">스토리지 시스템에 Ansible을 설치 및 설정합니다</block>
   <block id="5c5c784bf4fbab90a4f6348de576d5da" category="inline-link-macro">스토리지 시스템에 Ansible 2.9을 컬렉션에 설치합니다</block>
-  <block id="b6b47e144c6cacc9e6c8bdaafc85da05" category="list-text">스토리지 시스템을 ONTAP 9.1 이상으로 업그레이드하십시오</block>
   <block id="15236e2742dc8cb603caee435694fbe2" category="list-text">관리자 역할을 사용하여 계정을 구성합니다</block>
   <block id="ffc6cdcd4e33637452d7cabcc86954ab" category="list-text">대시보드에서 건강 상태 위젯을 클릭하거나 * 모든 조치 보기 * 를 클릭하여 모든 조치 및 위험 목록을 봅니다.</block>
   <block id="cd6050a6bccf4f0492eade7e0a8b22b4" category="list-text">펌웨어 업그레이드 * 를 클릭하여 모든 펌웨어 업그레이드 위험을 확인합니다.</block>
@@ -522,7 +491,6 @@
   <block id="4e8d1ca8d221cc5795ac4f7e56661686" category="paragraph">시청목록 대시보드가 표시됩니다.</block>
   <block id="a0a811ca28574ec3a01b64693e2fe336" category="summary">대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제공합니다.</block>
   <block id="0283692678f3caa0a73dcdba11b167a0" category="paragraph">이 대시보드는 다음 위젯을 통해 설치 기반에 대한 요약 정보를 제공합니다.</block>
-  <block id="820ed668f5824044ba24b743388d94f8" category="list-text">* AutoSupport 채택 *: AutoSupport가 활성화된 시스템의 수와 비율을 표시합니다. 또한, 최근 7일 동안 AutoSupport 데이터 전송을 중지한 시스템에 대해 * HTTPS * 및 * AutoSupport On Demand * 가 활성화된 '디라인'으로 표시된 시스템과 * 신호 손실 * 을 볼 수 있습니다. 설치 기반의 시스템에 대한 상태 점검 점수와 정보를 보려면 * AutoSupport 채택 * 위젯을 클릭하십시오.</block>
   <block id="5a203b8ad736b84e1741fd3d04b50fd8" category="list-text">* 권장 구성 *: * 권장 구성 * 위젯에 따라 준수 및 비준수 시스템을 표시합니다. 이 프로그램을 사용하면 설치 기반 전반에 걸쳐 시스템이 제대로 구성되도록 하는 조치를 취할 수 있습니다. 대시보드에서 제공된 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다.</block>
   <block id="e94ebb58e29dcb4765fa5c479c8e07d7" category="list-text">* 권장 소프트웨어 *: 모든 소프트웨어 및 펌웨어 업그레이드와 통화 권장 사항의 통합 목록을 표시합니다. 최소 또는 최신 소프트웨어 또는 펌웨어 버전이어야 하는 AutoSupport가 활성화된 시스템을 볼 수 있습니다.</block>
   <block id="63d26e96496f498e8ddc517162407ad9" category="list-text">* 지원 및 소유 권한 *: 만료된 지원 계약 및 6~12개월 이내 만료에 도달한 지원 계약을 표시합니다. 지원 플랫폼 종료, 디스크, 쉘프, 권한 준수, 만료 보류, 플랫폼 및 하드웨어에 대한 지원 종료는 적용되지 않습니다. 대시보드에서 제공된 상태 점검 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다. 지원 계약에 대한 자세한 정보를 보려면 * Support &amp; Entitlements * 위젯을 클릭하십시오. 이 위젯을 사용하여 지원 계약을 갱신할 수도 있습니다.</block>
@@ -551,7 +519,6 @@
   <block id="f72e303ceb317ddb2d49f55359f01d75" category="cell">* 클러스터 *</block>
   <block id="04eaef0c64f7604067332b0b05e598d3" category="cell">* 노드 *</block>
   <block id="fe40d8b49a8a95c2a28179b7ef3039d6" category="cell">모든 플랫폼에서 지원됩니다</block>
-  <block id="7c3098d5e7bbe4908e01ab684d9cd021" category="cell">Clustered Data ONTAP에서만 지원됩니다</block>
   <block id="240f9686efc9548a1d556d924c143924" category="cell">업그레이드</block>
   <block id="5d44c7cc6a90a9fcb8dbd1a194e216bf" category="summary">감시 목록을 관리하기 위한 정보를 제공합니다.</block>
   <block id="6e963896d19c6e8365735dbf8e7f8cba" category="doc">감시 목록을 관리합니다</block>
@@ -563,10 +530,7 @@
   <block id="6d18f9cdd03d3a175d54504f01f0c78b" category="summary">릴리스의 제한 사항에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="482723983a4f2af954e36ff41e567451" category="doc">알려진 제한 사항</block>
   <block id="1eba71d64e6c5e410e558530711e835b" category="paragraph">알려진 제한 사항은 이 제품 릴리스에서 지원하지 않거나 올바르게 상호 운용되지 않는 플랫폼, 장치 또는 기능을 식별합니다. 이러한 제한 사항을 주의 깊게 검토하십시오.</block>
-  <block id="30c68d7c9821acafb85ce89d3dd5cf9e" category="paragraph">다음과 같은 제한 사항이 있습니다.</block>
-  <block id="6f4abdbff187f79e2ea1ac06a9e104b5" category="list-text">7-Mode로 운영되는 Data ONTAP 스토리지 시스템의 경우(7-Mode로 운영되는 Data ONTAP 스토리지 시스템의 지원 종료 시기가 임박)</block>
   <block id="e10f6958064ae5f36e8b132d4142e626" category="list-text">성능 차트</block>
-  <block id="2a6091be36acbf3db3bd34443d143abf" category="list-text">Upgrade Advisor는 9.0 이전의 clustered ONTAP에 대한 업그레이드 계획을 지원하지 않습니다.</block>
   <block id="2bdc4897dd362e50492e84b2adbd474b" category="section-title">보고서를 예약하는 동안 빈 보고서가 표시됩니다</block>
   <block id="6eeadd9a025ffd894de9d068b4e77d24" category="paragraph">예약된 보고서는 SupportEdge Advisor 또는 SupportEdge Expert 지원 계약에서만 사용할 수 있습니다. 시스템에 SupportEdge Advisor 또는 SupportEdge Expert 지원 계약이 없을 경우 보고서를 예약하는 동안 빈 보고서가 나타날 수 있습니다.</block>
   <block id="35e66ec67a2e099ca561a914e3070a54" category="summary">템플릿을 관리하는 데 필요한 정보는 에 나와 있습니다.</block>
@@ -629,18 +593,15 @@
   <block id="0df29eb5c3a3cf627598e14216743f20" category="list-text">* Wellness History: * 지난 3개월 동안 발생한 시스템 위험에 대한 정보를 표시하여 이들이 초과 근무를 하는 방법을 알 수 있도록 합니다.</block>
   <block id="927c2765ee865261a716c54a2fde3878" category="list-text">* 위험 확인(Ack): * 영향을 받은 위험 및 시스템을 확인할 수 있습니다. 이러한 위험을 인정하고 이러한 위험을 완화하기 위해 수행할 수 있는 조치를 숙지할 수 있습니다.</block>
   <block id="91351fc68db7f9bca112a2fb897a0902" category="list-text">* Unacknowledged Risk(Unackk): * 확인된 위험 및 시스템을 확인할 수 있습니다.</block>
-  <block id="0f4f0d8eb7497054f3f3160501e62e20" category="list-text">* Fix it: * Active IQ United Manager(UM) 9.7 이상을 사용하여 시스템에 대한 위험을 수정합니다. 이 버튼을 클릭하여 UM을 시작하고 위험을 완화하기 위한 단계를 수행합니다.</block>
   <block id="70997d9cb46f1884262203c0386ee9ba" category="list-text">* 보고서 생성: * 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 e-메일로 보냅니다.</block>
   <block id="893c77a9be3c9d01629801789ac3c684" category="list-text">* 업그레이드 위젯: * 은 ONTAP 및 E-Series 시스템에 사용 가능한 업그레이드 수를 제공합니다.</block>
   <block id="802c8daa153570ef0dadaf2d8be9ee78" category="list-text">ONTAP 시스템의 경우 업그레이드가 필요한 시스템 수에 대한 정보를 보고 업그레이드 계획을 요청할 수 있습니다.</block>
   <block id="ac697c7fc74ba789f9ec5a46df7312c6" category="list-text">E-Series 시스템의 경우 업그레이드가 필요한 시스템 수에 대한 정보만 볼 수 있습니다.</block>
-  <block id="c7d11c557339c95279902ee082ba9f5b" category="list-text">* 스토리지 효율성: * AFF 시스템, 비 AFF 시스템 또는 둘 다에 대한 스냅샷 복사본을 사용하거나 사용하지 않고 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 식별합니다.</block>
   <block id="b397fac92f5d136f7fe3fb94680c6e6f" category="list-text">* 성능 그래프: * 그래픽 형식의 성능 데이터를 확인하여 스토리지 장치의 성능을 분석할 수 있습니다. 선택한 노드에 대한 ONTAP 클러스터의 자세한 성능 그래프를 볼 수 있습니다.</block>
   <block id="c6a6fbd3c93831286955b654f3a43c2d" category="list-text">* 유용한 정보 위젯: * 지원 케이스 수, 소프트웨어 업그레이드 보류, 스토리지 효율성 절감, 위험 완화 등에 대한 정보를 제공합니다. 또한 Wellness 속성의 위험 알림을 사전에 나열합니다.</block>
   <block id="d949398a0cd9559b70782bfb2f9ac159" category="list-text">* AutoSupport: * AutoSupport 인스턴스를 높은 수준이나 세부 수준에서 볼 수 있습니다. 세부 정보에는 시스템 세부 정보, 문제의 가능한 원인 및 권장 조치가 포함됩니다.</block>
   <block id="9739d4ffc25558588df6f57e8041f639" category="list-text">* ClusterViewer: * 자세한 물리적 및 논리적 구성 정보를 볼 수 있습니다. 자세한 내용은 여러 탭에 걸쳐 클러스터 및 노드 구성 요약, 로컬 계층 및 볼륨 정보, 네트워크 인터페이스 및 포트 정보, 디스크 및 셸프에 대한 정보를 자세히 설명하는 스택 다이어그램, 케이블 시각화 등 여러 개의 보기 쉬운 테이블에 나와 있습니다. 케이블 시각화 그래픽을 SVG 형식으로 다운로드할 수도 있습니다.</block>
   <block id="e10554f48e3ad865c8bd3aa251010031" category="paragraph">E-Series 시스템에서는 ClusterViewer 기능이 지원되지 않습니다.</block>
-  <block id="c3ee6b10a82ee8a739a196c0f92e9cc7" category="list-text">* API 서비스:* 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다.</block>
   <block id="cf6603053c3facd929d0e865e9f65807" category="list-text">* AutoSupport 업로드: * ONTAP 및 E-Series 시스템의 결함이나 문제를 분석할 수 있습니다. 결함이나 문제는 지원 사이트 담당자가 수동으로 검토 및 해결합니다.</block>
   <block id="37adb256aff16968048142b85e04d7cc" category="list-text">* 시스템 펌웨어: * 각 주요 및 패치 버전의 ONTAP와 함께 제공되는 시스템 펌웨어에 대한 정보를 볼 수 있습니다.</block>
   <block id="87b3d4ff312f3761998135fad1e654e6" category="list-text">* 검색: * 고객 이름, 일련 번호, 클러스터, 사이트 이름, 그룹 이름 등 다양한 범주를 기반으로 시스템을 검색할 수 있습니다. 호스트 이름 및 기타.</block>
@@ -851,7 +812,6 @@
   <block id="5da64b23743d20365a812a148d09b65f" category="admonition">디지털 어드바이저는 AutoSupport 데이터가 60일 미만인 시스템에 대해서만 AutoSupport 관련 데이터를 표시합니다.</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="doc">Digital Advisor 설명서</block>
   <block id="571d621f51c49640d8adb2c5bb15554a" category="paragraph">Digital Advisor는 시스템을 지속적으로 분석하고 시스템의 성능, 효율성 및 상태를 개선하기 위한 권장 사항을 제공합니다.</block>
-  <block id="9b9477e579c3b44dd623d5a6e1ea8d78" category="inline-link">BlueXP</block>
   <block id="3d8ba78e98400d1897334797f80e1dae" category="list-text">NetApp Support 사이트 자격 증명으로 로그인 * 을 선택하고 자격 증명을 입력합니다.</block>
   <block id="468fcd95163fdf7aa102458d21bf0cf2" category="list-text">메시지가 표시되면 NetApp Support 사이트 자격 증명을 사용하여 로그인합니다.</block>
   <block id="600901e70afccc50e18676048766ba78" category="paragraph">결과 *</block>
@@ -865,8 +825,6 @@
   <block id="8ddbb4960ae1ce3eafd141c7e16ad702" category="paragraph">* Digital Advisor에서 스토리지 효율성에 액세스하려면 어떻게 해야 합니까? *</block>
   <block id="f079f17b0940258743d34e7b771c715f" category="inline-link-macro">디지털 자문업체</block>
   <block id="2206003195e83e7dfa4c2c9011926729" category="paragraph">* 모든 ONTAP 시스템에 대한 디지털 자문업체 디스플레이 비율은 얼마입니까? *</block>
-  <block id="2c66ccfb9136989ebd0b2f7794383ba0" category="paragraph">Digital Advisor는 ONTAP 9.1 이상을 실행하는 시스템의 비율을 표시합니다.</block>
-  <block id="b158ad6d14f96b16232682ec9719f63d" category="paragraph">* Digital Advisor에서 용량을 어떻게 계산합니까? * Digital Advisor의 용량은 루트 및 스냅샷 복사본을 제외하고 클러스터와 노드에 대해 계산됩니다</block>
   <block id="d7a018b0994fcd8c73438187d3cd257d" category="paragraph">Digital Advisor Base 2 또는 Base 10에 용량이 표시되어 있습니까? * Digital Advisor에 표시되는 모든 용량은 Base 2(1024로 구분)이며 용량은 GiB/TiB입니다. ONTAP 스토리지 및 기타 NetApp 제품에도 기본 2의 용량 사용량이 표시됩니다.</block>
   <block id="a6f53b7c2d98e66115a149a04939e113" category="list-text">SAP에서 새 시스템이 추가되거나 업데이트되면 Digital Advisor에 반영되기까지 하루 이상이 걸립니다.</block>
   <block id="7b8ca3eb07a8240bd90e77dc0b6b4b64" category="list-text">Digital Advisor에서는 보고서를 편집할 수 없습니다. 기존 보고서를 삭제하고 새 보고서를 만들어야 합니다.</block>
@@ -882,8 +840,6 @@
   <block id="ddd5bde8e3e027f9a9efab7fcfa90542" category="doc">Digital Advisor의 새로운 기능</block>
   <block id="67b15699a3be9f040c8687b7005f0de8" category="paragraph">Digital Advisor에는 다음과 같은 기능과 개선 사항이 도입되었습니다.</block>
   <block id="ae90f5ddd6bedf0784aa3f4496ea1cad" category="section-title">2022년 11월 1일</block>
-  <block id="8170292c601a72e4a24d3cbac63d8070" category="section-title">BlueXP와 통합된 디지털 어드바이저</block>
-  <block id="f668b17ee05cd74c11dbf1d1d949072e" category="paragraph">이제 BlueXP 사용자는 Digital Advisor의 기존 기능과 마찬가지로, 해당되는 경우 새 탭에서 Digital Advisor 링크를 열 수 있습니다.</block>
   <block id="de07e5fcc39a7c8a7ee2ef456f8e167e" category="paragraph">Digital Advisor에서 선택한 E-Series 시스템의 용량 세부 정보 및 성능 그래프를 볼 수 있습니다.</block>
   <block id="0762a98733fb0259b2c034300821b8eb" category="list-text">Digital Advisor – Reports 화면에 내부 및 외부(고객 및 파트너) 사용자를 위한 기밀 데이터 배너가 추가되었습니다.</block>
   <block id="df47487af8662ffcf5c1cb4c764b23fc" category="paragraph">Digital Advisor에서 NetApp Cloud Volumes ONTAP 시스템에 대한 용량 세부 정보를 볼 수 있습니다.</block>
@@ -894,7 +850,6 @@
   <block id="d2bb1a06f3434afc8ca9c8ea68155750" category="inline-link-macro">Digital Advisor Mobile Application(iOS)</block>
   <block id="d78a9201b5a1da34052eb6d1da7c7414" category="list-text">Digital Advisor에 가입되어 있는 특정 지원 서비스를 표시하도록 사용자 인터페이스가 향상되었습니다.</block>
   <block id="606d45bc02a4e58356236313e91bb72f" category="paragraph">처음 Digital Advisor에 액세스할 때 대시보드 대신 감시 목록을 만들어야 합니다. 또한 다른 감시 목록에 대한 대시보드를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수도 있습니다.</block>
-  <block id="e07c66941c84e7feebe88312021581ff" category="paragraph">FabricPool 대시보드에 계층 데이터 버튼이 추가되어 NetApp BlueXP를 사용하여 저렴한 오브젝트 스토리지 계층에 데이터를 계층화할 수 있습니다.</block>
   <block id="423dd400f697bb08eca274e1e810b26e" category="paragraph">Digital Advisor는 현재 중국어, 영어 및 일본어의 세 가지 언어로 제공됩니다.</block>
   <block id="7a528fe08556f70d64e31f51b17654f7" category="paragraph">이제 피드백을 제공하고 Digital Advisor의 기본 홈 페이지 화면을 업데이트하는 이유를 알려 주십시오.</block>
   <block id="242af7c119838a4ad767c52325947075" category="paragraph">이제 Digital Advisor의 기본 홈 페이지 화면을 설정할 수 있습니다. Digital Advisor 또는 Classic로 설정할 수 있습니다.</block>
@@ -918,7 +873,6 @@
   <block id="acf7d20d0268fb3265f641fbc7ac8d68" category="list-text">* 재고 위젯: * 소유한 총 시스템의 롤업을 표시합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.</block>
   <block id="ec20f764d25cf1eba2cf41562f1a4dc7" category="paragraph">AutoSupport 기능에 액세스하려면 Digital Advisor에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.</block>
   <block id="56f4dbda16e117456735f4152501a126" category="list-text">* 빠른 링크: * 디지털 어드바이저를 사용하여 실행할 수 있는 응용 프로그램 목록을 제공합니다.</block>
-  <block id="8b4015616b4ebb333b0bb005e28e4b8e" category="list-text">* 고객:* 고객의 설치 기반을 보고 관리할 수 있습니다. Customer Dashboard는 Digital Advisor의 중앙 포털입니다.</block>
   <block id="c185e2d804ea74628fccd45ec760120b" category="paragraph">Digital Advisor에 로그인하고 * Configuration * 위젯에 빨간색 배지가 표시되는 경우 위젯을 클릭하면 볼륨이 98% 차 있고 이로 인해 정전이 발생할 수 있습니다. 이 문제를 해결하면 볼륨이 채워지지 않습니다. 이렇게 하면 읽기 전용이 되어 응용 프로그램이 충돌하고 실패합니다.</block>
   <block id="346661910d62d25c1475a0a09bd7a473" category="paragraph">Digital Advisor를 사용하여 관심 목록 레벨에서 스토리지 시스템의 전체 상태, 시스템 상태, 재고, 계획, 업그레이드 및 중요한 통찰력을 확인할 수 있습니다.</block>
   <block id="4d7ba674630738cac5e8b1e2fed17854" category="paragraph">다음은 Digital Advisor의 몇 가지 기능입니다.</block>
@@ -961,7 +915,6 @@
   <block id="e5f2463f379aba48a0f9ca6c913203cc" category="cell">IO 밀도</block>
   <block id="7f5c8fc8352c3e254ac3f5c7cf32c466" category="cell">IO Density Report는 데이터 및 메타데이터 소비 및 밀도 측면에서 고객이 가장 많이 사용하는 입출력 작업에 대한 통찰력을 제공합니다.</block>
   <block id="1c6ca21b0d3e6f38c91e416032c3b178" category="paragraph">볼륨 IOPS 차트에서 평균 읽기, 쓰기 및 기타 작업을 볼 수 있습니다.</block>
-  <block id="80a2eb22b09cbe781077565f06b74dbf" category="paragraph">SAN 및 NAS 스토리지 효율성은 노드 레벨에서 AFF A 시리즈, AFF C190, 모든 SAN 어레이 및 ONTAP 9.10 이상을 실행하는 FAS500을 포함한 ONTAP 시스템에 제공됩니다.</block>
   <block id="7002d0318dc4f195c464ca83f3d2ca86" category="section-title">2023년 2월 22일</block>
   <block id="c97236d0432cf7fbbc8c3b120b3e6701" category="inline-link-macro">NetApp 제품 보안</block>
   <block id="30becc7ff660741781b33df4424a976b" category="paragraph">NetApp 보안 사이트는 NetApp 제품 보안의 소스: <block ref="5e78a47b9f3f07f171347317054eb0a4" category="inline-link-macro-rx"></block></block>
@@ -1077,12 +1030,9 @@
   <block id="d7ca0761e2d4019376e0400aa4cbbcaf" category="paragraph"><block ref="d7ca0761e2d4019376e0400aa4cbbcaf" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f62e67d6344fc6de4c0cdc48cfd75461" category="inline-link-macro">시청목록에 대해 자세히 알아보십시오</block>
   <block id="826fd50d36107e836a8e3498874a9ed5" category="admonition">감시 목록이 구성되지 않은 경우 * Sustainability * 옵션이 비활성화됩니다. 이를 활성화하려면 시청목록을 만들거나 고객 이름, 사이트 이름, 그룹 이름, StorageGRID, 호스트 이름, 클러스터, 일련 번호 또는 시스템 ID <block ref="2ea4bc1ae55c17aa30ac5a2b6a6bc216" category="inline-link-macro-rx"></block>.</block>
-  <block id="49e5c79c17d604001b21c104016f13ab" category="paragraph">스토리지 효율성 대시보드에는 ONTAP 9.1 이상을 실행하는 스토리지 시스템의 데이터 축소율, 사용된 논리적 공간, 사용된 물리적 공간 및 저장된 총 데이터가 표시됩니다. AFF 시스템, AFF가 아닌 시스템 또는 둘 다에 대해 스냅샷 복사본을 사용하거나 사용하지 않고 데이터 축소 비율과 절감 효과를 확인할 수 있습니다. 전체 고객 스토리지 전반의 총 데이터 절약 효과는 볼륨 중복제거, 볼륨 압축, 컴팩션, FlexClone 볼륨 및 스냅샷 복사본과 같은 효율성 기능에 따라 확인할 수 있습니다. 최고의 효율성 비율에서 상위 5개 스토리지 시스템을 볼 수 있습니다. 또한 AFF A-Series, AFF C190, All SAN 어레이 및 ONTAP 9.10 이상을 실행하는 FAS500을 비롯한 ONTAP 시스템의 노드 레벨에서 스냅샷 복사본 없이 SAN 및 NAS 효율성을 볼 수 있습니다.</block>
-  <block id="d37f37bcec2c93811716d3be7ec8bc92" category="list-text">ONTAP 9.1 이상을 실행하는 스토리지 시스템의 데이터 축소율, 사용된 논리적 공간, 사용된 물리적 공간 및 저장된 총 데이터를 확인하십시오.</block>
   <block id="51f8ba1e739f07ed09f1ba20bff5e7fc" category="section-title">2023년 7월 16일</block>
   <block id="520e6a90f7dfce96c54641856d8584f2" category="list-text">효율성 비율을 표시하는 * 스토리지 효율성 * 이라는 레이블의 이름이 * 데이터 축소 * 로 바뀌었습니다.</block>
   <block id="cc50d008d8b1e1f6ba13bbe127a1bf29" category="list-text">스토리지 효율성으로 저장된 데이터 * 라는 레이블은 * 데이터 축소 절약 * 으로 바뀌었습니다.</block>
-  <block id="2a88859b894ead28756789553bc66754" category="list-text">토글 * Snapshot 백업이 없는 절약 효과 * 는 기능의 변경과 함께 Snapshot 복사본 * 을 사용하여 * 로 이름이 변경됩니다. <block ref="3a01d99aaa6c74ce8f92a2ac5ca4e5e9" category="inline-link-macro-rx"></block>.</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="section-title">Sustainability 대시보드</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
@@ -1092,9 +1042,6 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
-  <block id="2a3684ac064fb92899057c9c77be7b70" category="paragraph">* 효율성 대시보드에서 '스냅샷 복사본 사용'은 무엇을 토글합니까? *</block>
-  <block id="f8ce983c20863d5ca1224cd961651189" category="paragraph">Digital Advisor 효율성 대시보드는 고객, 사이트, 그룹, 클러스터 및 기타 다양한 레벨에서 데이터 축소율을 및 노드입니다. 스냅샷 사본 * 사용 * 토글을 켜면 데이터 축소율 계산에는 다음과 같은 스토리지 효율성 기술이 포함됩니다.</block>
-  <block id="461662a7d362f24e412be63da5d820a7" category="paragraph">기본적으로 데이터 축소율 계산에는 스냅샷 스토리지 효율성 기술이 포함되지 않습니다.</block>
   <block id="be76c1509b98001f6c35cf3715776135" category="paragraph">* 데이터 축소율을 계산하는 데 사용되는 AutoSupport 인스턴스는 무엇입니까? *</block>
   <block id="70df27820e59c3cfe942663b98cd6884" category="paragraph">계산은 최근 주간 또는 사용자가 트리거한 AutoSupport 인스턴스를 사용하여 수행됩니다. 이 인스턴스에는 비율 계산에 필요한 대부분의 섹션이 포함되어 있습니다.</block>
   <block id="55ec2efd25a5fc14516c0d831fea7c6e" category="paragraph">* 데이터 축소 계산에서 제외되는 볼륨 또는 애그리게이트는 무엇입니까? *</block>
@@ -1102,8 +1049,6 @@
   <block id="27b228cdac26ea1e1d4677c11f66b9c3" category="paragraph">* 데이터 축소율의 추세를 어떻게 볼 수 있습니까? *</block>
   <block id="4f6485dbcd25eeb2c74e5217258dfeca" category="paragraph">현재 데이터 축소율은 최근 주별 또는 사용자가 트리거한 AutoSupport 인스턴스를 기준으로 계산됩니다. 추세가 향후 릴리스에서 고려될 수 있습니다.</block>
   <block id="f8af0e51ad03daa14cc1051c4aaeacde" category="paragraph">* 고객 수준의 비율과 데이터 감소 절감액은 어떻게 계산됩니까? *</block>
-  <block id="df0e3b60c8f0dc2c364d159e4dd455e0" category="paragraph">고객 레벨 스토리지 효율성 대시보드는 AFF 및 비 AFF 시스템에 대한 스냅샷 복사본의 사용 여부와 관계없이 데이터 축소율을 제공하며 ONTAP 9.1 이상을 실행하는 시스템의 경우 고객 설치 기반 전체에 결합됩니다. 다음 계산에 필요한 매개 변수는 ONTAP AutoSupport에서 가져옵니다.</block>
-  <block id="296178570f2543b72c33dc745457e4a8" category="cell">사용된 총 물리적 크기 – (스냅샷 복사본에서 사용하는 물리적 크기/애그리게이트 데이터 축소율)</block>
   <block id="caabfdbc0d0287aff339e2db76b3c8ed" category="paragraph">* 모든 개별 데이터 감소 절감액을 추가하는 것이 데이터 감소 절감액에 더하지 않는 이유는 무엇입니까? *</block>
   <block id="567b01f0b5cd67001d808012ef0e7dd2" category="paragraph">데이터 축소 효과는 볼륨 및 로컬 계층(애그리게이트)에 대한 스토리지 효율성 대시보드에 표시됩니다.  서로 다른 스토리지 개체에서 볼륨 절약 및 애그리게이트 절약 효과를 추가할 수 없습니다.</block>
   <block id="fb8e35ae91d9f2d1bbfa26a865e3bdde" category="paragraph">* ONTAP로 업그레이드하기 전에 데이터 축소가 더 높거나 잘못된 것으로 보고된 이유는 무엇입니까? *</block>
@@ -1121,7 +1066,6 @@
   <block id="affbae51cb248fc228a64eff8ef4b19a" category="list-text">가동 중지 시간과 가능한 데이터 손실을 방지할 수 있습니다. <block ref="cdc6118fb0dd484c6eecea2c16368d88" category="inline-link-macro-rx"></block>.</block>
   <block id="e9914ee0052933ab0eb5ed245f68f4be" category="list-text">운영 중단을 방지하기 위해 볼륨 채우기를 방지하는 방법을 알아보십시오. <block ref="5cdf43ceea4370a0a68934a3b004b9d7" category="inline-link-macro-rx"></block>.</block>
   <block id="533dbe637c2f68cac9ab973ac9a2c30d" category="list-text">고객, 사이트, 그룹, 감시 목록, 클러스터 간에 구성 드리프트 보고서를 생성하거나 예약합니다. 호스트 이름을 입력합니다. <block ref="de81add81e119065d94ddeac8ee64650" category="inline-link-macro-rx"></block>.</block>
-  <block id="109fc841d00ef808e65701bf12c832d9" category="paragraph">Digital Advisor API를 사용하여 관심 있는 데이터를 가져와 회사의 워크플로에 직접 통합할 수 있습니다. <block ref="1cadb4b3b896f461880aeba67b4bebd1" category="inline-link-macro-rx"></block>.</block>
   <block id="d2d5b2832ad6260f7e47f21eda203625" category="paragraph">시스템의 물리적 및 논리적 구성에 대한 자세한 정보를 보려면 ClusterViewer 보고서를 생성하거나 예약할 수 있습니다. <block ref="b5110609d22aa395850743bf41df8a3c" category="inline-link-macro-rx"></block>.</block>
   <block id="7f468348ccf6d1b2c89a41ca66585095" category="paragraph">이 기능을 사용하면 시스템 구성과 클러스터 구성을 거의 실시간으로 비교하고 구성 편차를 감지할 수 있습니다. <block ref="b3bd45262a4931447b29e389f808703b" category="inline-link-macro-rx"></block>.</block>
   <block id="2ea25d3aa454a8719fbcd77c0cb45036" category="paragraph">파트너는 갱신 날짜가 다가오고 설치 기반에 NetApp 제품을 업그레이드해야 하는 시스템의 상태 요약 이메일이 매달 수신되도록 구독할 수 있습니다. <block ref="6ebaac8877cbf874499b8874b314ad68" category="inline-link-macro-rx"></block>.</block>
@@ -1129,7 +1073,6 @@
   <block id="d08dfd94a4d36eb2bcd5fbae59ee124d" category="paragraph"><block ref="b46bd81d9b5d17f9607d3bf70532f303" category="inline-link-macro-rx"></block>.</block>
   <block id="85a5b85b171db93012b817af7272c528" category="paragraph">성능 그래프가 개선되어 볼륨 성능을 평가할 수 있습니다. 동일한 화면에서 노드 탭, 클러스터 탭, 로컬 계층 탭 및 볼륨 탭 간을 이동하거나 전환할 수 있습니다. <block ref="4513feee0626ae09dfa51f7c8eb5d5ce" category="inline-link-macro-rx"></block>.</block>
   <block id="ccd4252e1ddc49da690f804e7aeabf6f" category="paragraph">이제 선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 이메일로 보낼 수 있습니다. <block ref="e49140995889c841dca106143f17c244" category="inline-link-macro-rx"></block>.</block>
-  <block id="99019cd797a33c2f1f0354aa51829694" category="paragraph">AFF 시스템, 비 AFF 시스템 또는 둘 모두에 대한 스냅샷 복사본 유무와 관계없이 스토리지 시스템의 스토리지 효율성 비율 및 절감 효과를 볼 수 있습니다. 노드 레벨에서 스토리지 효율성 정보를 볼 수 있습니다. <block ref="a712d09976009a64cc618b068e6daeda" category="inline-link-macro-rx"></block>.</block>
   <block id="840f469fb410bb3332071cd390daa1a8" category="paragraph">업그레이드 워크플로우를 사용하여 타겟 ONTAP 릴리즈에서 사용할 수 있는 새로운 기능과 업그레이드 권장 사항을 확인할 수 있습니다. <block ref="7f4976c761eb4018266cc0d54f5b87cd" category="inline-link-macro-rx"></block>.</block>
   <block id="07be922df0906b959295384caa9e817a" category="paragraph">Digital Advisor 및 지원 계약을 통해 제공되는 혜택에 대한 요약을 볼 수 있습니다. 선택한 시스템의 경우 Value 보고서는 지난 1년간의 이점을 통합합니다. <block ref="64d68cf7646e7bd28259850f10575416" category="inline-link-macro-rx"></block>.</block>
   <block id="4ab7ab489ac4d021f39004a1bc70c209" category="paragraph"><block ref="ab7ef85b2ffc5cc75de4e5a966fa1b9d" category="inline-link-macro-rx"></block>.</block>
@@ -1262,7 +1205,6 @@
   <block id="994ea9e16920acdbe0ac6e35ae6fffad" category="paragraph">Digital Advisor에 로그인하면 * 보안 및 랜섬웨어 방어 * 위젯에 강조 표시된 * 조치 * 를 볼 수 있습니다. 그러면 위험 수가 표시됩니다.</block>
   <block id="e8563fdf2c4612622ba50a5e8cfcb99a" category="list-text">보안 및 랜섬웨어 방어 * 위젯에서 * 조치 * 를 클릭합니다.</block>
   <block id="4d7b0b036dd7f28233ff7e59c3c1dbf5" category="list-text">보안 취약성 * 확인란을 지웁니다.</block>
-  <block id="8ab2cb8f529884d0aa70d068b846421e" category="admonition">노드 지연 시간, 로컬 계층(애그리게이트) 및 볼륨 성능 그래프는 ONTAP 9.2 이상을 실행 중인 시스템에서만 지원됩니다.</block>
   <block id="fbf668c351539b8a0b137fcc8beb4b5e" category="paragraph">단일 클러스터와 여러 클러스터에 대한 자동화된 무중단 업그레이드 계획을 생성할 수 있습니다. 클러스터와 관련된 위험 목록, 업그레이드 차단기와 경고 목록이 포함된 업그레이드 전 확인 보고서, 새로운 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대한 업그레이드 권장 사항을 볼 수 있습니다. 여러 클러스터에 대해서는 업그레이드 권장 사항을 사용할 수 없습니다. 자세한 내용은 을 참조하십시오 <block ref="41932a416de65dadbc9f715244a32fe5" category="inline-link-macro-rx"></block>.</block>
   <block id="83c0915932deaf70b0873b6eb47c3a28" category="section-title">2024년 3월 28일</block>
   <block id="888059a12fa3532d54872d17517e780c" category="inline-link-macro">업그레이드 권장 사항을 확인하고 업그레이드 계획을 생성하는 방법에 대해 알아봅니다.</block>
@@ -1356,7 +1298,6 @@
   <block id="cb8da66b45b686427a31e5d56a8122db" category="cell">배송 물류</block>
   <block id="d0606acb5c07dedf89ff7c2b06144f81" category="cell">제품 및 서비스 제공 물류에 대한 정보를 제공합니다.</block>
   <block id="fbd781a535485932684e2fdb756c3913" category="cell">상태 평가 핵심 요약</block>
-  <block id="0cb0fa6009199e89058c343d1d127fda" category="cell">PowerPoint(PPT) 형식으로 다양한 Active IQ KPI에 대한 정보를 제공하며 여러 슬라이드에 KPI가 설명되어 있습니다.</block>
   <block id="83009b6eb15f65a7b4a558c0e23269c3" category="cell">주기적 다이제스트</block>
   <block id="f4786124ed46b14b49d37f9f8c042ce4" category="cell">주요 지표 및 통찰력을 주기적으로 요약합니다. 시스템 성능, 용량, 효율성 등에 대한 데이터가 포함됩니다.</block>
   <block id="17b58822f294ceb27e2330591b9224e4" category="cell">원격 관리 구성, 스페어 및 드라이브, HA 쌍, SVM 상태, 배터리 상태 및 Recovery Guru 권고사항에 대한 다양한 권장 구성 공백에 대한 정보를 제공합니다.</block>
@@ -1394,10 +1335,7 @@
   <block id="617f2d0adf2001440f244bf5c45be277" category="inline-link-macro">지원 권한이 있는 스위치를 보는 방법을 알아보세요</block>
   <block id="ef3139c75debdd9ee259a4ea386083d3" category="paragraph">이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다. 여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. <block ref="de42528af60c9393a2c8b32539c694f1" category="inline-link-macro-rx"></block> .</block>
   <block id="56f48a0b7ef64f3dcd95534228f6c5f3" category="paragraph">저장 시스템의 환경적 건강에 대한 통찰력을 제공하는 환경 지표는 이제 고급 예측 모델을 기반으로 예상 전력 사용량, 직접 탄소 사용량 및 열 배출에 대한 보다 정확한 값을 제공합니다. 자세한 내용은 다음을 참조하세요.<block ref="a9f485271892e0176d2cdaee960db816" category="inline-link-macro-rx"></block> .</block>
-  <block id="bc2fe31b1e2682a9a79513d792e9c721" category="doc">BlueXP 는 이제 NetApp 콘솔입니다.</block>
-  <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">강화되고 재구성된 BlueXP 기반을 기반으로 구축된 NetApp 콘솔은 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지와 NetApp 데이터 서비스를 중앙에서 관리하여 실시간 통찰력, 더 빠른 워크플로, 간소화된 관리를 제공하며, 높은 보안성과 규정 준수를 보장합니다.</block>
   <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link">NetApp 콘솔 릴리스 노트</block>
-  <block id="377c338b114283d24b3f1ef1a73bd1a9" category="paragraph">변경된 내용에 대한 자세한 내용은 다음을 참조하세요.<block ref="857ac87b6d807bceb0af9d0ff774da69" category="inline-link-rx"></block> .</block>
   <block id="72f7167f9069924b2f82beb448023d6b" category="list-text">지속 가능성 점수와 전력, 직접 탄소, 열의 예상 사용량을 확인하세요.  지속 가능성 점수를 기준으로 스토리지 시스템의 전반적인 효율성을 평가하고 NetApp에서 권장하는 조치에 맞춰 점수를 개선하세요. <block ref="88471609a02ffbaf7f222a2aedb3d7f2" category="inline-link-macro-rx"></block> .</block>
   <block id="a9aa66a7b3cfc4542dbfc9211a6c428b" category="summary">Digital Advisor 이제 NetApp Console과 완벽하게 통합되었습니다.  이제 NetApp 콘솔 사용자 인터페이스(UI)에서 클러스터를 관리하고 Digital Advisor 의 모든 기능에 액세스할 수 있습니다.</block>
   <block id="ab8fdb90e4f7afafc378a1b57c166a3f" category="paragraph">Digital Advisor 이제 NetApp Console과 완벽하게 통합되었습니다.  이제 콘솔 사용자 인터페이스(UI)에서 클러스터를 관리하고 Digital Advisor 의 모든 기능에 액세스할 수 있습니다.</block>
@@ -1405,14 +1343,10 @@
   <block id="3c031b939f6ec312ee601d021e7a6644" category="section-title">NetApp 콘솔</block>
   <block id="fc5428c3e9353a1232f1b8d1121de46a" category="paragraph">Digital Advisor NetApp 콘솔을 통해 접속할 수 있습니다.</block>
   <block id="0a0979a6d279475a420ea5c279943daa" category="paragraph">NetApp 콘솔은 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다.  NetApp 데이터 서비스에 액세스하고 사용하려면 콘솔이 필요합니다.  관리 인터페이스로서, 하나의 인터페이스에서 여러 스토리지 리소스를 관리할 수 있습니다.  콘솔 관리자는 기업 내 모든 시스템의 저장소와 서비스에 대한 액세스를 제어할 수 있습니다.</block>
-  <block id="7118a6b22768dabe4720d84710ea1e43" category="paragraph">NetApp Console을 사용하려면 라이선스나 구독이 필요하지 않으며, 스토리지 시스템이나 NetApp 데이터 서비스에 대한 연결을 보장하기 위해 클라우드에 Console 에이전트를 배포해야 할 때만 요금이 부과됩니다.  그러나 콘솔에서 액세스할 수 있는 일부 NetApp 데이터 서비스는 라이선스 기반이거나 구독 기반입니다.</block>
-  <block id="4d0bb76e32bfe205406b10f5dfa9d47b" category="paragraph">자세히 알아보세요<block ref="e6368f2dd82be1e975475a1098863578" category="inline-link-rx"></block> .</block>
   <block id="be1012f6c753487e150ce4e491128d61" category="section-title">NetApp 콘솔에서 Digital Advisor 에 액세스하세요</block>
   <block id="d22b3faa7b5960ccee52656e53fbe17c" category="paragraph">콘솔에서 Digital Advisor 에 액세스하여 클러스터를 관리할 수 있습니다.</block>
   <block id="bccaa4aa80831b76c11240a16447975f" category="inline-link-macro">콘솔</block>
   <block id="70eb71406501e224ffe5e1e4571fcc65" category="list-text">웹 브라우저를 열고 이동하세요<block ref="24972d13214bf960aed8a7602883d866" category="inline-link-macro-rx"></block> .</block>
-  <block id="5bf5d855aa43f8908638c956b6a6ef8b" category="paragraph">이전에 이메일과 비밀번호를 사용하여 콘솔 로그인을 만든 경우, 앞으로도 해당 로그인 옵션을 사용해야 합니다.</block>
-  <block id="e55f1920f154b5cf14dc8dc4428d7185" category="paragraph">이 로그인은 2단계에서 완료한 로그인과 다릅니다.  2단계에서는 콘솔에 로그인했습니다.  이제 Digital Advisor 에 로그인합니다.</block>
   <block id="251a116e3518821c4cb40f8abb066a2f" category="summary">NetApp Console 또는 Digital Advisor 에서 액세스하여 지속 가능성 대시보드를 시작하세요.</block>
   <block id="eb78fdcbf8bbae675c7ee0f97a884a74" category="paragraph">지속 가능성 대시보드는 AIOps 기반 보고 및 점수 매기기와 실행 가능한 통찰력을 제공하여 지속 가능성 태세를 개선합니다.  NetApp Console이나 Digital Advisor 통해 지속 가능성 대시보드에 액세스할 수 있습니다.</block>
   <block id="f5d302c73eacff7b76d482bf489706b0" category="inline-link-macro">콘솔에 로그인</block>
@@ -1429,12 +1363,10 @@
   <block id="daaa41b894b4479d1b6d9615f338eeb9" category="admonition">*시스템* 테이블에서 환경 매개변수를 추가하거나 제거할 수 있습니다.<block ref="2152c38f4a2771e87024e1e087a05f24" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭하고 쉼표로 구분된 값(.csv) 형식으로 이 표를 내보낼 수 있습니다.<block ref="12f258362dcb80dcb781736a1d5e0dbf" category="inline-image-macro-rx" type="image"></block> 상.</block>
   <block id="18e85132fdad5a7fcc03bc34aefafe82" category="list-text">Digital Advisor 대시보드의 왼쪽 탐색 메뉴에서 *지속 가능성*을 확인하세요.</block>
   <block id="07837f561e3ee48313730477a0ce7e0f" category="paragraph">지속 가능성을 통해 에너지 소비를 줄이고 환경 목표를 향해 나아갈 수 있습니다.  이를 통해 친환경적 관행에 맞춰 보관 시스템을 조정하고 지속 가능성 목표를 달성할 수 있습니다.</block>
-  <block id="6fed10fa3a6c658947e3629cf7d4000f" category="paragraph">지속 가능성 대시보드에서 지속 가능성 점수와 예상 전력, 직접 탄소, 열 사용량을 볼 수 있습니다.  특정 사이트의 탄소 감축 비율을 조정할 수 있습니다.  클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다.  지속 가능성 점수를 기반으로 지속 가능성 태세를 평가하고 NetApp에서 권장하는 조치를 구현하여 점수를 개선할 수 있습니다.  지속 가능성 대시보드에 대해 자세히 알아보려면 다음으로 이동하세요.<block ref="ad420490bfb0f9b164f2afe15fdac1a6" category="inline-link-macro-rx"></block> .</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">2025년 10월 6일</block>
   <block id="1ca03fcdf1edff8f13c5ab3d96f71ef4" category="paragraph">이제 E-Series 및 StorageGRID 시스템에서 지속 가능성이 지원됩니다.  이러한 시스템의 지속 가능성 대시보드에서 전력, 직접 탄소 사용량, 열에 대한 예측을 표시하는 권장 조치 및 환경 지표 목록을 볼 수 있습니다. 자세한 내용은 다음을 참조하세요.<block ref="324fa1323a5d1b555b99e90b4dfa69b7" category="inline-link-macro-rx"></block> .</block>
   <block id="e0bce4b165696e8af8dc9f23db141bb9" category="list-text">웰니스 워크플로에는 이제 고객, 관심 목록, 사이트 및 그룹 수준에서 권장되는 작업 수를 제공하는 지속 가능성 위젯이 포함되었습니다.  지속 가능성 대시보드에서 권장되는 조치에 대한 자세한 내용을 보려면 조치 번호를 클릭하세요. 자세한 내용은 다음을 참조하세요.<block ref="0cf51c2fcac81ed872c11f6f85a6fa1e" category="inline-link-macro-rx"></block> .</block>
   <block id="c0271ca41d216c76fc4707af387b19ff" category="paragraph">지속 가능성 대시보드는 저장 시스템의 환경적 지속 가능성에 대한 귀중한 통찰력을 제공합니다.  지속 가능성 점수, 탄소 감축 비율, 예상 전력 사용량, 직접 탄소, 열 등의 정보를 볼 수 있습니다.  특정 사이트의 탄소 감축 비율을 조정할 수 있습니다.  클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다.  지속 가능성 점수를 기반으로 스토리지 시스템의 전반적인 효율성을 평가하고 이를 NetApp에서 권장하는 조치에 맞춰 지속 가능성을 향상시킬 수 있습니다. <block ref="573ac558e55731509c8353e25f1ec473" category="inline-link-macro-rx"></block> .</block>
-  <block id="fb15b2b9b96abb2a3da191b2524b19ae" category="paragraph">Active IQ Digital Advisor Digital Advisor 로 변경되었으며 이제 하이브리드 멀티클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 BlueXP 에 통합되었습니다. <block ref="7cc56b953de24cf166f6b18ad0920a18" category="inline-link-macro-rx"></block> .</block>
   <block id="f33417edb722273e609d7466e4031b36" category="summary">대시보드, 지속 가능성 점수, 시스템 및 권장 조치에 대한 정보를 제공합니다.</block>
   <block id="cc3f62c281ad35f63b6650989fb52283" category="paragraph"><block ref="cc3f62c281ad35f63b6650989fb52283" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e24b0640f322a3589a6a2425105a8a7b" category="paragraph">*시스템*: 보다 효율적인 스토리지로 이동하기 위해 클러스터를 식별하는 데 도움이 되는 환경 매개변수를 표에 표시합니다.  이 표에서 다음을 수행할 수 있습니다.</block>
@@ -1589,9 +1521,7 @@
   <block id="ae7c8af4913d5ed60eee9eba144d34f2" category="paragraph">Tech Support 계약 또는 하드웨어에 대해 시스템 새로 고침이 권장되는지 확인하려면 시스템 새로 고침 옵션을 사용할 수 있습니다.</block>
   <block id="b673e7cded650c08d6c0289225510337" category="paragraph">이 기능은 수명 주기 계획(*스토리지* &gt; *수명 주기 계획*) 또는 Digital Advisor(*대시보드* &gt; *계획 위젯* &gt; *시스템 새로 고침*)를 통해 액세스할 수 있습니다.</block>
   <block id="dcd5d8e34e28517df35c9ef34326b7f8" category="inline-link-macro">시스템 새로 고침 평가</block>
-  <block id="4b6c29e1e0ca5888882f9afb85d41460" category="paragraph">이 기능에 대한 자세한 내용은 콘솔 설명서의 <block ref="60246966bc8fb02ea32471ffe11e7654" category="inline-link-macro-rx"></block>을(를) 참조하십시오.</block>
   <block id="ded0a309adbbd30fc9482b49a9ac79cd" category="section-title">2026년 6월 3일</block>
-  <block id="2014a31fd7c5aa735efd9b3eab46bae2" category="list-text">*용량 추가:* 기존 용량의 70% 임계값을 초과하는 GRID 사이트가 있는 경우 알림을 받게 됩니다. 용량 임계값이 70%를 초과할 가능성이 있는 경우, 해당 사이트의 StorageGRID에 대해 향후 1개월, 3개월 및 6개월 동안 용량을 추가할 수 있는 옵션이 제공됩니다.</block>
   <block id="0cd056bd26e169de7bcb1a020c6b1264" category="list-text">*Planning* 위젯에서 *Storage Expansion*을 클릭합니다.</block>
   <block id="2e703d88e9f579295840057715d9e123" category="list-text">선택한 시스템의 스토리지 확장을 지원하도록 NetApp 스토리지 팀에 요청을 보내려면 *보내기*를 클릭하십시오.</block>
   <block id="9db2bee503b4dd39ee519c9d3147cd82" category="list-text">*계획* 위젯에서 *지원 갱신*을 클릭합니다.</block>
@@ -1620,5 +1550,71 @@
   <block id="593b7503b2bb0ab3939f80c599e28d01" category="section-title">2026년 7월 15일</block>
   <block id="0e1f11a16da786670316988e6939f0dc" category="paragraph">설치된 기반의 NetApp 제품에 대한 건강 상태, 갱신 예정일이 임박한 스토리지 시스템, 업그레이드가 필요한 스토리지 시스템을 요약하는 월간 건강 상태 점검 이메일을 구독할 수 있습니다. 월간 요약을 확인하고 스토리지 시스템에 필요한 조치를 취할 수 있도록 건강 상태 점검 이메일을 받게 됩니다.</block>
   <block id="5dc75508ba4ef965dd5e67e824749acf" category="paragraph">구독 내역을 보고, 수정하고, 공유하고, 삭제할 수도 있습니다. 언제든지 이메일 수신을 원하지 않으면 구독을 취소할 수 있습니다.</block>
-  <block id="9700c329d00878c280440dc2e026802a" category="summary">스토리지 펌웨어, SP 및 BMC 펌웨어, 시스템 파일, 보안 파일에 대한 업데이트 권장 사항을 확인하십시오.</block>
+  <block id="03c5b42b885a94fc682f43b75d5086a9" category="doc">NetApp Console(이전 명칭: BlueXP)</block>
+  <block id="096e72f185cd5ba74fed5d48c1f555a9" category="paragraph">향상된 구조로 재설계된 NetApp Console을 기반으로 구축된 NetApp Console은 온프레미스 및 클라우드 환경 전반에 걸쳐 엔터프라이즈급 NetApp 스토리지 및 NetApp Data Services를 중앙 집중식으로 관리할 수 있도록 지원하며, 실시간 인사이트, 더욱 빠른 워크플로, 간소화된 관리 기능을 제공하고 높은 보안성과 규정 준수를 보장합니다.</block>
+  <block id="9a46da86154f0e764fc998d06fe64b60" category="paragraph">변경 사항에 대한 자세한 내용은 <block ref="55233a601a39d3cf31ec58df3f760d9b" category="inline-link-rx"></block>을 참조하세요.</block>
+  <block id="7d6ce3bee9fd5da819af4cfb0b2ade4f" category="list-text">*AutoSupport 도입 현황*: AutoSupport가 활성화된 시스템의 수와 비율을 표시합니다. '거부됨'으로 표시된 시스템, *HTTPS* 및 *AutoSupport on Demand*가 활성화된 시스템, 그리고 지난 7일 동안 AutoSupport 데이터 전송이 중단된 시스템의 *신호 끊김*도 확인할 수 있습니다. 시스템 상태 점검 점수 및 설치 기반의 시스템에 대한 정보를 보려면 *AutoSupport 도입 현황* 위젯을 클릭하십시오.</block>
+  <block id="3730e1e889435130618fcdb87bf46f1c" category="cell">ONTAP에서만 지원됩니다</block>
+  <block id="1e6ddc0aa4336129b8430dfbbb3741bb" category="admonition">모든 플랫폼이란 ONTAP, E-Series, StorageGRID, ONTAP Select 및 Cloud Volumes ONTAP를 의미합니다.</block>
+  <block id="ba541209b2d31087fd8081e9f1a7235f" category="list-text">*해결하기:* Active IQ Unified Manager를 사용하여 시스템의 위험을 수정합니다. 이 버튼을 클릭하여 Unified Manager를 실행하고 위험 완화 단계를 수행하십시오.</block>
+  <block id="a7c3a3c652c30011db60f3b6078330ce" category="list-text">*스토리지 효율성:* AFF 시스템, 비AFF 시스템 또는 둘 다에 대해 스냅샷 복사본 사용 여부에 따른 스토리지 시스템의 스토리지 효율성 비율과 절감 효과를 확인합니다.</block>
+  <block id="57fd96c602ee5183b4c64c101687c0a4" category="list-text">*API 서비스:* 관심 있는 데이터를 가져와 회사 워크플로에 직접 통합할 수 있습니다.</block>
+  <block id="fd7b263f8186cddb5aa64a9ee6549eec" category="list-text">*고객:* 고객의 설치 기반을 확인하고 관리할 수 있습니다. 고객 대시보드는 Digital Advisor의 중앙 포털입니다.</block>
+  <block id="729605c82c0bbf0ebd4f4377813faf0a" category="cell">Digital Advisor KPI에 대한 정보를 PowerPoint(PPT) 형식으로 제공하며, 각 KPI는 서로 다른 슬라이드에 설명되어 있습니다.</block>
+  <block id="05801be000263018d476e6ba066f50ea" category="list-text">데이터 축소 비율, 사용된 논리 공간, 사용된 물리 공간 및 총 절약된 데이터를 확인합니다.</block>
+  <block id="874065797510ef71853078d085cab4b0" category="paragraph">NetApp Console을 사용하기 위해 라이선스나 구독이 필요한 것은 아니며, 스토리지 시스템 또는 NetApp 데이터 서비스와의 연결을 보장하기 위해 클라우드에 Console 에이전트를 배포해야 할 때만 비용이 발생합니다. 단, Console에서 액세스할 수 있는 일부 NetApp 데이터 서비스는 라이선스 또는 구독 기반입니다.</block>
+  <block id="1a90436cad6b2c834a6f0bf4b63bb676" category="paragraph"><block ref="185be9890bef04443cd0fba90b4aff11" category="inline-link-rx"></block>에 대해 자세히 알아보십시오.</block>
+  <block id="53c621ae7df9116f8ec407452e8efdbb" category="paragraph">이전에 이메일과 비밀번호를 사용하여 Console 로그인을 생성한 경우, 해당 로그인 옵션을 계속 사용해야 합니다.</block>
+  <block id="51603e563844ec78e7e14a188fd184f2" category="paragraph">이 로그인은 2단계에서 완료한 로그인과 다릅니다. 2단계에서는 콘솔에 로그인했습니다. 지금은 Digital Advisor에 로그인하는 중입니다.</block>
+  <block id="eb4c4556f1e58a659f927289beefed42" category="paragraph">이 기능에 대한 자세한 내용은 콘솔 설명서의 <block ref="c9db3d27e451d67dba90184b9b5622ce" category="inline-link-macro-rx"></block>을(를) 참조하십시오.</block>
+  <block id="92f74741b9959f2b8786b8d7b3059c90" category="paragraph">지속가능성 대시보드에서 지속가능성 점수, 예상 전력 사용량, 직접 탄소 배출량 및 열을 확인할 수 있습니다. 특정 사이트에 대한 탄소 저감 비율을 조정할 수 있습니다. 클러스터 수준의 지속가능성 점수도 확인할 수 있습니다. 지속가능성 점수를 기반으로 지속가능성 현황을 평가하고 NetApp에서 권장하는 조치를 실행하여 점수를 개선할 수 있습니다. 지속가능성 대시보드에 대한 자세한 내용은 <block ref="ad420490bfb0f9b164f2afe15fdac1a6" category="inline-link-macro-rx"></block>을 참조하십시오.</block>
+  <block id="b624efa5cd5831fb1d5596ba38fe16f7" category="paragraph">예, Digital Advisor는 모든 ONTAP 시스템의 비율을 표시합니다.</block>
+  <block id="aa21fcf62250f4d3f0ad1ad5dbb93684" category="paragraph">*효율성 대시보드의 '스냅샷 복사본 포함' 토글이란 무엇입니까?*</block>
+  <block id="7c1596561a20622c6421671b4004ef67" category="paragraph">Digital Advisor 효율성 대시보드는 고객, 사이트, 그룹, 클러스터 및 노드를 포함한 여러 수준에서 데이터 감소율을 계산합니다. *스냅샷 복사본 포함* 토글을 활성화하면 데이터 감소율 계산에 다음과 같은 스토리지 효율성 기술이 포함됩니다.</block>
+  <block id="3449d54ebb7743bfc41d56127465f788" category="paragraph">기본적으로 데이터 축소 비율 계산에는 스냅샷 저장 효율 기술이 포함되지 않습니다.</block>
+  <block id="dc18671c8ac768094a8eceee997d8206" category="list-text">애그리게이트 스냅샷 복사본이 사용하는 공간이 포함됩니다.</block>
+  <block id="ecee7cf76c131bce9c79b4b445548b50" category="list-text">여기에는 애그리게이트의 볼륨, 클론 및 스냅샷이 포함됩니다.</block>
+  <block id="f598a38eae9b19934d4734c48d6c184e" category="paragraph">고객 수준 스토리지 효율성 대시보드는 AFF 및 비AFF 시스템에 대해 스냅샷 복사본 사용 여부에 따른 데이터 감소율을 제공하며, 이는 고객 설치 기반 전체에 걸쳐 통합됩니다. 다음 계산에 필요한 매개변수는 ONTAP AutoSupport에서 가져옵니다.</block>
+  <block id="8be3c4972895cb750e7d1545a84cae53" category="paragraph">스냅샷 복사본 없이 (Aggr별로 먼저 계산됨):</block>
+  <block id="8699da88f887f27157f0d8de19ecd4c0" category="cell">스냅샷 복사본 없이 사용되는 Aggr Logical</block>
+  <block id="f31b4c494b555a36aca7fdc6249631eb" category="cell">애그리게이트 내 볼륨, 클론, 스냅샷 복사본에서 사용되는 논리적 크기 - 스냅샷 복사본에서 사용되는 논리적 크기</block>
+  <block id="ec3132bbe2406c82db49707e0f19b733" category="cell">스냅샷 복사본 없이 Aggr 물리적 사용</block>
+  <block id="60a1c30b93883611ccf2331a39b65b47" category="cell">총 물리적 사용량 – (스냅샷 복사본에 사용된 물리적 크기 / Aggregate 데이터 감소 비율)</block>
+  <block id="19523cdb9890b6c04a57e90e3afad053" category="cell">스냅샷 복사본 없이 고객 효율성 비율</block>
+  <block id="924a9f5bb78f486cf0b6146377a782a4" category="cell">모든 애그리게이트 및 고객의 모든 노드에 대한 스냅샷 복사본 없이 사용된 논리적 애그리게이트의 합계 / 모든 애그리게이트 및 고객의 모든 노드에 대한 스냅샷 복사본 없이 사용된 물리적 애그리게이트의 합계 : 1</block>
+  <block id="64b706fea0ebc99d0ec25de4338a3336" category="paragraph">스냅샷 복사본 포함:</block>
+  <block id="2da26b7d02f4f3f1a5ee2ab38444b452" category="cell">스냅샷 복사본을 사용한 고객 논리적 크기</block>
+  <block id="bad4044d371664f2415d2264532aafe4" category="cell">[고객의 모든 애그리게이트 및 모든 노드에 대한 볼륨, 클론, 스냅샷 복사본에서 사용되는 논리적 크기의 합계]</block>
+  <block id="ded18883ed012593f39f0cb85406ba6e" category="cell">스냅샷 복사본과 함께 사용되는 고객 물리적 크기</block>
+  <block id="556a71abb60368aa19e053fe0c6425b2" category="cell">스냅샷 복사본을 사용한 고객 효율성 비율</block>
+  <block id="5ad6fd88c67d2f747e3cb192dc23722e" category="cell">스냅샷 복사본 및 클론을 사용한 고객 논리적 크기 / 스냅샷 복사본 및 클론에 사용된 고객 물리적 크기: 1</block>
+  <block id="2fd9b8396f5cfa5d207f028308c0a691" category="cell">스냅샷 복사본 없이 사용되는 고객 논리적 크기</block>
+  <block id="f511ea9bc03aa281621a5ed459cbe3c5" category="cell">볼륨, 클론, 스냅샷 복사본에서 사용된 논리적 크기의 합계 - 고객의 모든 노드에 대한 모든 애그리게이트의 스냅샷 복사본에서 사용된 논리적 크기</block>
+  <block id="99f1f407245a73f2e52dc0516700b1d4" category="cell">스냅샷 복사본에 사용되는 고객 논리적 크기</block>
+  <block id="1c7b695bec8cb63b774940bea7e08df1" category="cell">고객의 모든 노드에 대한 모든 애그리게이트에서 볼륨, 클론, 스냅샷 복사본이 사용한 논리적 크기의 합계</block>
+  <block id="c8fcef6ef9da5513972a1ae959911375" category="cell">고객의 모든 노드에 대한 모든 애그리게이트의 합계(스냅샷 복사본에서 사용되는 논리적 크기 - 스냅샷 복사본에서 사용되는 물리적 크기)</block>
+  <block id="efb492f880e7c0d2d44315e144bf6184" category="paragraph">*Digital Advisor에서 용량은 어떻게 계산됩니까?* Digital Advisor의 용량은 루트를 제외하고 스냅샷 복사본을 포함하여 클러스터 및 노드에 대해 계산됩니다.</block>
+  <block id="793f7fde2f13274833e3854bacf92203" category="cell">"AGGR-EFFICIENCY.XML" 애그리게이트에서 볼륨, 클론 및 스냅샷 복사본이 사용하는 논리적 크기</block>
+  <block id="266a9e94309647563ad313e8d3bc1905" category="paragraph">*로컬 계층(스냅샷 복사본이 있는 Aggregate)*</block>
+  <block id="2535aca3fd66300e3669db36061fbd17" category="paragraph">*볼륨(스냅샷 복사본이 포함된 볼륨)의 경우*</block>
+  <block id="4e120127561301cb3c475983093b3ec0" category="list-text">애그리게이트에는 볼륨, 클론 및 스냅샷 복사본이 포함됩니다.</block>
+  <block id="43f936f277529ec87f2d4975d0ca9dc2" category="list-text">볼륨, 메타데이터 또는 스냅샷 복사본에 의해 애그리게이트에서 사용되거나 예약된 모든 공간의 합계</block>
+  <block id="e45cbb9ba1cce708236dcc659175f496" category="paragraph">*각 볼륨의 누적 사용 용량이 노드 수준의 총 사용 용량과 일치하지 않는 이유는 무엇입니까?* 노드 수준의 사용 용량에는 볼륨, 메타데이터 및 스냅샷 복사본에 예약된 공간이 포함됩니다. 또한 파일 또는 볼륨 보증 유형의 볼륨에 예약된 공간도 포함됩니다. 따라서 두 값이 일치하지 않을 수 있습니다.</block>
+  <block id="03a5f3ddae5fd6b026773636a8ca0009" category="list-text">*스냅샷 백업 없이 저장* 토글 옵션의 이름이 *스냅샷 복사본 포함*으로 변경되었으며, 기능도 일부 수정되었습니다. <block ref="3a01d99aaa6c74ce8f92a2ac5ca4e5e9" category="inline-link-macro-rx"></block>.</block>
+  <block id="4cd079cf19920ecfc0164e586d40e795" category="paragraph">AFF A-Series, AFF C190, All SAN Array 및 FAS500을 포함한 ONTAP 시스템에서 노드 수준의 SAN 및 NAS 스토리지 효율성을 활용할 수 있습니다.</block>
+  <block id="d507c23704c3e103d5201e1a43b0828e" category="section-title">NetApp Console과 통합되는 Digital Advisor</block>
+  <block id="8de0b8b02d2bfd48482512c91fa6e18e" category="paragraph">Active IQ Digital Advisor가 Digital Advisor로 변경되었으며 이제 하이브리드 멀티클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 NetApp Console에 통합되었습니다. <block ref="7cc56b953de24cf166f6b18ad0920a18" category="inline-link-macro-rx"></block>.</block>
+  <block id="c37f219aa571929728262a5acf740a28" category="paragraph">NetApp Console 사용자는 이제 Digital Advisor의 기존 기능과 유사하게, 해당되는 모든 곳에서 Digital Advisor 링크를 새 탭에서 열 수 있습니다.</block>
+  <block id="a6c74eb040ea726fb2c4e5feca0368c2" category="list-text">웰니스 리뷰 이메일에는 갱신 정보가 아닌 랜섬웨어 방어에 대한 정보가 포함되어 있습니다.</block>
+  <block id="b6eeb808a3c1a36cdf1c37ebd476b922" category="paragraph">SVM 테이블에서 파란색 'Volume Summary' 상자를 클릭하면 특정 일련 번호 또는 물리적 노드에 호스팅되거나 연결된 볼륨에 대한 자세한 정보가 팝업 창으로 표시됩니다.</block>
+  <block id="b9cf4e905e96b235770e49865f22f11e" category="list-text">*용량 추가:* 기존 용량의 70% 임계값을 초과하는 GRID 사이트가 있는 경우 알림을 받게 됩니다. 용량 임계값이 70%를 초과할 가능성이 있는 경우, 해당 사이트의 StorageGRID에 대해 향후 1개월, 3개월 또는 6개월 동안 용량을 추가할 수 있는 옵션이 제공됩니다.</block>
+  <block id="599bbd3b519be9802a8dfd330b44eee9" category="list-text">*갱신:* StorageGRID 라이선스 계약이 만료되었거나 향후 6개월 이내에 만료가 임박한 StorageGRID 시스템에 대해 알림이 전송됩니다. 하나 이상의 시스템을 선택하여 NetApp 지원팀에 갱신 요청을 제출할 수 있습니다.</block>
+  <block id="5e3cf62c27b7f1398ad383a1c7dab255" category="paragraph">Tier Data 버튼이 FabricPool 대시보드에 추가되었으며, 이 버튼을 사용하면 NetApp Console을 통해 저렴한 오브젝트 스토리지 계층으로 데이터를 계층화할 수 있습니다.</block>
+  <block id="6af6c61735431a6255a872b1464ad115" category="paragraph">Digital Advisor API를 사용하면 관심 있는 데이터를 가져와 회사 워크플로에 직접 통합할 수 있습니다. <block ref="1cadb4b3b896f461880aeba67b4bebd1" category="inline-link-macro-rx"></block>.</block>
+  <block id="c411645bc88deb98a18a62a7fdb66c40" category="paragraph">AFF 시스템, 비AFF 시스템 또는 둘 다에 대해 스냅샷 복사본 사용 여부에 따른 스토리지 시스템의 스토리지 효율성 비율과 절감 효과를 확인할 수 있습니다. 스토리지 효율성 정보는 노드 수준에서 확인할 수 있습니다. <block ref="a712d09976009a64cc618b068e6daeda" category="inline-link-macro-rx"></block>.</block>
+  <block id="d35680f69bb80e4d2980c78ac22f986c" category="summary">스토리지 시스템의 용량 세부 정보 및 스토리지 효율성 절감 효과를 확인합니다.</block>
+  <block id="54ccc6028941c31a0165a2963a324aab" category="paragraph">용량 대시보드는 시스템의 용량 세부 정보와 용량 예측을 표시합니다. 용량 예측은 기간별 용량 정보를 활용하여 각 시스템의 사용률을 파악합니다. 사용 및 할당된 용량의 기간별 데이터(가능한 경우 1년치 데이터)를 기반으로, 알고리즘은 각 시스템의 현재 사용률을 고려하여 향후 1개월에서 6개월 동안의 시스템 사용률을 예측합니다.</block>
+  <block id="7c1309f4b0731ed18fb594c6d632c067" category="paragraph">스토리지 효율성 대시보드는 데이터 감소율, 사용된 논리 공간, 사용된 물리 공간 및 총 절약 데이터를 표시합니다. 데이터 감소율과 절약량은 AFF 시스템, 비AFF 시스템 또는 둘 다에 대해 스냅샷 복사본 사용 여부에 따라 확인할 수 있습니다. 볼륨 중복 제거, 볼륨 압축, 압축 해제, FlexClone 볼륨 및 스냅샷 복사본 등 효율성 기능별로 고객 스토리지 전체의 총 데이터 절약량을 확인할 수 있습니다. 효율성 비율이 가장 높은 상위 5개 스토리지 시스템을 볼 수 있습니다. 또한 AFF A-Series, AFF C190, All SAN Array 및 FAS500을 포함한 ONTAP 시스템의 경우 스냅샷 복사본을 제외한 SAN 및 NAS 효율성을 노드 수준에서 확인할 수 있습니다.</block>
+  <block id="6bb86861540256654ad78af590cbca2e" category="paragraph">스냅샷 생성, 보존 및 ONTAP FPolicy 관련 위험을 확인하고 문제를 해결하기 위한 조치를 취할 수 있습니다.</block>
+  <block id="85384a7ec038b3ed06c50841a285d5fc" category="summary">스토리지 펌웨어, SP/BMC 펌웨어, 시스템 파일 및 보안 파일의 업데이트 권장 사항을 확인합니다.</block>
 </blocks>

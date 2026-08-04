@@ -40,11 +40,13 @@ video::rEPtldosjWM[youtube,width=848,height=480]
 | 지원 갱신 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 | 모든 플랫폼에서 지원됩니다 
 
 
-| 스토리지 확장 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
+| 스토리지 확장 | ONTAP에서만 지원됩니다 | ONTAP에서만 지원됩니다 | ONTAP에서만 지원됩니다 
 
 
-| 인벤토리 | 모든 플랫폼에서 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
+| 인벤토리 | 모든 플랫폼에서 지원됩니다 | ONTAP에서만 지원됩니다 | ONTAP에서만 지원됩니다 
 
 
-| 업그레이드 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 | Clustered Data ONTAP에서만 지원됩니다 
+| 업그레이드 | ONTAP에서만 지원됩니다 | ONTAP에서만 지원됩니다 | ONTAP에서만 지원됩니다 
 |===
+
+NOTE: 모든 플랫폼이란 ONTAP, E-Series, StorageGRID, ONTAP Select 및 Cloud Volumes ONTAP를 의미합니다.

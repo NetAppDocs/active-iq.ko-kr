@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: view-firmware-update-recommendations.html 
-keywords: Upgrade Advisor, firmware recommendations, storage firmware, SP and BMC firmware, system files, security files 
-summary: 스토리지 펌웨어, SP 및 BMC 펌웨어, 시스템 파일, 보안 파일에 대한 업데이트 권장 사항을 확인하십시오. 
+keywords: upgrade advisor, firmware recommendations, storage firmware, sp bmc firmware, system files, security files 
+summary: 스토리지 펌웨어, SP/BMC 펌웨어, 시스템 파일 및 보안 파일의 업데이트 권장 사항을 확인합니다. 
 ---
 = Digital Advisor 에서 펌웨어 업데이트 권장 사항을 확인하세요.
 :hardbreaks:

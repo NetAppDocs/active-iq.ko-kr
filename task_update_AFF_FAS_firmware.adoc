@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task_update_AFF_FAS_firmware.html 
-keywords: update, AFF, FAS firmware, firmware 
+keywords: update, aff, fas firmware, firmware 
 summary: AFF 및 FAS 펌웨어를 업데이트하는 방법에 대한 자세한 내용은 에 나와 있습니다. 
 ---
 = Digital Advisor 에서 AFF 및 FAS 펌웨어 Ansible 패키지를 다운로드하십시오.
@@ -27,7 +27,6 @@ Ansible을 사용하여 AFF 및 FAS 펌웨어를 업데이트하기 전에 다�
 
 * link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/["스토리지 시스템에 Ansible을 설치 및 설정합니다"^]
 * link:https://netapp.io/2019/09/17/coming-together-nicely/["스토리지 시스템에 Ansible 2.9을 컬렉션에 설치합니다"^]
-* 스토리지 시스템을 ONTAP 9.1 이상으로 업그레이드하십시오
 * 관리자 역할을 사용하여 계정을 구성합니다
 
 

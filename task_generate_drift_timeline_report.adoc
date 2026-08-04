@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task_generate_drift_timeline_report.html 
-keywords: reports, generate reports, drift timeline, drift timeline report, AutoSupport data 
+keywords: reports, generate reports, drift timeline, drift timeline report, autosupport data 
 summary: 드리프트 타임라인 보고서를 생성하는 정보를 제공합니다. 
 ---
 = Digital Advisor 에서 구성 변경 타임라인 보고서를 생성합니다.
