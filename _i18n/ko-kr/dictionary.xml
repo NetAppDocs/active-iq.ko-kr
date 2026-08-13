@@ -196,7 +196,6 @@
   <block id="a90d025280adc02fe67b217063675d0d" category="paragraph">템플릿을 추가하여 시스템과 클러스터 구성을 비교하고 거의 실시간으로 구성 편차를 감지해야 합니다. 구성 드리프트 템플릿은 AutoSupport 데이터를 실행하는 시스템을 사용하여 추가됩니다.</block>
   <block id="88b68e34df9db916b4fe94948231ccbb" category="list-text">템플릿 추가 * 를 클릭합니다.</block>
   <block id="db3c8b301a3ce6ee5fa41ab7a54740f3" category="list-text">요청된 값을 제공하십시오.</block>
-  <block id="9ca3a412ada6ce6666248783cc1577f6" category="summary">릴리스의 새 기능에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="58ca82356452d9a9a7ccfcd96b19f5cf" category="section-title">2022년 8월 25일</block>
   <block id="3348dcc393bde37af6464ca44f92a231" category="inline-link-macro">자세히 알아보기</block>
   <block id="0e1335531f896df953b41fb40e52c70e" category="section-title">2022년 7월 14일</block>
@@ -979,7 +978,6 @@
   <block id="85da219929dec7990a12ce28aff47903" category="paragraph">Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 <block ref="8c04b73445737bcfc4025ef8f1a9a540" category="inline-link-macro-rx"></block> 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 <block ref="81862bc1dc3b588f731b84b986e9994e" category="inline-link-macro-rx"></block>.</block>
   <block id="78c1cfc20c22b33386b17ebe2a0a7d64" category="list-text"><block ref="78c1cfc20c22b33386b17ebe2a0a7d64" category="inline-link-macro-rx"></block></block>
   <block id="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="list-text"><block ref="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="inline-link-macro-rx"></block></block>
-  <block id="2eb6f862ee3ec494c6f43826c23b83da" category="list-text"><block ref="2eb6f862ee3ec494c6f43826c23b83da" category="inline-link-macro-rx"></block></block>
   <block id="8934fed115a0b826a4b438906a11bfa9" category="doc">Sustainability 대시보드 개요</block>
   <block id="e3667627bec4bfd6e60dea46e855352c" category="inline-image-macro">사이트의 탄소 완화 비율과 이 비율을 편집하는 방법을 보여 주는 스크린샷.</block>
   <block id="369583cace99a57a955a633843c9e566" category="paragraph"><block ref="369583cace99a57a955a633843c9e566" category="inline-image-macro-rx" type="image"></block></block>
@@ -1617,4 +1615,9 @@
   <block id="7c1309f4b0731ed18fb594c6d632c067" category="paragraph">스토리지 효율성 대시보드는 데이터 감소율, 사용된 논리 공간, 사용된 물리 공간 및 총 절약 데이터를 표시합니다. 데이터 감소율과 절약량은 AFF 시스템, 비AFF 시스템 또는 둘 다에 대해 스냅샷 복사본 사용 여부에 따라 확인할 수 있습니다. 볼륨 중복 제거, 볼륨 압축, 압축 해제, FlexClone 볼륨 및 스냅샷 복사본 등 효율성 기능별로 고객 스토리지 전체의 총 데이터 절약량을 확인할 수 있습니다. 효율성 비율이 가장 높은 상위 5개 스토리지 시스템을 볼 수 있습니다. 또한 AFF A-Series, AFF C190, All SAN Array 및 FAS500을 포함한 ONTAP 시스템의 경우 스냅샷 복사본을 제외한 SAN 및 NAS 효율성을 노드 수준에서 확인할 수 있습니다.</block>
   <block id="6bb86861540256654ad78af590cbca2e" category="paragraph">스냅샷 생성, 보존 및 ONTAP FPolicy 관련 위험을 확인하고 문제를 해결하기 위한 조치를 취할 수 있습니다.</block>
   <block id="85384a7ec038b3ed06c50841a285d5fc" category="summary">스토리지 펌웨어, SP/BMC 펌웨어, 시스템 파일 및 보안 파일의 업데이트 권장 사항을 확인합니다.</block>
+  <block id="46e6b9972b0e45a05d68f09619af067a" category="doc">Config Drift 기능에 대한 사용 중단 안내</block>
+  <block id="8f757d9b6264af1a2e6069cf7b5b18f9" category="paragraph">Config Drift 기능은 2026년 9월에 Digital Advisor에서 더 이상 사용되지 않을 예정입니다.</block>
+  <block id="1cf5700bf190dbae716a593be587283a" category="list-text"><block ref="1cf5700bf190dbae716a593be587283a" category="inline-link-macro-rx"></block></block>
+  <block id="d71ef8f8c3bc3420442db2005d522d56" category="summary">Digital Advisor의 새로운 기능 및 향상된 기능에 대해 알아보십시오.</block>
+  <block id="b79452fa5a06b7ff4261516434074a36" category="section-title">2026년 8월 12일</block>
 </blocks>
