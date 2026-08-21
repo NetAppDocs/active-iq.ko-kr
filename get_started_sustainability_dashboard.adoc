@@ -40,7 +40,7 @@ Digital Advisor에 로그인하려면 NetApp Support 사이트 자격 증명을 
 
 .단계
 . 웹 브라우저를 열고 로 이동합니다 link:https://activeiq.netapp.com/?source=onlinedocs["디지털 자문업체"^] 로그인 페이지.
-. 사용자 이름과 암호를 입력하고 * 로그인 * 을 클릭합니다.
+. 사용자 이름과 비밀번호를 입력하고 *로그인*을 선택합니다.
 . 왼쪽 탐색 메뉴에서 *지속 가능성*을 선택하세요.
 +
 image:sustainability_dashboard.png["Sustainability 대시보드의 개요를 제공하는 UI 스크린 샷"]

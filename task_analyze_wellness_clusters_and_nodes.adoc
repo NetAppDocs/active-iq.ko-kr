@@ -25,6 +25,6 @@ ClusterViewer는 노드 스택 다이어그램, 스토리지 사용 및 효율�
 video::FVbb2bbIY9E[youtube,width=848,height=480]
 .단계
 . Inventory * 위젯에서 원하는 클러스터 또는 노드(호스트)를 선택합니다.
-. 클러스터 또는 노드 레벨에서 * Configuration * 위젯 옆에 있는 * ClusterViewer * 를 클릭합니다.
-. 클러스터의 그래픽 표현을 보려면 * Visualization * 탭을 클릭합니다.
+. 클러스터 또는 노드 수준에서 *구성* 위젯 옆에 있는 *ClusterViewer*를 선택합니다.
+. 클러스터의 그래프 표현을 보려면 *시각화* 탭을 선택하십시오.
 

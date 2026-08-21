@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: concept_value_insights.html 
+keywords: value insights, health, savings, stability, security, ontap systems 
+summary: ONTAP 시스템의 전반적인 상태, 절감 효과, 안정성 및 보안 지표에 대한 정보를 제공합니다. 
+---
+= Digital Advisor에서 가치 인사이트 살펴보기
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Value Insights 기능은 ONTAP 시스템의 전반적인 상태, 절감 효과, 안정성 및 보안 정보를 통합적으로 제공합니다. 이 정보를 활용하여 ONTAP 환경에 대한 지속적인 데이터 기반 분석을 통해 시스템 상태와 성능을 개선할 수 있습니다.
+
+
+NOTE: Value Insights는 ONTAP 시스템에서만 사용할 수 있습니다.
+
+Value Insights는 다음과 같은 정보를 제공합니다.
+
+* ONTAP 시스템의 전반적인 상태는 9가지 핵심 성과 지표(KPI)로 구성된 상태 점수로 평가됩니다. 각 항목에는 상세한 KPI 및 점수 분석표가 제공됩니다.
+* 절감 효과 및 안정성 점수는 효율적인 리소스 사용을 통해 용량 및 스토리지 절감을 달성하는 방법을 보여줍니다. EMS 파일 다운로드 기능을 포함하여 스토리지 가동 시간 및 예기치 않은 다운타임에 관한 동향 정보에 액세스합니다.
+* 보안 및 미래 계획에는 회피된 위험과 예방된 문제가 자세히 설명되어 있습니다. 비용 절감액은 스토리지 효율성을 기반으로 계산됩니다.
+* 인프라 가치 극대화는 최고의 효율성을 위해 인프라 성능을 더욱 향상시키는 추가 기능을 권장합니다.
+
+
+.다음 단계
+link:task_view_value_insights_dashboard.html["가치 분석 대시보드 보기"]

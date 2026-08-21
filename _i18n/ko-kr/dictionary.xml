@@ -2,15 +2,10 @@
 <blocks>
   <block id="79e6bb72bf3b27322743b85d46e7028f" category="summary">다운타임 및 가능한 데이터 손실을 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
-  <block id="a9d1a3c661cd780de1547f8874ba7fa9" category="inline-image-macro">가용성 및 보호 위젯</block>
-  <block id="4b5886406c71d9a6478bc858959901d2" category="list-text">가용성 및 보호 * 위젯에서 * 작업 * 을 클릭합니다.<block ref="5a8b574aaf1c16ebb902595925228ace" category="inline-image-macro-rx" type="image"></block></block>
   <block id="4e91f704233072d4cd24a403d5175cfc" category="paragraph">영향력이 큰 보안 위험에 대해서는 디스크 펌웨어를 업데이트하는 권장 조치를 따르십시오.</block>
   <block id="586072113125e441fad32377fb3b55fc" category="inline-image-macro">위험 요약</block>
-  <block id="36ae45e0f51d582bd7ecffce242361dd" category="list-text">위험 요약을 보려면 * 위험 이름 * 링크를 클릭하십시오.<block ref="961d5eee8f3900b106dbb0a2777f7ace" category="inline-image-macro-rx" type="image"></block></block>
   <block id="57b854162d6caadf0053934ab77436cd" category="inline-image-macro">수정 조치</block>
-  <block id="194764f556fc1cef4cadf0744c5dc483" category="list-text">고유 위험 * 탭을 클릭한 다음 * 수정 조치 * 열의 링크를 클릭합니다.<block ref="40b4aae1cc80ba37a700a5a58756afdd" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0a6792a12eae97ba02fc8390bfc77b8c" category="inline-image-macro">AFF 및 FAS 펌웨어</block>
-  <block id="03ad1b597ecef769f82b062d6ca40935" category="list-text">스크립트를 생성하고 다운로드하려면 * Ansible "A" * 아이콘을 클릭하십시오.<block ref="de1b9e535c23b0fc7148d0cda53eb930" category="inline-image-macro-rx" type="image"></block></block>
   <block id="3be360a5cb329666d65e17b5ecd32b3c" category="summary">인벤토리 파일 작업에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="d9d85047436d37abb6c5c8deca6fe036" category="paragraph">인벤토리 파일은 펌웨어 업데이트가 가능한 시스템의 클러스터 관리 LIF로 구성됩니다. 여기에는 해당되는 경우 디스크 및 쉘프 펌웨어 파일 이름 정보가 포함된 클러스터 목록이 포함되어 있습니다.</block>
   <block id="d6c78c605ec5b1cf9ed3237663470e46" category="paragraph">서비스 프로세서 펌웨어 업데이트의 경우 노드 호스트 이름 및 SP/BMC IP가 인벤토리 파일에 포함됩니다.</block>
@@ -43,7 +38,6 @@
   <block id="6fe43a0bc5267b501dd5c7825c17e1be" category="paragraph">다음 동영상을 통해 웰니스 특성의 중요성을 이해할 수 있습니다.</block>
   <block id="a789bbd5cd15d75a39f05ef8f875cf51" category="summary">스토리지 시스템의 소프트웨어 및 하드웨어를 갱신하기 위한 정보를 제공합니다.</block>
   <block id="f3a5f842bf6c3b73bcf58318a3511acf" category="list-text">필요한 경우 추가 설명을 제공합니다.</block>
-  <block id="2939fe6c5b77679da5984bbe596d4b9a" category="list-text">보내기 * 를 클릭합니다.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">이 FAQ는 질문에 대한 간단한 답변을 찾는 경우에 도움이 될 수 있습니다.</block>
   <block id="73cbb404e3fdd583d819be0e2eb8034e" category="section-title">비기술적인 케이스</block>
   <block id="b09ac678fb70485b6003259d225086ea" category="paragraph">* 비기술적 사례는 무엇입니까? *</block>
@@ -57,12 +51,10 @@
   <block id="6c92285fa6d3e827b198d120ea3ac674" category="inline-link-macro">여기</block>
   <block id="b881d2001fba3b1062cec6417c32bb74" category="list-text">피드백 범주 * 드롭다운 목록에서 적절한 범주를 선택합니다.</block>
   <block id="12330277a5f9a61a6bc1beddec10eeff" category="list-text">필요한 세부 정보를 입력하고 “Comments(설명)” 상자에 추가 정보를 입력합니다.</block>
-  <block id="4b5d2dd70af718ebe67bfea5b43d8667" category="list-text">제출 * 을 클릭합니다.</block>
   <block id="014b609750aa0ccedbb6b4212fb3f2df" category="paragraph">케이스가 생성되고 참조용으로 케이스 번호가 제공됩니다.</block>
   <block id="ac028435b37412dea24f9b1040cc0dc4" category="paragraph">의견을 제공하거나 질문을 하려면 mailto:ng-activeiq-feedback@netapp.com [[.underline]#ng-activeiq-feedback@netapp.com#]으로 이메일을 보내 주십시오.</block>
   <block id="fd18465573ec21a6218982055981f6b1" category="section-title">스토리지 효율성</block>
   <block id="1f7190b58ba77336a9e9c5d8010a216d" category="list-text">오른쪽 상단 검색 상자에서 고객, 사이트, 그룹, 클러스터 또는 노드를 검색하여 해당 대시보드에 표시합니다.</block>
-  <block id="f30fbe64196609d84d8615d57fc452c4" category="list-text">왼쪽 탐색 모음에서 * 스토리지 효율성 * 을 클릭합니다.</block>
   <block id="b9fc81c6a264c571164cb5ed34f3d618" category="admonition">관심 목록을 사용하여 생성한 대시보드는 스토리지 효율성 위젯에 표시되지 않습니다.</block>
   <block id="83f45cad5e6f535ff10e564a526baad0" category="list-text">중복 제거</block>
   <block id="82af841589057aa8922b1ac3bb4a28a4" category="list-text">압축</block>
@@ -139,24 +131,15 @@
   <block id="8e52de0d4b03d5fe87dc88da09616c7f" category="inline-xref">여기.</block>
   <block id="d05dbf74dd4a436186ee08c15e9b81d8" category="paragraph">시스템의 용량 세부 정보 및 스토리지 효율성 절감 효과를 확인하고 적절한 조치를 취할 수 있습니다. 용량 및 스토리지 효율성 정보는 클러스터 레벨 또는 노드 레벨에서 확인할 수 있습니다.</block>
   <block id="17c1d72dbea38c3c03aed0e08dbb37f9" category="admonition">이 기능은 E-Series 시스템에서 지원되지 않습니다.</block>
-  <block id="ee810de9566deba98dbe4a46fbcf7410" category="list-text">왼쪽 창에서 * 용량 및 효율성 * 을 클릭합니다.</block>
   <block id="672a98e16d598ad5d32b32f96bbf4db5" category="paragraph">기본적으로 * Capacity * 탭이 선택됩니다.</block>
   <block id="283c169bd8b723905691a0368b1eaf2a" category="list-text">클러스터 및 노드 레벨에서 용량 세부 정보를 확인합니다.</block>
   <block id="be131fcebf48482dd72ea96add51f0e0" category="list-text">노드 레벨에서 용량 예측을 확인합니다.</block>
   <block id="c08f4fce6d9fc3b55b586bec7ed0c778" category="paragraph">ONTAP 시스템의 경우, 물리적 용량에 대한 정보는 ClusterViewer에서 확인할 수 있습니다.</block>
-  <block id="03c660c2768c96f05e2acdb21cf61ebb" category="list-text">용량 추가 * 를 클릭하여 NetApp 또는 파트너에게 알림을 보내 용량을 추가합니다.</block>
   <block id="6d01d6a00b896623fe1252dcd728f7d4" category="list-text">스토리지 효율성 및 스토리지 시스템의 데이터 절감 효과를 확인하십시오.</block>
-  <block id="f4211b7ee285529c0082b53f3b17de86" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 높은 경우 * 성공 사례 공유 * 를 클릭하여 모범 사례를 알려주시기 바랍니다.</block>
-  <block id="7e4e265e9120fa2dfd6ce41588f5706a" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 낮은 경우 * 연락처 * 를 클릭하여 스토리지 시스템 구성을 알려주십시오.</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
   <block id="5e0e2c126796ee31f891f0f923d864f9" category="list-text">표시되는 위험에 대해 영향 수준을 확인하고 권장 조치를 따르십시오.</block>
-  <block id="9468b2f5ff83e6a3ed59b51e8ca38dc2" category="list-text">고유 위험 탭을 클릭하고 * 수정 조치 * 열에 있는 링크를 클릭합니다.</block>
-  <block id="719f031257428b8b9c9c34ee45a1c9ae" category="list-text">위험이 있는 시스템을 보려면 * 영향받는 시스템 * 탭을 클릭하십시오.</block>
-  <block id="0733f4fb920038885a10cd7d7528474a" category="list-text">시스템을 보호하기 위해 권장되는 개선 조치를 따르십시오.</block>
   <block id="36b9a40607be4fe5327a83c15f10355e" category="summary">구성 드리프트 템플릿을 비교하는 정보를 제공합니다.</block>
   <block id="5a8fec4938d8693af6506cce2afba55d" category="paragraph">시스템과 클러스터 구성을 비교하고 거의 실시간으로 구성 편차를 감지할 수 있습니다.</block>
-  <block id="610f90ca909a7ffba0cca7c8587ce0c7" category="list-text">왼쪽 창에서 * 구성 드리프트 * 를 클릭합니다.</block>
-  <block id="3d768fbe606a71f8b806879ad00eba22" category="list-text">기존 템플릿 중 하나를 선택하거나 * 템플릿 추가 * 를 클릭하여 새 템플릿을 추가합니다.</block>
   <block id="0f4b62d6f9a595aef4041b063db627c2" category="list-text">구성 드리프트 보고서를 생성합니다</block>
   <block id="94d8a7699e6d9a94b8c7f9284a38e5c3" category="paragraph">보고서를 즉시 생성하거나 주별 또는 월별 기준으로 보고서를 생성하도록 예약할 수 있습니다.</block>
   <block id="8037e16862d84c161a0376bf3349c34f" category="cell">보고서를 즉시 생성합니다</block>
@@ -166,7 +149,6 @@
   <block id="e5a357b5d9e14c026e56b048d8d30481" category="inline-link-macro">구성 드리프트 보고서를 다운로드하여 확인합니다</block>
   <block id="3fe3e6cae45cdc7f363823f66ac8cff4" category="list-text"><block ref="9904fa624af53322bf0cb3a29f4aca11" category="inline-link-macro-rx"></block>.</block>
   <block id="385c42157f7dfc3d457c05af35c0f3e3" category="list-text">구성 드리프트 보고서의 일부로 포함된 Ansible Playbook을 실행하여 DRIFTS를 완화합니다.</block>
-  <block id="3d238a330bc38f038dc62d179d5a04fb" category="list-text">보고서 예약 * 탭을 클릭합니다.</block>
   <block id="0462e15ed17cd7dc971f1fa1cb455fff" category="list-text">보고서 빈도를 선택합니다.</block>
   <block id="1d644c91a129f4fee67bbeac164d1355" category="list-text">보고서의 시작 날짜 및 종료 날짜를 선택합니다.</block>
   <block id="da46c99001fe56b84201c7d1c1bb16f1" category="paragraph">선택한 시스템 간의 구성 편차에 대한 세부 정보가 포함된 이메일이 전송됩니다.</block>
@@ -174,27 +156,19 @@
   <block id="3cc3a0dbf287ac1f117caad7c4ff3529" category="paragraph">상태 점검 점수를 기준으로 스토리지 시스템을 권장 NetApp 모범 사례에 맞게 조정하여 장기적인 계획을 도모할 수 있습니다. 중앙 집중식 사용자 인터페이스를 통해 소프트웨어 및 하드웨어에서 실행 중인 모든 시스템을 모니터링할 수 있습니다. 상태 점검 점수를 통해 시스템 위험에 대한 통찰력을 빠르게 얻을 수 있습니다. 주요 권장사항 및 모범 사례를 사용하면 설치 기반의 상태를 개선하기 위한 조치를 취할 수 있습니다.</block>
   <block id="74bac88334325995c9ac3011aacb8ce6" category="paragraph">구독이 활성화된 후에는 구독을 추가할 때 시작 날짜를 선택해야 합니다. 월간 이메일 요약에서는 뛰어난 건강 상태, 갱신, 업그레이드 및 상태 점검 작업을 확인할 수 있습니다. 이메일 주소를 확인할 수 있으며 이메일이 지정된 이메일 주소로 전송됩니다. 구독을 삭제할 수도 있습니다.</block>
   <block id="758be7d229b841d1130a3c7c210ffbdf" category="admonition">이 기능은 NetApp SupportEdge Advisor 및 SupportEdge Expert 서비스 오퍼링을 통해서만 사용할 수 있습니다.</block>
-  <block id="e7b254db09865dd430cfc8b7b0677352" category="list-text">왼쪽 창에서 * Wellness Review * 를 클릭합니다.</block>
-  <block id="2e732ac605c2ed9156bbd850efb40083" category="list-text">구독 추가 * 를 클릭합니다.</block>
   <block id="5fc44cddfe7ebd9f1c1db179221f47cf" category="list-text">새 구독 추가 * 대화 상자의 * 구독 이름 지정 *, * 범주 * 선택, * 고객 검색 * 및 * 이메일 * 필드에 필요한 정보를 입력합니다.</block>
-  <block id="85bb97cf1fc6a37ea1a5e97e0e2e1a8b" category="list-text">구독 * 을 클릭합니다.</block>
   <block id="59986442c027a30a72ff51fcf5ad3c9b" category="paragraph">가입이 성공적으로 완료되면 * 가입 추가 * 메시지가 표시됩니다.</block>
   <block id="e0f076d59e2092bdbab66e81920ec8bf" category="summary">보고서를 생성하는 데 필요한 정보를 제공합니다.</block>
   <block id="7ecd0726b721e17d74d280fdd93e49f8" category="doc">보고서를 생성합니다</block>
   <block id="c18954481ec7b1ca7731f10fe88f17e0" category="paragraph">보고서를 즉시 생성하거나 매주 또는 매월 생성할 보고서를 예약할 수 있습니다. 보고서는 다양한 형식으로 생성할 수 있습니다. 선택한 보고서에 따라 사용 가능한 형식이 표시됩니다.</block>
   <block id="78166ce4ccceeedfbf6aeb8682851072" category="paragraph">* 이 작업에 대한 정보 *</block>
-  <block id="b9078cbffeaf57a288d7d58d7ed02317" category="list-text">왼쪽 창에서 * 보고서 * 를 클릭합니다.</block>
-  <block id="cf2b00ffa5bd73f45aa8d81c2b6127eb" category="list-text">새 보고서를 생성하려면 * 보고서 작성 * 을 클릭합니다.</block>
   <block id="bb8c427c31e76f816f767bd2cad87cfc" category="list-text">보고서 유형을 선택하고 보고서에 대해 요청된 값을 제공합니다.</block>
   <block id="43c47648912b14ae2e4dae66c4c94e6f" category="list-text">보고서 형식을 선택합니다.</block>
   <block id="fbdbbae9b17b34243807f99738e169e7" category="admonition">새 보고서가 생성되면 기존의 예약된 보고서가 교체됩니다.</block>
   <block id="6d70d8473310213564444d3b9fe477dd" category="summary">운영 중단을 방지하기 위해 볼륨 채우기를 방지하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="ce18cbcf742aed8e35c658e5625fc984" category="inline-image-macro">구성 위젯</block>
-  <block id="60436722270a4533c09cb8939f672895" category="list-text">Configuration * 위젯에서 * Actions * 를 클릭합니다.<block ref="6aa7a8b05df22247419ddcea980afa15" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="eae8b28f90d4f0bef1cf3c21d4b34b89" category="list-text">고유 위험 * 탭을 클릭합니다. Corrective Action* 링크를 클릭하면 경고 임계값을 변경하거나 볼륨에 더 많은 공간을 할당할 수 있습니다.<block ref="bae9c6e4d72077c1f8c2b8eef31cbb4e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1adfed22e84a753b83628708ada03eee" category="summary">구성 드리프트 템플릿을 추가하는 데 필요한 정보를 제공합니다.</block>
   <block id="a90d025280adc02fe67b217063675d0d" category="paragraph">템플릿을 추가하여 시스템과 클러스터 구성을 비교하고 거의 실시간으로 구성 편차를 감지해야 합니다. 구성 드리프트 템플릿은 AutoSupport 데이터를 실행하는 시스템을 사용하여 추가됩니다.</block>
-  <block id="88b68e34df9db916b4fe94948231ccbb" category="list-text">템플릿 추가 * 를 클릭합니다.</block>
   <block id="db3c8b301a3ce6ee5fa41ab7a54740f3" category="list-text">요청된 값을 제공하십시오.</block>
   <block id="58ca82356452d9a9a7ccfcd96b19f5cf" category="section-title">2022년 8월 25일</block>
   <block id="3348dcc393bde37af6464ca44f92a231" category="inline-link-macro">자세히 알아보기</block>
@@ -336,9 +310,7 @@
   <block id="5c9ed548c23a9e1a91cf1c652e779a1a" category="list-text">* 계획 위젯: *</block>
   <block id="c4e80074735e6ff2daec051071dbc429" category="list-text">* 그리드 대시보드: * 그리드 대시보드는 선택한 그리드에 대한 웰니스, 계획 및 구성 세부 정보를 제공합니다.</block>
   <block id="b71490eeea3abb6f9a0c159a3418dd5e" category="list-text">* 구성 위젯: * 그리드 이름, 호스트 이름, 일련 번호, 모델, OS 버전 등 위젯에서 선택한 StorageGRID에 대한 기본 세부 정보를 제공합니다. 고객 이름, 배송 위치 및 연락처 세부 정보.</block>
-  <block id="a22fe4c7486ab7ffb8d4bc05dcab6336" category="list-text">* 그리드 뷰어: * 구성 * 위젯에서 * 그리드 뷰어 * 링크를 클릭하여 그리드 구성을 자세히 볼 수 있습니다. 구성 * 위젯에서 * 그리드 뷰어 * 화면에서 * 다운로드 * 버튼을 클릭하여 선택한 StorageGRID의 사이트 세부 정보 및 용량 세부 정보를 다운로드할 수 있습니다.</block>
   <block id="8952273932d18fb81102eabf38cabbd1" category="list-text">* 사이트 세부 정보: * 이 탭은 각 사이트에 사용할 수 있는 그리드 요약 및 스토리지 노드를 제공합니다.</block>
-  <block id="666d5831344c81a6bb17a82cba51d507" category="list-text">* 그리드 요약: * 라이센스 유형, 라이센스 용량, 설치된 노드 수, 지원 기간(라이센스 계약 종료 날짜), 기본 관리 노드 및 기본 관리 노드의 기본 사이트와 같은 기본 정보가 포함됩니다. 또한 이 탭에는 사이트 이름과 해당 사이트 아래에 태그가 지정된 스토리지 노드의 수가 표시됩니다. 이 릴리즈에서는 해당 사이트의 스토리지 노드를 보는 데 사용할 수 있는 하이퍼링크를 클릭하면 노드 이름 목록을 볼 수 있습니다.</block>
   <block id="d2f225914092c41360983fad88f32684" category="list-text">* Capacity Details(용량 세부 정보) 탭: * 그리드에 대해 구성된 Grid Level(그리드 수준) 및 Site Capacity(사이트 용량) 세부 정보를 제공합니다. 설치된 스토리지 용량, 사용 가능한 스토리지 용량, 사용된 총 스토리지 용량, 데이터 및 메타데이터에 사용된 용량과 같은 용량 세부 정보 이러한 세부 정보는 그리드 및 사이트 수준에서 모두 사용할 수 있습니다.</block>
   <block id="67cd8350911a2c5c4d5ea70ff9f7a77e" category="section-title">FabricPool 자문업체</block>
   <block id="5c1cbbba646e78bf69e01be8602cbe41" category="section-title">클라우드 지원 워크로드</block>
@@ -427,11 +399,7 @@
   <block id="745230e54aaf2b7a27c00a64f7313bd5" category="inline-link-macro">스토리지 시스템에 Ansible을 설치 및 설정합니다</block>
   <block id="5c5c784bf4fbab90a4f6348de576d5da" category="inline-link-macro">스토리지 시스템에 Ansible 2.9을 컬렉션에 설치합니다</block>
   <block id="15236e2742dc8cb603caee435694fbe2" category="list-text">관리자 역할을 사용하여 계정을 구성합니다</block>
-  <block id="ffc6cdcd4e33637452d7cabcc86954ab" category="list-text">대시보드에서 건강 상태 위젯을 클릭하거나 * 모든 조치 보기 * 를 클릭하여 모든 조치 및 위험 목록을 봅니다.</block>
-  <block id="cd6050a6bccf4f0492eade7e0a8b22b4" category="list-text">펌웨어 업그레이드 * 를 클릭하여 모든 펌웨어 업그레이드 위험을 확인합니다.</block>
   <block id="1aff53cee8a7c38fb4ee3ddb6173f4e7" category="inline-image-macro">Ansible 업데이트</block>
-  <block id="47629e856a7468c3fb4d1e1a69e972fe" category="list-text">사용 가능한 모든 업데이트 패키지를 보려면 * AFF 및 FAS 펌웨어 업데이트 * 를 클릭하거나 를 클릭합니다 <block ref="9d1b0d427955d96d4edc169551c295d5" category="inline-image-macro-rx" type="image"></block> 각 위험 옆에 있는 패키지를 해당 위험에 맞게 업데이트합니다.</block>
-  <block id="93a006c876b6eaa096cc468c6c5701c3" category="list-text">다운로드 * 를 클릭하여 zip 파일을 다운로드하고 스토리지 시스템을 업데이트합니다.</block>
   <block id="595cff17c33a5e83b1c88ca7a48f0cfd" category="paragraph">zip 파일에는 다음 항목이 포함되어 있습니다.</block>
   <block id="25768194d367c4c25b7836beb6ba6a75" category="list-text">Ansible 플레이북 - 디스크, 쉘프, 서비스 프로세서 펌웨어 업데이트를 수행하기 위한 Ansible 스크립트가 포함된 YAML 파일입니다.</block>
   <block id="ccc4f365b19456825f9b83309e5739f9" category="list-text">재고 - 펌웨어 업데이트에 적용되는 시스템의 세부 정보가 포함된 YAML 파일입니다.</block>
@@ -439,22 +407,13 @@
   <block id="3c31ca2c59ebd12781d8a3ccae41f4f7" category="admonition">인벤토리 파일에 클러스터 및 컨트롤러를 수동으로 추가하는 것은 지원되지 않습니다.</block>
   <block id="e02babead98c40fa29fb8fc1d8fdc331" category="summary">스토리지 시스템의 상태를 확인 및 분석하고 위험을 인정하는 정보를 제공합니다.</block>
   <block id="271d577ec8f32c51ee101c1c091a870f" category="paragraph">관련 작업 및 위험을 확인하여 스토리지 시스템의 상태 특성을 분석할 수 있습니다. 수정 조치를 확인하고 위험을 수동으로 완화해야 합니다.</block>
-  <block id="c8c26be9319b332a2b6294dcfb6585b6" category="list-text">대시보드에서 건강 상태 속성 위젯을 클릭하거나 * 모든 조치 보기 * 를 클릭하여 모든 조치 및 위험 목록을 봅니다.</block>
   <block id="09cf3ca5d8f7efac34773df93eb9049a" category="list-text">웰빙 속성과 관련된 * 작업 * 및 * 위험 * 을 봅니다.</block>
-  <block id="fc9f98aa0c178e3deb4bbfb52980b9ee" category="list-text">작업과 관련된 위험을 보려면 * 조치 * 를 클릭하고, 모든 위험을 보려면 * 위험 * 을 클릭하고, 주의가 필요한 시스템을 보려면 * 영향 받는 시스템 * 을 클릭합니다.</block>
-  <block id="2c60e29192926ea042adbfd8b4ef0fbd" category="list-text">위험 요약을 보려면 위험을 클릭합니다.</block>
-  <block id="c6f1cb771fe8d368c81ecb4ae31f7c66" category="list-text">Ack * 를 클릭하여 위험을 확인합니다.</block>
   <block id="747d136ecce6fb802da86b65cb0bad59" category="paragraph">자세한 위험 요약 정보는 위험을 완화하기 위해 수동으로 수행해야 하는 수정 조치와 함께 제공됩니다.</block>
-  <block id="712521b43d0b848d99bf5f898ee9c033" category="list-text">현재 위험을 완화하거나 완화하지 않으려면 필드에 값을 제공하고 * Acknowledge * 를 클릭합니다.</block>
   <block id="6f93dec8e32211fde259c444ab2d63fb" category="paragraph">확인된 위험에 위험이 추가됩니다.</block>
-  <block id="862744f0ea49f8f06aab2a99ec7a3482" category="admonition">위험을 더 이상 확인하지 않으려면 * Un-Ack * 를 클릭하고 동일한 단계를 수행하여 위험을 무시할 수 있습니다.</block>
   <block id="204efaf5593d9e611dc3c30f114be675" category="summary">성능에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="665087aa09840ccfb70bca045f36d8db" category="paragraph">성능 그래프를 통해 스토리지 장치의 성능을 분석할 수 있습니다. ONTAP 클러스터 또는 ONTAP 클러스터 및 E-Series 컨트롤러의 다중 노드에 대한 자세한 성능 그래프를 볼 수 있습니다. 이러한 그래프는 성능 추세 및 패턴 분석을 이해하는 데 사용할 수 있는 기간별 성능 데이터를 제공합니다. 달력에서 날짜를 선택하여 일, 주, 월, 2개월 및 12개월의 성능 그래프를 볼 수 있습니다. 여러 노드를 선택하여 특정 그래프를 동시에 볼 수 있습니다.</block>
   <block id="be879ac697bce0956116e49ae0638f3d" category="paragraph">기본 설정을 지정할 수 있는 옵션이 있습니다. 예를 들어, 3개의 노드에 대해 하나의 그래프 또는 3개의 노드에 대한 2개의 그래프를 볼 수 있습니다.</block>
-  <block id="076450bd5493fb3f2b96a170a0dd6c27" category="paragraph">그래프를 처음 표시하면 1주 탭이 미리 선택되어 그래픽 형식으로 1주 동안의 데이터를 표시하여 대량의 데이터와 여러 데이터 계열 간의 관계를 보다 쉽게 이해할 수 있습니다. 예를 들어 날짜 범위를 다시 설정하려면 1개월 탭을 클릭하고 달력에서 날짜를 선택할 수 있습니다.</block>
   <block id="ad3bed6f42a6ad4a8833910809d6869a" category="paragraph">또한 성능 그래프를 확대할 수 있는 옵션이 있으며, 개별 데이터 지점이 표시됩니다.</block>
-  <block id="6c21725c2fee517428d56fd28be8dce6" category="list-text">대시보드에서 * Performance * 를 클릭합니다.</block>
-  <block id="5d92b2431ee288652fa8215751a358ff" category="paragraph">ONTAP 시스템의 경우 * 노드 * 탭을 클릭하여 ONTAP 클러스터의 단일 노드 성능을 확인하거나 * 로컬 계층 * 탭을 클릭하여 로컬 계층의 성능을 확인하거나 * 볼륨 * 탭을 클릭하여 볼륨의 성능을 확인할 수 있습니다. 기본적으로 클러스터 성능이 표시됩니다.</block>
   <block id="6fe197718e793119bb42e7711e87af78" category="paragraph">E-Series 시스템의 경우 컨트롤러 레벨에서만 그래프를 볼 수 있습니다.</block>
   <block id="0903dad68c16a638b10bd1ddb1e0174c" category="list-text">1일, 1주, 1개월, 2개월 또는 12개월을 선택합니다. 일정에서 성능 데이터를 그래픽 형식으로 볼 수 있습니다.</block>
   <block id="7f563b85c5584569a5e770f9c808574e" category="paragraph">예를 들어 2개월 탭을 선택하면 2개월 동안의 데이터를 볼 수 있습니다. 이렇게 하면 성과 요구 사항에 따라 기간에 대한 특정 데이터를 볼 수 있습니다.</block>
@@ -475,30 +434,21 @@
   <block id="0b85467ebafa7ca3c47e82dc38184484" category="list-text">처리량</block>
   <block id="81a8efa642a6a389343d5ea66b3628e4" category="summary">시스템 위험 및 건강 기록을 보는 방법에 대한 정보를 제공합니다.</block>
   <block id="683c34920d11092541e7486d67c4de2d" category="paragraph">이러한 위험은 * unresolved *, * New *, * Resolved * 및 * Acknowledged * 의 네 가지 위험 유형으로 분류됩니다. 다른 색으로 표시됩니다. 이러한 위험에 대한 요약은 * 위험 이력 * 그래프를 통해 표시됩니다.</block>
-  <block id="c31d5a309fdc7a8394fd5eac13c0d06a" category="list-text">대시보드의 * Wellness * 창에서 * View All Actions * 를 클릭합니다.</block>
-  <block id="d5eb5666e73a1145b1e29132fcbd61e7" category="list-text">Wellness History * 를 클릭합니다.</block>
-  <block id="a0131598041c59b5aec9b6bdcb8a9431" category="list-text">위험 이력 * 그래프에서 위험 기록을 보려는 범주를 클릭합니다.</block>
-  <block id="5e1ec40828b897d199a44619b575caa9" category="paragraph">색 막대 위로 마우스를 가져가면 각 범주의 위험 수에 대한 정보가 표시됩니다. 해당 위험 범주를 클릭하면 해당 정보가 * 위험 정보 * 표에 표시됩니다.</block>
   <block id="37c39a7ebbd06bad10e2b0f330cec68b" category="paragraph">또한 Excel 시트에서 위험 요약을 다운로드할 수도 있습니다.</block>
-  <block id="1dce4feb01121addbdaf71931c469035" category="list-text">사용자 이름과 암호를 입력하고 * 로그인 * 을 클릭합니다.</block>
   <block id="f39b53c109ef22724fc3808f3709808c" category="summary">대시보드에 관심 목록을 추가하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="19a1aa0085c346ac0453f3463cfe5ae0" category="doc">시청목록 생성</block>
-  <block id="da2d66a259f4a63d3108ebfd2b3e72c3" category="list-text">왼쪽 창에서 * Watchlists * 를 클릭합니다</block>
   <block id="ba76cc75fba1482c23f5d61fcf99fc47" category="paragraph">시청목록 관리 * 화면이 표시됩니다.</block>
-  <block id="f93fd0b56ed95d156b42c479f821efef" category="list-text">시청목록 만들기 * 를 클릭합니다.</block>
   <block id="6e6456ff615835fa78db50bf4c134885" category="list-text">감시 목록의 이름을 입력합니다.</block>
   <block id="4e8d1ca8d221cc5795ac4f7e56661686" category="paragraph">시청목록 대시보드가 표시됩니다.</block>
   <block id="a0a811ca28574ec3a01b64693e2fe336" category="summary">대시보드, 상태 점수, 기능 및 위젯에 대한 정보를 제공합니다.</block>
   <block id="0283692678f3caa0a73dcdba11b167a0" category="paragraph">이 대시보드는 다음 위젯을 통해 설치 기반에 대한 요약 정보를 제공합니다.</block>
   <block id="5a203b8ad736b84e1741fd3d04b50fd8" category="list-text">* 권장 구성 *: * 권장 구성 * 위젯에 따라 준수 및 비준수 시스템을 표시합니다. 이 프로그램을 사용하면 설치 기반 전반에 걸쳐 시스템이 제대로 구성되도록 하는 조치를 취할 수 있습니다. 대시보드에서 제공된 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다.</block>
   <block id="e94ebb58e29dcb4765fa5c479c8e07d7" category="list-text">* 권장 소프트웨어 *: 모든 소프트웨어 및 펌웨어 업그레이드와 통화 권장 사항의 통합 목록을 표시합니다. 최소 또는 최신 소프트웨어 또는 펌웨어 버전이어야 하는 AutoSupport가 활성화된 시스템을 볼 수 있습니다.</block>
-  <block id="63d26e96496f498e8ddc517162407ad9" category="list-text">* 지원 및 소유 권한 *: 만료된 지원 계약 및 6~12개월 이내 만료에 도달한 지원 계약을 표시합니다. 지원 플랫폼 종료, 디스크, 쉘프, 권한 준수, 만료 보류, 플랫폼 및 하드웨어에 대한 지원 종료는 적용되지 않습니다. 대시보드에서 제공된 상태 점검 점수를 확인하고 우선 순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다. 지원 계약에 대한 자세한 정보를 보려면 * Support &amp; Entitlements * 위젯을 클릭하십시오. 이 위젯을 사용하여 지원 계약을 갱신할 수도 있습니다.</block>
   <block id="022a011d9b874fb921f0168799a144d0" category="list-text">* 모범 사례 *: 스토리지 시스템의 모범 사례 특성(성능 및 효율성, 가용성 및 보호, 용량, 구성, 보안 취약점)을 평가하여 상태 점검 점수를 표시합니다. NetApp 모범 사례를 활용하면 시스템 상태를 유지하여 설치 기반의 성능을 최적화할 수 있습니다.</block>
   <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="inline-link-macro">NetApp Support 사이트</block>
   <block id="ca2539d7307d0d34f3e2f7bbef6876a0" category="summary">API 서비스 기능에 대한 개요를 제공합니다.</block>
   <block id="272eb6d717938719a6643dde54a455f1" category="section-title">API 카탈로그</block>
   <block id="609b94093c96779bd697e437a237dada" category="paragraph">페이지 상단의 토글을 사용하면 두 가지 모드 사이를 전환하여 카탈로그를 볼 수 있습니다. 코드 보기에서는 필요한 입력 매개 변수, 반환 데이터의 내용 및 형식, 사용자가 코드를 직접 입력할 수 있도록 코드 샘플에 초점을 맞춥니다. 실험 보기는 사용자에게 기본 API 서비스 페이지에서 가져온 토큰을 사용하여 브라우저에서 API를 "사용해" 볼 수 있는 기회를 제공합니다.</block>
-  <block id="e06ee5f4d38e3f442020774d590dd8ae" category="paragraph">두 보기 중 하나를 사용하면 왼쪽의 탐색 창을 사용하여 사용 가능한 항목을 탐색할 수 있습니다. 항목은 서비스별로 사전순으로 구성되어 있습니다. 지정된 서비스 내에서 제목을 확장하여 개별 API 끝점을 표시할 수 있습니다. 서비스 제목 또는 API 끝점을 클릭하면 가운데 창에 있는 카탈로그의 해당 섹션으로 이동합니다.</block>
   <block id="32389560c3f1a6bf5e949c0c90761d9b" category="section-title">API 사용</block>
   <block id="39560be2ac4b28448572ca6aff31945e" category="paragraph">일단 권한이 부여되고 토큰을 생성할 수 있으면 토큰을 활용하여 프로그래밍 방식의 쿼리를 만들고 데이터를 검색할 수 있습니다. API 카탈로그에서 API를 테스트하여 쿼리의 작동 방식과 반환되는 데이터의 유형을 직접 확인할 수도 있습니다. 이 방법은 시스템에서 코드 프레임워크를 구축하기 전에 API가 어떻게 작동하는지 이해하는 데 유용합니다.</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">법적 고지 사항은 저작권 선언, 상표, 특허 등에 대한 액세스를 제공합니다.</block>
@@ -522,10 +472,6 @@
   <block id="5d44c7cc6a90a9fcb8dbd1a194e216bf" category="summary">감시 목록을 관리하기 위한 정보를 제공합니다.</block>
   <block id="6e963896d19c6e8365735dbf8e7f8cba" category="doc">감시 목록을 관리합니다</block>
   <block id="aa3fb4a2f751f4c503a02c5e91433d10" category="paragraph">대시보드를 통해 다른 감시 목록에 대한 정보를 보고, 기존 감시 목록의 세부 정보를 편집하고, 감시 목록을 삭제할 수 있습니다.</block>
-  <block id="ec42a36485bf0b7690ac95ac39ea08f3" category="list-text">왼쪽 창에서 * Watchlists * 를 클릭합니다.</block>
-  <block id="c533a451e2ebd63cf7629e613a0e5483" category="list-text">관심 목록의 대시보드 세부 정보를 보려면 관심 목록의 이름을 클릭합니다.</block>
-  <block id="170bb6f16db0d4bbf5962cd0bdb83cdc" category="list-text">감시 목록의 세부 정보를 업데이트하려면 * 편집 * 을 클릭합니다.</block>
-  <block id="71c11d072ed3800acd07298b9da0447f" category="list-text">감시 목록을 삭제하려면 * 삭제 * 를 클릭합니다.</block>
   <block id="6d18f9cdd03d3a175d54504f01f0c78b" category="summary">릴리스의 제한 사항에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="482723983a4f2af954e36ff41e567451" category="doc">알려진 제한 사항</block>
   <block id="1eba71d64e6c5e410e558530711e835b" category="paragraph">알려진 제한 사항은 이 제품 릴리스에서 지원하지 않거나 올바르게 상호 운용되지 않는 플랫폼, 장치 또는 기능을 식별합니다. 이러한 제한 사항을 주의 깊게 검토하십시오.</block>
@@ -538,18 +484,12 @@
   <block id="f4c12685c854edc2a70b55cda1355928" category="list-text">공유 템플릿에 대한 액세스는 언제든지 취소할 수 있습니다.</block>
   <block id="604e4b03afa73e998c83987a965bf62f" category="list-text">공유 사용자는 언제든지 자신의 계정에서 이 템플릿을 삭제할 수 있습니다.</block>
   <block id="d329fd777726c300d7a044e482b967e7" category="inline-image-macro">복제</block>
-  <block id="6f2f86dbd151feaab096b96a9b0c37eb" category="list-text">을 클릭합니다 <block ref="3b55c23dfb4079e2af5dd3be6ef65a9e" category="inline-image-macro-rx" type="image"></block> 를 눌러 템플릿 복사본을 만듭니다.</block>
   <block id="85e47ac07ac9d6416168a97e33fa969a" category="inline-image-macro">공유</block>
-  <block id="30486c4de149468d64f86f131cbfba0a" category="list-text">을 클릭합니다 <block ref="e99ba43207c50943c58f4200e8020746" category="inline-image-macro-rx" type="image"></block> 서식 파일을 공유할 사용자 이름을 입력합니다.</block>
   <block id="595120ebe2be774fab22543291877b24" category="admonition">사용자 이름 대신 사용자의 이메일 주소를 입력하면 템플릿이 공유되지 않습니다.</block>
   <block id="de95b43bceeb4b998aed4aed5cef1ae7" category="inline-image-macro">편집</block>
-  <block id="0865a774e1174481df7273cee252f86b" category="list-text">을 클릭합니다 <block ref="d17ae34269ddc9b756c90c8b4fb41e88" category="inline-image-macro-rx" type="image"></block> 템플릿 세부 정보를 업데이트합니다.</block>
   <block id="099af53f601532dbd31e0ea99ffdeb64" category="inline-image-macro">삭제</block>
-  <block id="a9345dca2427f7f88c526df2640684ed" category="list-text">을 클릭합니다 <block ref="26fc5ebf2c3c934a9aae5c740ff267ef" category="inline-image-macro-rx" type="image"></block> 템플릿을 삭제합니다.</block>
   <block id="98fb6b15dbf8f4dbd1391e6345a22114" category="summary">유용한 정보 위젯에 대한 정보를 제공합니다.</block>
   <block id="b874a602a040f316e2805e898c0a9584" category="paragraph">가치 있는 인사이트 * 위젯은 지원 케이스 수, 보류 중인 소프트웨어 업그레이드, 스토리지 효율성 절감, 위험 완화 등에 대한 정보를 제공합니다. 또한 * Wellness * 특성으로부터 위험 알림을 사전에 나열합니다.</block>
-  <block id="7a7d4a4667b4536acd427d4c99b2e845" category="list-text">Inventory * 위젯에서 * Systems * 를 클릭하여 모든 플랫폼의 시스템 정보를 보거나 플랫폼 유형을 클릭한 다음 * Systems * 를 클릭하여 해당 플랫폼과 관련된 시스템을 확인합니다.</block>
-  <block id="da7363bcf69f8ff499f5f44a09b9c4ac" category="list-text">시스템에 대한 자세한 정보를 보려면 노드 또는 클러스터를 클릭합니다.</block>
   <block id="6e8eb21f5c710d91b6fa76bd91af461f" category="paragraph">대시보드에서 * 유용한 인사이트 * 위젯을 사용할 수 있습니다.</block>
   <block id="07fd0f116aaad9b880128783daa7bc1a" category="list-text">위젯의 정보를 검토하여 지원 계약에서 얻은 비즈니스 및 기술 가치를 이해합니다.</block>
   <block id="8830ebf30b3e1ad7b344461753f7d3dd" category="summary">시스템 용량을 늘리는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
@@ -629,8 +569,6 @@
   <block id="d73fc2f93b0cf7e6d3bf78fb70bff2a8" category="list-text">ONTAP의 간소화된 SaaS 모니터링</block>
   <block id="05bffae7acee1d751495fb2f8a0701fe" category="list-text">VMware 전체 스택 모니터링에 대한 가시성</block>
   <block id="c1541ad2124531ef89e365336511a23e" category="list-text">ONTAP 업그레이드 계획 수립에 도움이 되는 자동화된 상호 운용성 점검을 통해 고객의 생산성 절감 따라서 ONTAP 업그레이드가 더 원활하게 진행되어 호스트와 비호환성 문제가 발생할 위험이 감소합니다.</block>
-  <block id="5292d19ab11993bca39a0810f62fdc4d" category="list-text">Virtual Machine Overview * 탭을 클릭합니다.</block>
-  <block id="e0c81bd049581387caad2e365f631ca6" category="list-text">호스트에 대한 정보를 보려면 * ESX 호스트 수 * 를 클릭합니다.</block>
   <block id="93ae395e2672dbc470bc375ec78e11e4" category="summary">구성 드리프트 기능에 대한 개요를 제공합니다</block>
   <block id="1a4bd064e1cb8fcdad31574facf63def" category="paragraph">구성 드리프트 기능은 시스템 템플릿을 "골든" 또는 기본 시스템 템플릿과 비교하여 구성 편차를 식별합니다. 주별 또는 월별 드리프트 보고서를 예약하거나 필요에 따라 생성할 수 있습니다. 구성 드리프트 보고서에 제공된 Ansible Playbook을 사용하여 일부 편차를 완화할 수 있습니다.</block>
   <block id="00c936ae5068ea9685cb242934d6e619" category="paragraph">이 기능은 Advisor 및 Expert 지원 계약이 있는 시스템에서만 사용할 수 있습니다.</block>
@@ -642,22 +580,12 @@
   <block id="dece35eb22b3654f47ea7b34c8d28b05" category="paragraph">또한 위험 심각도와 유형을 나타내는 카드에 적용된 색상도 알고 있어야 합니다.</block>
   <block id="cfe3edab2601e99b9745cec9fd8ad086" category="summary">시스템의 지원 계약을 갱신하는 방법에 대한 자세한 내용은 에 나와 있습니다.</block>
   <block id="55c259bf51c9908c5e33fc4b248b3f61" category="paragraph">대시보드에서 모든 활성 지원 계약의 점수 및 요약을 볼 수 있습니다. 우선순위별로 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다.</block>
-  <block id="4dc41be6abef4ee242883df1a57fb262" category="list-text">상태 점검 대시보드에서 * 지원 및 자격 * 위젯을 클릭합니다.</block>
-  <block id="195a1e51a63db10df6d13350df648daf" category="list-text">시스템 지원 계약이 만료되었거나 만료 시기가 임박한 경우 * Active Support Contracts * 위젯을 클릭하십시오.</block>
-  <block id="f166a7d8aa57a3dbeef11dc2e8abe7a8" category="list-text">확인란을 선택하고 선택한 시스템의 갱신 프로세스를 시작하려면 * Renew * 를 클릭합니다.</block>
   <block id="79e58a59d5d9e700b34093a1d2e53ffb" category="summary">Unified Manager를 사용하여 자동으로 해결할 수 있는 위험을 확인하는 정보를 제공합니다.</block>
   <block id="45eee928d91988f1092c821e200e91e7" category="paragraph">조치 및 위험을 확인하여 스토리지 시스템을 분석하고 Active IQ Unified Manager 또는 Ansible 플레이북을 사용하여 완화할 수 있습니다.</block>
-  <block id="da48e8a594a1d177bf4a0a523841c6bb" category="list-text">대시보드에서 * 모든 작업 보기 * 를 클릭합니다.</block>
   <block id="a07983e266ae35893ec0d3fb2fbe58ad" category="inline-image-macro">스패너</block>
   <block id="3dd705058f6fd7884922146ffb1b552a" category="paragraph">Active IQ Unified Manager를 사용하여 위험을 완화할 수 있는 경우, 를 참조하십시오 <block ref="b36bd34ef127641c1d7dc29907e63c31" category="inline-image-macro-rx" type="image"></block> 아이콘이 강조 표시되고 Ansible Playbook을 사용하여 위험을 완화할 수 있는 경우 가 표시됩니다 <block ref="9d1b0d427955d96d4edc169551c295d5" category="inline-image-macro-rx" type="image"></block> 아이콘이 강조 표시됩니다.</block>
   <block id="9be4ecab9993242061ef9bd0e3582d94" category="cell">Unified Manager를 사용하여 위험을 완화하십시오</block>
   <block id="a877d704a3d55f5485ebeade7e3d7202" category="cell">Ansible 플레이북을 사용하여 위험을 완화하십시오</block>
-  <block id="7fcc42d3ab47d6970d0745fc70a10ae3" category="list-text">를 클릭합니다 <block ref="b36bd34ef127641c1d7dc29907e63c31" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭합니다.</block>
-  <block id="f54fc4e92c7c9524bc86ce760eeac730" category="list-text">Fix it * 을 클릭하여 Active IQ Unified Manager을 시작합니다.</block>
-  <block id="4b1c75d59fccd48f1c20cdbf5faf3645" category="list-text">Active IQ Unified Manager 9.7 이상을 설치하려면 * 설치 * 를 클릭하여 * Fix it * 옵션을 사용하십시오.</block>
-  <block id="55065a8829503555cfbba421bd638a00" category="list-text">Active IQ Unified Manager 9.7 이상으로 업그레이드하려면 * 업그레이드 * 를 클릭하여 * 수정 * 옵션을 사용하십시오.</block>
-  <block id="d159511cf27ee3a3fa24f2d31ff80434" category="list-text">를 클릭합니다 <block ref="9d1b0d427955d96d4edc169551c295d5" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭합니다.</block>
-  <block id="e8999980f2d5f8e5a193a82965648f09" category="list-text">AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하려면 * 다운로드 * 를 클릭하십시오.</block>
   <block id="f05b4b84106eafcc5aad0f438b841dff" category="admonition">SupportEdge Expert 또는 SupportEdge Advisor 계약은 * Fix it * 옵션 및 Ansible Playbook 기능을 사용하기 위해 필요합니다.</block>
   <block id="d30bc95f114574e4f302ff7d56c38197" category="summary">웹 서버를 사용하여 펌웨어 파일을 호스팅하는 방법에 대한 정보를 제공합니다.</block>
   <block id="dc3625ebff827af69b299c8e6fea1420" category="paragraph">자동화 패키지를 다운로드한 후에는 웹 서버에서 펌웨어 파일을 호스팅해야 합니다.</block>
@@ -668,28 +596,20 @@
   <block id="6566d0c64aca6f40a49a4420aa3d8883" category="summary">지원 서비스 업그레이드에 대한 내용은 에 나와 있습니다.</block>
   <block id="81bee906866e738f7e8a54b6610f32e3" category="paragraph">권장 사례 및 수정 사항, Ansible 플레이북을 통한 업그레이드 자동화, 실행 가능한 보고서 및 리뷰, 맞춤형 지원 등 현재 지원 오퍼링을 업그레이드하여 설치 기반을 최적화할 수 있습니다. 업그레이드는 지원 계약을 갱신하거나 시스템(노드) 대시보드에서 다른 시점에 구입할 수 있습니다.</block>
   <block id="4b0ff7d5bbadbf7074a8de3b40758350" category="admonition">현재 SupportEdge Premium 또는 SupportEdge 보안 지원 서비스를 사용하는 경우에만 AIQ 업그레이드를 선택할 수 있습니다.</block>
-  <block id="7f59006fb633d44faf18e7aa72c20403" category="list-text">Inventory * 위젯 옆에 있는 * View All Systems * 를 클릭합니다.</block>
   <block id="3d30fb3e89786aced41e8a9ad5e64a9b" category="list-text">Inventory Dashboard에서 업그레이드할 노드(호스트)를 선택합니다. 시스템 또는 노드 대시보드로 리디렉션됩니다.</block>
-  <block id="6d622bcce07deb96f1d4cea2024b0766" category="list-text">Configuration * 위젯에서 * Upgrade * 를 클릭합니다.</block>
   <block id="bf08cd4c1bc33720a5485c666caed145" category="paragraph"><block ref="bf08cd4c1bc33720a5485c666caed145" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="632064723404f7a0755249b947a55c6a" category="list-text">선택적으로 * Support Offerings 비교 * 를 클릭하여 비교 차트를 확인하고 요구사항에 맞는 지원 오퍼링을 선택할 수 있습니다. 또는 왼쪽 탐색 메뉴에서 * Support Offerings * 를 클릭하여 비교 차트를 볼 수도 있습니다.</block>
   <block id="88650e3130d602eb873c6cec8aa1b43d" category="list-text">원하는 업그레이드 유형을 선택합니다.</block>
   <block id="6b1e028800580e41be7e09af7233c6ea" category="list-text">SupportEdge Premium 또는 SupportEdge 보안 지원 서비스에 AIQ 업그레이드를 추가합니다</block>
   <block id="e151846aa3b308b87c9d25ba4b1deba4" category="list-text">기타 모든 업그레이드 요청</block>
-  <block id="0c152bcc14bc08edd4b0de34a463af86" category="list-text">가지고 있는 설명을 추가하고 * 보내기 * 를 클릭합니다. 지원 오퍼링 업그레이드 구매 요청이 NetApp 갱신 팀에 전송됩니다.</block>
   <block id="144deae4a5b0b4c9284528157c461f6c" category="summary">해커와 랜섬웨어 공격에 대한 보호 수준을 높이는 방법에 대한 정보를 제공합니다.</block>
   <block id="820369c7769d4f36cf2076f618fe371d" category="paragraph">* 적용 제품: ONTAP 9(온프레미스 및 클라우드), SANtricity OS 컨트롤러 소프트웨어, NetApp SolidFire(Element 소프트웨어), StorageGRID, Active IQ Unified Manager, ONTAP for VMware(OTV)</block>
   <block id="9e49d2928b0f9c506afa91618789cc95" category="inline-image-macro">보안 취약점 위젯</block>
   <block id="c17e33981c0b062b393672808567a4ab" category="paragraph">보안 위험이 높은 경우 운영 체제를 업그레이드하는 권장 조치를 따르십시오.</block>
   <block id="75b13b2a3ff2cb52d35b06fcc7348713" category="inline-image-macro">수정 조치 열</block>
-  <block id="d13ac08a85c268be8e12fb2c5fc6a61f" category="list-text">고유 위험 * 탭을 클릭한 다음 * 수정 조치 * 열의 링크를 클릭합니다.<block ref="b8e4538a50e97a4603efab53e7672864" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ac7de22f816f2710cfe2e83f6abc78bf" category="inline-image-macro">수정 탭</block>
   <block id="159d95fb8858b00a76199e1c9300be15" category="paragraph">이 위험은 ONTAP 9.7P8 이상에서 해결되었습니다.<block ref="4975e5a0a99336b95db3342c05516170" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f839cdbae8d80bc224d943c9c45a46f0" category="summary">스토리지 시스템의 상태를 확인 및 분석하고 위험을 완화할 수 있는 정보를 제공합니다.</block>
   <block id="0e3a68f1f6b2f1d1d9fe331b11c5efa2" category="paragraph">관련 작업 및 위험을 확인하여 스토리지 시스템의 상태 특성을 분석할 수 있습니다. 관련 수정 조치를 확인하고 위험을 수동으로 완화해야 합니다.</block>
-  <block id="9bbf83543e304f4973370a44626c0d09" category="list-text">대시보드에서 * Wellness * 위젯을 클릭하거나 * View All Actions * 를 클릭하여 모든 조치 및 위험 목록을 봅니다.</block>
-  <block id="4c1501034b347258e5d755cf7e7fb1a3" category="list-text">위험 이름을 클릭하여 위험에 대한 정보를 확인합니다.</block>
-  <block id="f2681bd59cd373759d660366f9539908" category="list-text">관련 수정 조치를 클릭하고 해당 정보를 따라 위험을 해결하십시오.</block>
   <block id="05bc37729c4a94d83e8b67e8d6af6202" category="paragraph">위험을 완화하기 위한 단계는 모든 건강 특성에 대해 동일합니다. 다음 비디오를 통해 보안 관련 문제를 모니터링하고 해결할 수 있습니다.</block>
   <block id="181b78869ff3c2e1d0f13fbb85809980" category="summary">Docker 이미지를 사용하여 Ansible Playbook을 실행하는 방법에 대한 정보를 제공합니다.</block>
   <block id="18e4b799fc66943cb5ca094c22421d14" category="paragraph">Ansible 플레이북을 실행하기 전에 * NetApp_Ansible_**. * zip * 파일의 압축이 풀렸는지, 디스크 또는 쉘프 펌웨어 파일이 있는 웹 서버가 준비되었는지 확인하십시오.</block>
@@ -715,12 +635,8 @@
   <block id="6db3885477641d8e5ca59335970bf0b0" category="paragraph">ClusterViewer는 노드 스택 다이어그램, 스토리지 사용 및 효율성, 하드웨어 용량 여유 공간 등의 정보를 제공하므로 클러스터 및 노드의 상태 향상을 위해 정보에 입각한 의사 결정을 내릴 수 있습니다.</block>
   <block id="acc7732ef13d215f323b715a75c23913" category="paragraph">케이블, 스택 및 RAID 디스크 수준에서 노드의 물리적 구성에 대한 시각화 또는 그래픽 표현을 볼 수 있습니다. SVG 형식으로 시각화를 다운로드할 수도 있습니다.</block>
   <block id="2d57c025a86cbb3c18376b2e6594182b" category="list-text">Inventory * 위젯에서 원하는 클러스터 또는 노드(호스트)를 선택합니다.</block>
-  <block id="05f9cea794823bcfe9edd186fcb424a3" category="list-text">클러스터 또는 노드 레벨에서 * Configuration * 위젯 옆에 있는 * ClusterViewer * 를 클릭합니다.</block>
-  <block id="6551f219e2490db3bc60a0ba2bac261d" category="list-text">클러스터의 그래픽 표현을 보려면 * Visualization * 탭을 클릭합니다.</block>
   <block id="e4f7548bfc57cb05ec15b81412fadffb" category="summary">보유한 전체 재고에 대한 정보를 제공합니다.</block>
   <block id="95cc9b63edd3c2016f97c0476635528a" category="paragraph">선택한 감시 목록에 대한 보고서를 생성하고 최대 5명의 수신자에게 보고서를 이메일로 보낼 수도 있습니다.</block>
-  <block id="2a533baae54ffebd2a7ae449c7f45df9" category="list-text">시스템 세부 정보를 .xls 형식으로 보려면 * Inventory * 보고서를 다운로드하십시오.</block>
-  <block id="c97def108b37d464e0c4a724252e49d9" category="list-text">지역 또는 사이트 수준에서 .yml 및 .ini 형식의 시스템 세부 정보를 보려면 * Ansible Inventory * 보고서를 다운로드하십시오.</block>
   <block id="cf9a05044c598886b8421db3045b9edd" category="paragraph">Ansible 인벤토리 파일을 맞춤형 Ansible 플레이북 파일과 함께 사용하여 인프라 구성을 변경할 수 있습니다.</block>
   <block id="9d094e845c465f9cb6c298c2cfa8c71d" category="summary">정보에 기반한 결정을 내릴 수 있는 권장 사항을 제공합니다.</block>
   <block id="19f59b74448f6a27519db281a44e4b12" category="section-title">마이그레이션</block>
@@ -730,8 +646,6 @@
   <block id="eee58b17a5b1a316e3d557e27113c69e" category="list-text">볼륨의 워크로드는 Oracle, SAP, SAP HANA, MSSQL, MySQL, SharePoint, 파일 공유, 가상화 및 Trident</block>
   <block id="c1328ee3765b6fd9ea6ec610e680fd21" category="list-text">시스템 사용 기간이 1년을 초과하였습니다</block>
   <block id="a6d684c1e9500a6c9c813745e8e2c394" category="list-text">지원 계약은 6개월 후에 종료됩니다</block>
-  <block id="fb59e0db05d49dc1ab77a214f215e7c3" category="list-text">왼쪽 창에서 * 클라우드 권장 사항 * 을 클릭합니다.</block>
-  <block id="610e13ad770f2052e464b10bf6ea8527" category="list-text">Migration * 창에서 링크를 클릭합니다.</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="section-title">계층화</block>
   <block id="02c463794e84ded5d1c10c4e83bcc812" category="paragraph">비활성 로컬 계층(애그리게이트) 데이터, 비활성 볼륨 데이터, 계층형 데이터 및 모니터링되지 않은 데이터에 대한 정보를 제공합니다. 콜드 또는 비활성 데이터를 모니터링하고 저비용 오브젝트 스토리지 계층으로 계층화하여 스토리지 설치 공간 및 관련 비용을 줄일 수 있습니다.</block>
   <block id="1ba52d4e13f2ee111637763e8fc34e61" category="admonition">IDR(Inactive Data Reporting)을 활성화하여 Ansible Playbook 파일로 zip 파일을 생성할 수 있습니다. 이 정보는 고객, 사이트, 그룹, 감시 목록, 클러스터 및 노드 레벨:</block>
@@ -739,19 +653,16 @@
   <block id="c9386bad11bf78c9c46c82639aed3b42" category="list-text">볼륨은 NFS, SMB 또는 CIFS 프로토콜을 사용해야 합니다</block>
   <block id="e59435b98864e38b0a5fd790ad3f9213" category="list-text">비활성 데이터가 50% 이상입니다</block>
   <block id="3785a1cc5e81e3b99e7d2b0287e9c3b0" category="list-text">애그리게이트 용량이 50% 이상입니다</block>
-  <block id="c052aa26952758956923ba904ca5f96a" category="list-text">Tiering * 창에서 링크를 클릭합니다.</block>
   <block id="8d051a62e2d203f6829d7d7282bfaad2" category="inline-link-macro">FabricPool 모범 사례</block>
   <block id="f2b4569bc3667af0074e035180a43ef3" category="section-title">백업 및 아카이브</block>
   <block id="ed0d607dcab8c81dc440cde601ff66d5" category="paragraph">클라우드에 백업해야 하는 시스템에 대한 정보를 제공합니다. NetApp Cloud Backup을 사용하여 시스템을 보호하고 필요할 때 복원할 수 있습니다.</block>
   <block id="711f2c81f17519fb6501c1fd6a2ec0bf" category="paragraph">다음 기준을 충족하는 볼륨은 클라우드로 백업하는 데 권장됩니다.</block>
   <block id="58fd2779462a85717972aef01a3e851e" category="list-text">소스 볼륨, 대상 시스템 및 SnapVault 백업이 있는 볼륨은 제외됩니다.</block>
-  <block id="8e508c78b6f8cdee2edbb3ccef2f99e0" category="list-text">Backup &amp; Archive * 창에서 링크를 하나 클릭합니다.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="section-title">복제</block>
   <block id="a1ca393b9475ac14fc86fe05bb65fa30" category="paragraph">재해 발생 시 도움이 되도록 클라우드에 복제해야 하는 데이터에 대한 정보를 제공합니다.</block>
   <block id="8a442914a9cdda78003d67734f13fd54" category="paragraph">클라우드로 복제할 때 다음 기준을 충족하는 볼륨이 권장됩니다.</block>
   <block id="c54cd2366c0770abd7582f7fd94c3e4d" category="list-text">SnapMirror 소스 볼륨은 제외됩니다</block>
   <block id="4cb8aabcf131d734977ab53c8a2ca120" category="list-text">SnapMirror 타겟 볼륨(볼륨 유형 LS 및 DP)은 제외됩니다</block>
-  <block id="a883cf21600271d7200622fa1132d9b8" category="list-text">Disaster Recovery* 창에서 하나의 링크를 클릭합니다.</block>
   <block id="ef8a4ebca6f4cc3e64a7ad289ebd3eb6" category="summary">대시보드, 시청목록, 기능 및 위젯에 대한 정보를 제공합니다.</block>
   <block id="d8d27ee684d88256c60816459952e514" category="admonition">시스템 대시보드의 * Configuration * 위젯에서 지원 오퍼링을 업그레이드하여 설치 기반에 대한 통찰력을 얻고 맞춤형 지원을 받을 수 있습니다.</block>
   <block id="7fffffd83e81207eb469a895955d2d8a" category="summary">사용자가 사용할 수 있는 다양한 유형의 보고서에 대한 정보를 제공합니다.</block>
@@ -872,7 +783,6 @@
   <block id="acf7d20d0268fb3265f641fbc7ac8d68" category="list-text">* 재고 위젯: * 소유한 총 시스템의 롤업을 표시합니다. 여기에는 Digital Advisor 지원 및 비지원 제품이 모두 포함됩니다.</block>
   <block id="ec20f764d25cf1eba2cf41562f1a4dc7" category="paragraph">AutoSupport 기능에 액세스하려면 Digital Advisor에 로그인하여 클러스터 또는 호스트 이름을 검색하십시오. AutoSupport 옵션은 왼쪽 창에서 사용할 수 있습니다.</block>
   <block id="56f4dbda16e117456735f4152501a126" category="list-text">* 빠른 링크: * 디지털 어드바이저를 사용하여 실행할 수 있는 응용 프로그램 목록을 제공합니다.</block>
-  <block id="c185e2d804ea74628fccd45ec760120b" category="paragraph">Digital Advisor에 로그인하고 * Configuration * 위젯에 빨간색 배지가 표시되는 경우 위젯을 클릭하면 볼륨이 98% 차 있고 이로 인해 정전이 발생할 수 있습니다. 이 문제를 해결하면 볼륨이 채워지지 않습니다. 이렇게 하면 읽기 전용이 되어 응용 프로그램이 충돌하고 실패합니다.</block>
   <block id="346661910d62d25c1475a0a09bd7a473" category="paragraph">Digital Advisor를 사용하여 관심 목록 레벨에서 스토리지 시스템의 전체 상태, 시스템 상태, 재고, 계획, 업그레이드 및 중요한 통찰력을 확인할 수 있습니다.</block>
   <block id="4d7ba674630738cac5e8b1e2fed17854" category="paragraph">다음은 Digital Advisor의 몇 가지 기능입니다.</block>
   <block id="12dfd6dec7a5455387d9e6ce595e8907" category="paragraph">지원 오퍼링의 업그레이드를 구매하여 Digital Advisor의 다양한 기능에 액세스할 수 있습니다.</block>
@@ -934,7 +844,6 @@
   <block id="124737733adb9db94833bf1012498225" category="inline-image-macro">그래프와 함께 지속 가능성 점수를 보여 주는 스크린샷.</block>
   <block id="a2bc2df13c5a3762142955fb95ab0af5" category="paragraph"><block ref="a2bc2df13c5a3762142955fb95ab0af5" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d934690f46f773b38d9c65526a88d2a1" category="inline-image-macro">편집 가능한 아이콘이 표시된 스크린샷</block>
-  <block id="88ff2e9a0a1bf07b4e3957199ef248f0" category="paragraph">* 탄소 완화율 *: 각 사업장/도시에서 탄소 완화율을 표시하고 제시된 기준값은 사용자의 위치를 기준으로 합니다. 를 클릭하여 특정 사이트에 대한 탄소 완화 비율을 조정할 수 있습니다 <block ref="58945c98e470d270455cd5912e91eb15" category="inline-image-macro-rx" type="image"></block> 아이콘은 백분율 값 옆에 있으며 탄소 번호는 그에 따라 자동으로 조정됩니다.</block>
   <block id="707741d275e0975dc229329ccd426a07" category="inline-image-macro">확장된 보기의 작업 목록을 보여 주는 스크린샷.</block>
   <block id="e9cdfc3ff6e77bfb8ec195d6362f98f9" category="list-text">여러 감시 목록, 실행 가능한 유용한 정보 보기를 한 눈에 볼 수 있습니다.</block>
   <block id="6af161dea04328fb2cd0c0438e1f8355" category="list-text">스토리지 시스템의 모든 위험과 위험 완화를 위한 조치에 대한 통찰력을 확보할 수 있습니다.</block>
@@ -958,9 +867,7 @@
   <block id="90542ff9ec5b690c4ff349a953987a9f" category="paragraph">명령에 대한 자세한 내용은 {link-with-밑줄} [스토리지 쉘프 ACP 모듈 표시^]를 참조하십시오.</block>
   <block id="c45f42f02d2bf7bd92e0d26534723c80" category="paragraph">명령에 대한 자세한 내용은 {link-with-밑줄} [스토리지 쉘프 ACP show^]를 참조하십시오.</block>
   <block id="d2a56416e501bf47a267c5eb4f202014" category="paragraph">명령에 대한 자세한 내용은 {link-with-밑줄} [스토리지 쉘프 ACP configure^]를 참조하십시오.</block>
-  <block id="f3ffec30d4e62fd6b4663ba215a643ed" category="list-text">을 클릭합니다 <block ref="92a15a62356fc979cd7db02d3dcebebf" category="inline-link-macro-rx"></block> NetApp Support 사이트에서 "Non-Technical Feedback Tool"을 엽니다.</block>
   <block id="3e77ec7dcefb3407f7a4b7c4b8051d1e" category="list-text">의 홈 페이지를 엽니다 <block ref="6ea90873ff127896ae7a3eaf21cda455" category="inline-link-macro-rx"></block>.</block>
-  <block id="8dd3258635f25ed56f238af521960f2b" category="paragraph">다른 이유로 시스템을 볼 수 없거나, 쿼리가 있거나, 액세스를 요청하려는 경우 <block ref="09587a48f092e0d3b236776f889d19c2" category="inline-link-macro-rx"></block>. 비기술 사례에 대해 자세히 알아보려면 를 클릭하십시오 <block ref="cbc6291335aebce77afe28d818ce153c" category="inline-xref-macro-rx"></block></block>
   <block id="ba117b364c26b06c871a54fc6945f641" category="list-text"><block ref="3eaf8bde6ca57cae1e0245ca6f31a246" category="inline-link-macro-rx"></block>.</block>
   <block id="472c223fae3612be8aadf50d73eb0809" category="paragraph">Docker 풀 명령에 대한 자세한 내용은 를 참조하십시오 <block ref="4b16511182941b47e25fae103f9d15b4" category="inline-link-macro-rx"></block>.</block>
   <block id="793420e8298f81919bf32aff38b47ae2" category="paragraph">컨테이너가 시작되고 콘솔이 이제 컨테이너의 bash 셸에 있습니다. Docker Run 명령에 대한 자세한 내용은 를 참조하십시오 <block ref="2e999d289da5bafdf839ad8763a0ba40" category="inline-link-macro-rx"></block>.</block>
@@ -997,20 +904,15 @@
   <block id="ad604077bec83942cadee9567a15375b" category="list-text">작업을 나중에 처리하려면 * Later * 를 선택합니다.</block>
   <block id="316dd9caa4fca945eb485f1dcba3db1b" category="list-text">나중에 * 를 선택하면 선택한 권장 작업이 * 나중에 * 작업 * 탭으로 이동합니다. 선택한 작업은 30일 동안 연기됩니다. 30일이 지나면 * 권장 조치 * 탭으로 이동합니다.</block>
   <block id="17e537edb555d063fe1acab7ca85d6fc" category="inline-image-macro">권장 작업을 고려 옵션과 함께 보여 주는 스크린샷.</block>
-  <block id="c24f9daf3a159dfaed4c11baee5cd023" category="list-text">연기된 작업을 언제든지 검토할 수 있으며 * 고려 * 를 클릭하여 * 권장 조치 * 탭으로 이동할 수 있습니다.
- 를 누릅니다
-<block ref="0dbc91ab2b9301aabf5d18bb049d2fe1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1d9eb6188c87dc4ea4c5f5759e3d7455" category="list-text">Digital Advisor 대시보드의 왼쪽 탐색에 있는 * 스토리지 상태 * 범주에서 * Sustainability * 로 이동하십시오.</block>
   <block id="0a6f9f8fb46f33ae6cc9e9839b8bf516" category="list-text">선택한 권장 작업의 보기가 확장됩니다. 아래쪽 화살표를 사용하여 권장 작업 보기를 확장할 수도 있습니다. 확장된 보기에서 * Fix * 옵션을 계속 진행하면 클러스터 이름, 지속 가능성 점수 및 후속 증가를 볼 수 있습니다.
   를 누릅니다
 <block ref="d1f34a9fa829d3045f1efbad48f775eb" category="inline-image-macro-rx" type="image"></block></block>
   <block id="53b68f8aebb769e06e32c1bf7f78512a" category="paragraph">다음 단계에 따라 특정 클러스터의 지속 가능성 개선에 중점을 둔 클러스터 수준의 지속 가능성 점수를 개선할 수 있습니다.</block>
-  <block id="94c9c3d23e6440e42d8b6cd9db7e01f2" category="list-text">대상 클러스터에 대한 * Recommended Actions * 열에서 작업 수를 클릭합니다.</block>
   <block id="946215be00757e3a0ed7e4125cca42f7" category="inline-image-macro">작업 수를 보여 주는 스크린샷</block>
   <block id="8e64c52acfc791ae8fe6c3547d04e4ce" category="paragraph"><block ref="8e64c52acfc791ae8fe6c3547d04e4ce" category="inline-image-macro-rx" type="image"></block></block>
   <block id="577c43012aa48226531ac9439f4c1bf7" category="inline-image-macro">권장 작업에 대한 세부 정보를 수정 및 이후 옵션과 함께 제공하는 스크린샷.</block>
   <block id="2395cbcb2989e9bb5fdcad6d1ccbb35b" category="paragraph"><block ref="2395cbcb2989e9bb5fdcad6d1ccbb35b" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="4e70a12812942ad5ac5305a12880397a" category="list-text">연기된 작업을 언제든지 검토할 수 있으며 * 고려 * 를 클릭하여 * 권장 조치 * 탭으로 이동할 수 있습니다.</block>
   <block id="37cd424fb4c31937df9970a13be3fe53" category="inline-image-macro">매개 변수를 추가하거나 제거하는 더하기 아이콘</block>
   <block id="c8861916e6eb4a06944b90bf8c5ab56a" category="inline-image-macro">매개 변수를 내보내는 데 사용되는 다운로드 기호입니다</block>
   <block id="df99fff5ad47295f7f49e20f556653f3" category="summary">에너지 소비를 줄이고 환경 목표를 달성할 수 있는 지속 가능성에 대한 정보를 제공합니다.</block>
@@ -1082,7 +984,6 @@
   <block id="0d2ad64b559232943585fd7b1d8a6a97" category="section-title">2023년 9월 27일</block>
   <block id="f32be3299de249a0d2ea856582aaf567" category="list-text">를 사용하여 기본 시청목록에 대한 Upgrade Advisor 페이지에 액세스할 수 있습니다 <block ref="2a9dc4897c9bae502dc40fd9fb7b1c92" category="inline-link-macro-rx"></block> 링크.</block>
   <block id="d733f1a5970e5ea99d583388ac25e9cf" category="inline-link-macro">업그레이드 계획을 생성하고 보는 방법에 대해 알아봅니다</block>
-  <block id="81ff79ba6c57be0faaf7131e8c633f75" category="list-text">업그레이드 계획 생성 * 을 클릭합니다.</block>
   <block id="98f475d7aa8f966d87ccc93ba94fba94" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다</block>
   <block id="d36a1ccbf2d01a1ff61c0e50416882e9" category="section-title">2023년 10월 4일</block>
   <block id="ec795e7f7ea26d9d59bc0e1e031d4234" category="section-title">계획 위젯</block>
@@ -1098,7 +999,6 @@
   <block id="4a33ef12db92e241992049db5250349e" category="paragraph">Sustainability 대시보드는 전반적인 지속 가능성 점수 및 클러스터 수준의 지속 가능성 점수를 개선하기 위해 구현할 수 있는 권장 조치를 제공합니다.</block>
   <block id="5e5fa64fce688126dbdf2ee76a2a88dc" category="paragraph">Sustainability 대시보드를 이해하기 위해 다음 비디오를 볼 수 있습니다.</block>
   <block id="d99a4bbfe0f45d32ff5e507f38f9f1a7" category="admonition">지속 가능성 점수를 정확하게 계산하려면 AutoSupport를 활성화해야 합니다.</block>
-  <block id="24fbd138c7dc295cdff7b25fb0003595" category="list-text">대시보드의 * Upgrade Advisor * 위젯에서 클러스터 수를 클릭합니다.</block>
   <block id="bcc117d8c868654bdcb5b2de44d7fbf2" category="inline-image-macro">클러스터 수를 보여 주는 스크린샷</block>
   <block id="28c5b9b9eefe3c1e8c902c9d79cc6787" category="paragraph"><block ref="28c5b9b9eefe3c1e8c902c9d79cc6787" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a66487996a06c28a71be20aa0af1d26c" category="paragraph">Upgrade Advisor - ONTAP * 페이지가 나타납니다.</block>
@@ -1124,40 +1024,19 @@
   <block id="b8b6bd2d3e7273f469feb9820cd57266" category="inline-image-macro">향상된 Upgrade Advisor 토글이 켜져 있음을 보여 주는 스크린샷</block>
   <block id="e5030f0aad42928362a1dd6d459850f1" category="paragraph"><block ref="e5030f0aad42928362a1dd6d459850f1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="97bf638dd7855f5b871198e3de655fb7" category="paragraph">업그레이드를 위한 적격 클러스터와 비적격 클러스터 목록을 볼 수 있습니다.</block>
-  <block id="b3264e5abfc7f8aa9cbe9bbf2bf2839e" category="list-text">업그레이드할 클러스터를 선택합니다.
-대상 OS 버전 * 열에는 권장되는 대상 OS 버전이 표시됩니다. 를 클릭할 수 있습니다 <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭하여 클러스터의 다른 타겟 OS 버전을 선택합니다.</block>
   <block id="c25dba4666d739afcf74fafca0e16ec1" category="inline-image-macro">대상 버전을 선택하는 방법을 보여 주는 이미지입니다.</block>
   <block id="df54a2761f4e27e29bd65d8ac649e3a9" category="paragraph"><block ref="df54a2761f4e27e29bd65d8ac649e3a9" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="33934d5a93267aecc3bf0f2c43482311" category="list-text">Nodes * 열에서 노드 수를 클릭하여 클러스터의 노드 요약을 볼 수 있습니다.</block>
   <block id="d4586bd723aa7ed4cd56bae25e8c11c6" category="inline-image-macro">문제 유형 및 문제 해결에 필요한 해결 방법을 보여 주는 이미지입니다.</block>
-  <block id="e56c89382384db93bf68a52b43fa244d" category="list-text">권장 조치 * 열에서 * 문제 해결 * 을 클릭하여 부적합한 클러스터 관련 문제를 해결하여 업그레이드를 받을 수 있습니다.
- 를 누릅니다
-<block ref="dd4506ad5994ec27eaf432e5646257a2" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="6aa4c290298860f81a97d2d4eb92f157" category="list-text">업그레이드 계획 생성 * 을 클릭합니다.
-업그레이드 권장 * 페이지로 이동합니다.</block>
   <block id="be3de2fbd923b98d3ddce6f87604687b" category="list-text">업그레이드 권장 * 페이지에서 * 위험 관리자 * 탭을 통해 클러스터와 관련된 위험에 대한 세부 정보를 볼 수 있습니다. 업그레이드 차단, 업그레이드 경고 및 필요한 작업은 * 업그레이드 전 확인 * 탭을 통해 확인할 수 있으며, * 고급 및 업데이트된 ONTAP 기능 * 탭을 통해 선택한 대상 OS 버전과 관련된 새로운 기능 및 개선 사항에 대한 정보를 확인할 수 있습니다.</block>
   <block id="3968a0cc76421e54bc6b6ab94ab3ef6d" category="inline-image-macro">업그레이드 권장 사항 페이지의 전체 보기를 보여 주는 스크린샷</block>
   <block id="8cb031ec78addd4251b0d98fadb1f16d" category="paragraph"><block ref="8cb031ec78addd4251b0d98fadb1f16d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="7911af84e5893fc16119ebbbd79e0ddd" category="list-text">다른 대상 OS 버전을 선택하고 위험 요약, 업그레이드 전 확인 보고서 및 해당 대상 OS 버전과 관련된 새로운 기능 및 개선 사항에 대한 정보를 볼 수 있습니다.</block>
   <block id="5ff9a8a8f5a8e1185c269de1ae1f16fa" category="inline-image-macro">내보내기 버튼</block>
-  <block id="d0ff34d4ed0d434b63065177d69660b4" category="list-text">를 클릭할 수 있습니다 <block ref="db6dc66ed954c8de99897788c99c122a" category="inline-image-macro-rx" type="image"></block> 위험 요약을 Excel 시트로 내보내는 아이콘</block>
-  <block id="f4c01d8521810198d0aedeb1804292d2" category="list-text">업그레이드 권장 * 페이지에서 * 업그레이드 계획 생성 * 을 클릭합니다.</block>
   <block id="391ae857ef756e131304172e405792b4" category="inline-image-macro">업그레이드 계획 생성 요청을 제출하기 위해 세부 정보를 입력하는 팝업.</block>
   <block id="224d1474fa987e54a2ac30c76ea2e21e" category="list-text">표시된 팝업에 세부 정보를 제공합니다.
   를 누릅니다
 <block ref="b84846bb39db1b32d099a86ab30da18d" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="ed103c2a26bede51077e4be32d323609" category="list-text">Generate * 를 클릭합니다.
-보고서 * 페이지로 이동합니다.</block>
-  <block id="d33dd907f0f2e416c58ccfa29cd01d18" category="inline-image-macro">View Upgrade Advisor의 위치를 보여 주는 스크린샷. </block>
-  <block id="e6a714556ba607de0796b5ebf874022b" category="admonition">업그레이드 관리자 보고서 보기 * 를 클릭하여 * 보고서 * 페이지로 이동할 수 있습니다.
- 를 누릅니다
-<block ref="17bf329c781a0dba1bb8097588dd3401" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="9847c4aa92db55ca2d4698117caccc8b" category="list-text">업그레이드할 클러스터를 선택합니다.
-대상 OS 버전 * 열에 권장 대상 OS 버전이 표시됩니다. 을 클릭하면 됩니다 <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭하여 클러스터의 다른 타겟 OS 버전을 선택합니다.</block>
   <block id="02a1c6ad942cf70822b83555179da604" category="paragraph"><block ref="02a1c6ad942cf70822b83555179da604" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="9fe2ae1dc4e08b83a8b63d06803dd564" category="list-text">권장 조치 * 열에서 * 문제 해결 * 을 클릭하여 부적합한 클러스터 관련 문제를 해결하여 업그레이드를 받을 수 있습니다.
- 를 누릅니다
-<block ref="dd4506ad5994ec27eaf432e5646257a2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b323017de005e05ca9af3f3a9807384d" category="list-text">표시된 팝업에 세부 정보를 제공합니다.
   를 누릅니다
 <block ref="f898fc4c474d90827399fc16cb1ce540" category="inline-image-macro-rx" type="image"></block></block>
@@ -1192,8 +1071,6 @@
   <block id="3b4a117c34811a38cb16781ae299eb9e" category="sidebar">NetApp 커뮤니티 – 디지털 자문업체</block>
   <block id="ef2753666e2bb535cdbdfcab50c1a017" category="list-text">* 보안 및 랜섬웨어 방어: * 보안 취약점, 랜섬웨어 감지, 예방 및 복구와 관련된 위험 및 수정 조치에 대한 정보를 제공합니다.</block>
   <block id="1f4882587636b2511732cfb3b14bfbcf" category="list-text">* 지속 가능성: * 고객, 감시 목록, 사이트 및 그룹 수준에서 지속 가능성 점수를 개선하기 위해 권장되는 작업 수를 표시합니다.</block>
-  <block id="0235bcf89237278317e178c8c295ac74" category="list-text">보안 및 랜섬웨어 방어 * 위젯에서 * 조치 * 를 클릭합니다.
-<block ref="2fcb804d5a34085afa85e482ac09263f" category="inline-image-macro-rx" type="image"></block></block>
   <block id="83dec637bc884dc4a2f4600da2ca5f4a" category="list-text">랜섬웨어 방어 * 확인란의 선택을 취소합니다.</block>
   <block id="434c0382d376982e5be3c7cf351f2ee1" category="section-title">2024년 3월 15일</block>
   <block id="6dca4e9566164889a09a5302487f229a" category="list-text">Wellness 워크플로의 보안 취약성 및 랜섬웨어 방어 위젯이 보안 및 랜섬웨어 방어로 불리는 단일 위젯으로 결합되었습니다.</block>
@@ -1201,7 +1078,6 @@
   <block id="15853c3ab7376c7041427b2140bbd504" category="paragraph">기술 케이스 타임라인이 향상되어 6개월 또는 12개월의 전체 케이스 기록을 볼 수 있습니다.</block>
   <block id="51832813a6cc95d32db002987711fdc7" category="paragraph">이제 Keystone 구독 번호를 기반으로 관심 목록을 만들고 구독 번호 또는 관심 목록 이름의 처음 3자를 사용하여 Keystone 구독을 검색할 수 있습니다.</block>
   <block id="994ea9e16920acdbe0ac6e35ae6fffad" category="paragraph">Digital Advisor에 로그인하면 * 보안 및 랜섬웨어 방어 * 위젯에 강조 표시된 * 조치 * 를 볼 수 있습니다. 그러면 위험 수가 표시됩니다.</block>
-  <block id="e8563fdf2c4612622ba50a5e8cfcb99a" category="list-text">보안 및 랜섬웨어 방어 * 위젯에서 * 조치 * 를 클릭합니다.</block>
   <block id="4d7b0b036dd7f28233ff7e59c3c1dbf5" category="list-text">보안 취약성 * 확인란을 지웁니다.</block>
   <block id="fbf668c351539b8a0b137fcc8beb4b5e" category="paragraph">단일 클러스터와 여러 클러스터에 대한 자동화된 무중단 업그레이드 계획을 생성할 수 있습니다. 클러스터와 관련된 위험 목록, 업그레이드 차단기와 경고 목록이 포함된 업그레이드 전 확인 보고서, 새로운 기능 및 향상된 기능에 대한 정보가 포함된 단일 클러스터에 대한 업그레이드 권장 사항을 볼 수 있습니다. 여러 클러스터에 대해서는 업그레이드 권장 사항을 사용할 수 없습니다. 자세한 내용은 을 참조하십시오 <block ref="41932a416de65dadbc9f715244a32fe5" category="inline-link-macro-rx"></block>.</block>
   <block id="83c0915932deaf70b0873b6eb47c3a28" category="section-title">2024년 3월 28일</block>
@@ -1213,28 +1089,17 @@
   <block id="3a3fe5cea8eb171bc705034869baf974" category="paragraph">* 기술 케이스는 언제 생성합니까? *</block>
   <block id="34146078710488bcb88e2208ddabb74e" category="paragraph">기술 케이스는 하드웨어 중단, 성능 저하, 데이터 문제 또는 기술 정보 요청과 관련된 기술 문제에 대해 NetApp 제품과 함께 지원을 받기 위해 생성됩니다.</block>
   <block id="8fa70b8a3fbd3112ebe49465f5e4f6f4" category="paragraph">* 기술 케이스를 어떻게 생성합니까? *</block>
-  <block id="74345213f8d76009dd92f861947ff81d" category="list-text">을 클릭합니다 <block ref="a45cbd48db1a7657ddea8845179b9e30" category="inline-link-macro-rx"></block> NetApp Support 사이트를 엽니다.</block>
-  <block id="ab26c6ed73849626062a39e18c415af0" category="list-text">상단 메뉴에서 * My Cases * 를 클릭합니다.</block>
-  <block id="97026494f28ea8b85c28720a5dcc49ba" category="list-text">케이스 생성 * 을 클릭합니다.</block>
-  <block id="2017e57b58cd03255505cd1386833eda" category="list-text">범주를 선택하고 필요한 세부 정보를 입력한 다음 * 새 검색 * 을 클릭하여 재고에서 시스템을 검색합니다.</block>
   <block id="3a7cf8f60b6dbf828b28e59d650f69c7" category="list-text">표시된 시스템 목록에서 케이스를 생성할 시스템을 선택합니다.</block>
   <block id="d25803d7582f3b219af4a612ad2ec38a" category="list-text">새 케이스의 우선 순위를 선택합니다.</block>
   <block id="d58cf7db3887b590a8c6217f53660b52" category="list-text">문제 범주 * 드롭다운 목록에서 적절한 범주를 선택합니다.</block>
-  <block id="5b2a1684bf941c030a190eeaca82ea46" category="list-text">문제 설명 필드에 문제 설명을 입력하고 * Proceed * 를 클릭합니다.</block>
   <block id="4f42268c65a397c8cddfe11341e788b6" category="list-text">문제에 대한 추가 세부 정보를 제공합니다.</block>
-  <block id="0d105b5d8aad07987a8fc6ca830c5c98" category="list-text">문제 진단에 도움이 될 수 있는 파일 또는 이미지를 업로드하려면 * 파일 선택 * 을 클릭합니다.</block>
-  <block id="2f88e5cbd35ab951b0bce5a96b06bb36" category="list-text">Proceed * 를 클릭합니다.</block>
   <block id="dd270a8aa811a52ca44969147eaf4518" category="list-text">연락처 정보를 입력합니다.</block>
-  <block id="06d3f9f9f2de449fd422952b01199c74" category="list-text">케이스 생성 * 을 클릭합니다.</block>
   <block id="04bfee7a9caf8ee1fb8cd6090edec89f" category="paragraph">* 비기술적 케이스를 언제 생성합니까? *</block>
   <block id="748f6ba28053e4e8537665ce73aed705" category="list-text">특정 기능에 액세스할 수 없거나 Digital Advisor 기능에 대한 지원이 필요합니다</block>
   <block id="71ba49d3e291eb6557085c00a26f1f0e" category="paragraph">사전 예방적으로 용량 제한에 도달한 시스템을 식별하고 스토리지 시스템의 용량 증가 요청을 보냅니다.</block>
   <block id="64c0215a49227967002da65613b613e8" category="paragraph">ONTAP의 경우 1, 3, 6개월 만에 용량이 90%를 초과하거나 90%를 초과하는 시스템을 볼 수 있습니다. StorageGRID의 경우 1, 3 및 6개월 이내에 용량이 70%를 초과하거나 70%를 초과하는 시스템을 볼 수 있습니다.</block>
   <block id="6af6f792a8c574d32c21182caaac6294" category="paragraph">기본적으로 용량이 90%를 초과했거나 90%에 가까운 ONTAP 시스템이 표시됩니다.</block>
-  <block id="8774a5436b96ad3e78450845bce43111" category="list-text">StorageGRID * 탭을 클릭하여 용량이 70%를 초과했거나 70%에 가까운 StorageGRID 시스템을 확인합니다.</block>
   <block id="cd521d4f21b981f0132bcab8c1cd1129" category="list-text">용량을 늘릴 시스템을 선택합니다.</block>
-  <block id="6aeda814c1d41515a83e1377f67f46b6" category="list-text">향후 6개월 동안의 용량 예측을 보려면 * 용량 예측 보기 * 를 클릭합니다.</block>
-  <block id="8d79993c5d29c4e1c65aa5714a30b889" category="list-text">용량 추가 요청 * 을 클릭합니다.</block>
   <block id="db58d45951c63fe2dd675478f6b9865f" category="list-text">필요한 경우 설명을 입력합니다.</block>
   <block id="93716955add4f66b2af685a33bac4789" category="section-title">2024년 5월 15일</block>
   <block id="e5ec30fe5fd65ba8d529a625838c30d8" category="admonition">지속 가능성은 Cloud Volumes ONTAP, AFF 시스템(A-Series 및 C-Series), E-Series, FAS, StorageGRID 시스템에서 지원됩니다.</block>
@@ -1274,15 +1139,10 @@
   <block id="432405c0f2c1d2289f6d8e3b11ebfd8b" category="doc">펌웨어 업데이트 권장 사항을 봅니다</block>
   <block id="789b0be6ddd32dcc2218519990c16b5c" category="paragraph">이제 고객은 Control Tower가 최신 펌웨어 버전으로 시스템을 자동으로 업데이트함으로써 시간과 노력을 절약할 수 있으므로 수동 개입이나 예약 작업이 필요하지 않습니다. 이 업데이트는 오래되거나 호환되지 않는 펌웨어 버전으로 인해 문제가 발생할 위험을 줄여 최적의 시스템 성능, 안정성 및 보안을 보장합니다.</block>
   <block id="715a43f582d65ce08f118788f9800f7d" category="paragraph">고객은 AutoSupport 및 자동 업데이트 설정을 활성화하는 옵션과 함께 펌웨어 업데이트 상태에 대한 알림 및 경고를 적시에 받게 됩니다.</block>
-  <block id="fe47ca91d8c9f313f60692015dd2b72c" category="list-text">대시보드 페이지에서 * Upgrade Advisor * 위젯에서 * 기타 권장 사항 * 을 클릭합니다.</block>
-  <block id="d7e31a0bb5b5ba6257ea5fda3503a013" category="list-text">권장 사항 목록을 보려면 * 권장 사항 보기 * 를 클릭하십시오.</block>
-  <block id="11672318e1b710ceb9ea65a5a12aa393" category="list-text">업데이트 상태 * 열에서 * 진행 상황 보기 * 를 클릭하여 업데이트 대상 클러스터를 확인합니다.</block>
-  <block id="ea9fb85557d50ae07af62f60044c60d5" category="list-text">문제가 발생한 경우 해당 링크를 클릭하여 문제를 완화하기 위한 단계를 확인하십시오.</block>
   <block id="526c3ba007bad7c7b6408ba4672f5f6e" category="paragraph">AutoSupport 상태 관련 문제를 고객에게 알리기 위해 AutoSupport 위젯이 기본 대시보드 화면에 추가되었습니다.</block>
   <block id="92806a8b46867129d50cde3d86748bb6" category="section-title">클러스터 및 일련 번호에 AutoSupport 위젯을 사용할 수 없습니다</block>
   <block id="03d676ea619bd44dde41c38b2851a15d" category="paragraph">AutoSupport 위젯은 클러스터 및 일련 번호 검색에 대한 경고를 제공하지 않습니다.</block>
   <block id="c0ac6b1bce52487f5b5af28ecef07c1f" category="section-title">AutoSupport 위젯이 직렬 레벨 AutoSupport 세부 정보로 드릴다운할 수 없습니다</block>
-  <block id="84262a27dab2047f1176d0c336762208" category="paragraph">AutoSupport 보고 페이지에서 상태, 최근에 전송을 중지한 시스템 또는 AutoSupport가 꺼진 시스템을 클릭해도 상태 점검 화면으로 이동하지 않습니다.</block>
   <block id="82a9da1ab6bff23f72740b42a10ddeb9" category="section-title">재고 위젯에서는 필터링 및 정렬을 사용할 수 없습니다</block>
   <block id="eeb5db985fd60cfebc33e606802e2112" category="paragraph">재고 위젯에서는 데이터를 필터링하고 정렬할 수 없습니다. "필터 기준" 드롭다운에서 ONTAP AFF, ONTAP ASA, ONTAP Edge 또는 ONTAP Select를 선택하면 데이터가 표시되지 않습니다.</block>
   <block id="4b546cad2ee01a6cbf9ccc96b97242b6" category="section-title">2024년 12월 4일</block>
@@ -1329,7 +1189,6 @@
   <block id="e8b6643d4bda95ae4c2dacb6a8e40cac" category="section-title">2025년 8월 6일</block>
   <block id="b564cac98074bd875d810d6572dc9927" category="paragraph">*인벤토리* 위젯은 사용자가 소유한 전체 시스템과 지원이 가능한 스위치에 대한 롤업을 제공합니다.  여기에는 Digital Advisor 지원 제품과 지원 안 되는 제품이 모두 포함됩니다.</block>
   <block id="9714b9edaef026c9c44f49389eb60d44" category="section-title">지원 권한이 있는 스위치 세부 정보 보기</block>
-  <block id="e5449af777fdc7f9d2eec34f87da1138" category="list-text">*인벤토리* 위젯에서 *지원 가능 스위치*를 클릭하면 모든 지원 가능 스위치에 대한 정보를 볼 수 있습니다.</block>
   <block id="617f2d0adf2001440f244bf5c45be277" category="inline-link-macro">지원 권한이 있는 스위치를 보는 방법을 알아보세요</block>
   <block id="ef3139c75debdd9ee259a4ea386083d3" category="paragraph">이제 지원 자격이 있는 Brocade Fibre Channel SAN 스위치에 대한 정보를 볼 수 있습니다. 여기에는 스위치 모델, 일련 번호, 지원 상태에 대한 세부 정보가 포함됩니다. <block ref="de42528af60c9393a2c8b32539c694f1" category="inline-link-macro-rx"></block> .</block>
   <block id="56f48a0b7ef64f3dcd95534228f6c5f3" category="paragraph">저장 시스템의 환경적 건강에 대한 통찰력을 제공하는 환경 지표는 이제 고급 예측 모델을 기반으로 예상 전력 사용량, 직접 탄소 사용량 및 열 배출에 대한 보다 정확한 값을 제공합니다. 자세한 내용은 다음을 참조하세요.<block ref="a9f485271892e0176d2cdaee960db816" category="inline-link-macro-rx"></block> .</block>
@@ -1363,7 +1222,6 @@
   <block id="07837f561e3ee48313730477a0ce7e0f" category="paragraph">지속 가능성을 통해 에너지 소비를 줄이고 환경 목표를 향해 나아갈 수 있습니다.  이를 통해 친환경적 관행에 맞춰 보관 시스템을 조정하고 지속 가능성 목표를 달성할 수 있습니다.</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">2025년 10월 6일</block>
   <block id="1ca03fcdf1edff8f13c5ab3d96f71ef4" category="paragraph">이제 E-Series 및 StorageGRID 시스템에서 지속 가능성이 지원됩니다.  이러한 시스템의 지속 가능성 대시보드에서 전력, 직접 탄소 사용량, 열에 대한 예측을 표시하는 권장 조치 및 환경 지표 목록을 볼 수 있습니다. 자세한 내용은 다음을 참조하세요.<block ref="324fa1323a5d1b555b99e90b4dfa69b7" category="inline-link-macro-rx"></block> .</block>
-  <block id="e0bce4b165696e8af8dc9f23db141bb9" category="list-text">웰니스 워크플로에는 이제 고객, 관심 목록, 사이트 및 그룹 수준에서 권장되는 작업 수를 제공하는 지속 가능성 위젯이 포함되었습니다.  지속 가능성 대시보드에서 권장되는 조치에 대한 자세한 내용을 보려면 조치 번호를 클릭하세요. 자세한 내용은 다음을 참조하세요.<block ref="0cf51c2fcac81ed872c11f6f85a6fa1e" category="inline-link-macro-rx"></block> .</block>
   <block id="c0271ca41d216c76fc4707af387b19ff" category="paragraph">지속 가능성 대시보드는 저장 시스템의 환경적 지속 가능성에 대한 귀중한 통찰력을 제공합니다.  지속 가능성 점수, 탄소 감축 비율, 예상 전력 사용량, 직접 탄소, 열 등의 정보를 볼 수 있습니다.  특정 사이트의 탄소 감축 비율을 조정할 수 있습니다.  클러스터 수준에서 지속 가능성 점수를 볼 수도 있습니다.  지속 가능성 점수를 기반으로 스토리지 시스템의 전반적인 효율성을 평가하고 이를 NetApp에서 권장하는 조치에 맞춰 지속 가능성을 향상시킬 수 있습니다. <block ref="573ac558e55731509c8353e25f1ec473" category="inline-link-macro-rx"></block> .</block>
   <block id="f33417edb722273e609d7466e4031b36" category="summary">대시보드, 지속 가능성 점수, 시스템 및 권장 조치에 대한 정보를 제공합니다.</block>
   <block id="cc3f62c281ad35f63b6650989fb52283" category="paragraph"><block ref="cc3f62c281ad35f63b6650989fb52283" category="inline-image-macro-rx" type="image"></block></block>
@@ -1371,14 +1229,8 @@
   <block id="6edd347f3567227e4ce1c45122c2197a" category="paragraph"><block ref="6edd347f3567227e4ce1c45122c2197a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="92ea8af39382bb4f23cbd857138ba4e1" category="list-text">*실시간 전력* 열에서 모니터링을 활성화하면 클러스터 수준에서 실시간 전력 세부 정보를 볼 수 있습니다. 자세한 내용은 다음을 참조하세요. <block ref="7828191105a84c038a1de3643ae1bbea" category="inline-link-macro-rx"></block> .</block>
   <block id="f0f10feff8159ed4c58c13daef98da0e" category="admonition">Digital Advisor 권장 사항을 구현하기 위해 NetApp 콘솔로 안내합니다.</block>
-  <block id="1f584d23b3652cbe77f11b78950971de" category="list-text">*클라우드로 마이그레이션*을 클릭하여 *콘솔*을 시작합니다.</block>
-  <block id="4389988617262741e0e52347136b74bb" category="list-text">*티어 데이터*를 클릭하여 *콘솔*을 시작하세요.</block>
-  <block id="46bb48cd2d8ba3072152fddd39652880" category="list-text">*클라우드에 백업*을 클릭하여 *콘솔*을 시작합니다.</block>
-  <block id="dca585924df6925f014c537785d04c0f" category="list-text">*클라우드에 복제*를 클릭하여 *콘솔*을 시작합니다.</block>
   <block id="7bc90abe1556491a7adc105773e5b4f5" category="summary">Data Infrastructure Insights 의 가상 머신에 대한 정보를 제공합니다.</block>
   <block id="5e76877e0dc9fe309e6133171cf4f2c7" category="paragraph">Digital Advisor 이제 Data Infrastructure Insights Basic 버전과 통합되어 고객에게 전체 스택 인벤토리와 상호 운용성 검사를 제공합니다.</block>
-  <block id="685bbd026f2ca02a1ba1e629c16611de" category="list-text">*인벤토리* 위젯에서 *가상 머신*을 클릭하면 Data Infrastructure Insights 에서 사용 가능한 데이터를 볼 수 있습니다.</block>
-  <block id="d4ec3e135a12bb96c4afe463cfa6cb07" category="list-text">*ESX 이름*을 클릭하면 Data Infrastructure Insights 로 이동하여 자세한 정보를 볼 수 있습니다.</block>
   <block id="45c1e1a0501d6b75b99c21659e420c55" category="paragraph">다음 기준을 충족하는 볼륨은 Cloud Volumes ONTAP (CVO)으로 마이그레이션하는 것이 좋습니다.</block>
   <block id="f53ebb0d19beec32f25d5bd12221adf7" category="paragraph">업그레이드 계획을 생성하기 전에 다음을 수행해야 합니다.</block>
   <block id="9c8a06503c0fcff82a72b9a47d15fdd8" category="inline-link-macro">ONTAP AutoSupport 해결 가이드</block>
@@ -1427,7 +1279,6 @@
   <block id="6b8c1d667d3b152f62b23882186f49ef" category="doc">Digital Advisor 에서 관리하는 스토리지 시스템을 랜섬웨어 위험으로부터 보호하세요.</block>
   <block id="b89f83893f4727447716c66a3b51f536" category="doc">Digital Advisor 통해 스토리지 시스템에 필요한 소프트웨어 및 하드웨어 갱신 사항을 확인하세요.</block>
   <block id="8c56611178fbe8b564f32305bee2660a" category="paragraph">스토리지 시스템의 소프트웨어 및 하드웨어 중 만료되었거나 향후 6개월 이내에 만료가 임박한 항목을 사전에 파악하여 하드웨어 및 소프트웨어 갱신 요청을 보낼 수 있습니다.</block>
-  <block id="72b48ce9fe92eb0c8e3daa730f3b40d4" category="list-text">갱신할 스토리지 시스템을 선택하고 *갱신*을 클릭하십시오.</block>
   <block id="af8b8a799d4d3f00f43e2a15c03d0b3e" category="doc">Digital Advisor 에서 지원 계약을 갱신하세요.</block>
   <block id="fec0069eb53aaf302edb450eb9a816d9" category="doc">Digital Advisor 에서 제공하는 스토리지 시스템 상태 알림을 구독하세요.</block>
   <block id="35aedce653ee05a4fca3b7e9369bfd70" category="doc">Digital Advisor 에서 AFF 및 FAS 펌웨어 Ansible 패키지를 다운로드하십시오.</block>
@@ -1520,9 +1371,6 @@
   <block id="b673e7cded650c08d6c0289225510337" category="paragraph">이 기능은 수명 주기 계획(*스토리지* &gt; *수명 주기 계획*) 또는 Digital Advisor(*대시보드* &gt; *계획 위젯* &gt; *시스템 새로 고침*)를 통해 액세스할 수 있습니다.</block>
   <block id="dcd5d8e34e28517df35c9ef34326b7f8" category="inline-link-macro">시스템 새로 고침 평가</block>
   <block id="ded0a309adbbd30fc9482b49a9ac79cd" category="section-title">2026년 6월 3일</block>
-  <block id="0cd056bd26e169de7bcb1a020c6b1264" category="list-text">*Planning* 위젯에서 *Storage Expansion*을 클릭합니다.</block>
-  <block id="2e703d88e9f579295840057715d9e123" category="list-text">선택한 시스템의 스토리지 확장을 지원하도록 NetApp 스토리지 팀에 요청을 보내려면 *보내기*를 클릭하십시오.</block>
-  <block id="9db2bee503b4dd39ee519c9d3147cd82" category="list-text">*계획* 위젯에서 *지원 갱신*을 클릭합니다.</block>
   <block id="ac7c07737d772453b955c31ac43f2b1f" category="sidebar">스토리지 시스템에 대한 시스템 업데이트가 권장되는지 확인합니다</block>
   <block id="c0c5b8053b5fc36370065438a354e1bf" category="doc">Health Check GraphQL 마이그레이션 및 데이터 정확도 개선</block>
   <block id="a91b61567eb0a4298ef58eeb9f9c29bf" category="paragraph">상태 점검 모듈이 데이터 정확도 향상 및 최신 버전 표준에 맞춘 권장 사항 제공 기능을 통해 개선되었습니다. 이번 릴리스에서는 공개 API에서 GraphQL로 마이그레이션되어 성능 향상, 유연한 쿼리 기능 및 장기적인 지원을 제공합니다.</block>
@@ -1551,10 +1399,8 @@
   <block id="03c5b42b885a94fc682f43b75d5086a9" category="doc">NetApp Console(이전 명칭: BlueXP)</block>
   <block id="096e72f185cd5ba74fed5d48c1f555a9" category="paragraph">향상된 구조로 재설계된 NetApp Console을 기반으로 구축된 NetApp Console은 온프레미스 및 클라우드 환경 전반에 걸쳐 엔터프라이즈급 NetApp 스토리지 및 NetApp Data Services를 중앙 집중식으로 관리할 수 있도록 지원하며, 실시간 인사이트, 더욱 빠른 워크플로, 간소화된 관리 기능을 제공하고 높은 보안성과 규정 준수를 보장합니다.</block>
   <block id="9a46da86154f0e764fc998d06fe64b60" category="paragraph">변경 사항에 대한 자세한 내용은 <block ref="55233a601a39d3cf31ec58df3f760d9b" category="inline-link-rx"></block>을 참조하세요.</block>
-  <block id="7d6ce3bee9fd5da819af4cfb0b2ade4f" category="list-text">*AutoSupport 도입 현황*: AutoSupport가 활성화된 시스템의 수와 비율을 표시합니다. '거부됨'으로 표시된 시스템, *HTTPS* 및 *AutoSupport on Demand*가 활성화된 시스템, 그리고 지난 7일 동안 AutoSupport 데이터 전송이 중단된 시스템의 *신호 끊김*도 확인할 수 있습니다. 시스템 상태 점검 점수 및 설치 기반의 시스템에 대한 정보를 보려면 *AutoSupport 도입 현황* 위젯을 클릭하십시오.</block>
   <block id="3730e1e889435130618fcdb87bf46f1c" category="cell">ONTAP에서만 지원됩니다</block>
   <block id="1e6ddc0aa4336129b8430dfbbb3741bb" category="admonition">모든 플랫폼이란 ONTAP, E-Series, StorageGRID, ONTAP Select 및 Cloud Volumes ONTAP를 의미합니다.</block>
-  <block id="ba541209b2d31087fd8081e9f1a7235f" category="list-text">*해결하기:* Active IQ Unified Manager를 사용하여 시스템의 위험을 수정합니다. 이 버튼을 클릭하여 Unified Manager를 실행하고 위험 완화 단계를 수행하십시오.</block>
   <block id="a7c3a3c652c30011db60f3b6078330ce" category="list-text">*스토리지 효율성:* AFF 시스템, 비AFF 시스템 또는 둘 다에 대해 스냅샷 복사본 사용 여부에 따른 스토리지 시스템의 스토리지 효율성 비율과 절감 효과를 확인합니다.</block>
   <block id="57fd96c602ee5183b4c64c101687c0a4" category="list-text">*API 서비스:* 관심 있는 데이터를 가져와 회사 워크플로에 직접 통합할 수 있습니다.</block>
   <block id="fd7b263f8186cddb5aa64a9ee6549eec" category="list-text">*고객:* 고객의 설치 기반을 확인하고 관리할 수 있습니다. 고객 대시보드는 Digital Advisor의 중앙 포털입니다.</block>
@@ -1604,7 +1450,6 @@
   <block id="8de0b8b02d2bfd48482512c91fa6e18e" category="paragraph">Active IQ Digital Advisor가 Digital Advisor로 변경되었으며 이제 하이브리드 멀티클라우드 환경을 위한 NetApp의 통합 관리 콘솔인 NetApp Console에 통합되었습니다. <block ref="7cc56b953de24cf166f6b18ad0920a18" category="inline-link-macro-rx"></block>.</block>
   <block id="c37f219aa571929728262a5acf740a28" category="paragraph">NetApp Console 사용자는 이제 Digital Advisor의 기존 기능과 유사하게, 해당되는 모든 곳에서 Digital Advisor 링크를 새 탭에서 열 수 있습니다.</block>
   <block id="a6c74eb040ea726fb2c4e5feca0368c2" category="list-text">웰니스 리뷰 이메일에는 갱신 정보가 아닌 랜섬웨어 방어에 대한 정보가 포함되어 있습니다.</block>
-  <block id="b6eeb808a3c1a36cdf1c37ebd476b922" category="paragraph">SVM 테이블에서 파란색 'Volume Summary' 상자를 클릭하면 특정 일련 번호 또는 물리적 노드에 호스팅되거나 연결된 볼륨에 대한 자세한 정보가 팝업 창으로 표시됩니다.</block>
   <block id="b9cf4e905e96b235770e49865f22f11e" category="list-text">*용량 추가:* 기존 용량의 70% 임계값을 초과하는 GRID 사이트가 있는 경우 알림을 받게 됩니다. 용량 임계값이 70%를 초과할 가능성이 있는 경우, 해당 사이트의 StorageGRID에 대해 향후 1개월, 3개월 또는 6개월 동안 용량을 추가할 수 있는 옵션이 제공됩니다.</block>
   <block id="599bbd3b519be9802a8dfd330b44eee9" category="list-text">*갱신:* StorageGRID 라이선스 계약이 만료되었거나 향후 6개월 이내에 만료가 임박한 StorageGRID 시스템에 대해 알림이 전송됩니다. 하나 이상의 시스템을 선택하여 NetApp 지원팀에 갱신 요청을 제출할 수 있습니다.</block>
   <block id="5e3cf62c27b7f1398ad383a1c7dab255" category="paragraph">Tier Data 버튼이 FabricPool 대시보드에 추가되었으며, 이 버튼을 사용하면 NetApp Console을 통해 저렴한 오브젝트 스토리지 계층으로 데이터를 계층화할 수 있습니다.</block>
@@ -1620,4 +1465,226 @@
   <block id="1cf5700bf190dbae716a593be587283a" category="list-text"><block ref="1cf5700bf190dbae716a593be587283a" category="inline-link-macro-rx"></block></block>
   <block id="d71ef8f8c3bc3420442db2005d522d56" category="summary">Digital Advisor의 새로운 기능 및 향상된 기능에 대해 알아보십시오.</block>
   <block id="b79452fa5a06b7ff4261516434074a36" category="section-title">2026년 8월 12일</block>
+  <block id="8f24b7f6865330e0469a323257c15e3e" category="doc">Value Insights를 소개합니다</block>
+  <block id="6452c5c2797e19754a12693289884cfc" category="paragraph">Value Insights 기능은 ONTAP 시스템의 전반적인 상태, 비용 절감, 안정성 및 보안 정보를 통합하여 제공합니다. 이 정보를 활용하여 ONTAP 환경에 대한 지속적이고 데이터 기반의 관점을 통해 시스템 상태와 성능을 개선할 수 있습니다.</block>
+  <block id="581e60c850c8a18ee458ccadb49ea628" category="admonition">Value Insights는 ONTAP 시스템에서만 사용할 수 있습니다.</block>
+  <block id="4818a68f374e0754b0e7babe3b943331" category="inline-link-macro">Value Insights</block>
+  <block id="0f040cc490eb4ad3366e4020a72ff0c2" category="paragraph"><block ref="d7e943b7b795a7bed90e4ce411daf4a9" category="inline-link-macro-rx"></block>에 대해 자세히 알아보십시오.</block>
+  <block id="7429618639864b9a43e033e15d62ca26" category="list-text">*AutoSupport 도입 현황*: AutoSupport가 활성화된 시스템의 수와 비율을 표시합니다. '거부됨'으로 표시된 시스템, *HTTPS* 및 *AutoSupport on Demand*가 활성화된 시스템, 그리고 지난 7일 동안 AutoSupport 데이터 전송이 중단된 시스템의 *신호 끊김*도 확인할 수 있습니다. 시스템 상태 점검 점수 및 설치 기반의 시스템에 대한 정보를 보려면 *AutoSupport 도입 현황* 위젯을 선택하십시오.</block>
+  <block id="231c79598bf0cd06157fd9b6bc8ebd97" category="list-text">*지원 및 권한*: 만료된 지원 계약과 6~12개월 이내에 만료 예정인 계약을 표시합니다. 지원 종료 플랫폼, 디스크, 셸프, 권한 준수 여부, 만료 예정 계약, 그리고 플랫폼 및 하드웨어에 대한 지원 종료(해당 없음)를 표시합니다. 대시보드에 제공된 상태 확인 점수를 확인하고 우선순위에 따라 제공되는 주요 권장 사항에 따라 조치를 취할 수 있습니다. 지원 계약에 대한 자세한 정보를 보려면 *지원 및 권한* 위젯을 선택하십시오. 이 위젯을 사용하여 지원 계약을 갱신할 수도 있습니다.</block>
+  <block id="a8c3535cbeee2a5498e557e8427ef727" category="list-text">*해결하기:* Active IQ Unified Manager를 사용하여 시스템의 위험을 수정합니다. 이 버튼을 선택하여 Unified Manager를 실행하고 위험 완화 단계를 수행하십시오.</block>
+  <block id="9c25a224441df7966ab602d0305af6ad" category="paragraph">두 보기 모두 왼쪽 탐색 창을 사용하여 사용 가능한 항목을 탐색할 수 있습니다.  항목은 서비스별로 알파벳순으로 정리되어 있습니다.  특정 서비스 내에서 제목을 확장하면 개별 API 엔드포인트를 볼 수 있습니다.  서비스 제목 또는 API 엔드포인트를 선택하면 가운데 창의 카탈로그 해당 섹션으로 이동합니다.</block>
+  <block id="fa7c3894d73b6a3ea889392651463f04" category="inline-link-macro">가치 인사이트 검색</block>
+  <block id="6c972d629a4b8ce6dde8752e4413ad48" category="list-text"><block ref="b444585736ac78c423532d41fccd5521" category="inline-link-macro-rx"></block>, ONTAP 시스템의 전반적인 상태, 절감액, 안정성 및 보안 정보를 제공합니다.</block>
+  <block id="bca0dd4752d962832123c179d6f29ae3" category="summary">ONTAP 시스템의 전반적인 상태, 절감 효과, 안정성 및 보안 지표에 대한 정보를 제공합니다.</block>
+  <block id="17b21ea825fede0731081b59fb813a26" category="doc">Digital Advisor에서 가치 인사이트 살펴보기</block>
+  <block id="e810df921218b2ae3c2ae8c157e80003" category="paragraph">Value Insights 기능은 ONTAP 시스템의 전반적인 상태, 절감 효과, 안정성 및 보안 정보를 통합적으로 제공합니다. 이 정보를 활용하여 ONTAP 환경에 대한 지속적인 데이터 기반 분석을 통해 시스템 상태와 성능을 개선할 수 있습니다.</block>
+  <block id="3970e17ab0355896a02ce146a4b6a41b" category="paragraph">Value Insights는 다음과 같은 정보를 제공합니다.</block>
+  <block id="fb3197cd95658195a5685c80f2cf096f" category="list-text">ONTAP 시스템의 전반적인 상태는 9가지 핵심 성과 지표(KPI)로 구성된 상태 점수로 평가됩니다. 각 항목에는 상세한 KPI 및 점수 분석표가 제공됩니다.</block>
+  <block id="071a5902c78d3712cf6ca92b6e3ffed7" category="list-text">절감 효과 및 안정성 점수는 효율적인 리소스 사용을 통해 용량 및 스토리지 절감을 달성하는 방법을 보여줍니다. EMS 파일 다운로드 기능을 포함하여 스토리지 가동 시간 및 예기치 않은 다운타임에 관한 동향 정보에 액세스합니다.</block>
+  <block id="f23694bbe7451573bb87ca1b5c04b7d0" category="list-text">보안 및 미래 계획에는 회피된 위험과 예방된 문제가 자세히 설명되어 있습니다. 비용 절감액은 스토리지 효율성을 기반으로 계산됩니다.</block>
+  <block id="4d059f5635fea2016015f6e1469efea7" category="list-text">인프라 가치 극대화는 최고의 효율성을 위해 인프라 성능을 더욱 향상시키는 추가 기능을 권장합니다.</block>
+  <block id="01e12de62fa77fda2815719aed8ff892" category="paragraph-title">다음 단계</block>
+  <block id="18d37f2da2174aafbe0c4c2defb9a5d6" category="inline-link-macro">가치 분석 대시보드 보기</block>
+  <block id="b85c3f33cd8b3e7beb43416b99de1131" category="paragraph"><block ref="b85c3f33cd8b3e7beb43416b99de1131" category="inline-link-macro-rx"></block></block>
+  <block id="ab81328231d527187f44ce829019bed3" category="list-text">대시보드의 *업그레이드 어드바이저* 위젯에서 클러스터 수를 선택합니다.</block>
+  <block id="f0d08ce55dd88fe6c90a5ac483644ddf" category="list-text">업그레이드할 클러스터를 선택하십시오. *대상 OS 버전* 열에는 권장 대상 OS 버전이 표시됩니다. <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택하여 클러스터의 다른 대상 OS 버전을 선택할 수 있습니다.</block>
+  <block id="ad65ce8b480c48d8f6ff7c7cbf942b1d" category="list-text">*노드* 열에서 노드 수를 선택하면 클러스터의 노드 요약을 볼 수 있습니다.</block>
+  <block id="12f8688c8a681a5a997222c004101a29" category="list-text">업그레이드 자격이 없는 클러스터의 문제를 해결하여 업그레이드 자격을 부여하려면 *권장 조치* 열에서 *문제 해결*을 선택할 수 있습니다. + <block ref="dd4506ad5994ec27eaf432e5646257a2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="de7791c6adf25aee62afd7ce7f6cc9d7" category="list-text">*업그레이드 계획 생성*을 선택합니다. *업그레이드 권장 사항* 페이지로 이동합니다.</block>
+  <block id="4a1a205135d14e3da41f5df1274f7b36" category="list-text"><block ref="db6dc66ed954c8de99897788c99c122a" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택하면 위험 요약 정보를 Excel 시트로 내보낼 수 있습니다.</block>
+  <block id="021243635e43e5042ab656af81576d7d" category="list-text">*업그레이드 권장 사항* 페이지에서 *업그레이드 계획 생성*을 선택합니다.</block>
+  <block id="1a5b492d85739ef7b9dc87dbf437a553" category="list-text">*생성*을 선택합니다. *보고서* 페이지로 이동합니다.</block>
+  <block id="5b49dd4e8d34b31a598c097a88f03374" category="inline-image-macro">View Upgrade Advisor가 선택을 위해 위치한 곳을 보여주는 스크린샷입니다.</block>
+  <block id="cf6adbf5ffe49050ddf368340cf6efa4" category="admonition">*업그레이드 어드바이저 보고서 보기*를 선택하면 *보고서* 페이지로 이동합니다. + <block ref="c7bd4f5c59b15aff733af234f6bd704a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b3090dfee26780768bbd10558f14bd08" category="list-text">업그레이드할 클러스터를 선택합니다. *대상 OS 버전* 열에는 권장 대상 OS 버전이 표시됩니다. <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택하여 클러스터의 다른 대상 OS 버전을 선택할 수 있습니다.</block>
+  <block id="0b7ce1367d4c0cdb9832f770300d6637" category="list-text">업그레이드 자격이 없는 클러스터의 문제를 해결하여 업그레이드 자격을 부여하려면 *권장 조치* 열에서 *문제 해결*을 선택하십시오. + <block ref="dd4506ad5994ec27eaf432e5646257a2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="091618e3cea8ab8c2be66398a16d5a35" category="list-text">*업그레이드 플랜 생성*을 선택합니다.</block>
+  <block id="ecef2737159ffa4ba0019a481c01846c" category="list-text">사용자 이름과 비밀번호를 입력하고 *로그인*을 선택합니다.</block>
+  <block id="942d04c17a32d1908c40c98d5e3f00ff" category="list-text">연기된 조치는 언제든지 검토할 수 있으며, *고려*를 선택하여 *권장 조치* 탭으로 이동할 수 있습니다. + <block ref="0dbc91ab2b9301aabf5d18bb049d2fe1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="32ef8eccaca52f044dcf09f84ef8d527" category="list-text">대상 클러스터에 대해 *권장 조치* 열에서 조치 횟수를 선택하십시오.</block>
+  <block id="6f5f86ae437de7aeb9cbd1580e2d6640" category="list-text">연기된 조치는 언제든지 검토할 수 있으며, *고려*를 선택하여 *권장 조치* 탭으로 이동할 수 있습니다.</block>
+  <block id="6b081bbbc9faa2e2bd9e1425936c330b" category="list-text"><block ref="a45cbd48db1a7657ddea8845179b9e30" category="inline-link-macro-rx"></block>을 선택하여 NetApp 지원 사이트를 여십시오.</block>
+  <block id="d103819471f490f66ef8e58c538f59d1" category="list-text">상단 메뉴에서 *내 케이스*를 선택합니다.</block>
+  <block id="10f936818ffaf1a17895b85b1d68c064" category="list-text">*케이스 생성*을 선택합니다.</block>
+  <block id="7e258b91004251f5a62381f814cc6947" category="list-text">카테고리를 선택하고 필요한 세부 정보를 입력한 다음 *새 검색*을 선택하여 인벤토리에서 시스템을 검색합니다.</block>
+  <block id="f81985d06d4339a98b2a2a97c9ff68c7" category="list-text">문제 설명 필드에 문제 설명을 입력하고 *진행*을 선택하십시오.</block>
+  <block id="466693013f3c1b337538a1e337f264c0" category="list-text">문제 진단에 도움이 될 수 있는 파일이나 이미지를 업로드하려면 *파일 선택*을 선택합니다.</block>
+  <block id="8cb15ce6c54092a253bd2c552317ad39" category="list-text">*진행*을 선택합니다.</block>
+  <block id="d90df33ddfe221985bdf5553abae7ef3" category="list-text">*케이스 생성*을 선택합니다.</block>
+  <block id="a46a90e716a52fabe5a85b378abe0cd9" category="list-text"><block ref="92a15a62356fc979cd7db02d3dcebebf" category="inline-link-macro-rx"></block>를 선택하여 NetApp 지원 사이트에서 "비기술적 피드백 툴"을 여십시오.</block>
+  <block id="b623e6ded9a852f4e7cd9765578d0c08" category="list-text">*Submit*을 선택합니다.</block>
+  <block id="53bcb6b5209424926cc946d1df4cb170" category="list-text">왼쪽 탐색 메뉴에서 *Storage Efficiency*를 선택합니다.</block>
+  <block id="1bc9acd9bfa0291187b8f23dbf3a362f" category="paragraph">다른 이유로 시스템을 볼 수 없거나, 문의 사항이 있거나, 접근 권한을 요청하려면 <block ref="09587a48f092e0d3b236776f889d19c2" category="inline-link-macro-rx"></block>. 비기술적인 케이스에 대한 자세한 내용은 <block ref="cbc6291335aebce77afe28d818ce153c" category="inline-xref-macro-rx"></block>을(를) 선택하십시오.</block>
+  <block id="06a85ee2018958123c480cf1f534e7f2" category="paragraph">AutoSupport 보고 페이지에서 상태를 선택하거나, 최근에 전송을 중단한 시스템을 선택하거나, AutoSupport가 꺼진 시스템을 선택해도 상태 점검 화면으로 이동하지 않습니다.</block>
+  <block id="f1c51501659d7bb0b0146707e6fe220c" category="section-title">2026년 8월 20일</block>
+  <block id="41e720b88c1be16ac8a238019c318fc0" category="list-text">웰니스 워크플로에 지속가능성 위젯이 추가되었습니다. 이 위젯은 고객, 관심 목록, 사이트 및 그룹 수준에서 권장 조치 횟수를 제공합니다. 지속가능성 대시보드에서 권장 조치에 대한 자세한 보기를 위해 조치 수를 선택할 수 있습니다. 자세한 내용은 <block ref="0cf51c2fcac81ed872c11f6f85a6fa1e" category="inline-link-macro-rx"></block>을 참조하십시오.</block>
+  <block id="bc22ebe3a2801035eb402b28a282f000" category="paragraph">SVM 테이블에서 파란색 'Volume Summary' 상자를 선택하면 특정 일련 번호 또는 물리적 노드에 호스팅되거나 연결된 볼륨에 대한 자세한 정보가 팝업 창으로 표시됩니다.</block>
+  <block id="fc59bac99adb61318147ef957d49ca9e" category="list-text">*GRID 뷰어:* *구성* 위젯에서 *GRID 뷰어* 링크를 선택하면 GRID 구성을 자세히 볼 수 있습니다. *구성* 위젯에서 *Grid Viewer* 화면의 *다운로드* 버튼을 선택하면 선택한 StorageGRID의 사이트 세부 정보 및 용량 세부 정보를 다운로드할 수 있습니다.</block>
+  <block id="9bd4377a0e7a29dfa86c90e160a8b977" category="list-text">*GRID 요약:* 라이선스 유형, 라이선스 용량, 설치된 노드 수, 지원 기간(라이선스 계약 종료일), 기본 관리 노드 및 기본 관리 노드의 기본 사이트 등 기본 정보를 포함합니다. 이 탭에는 사이트 이름과 해당 사이트에 태그된 스토리지 노드 수도 표시됩니다. 이번 릴리스에서는 해당 사이트의 스토리지 노드를 보기 위해 제공된 하이퍼링크를 선택하면 노드 이름 목록을 확인할 수 있습니다.</block>
+  <block id="0ff7d0b062dd5121bc5c7974e3b1ce37" category="paragraph">*탄소 저감률*: 각 지역/도시별 탄소 저감률을 백분율로 표시하며, 제시된 기준값은 사용자의 위치를 기준으로 합니다. 백분율 값 옆에 있는 <block ref="58945c98e470d270455cd5912e91eb15" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택하여 특정 지역의 탄소 저감률을 조정할 수 있으며, 탄소 수치는 자동으로 그에 따라 조정됩니다.</block>
+  <block id="d91525a34374f3c384434d5ac31e59a1" category="list-text">왼쪽 창에서 *클라우드 추천*을 선택합니다.</block>
+  <block id="df625868919a9f4c2b7c82e82a92144b" category="list-text">*마이그레이션* 창에서 링크 하나를 선택합니다.</block>
+  <block id="7195818938a29511d75ba36d94c3b472" category="list-text">*클라우드로 마이그레이션*을 선택하여 *콘솔*을 실행합니다.</block>
+  <block id="6788fdc54890a37fd0849fa3124544e5" category="list-text">* Tiering * 창에서 링크를 하나 선택합니다.</block>
+  <block id="ca1a154e70e264beeea3b48d9328f58c" category="list-text">*티어 데이터*를 선택하여 *콘솔*을 실행합니다.</block>
+  <block id="4fc3833a830eeed213da97e2b0a09d35" category="list-text">*백업 및 보관* 창에서 링크를 하나 선택합니다.</block>
+  <block id="e86b74e0a1b8c4931491d20900f2d101" category="list-text">*클라우드 백업*을 선택하여 *콘솔*을 실행합니다.</block>
+  <block id="46adab1d8ac82d1d77de75eb2a8868b4" category="list-text">*재해 복구* 창에서 링크 하나를 선택하십시오.</block>
+  <block id="c9726831d2e2d716fb75d00b73314957" category="list-text">*클라우드에 복제*를 선택하여 *콘솔*을 실행합니다.</block>
+  <block id="28298314ccb0860bd1ef1e8ab3ce820b" category="list-text">*인벤토리* 위젯에서 *가상 머신*을 선택하면 Data Infrastructure Insights에서 사용 가능한 데이터를 볼 수 있습니다.</block>
+  <block id="7edfb807126dfc8677c4d1149cec3e98" category="list-text">*가상 머신 개요* 탭을 선택하십시오.</block>
+  <block id="c012e1cda2e5e8aa26e2e5843e5ffd89" category="list-text">*ESX 호스트 수*를 선택하여 호스트에 대한 정보를 확인하십시오.</block>
+  <block id="272d3caafb417092764639b89bafcc52" category="list-text">자세한 정보를 보려면 *ESX Name* 을 선택하여 Data Infrastructure Insights 로 이동하십시오.</block>
+  <block id="0ce2232da639f843c6b73d9970a52764" category="list-text">왼쪽 창에서 *구성 드리프트*를 선택합니다.</block>
+  <block id="cac4b64ffdedc8d6874f5961e3b22082" category="list-text">*템플릿 추가*를 선택합니다.</block>
+  <block id="a2d1079782859963d67ced26429deac9" category="list-text">왼쪽 창에서 *Watchlists*를 선택합니다.</block>
+  <block id="4f40826f81f98ce9360d7778fa779a52" category="list-text">*관심 목록 만들기*를 선택합니다.</block>
+  <block id="cafcd44817bc7e5f5b0651f7e6b83cc9" category="list-text">왼쪽 창에서 *용량 및 효율성*을 선택하십시오.</block>
+  <block id="311dcbc6b10bba67dabf6b9a67911679" category="list-text">NetApp 또는 파트너에게 용량 추가를 요청하는 알림을 보내려면 *용량 추가*를 선택하십시오.</block>
+  <block id="9c9b219842bef91d2bce09db5e7d4831" category="list-text">스토리지 시스템의 스토리지 효율성 비율이 평균 스토리지 효율성 비율보다 높다면, *성공 사례 공유*를 선택하여 따르고 있는 모범 사례를 알려주십시오.</block>
+  <block id="8e186e81bfa1647c68861debc5f06e51" category="list-text">사용 중인 스토리지 시스템의 스토리지 효율 비율이 평균 스토리지 효율 비율보다 낮다면, *문의하기*를 선택하여 스토리지 시스템의 구성을 알려 주십시오.</block>
+  <block id="a780e7a077439820eae9d02c27258285" category="list-text">클러스터 또는 노드 수준에서 *구성* 위젯 옆에 있는 *ClusterViewer*를 선택합니다.</block>
+  <block id="2adb3b86a242222ee35d01756ede6fe2" category="list-text">클러스터의 그래프 표현을 보려면 *시각화* 탭을 선택하십시오.</block>
+  <block id="610f679bc2146b4bb535b9e1a48fda58" category="paragraph">Digital Advisor에 로그인하여 *구성* 위젯에 빨간색 배지가 표시되는 것을 확인합니다. 해당 위젯을 선택하면 볼륨이 98% 차서 서비스 중단이 발생할 수 있다는 메시지가 나타납니다. 이 문제를 해결하면 볼륨이 가득 차서 읽기 전용 상태가 되는 것을 방지할 수 있으며, 이로 인해 해당 볼륨에 접근하는 애플리케이션이 충돌하거나 오류가 발생하는 것을 막을 수 있습니다.</block>
+  <block id="0cf16cf584f12226ef1d8cab2e1ee104" category="list-text">*구성* 위젯에서 *작업(Actions)*을 선택합니다. <block ref="6aa7a8b05df22247419ddcea980afa15" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad30dfd9e3abc37ea5bda23c61250d50" category="list-text">*고유 위험* 탭을 선택하십시오. *시정 조치* 링크를 선택하면 경고 임계값을 변경하거나 볼륨에 더 많은 공간을 할당할 수 있습니다. <block ref="bae9c6e4d72077c1f8c2b8eef31cbb4e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c3b7a77060816d46d0397fb6823b56f6" category="inline-image-macro">가용성 및 보호 위젯</block>
+  <block id="e6630d39340b4688724e5aef36cd412c" category="list-text">*가용성 및 보호* 위젯에서 *작업*을 선택합니다.<block ref="d0dbe8068e3f0390698eccc9a5ef07df" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="667d27eb81920e8f2b48bc760e029607" category="list-text">위험 요약을 보려면 *위험명* 링크를 선택하십시오.<block ref="961d5eee8f3900b106dbb0a2777f7ace" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3540dd06d45f87290be242b437c0ca01" category="list-text">*고유 위험* 탭을 선택한 다음 *시정 조치* 열의 링크를 선택하십시오.<block ref="40b4aae1cc80ba37a700a5a58756afdd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="02e5a5b2ff4215e706068b528723179f" category="list-text">스크립트를 생성하고 다운로드하려면 *Ansible "A"* 아이콘을 선택하세요.<block ref="de1b9e535c23b0fc7148d0cda53eb930" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="89fd02758b6b20051d33265c37640a9e" category="list-text">기존 템플릿 중 하나를 선택하거나 *템플릿 추가*를 선택하여 새 템플릿을 추가합니다.</block>
+  <block id="7a7ed1a9a337477dab5b0640bf72ca42" category="list-text">*일정 보고서* 탭을 선택합니다.</block>
+  <block id="6ff31857e94a46afad37436ea055f3b8" category="list-text">왼쪽 창에서 *보고서*를 선택합니다.</block>
+  <block id="b7c62a8eefd6705b7ac3506d4d281740" category="list-text">새 보고서를 생성하려면 *보고서 생성*을 선택합니다.</block>
+  <block id="a33c20c018ebe1e32f519298c669d4ef" category="list-text">*계획* 위젯에서 *스토리지 확장*을 선택합니다.</block>
+  <block id="43132d95dcaa10b90f0aa108cd483d26" category="list-text">*StorageGRID* 탭을 선택하면 용량이 70%를 초과했거나 70%에 근접한 StorageGRID 시스템을 볼 수 있습니다.</block>
+  <block id="706b32ac5bf876665ab5c69bc8ea2be4" category="list-text">향후 6개월간의 용량 예측을 보려면 *용량 예측 보기*를 선택하십시오.</block>
+  <block id="bd5af8815a27ad8cdcca6ecaded30abb" category="list-text">*용량 증설 요청*을 선택합니다.</block>
+  <block id="bb212cff4c3c49f30de079f77e3d50aa" category="list-text">선택한 시스템의 스토리지 확장을 지원받기 위해 NetApp 스토리지 팀에 요청을 보내려면 *보내기*를 선택하십시오.</block>
+  <block id="f2db6680f1e29912f732662aa1dd387e" category="list-text">*보안 및 랜섬웨어 방어* 위젯에서 *작업*을 선택합니다. <block ref="2fcb804d5a34085afa85e482ac09263f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1bcd76c13bba2fdbac42418ba923af8b" category="list-text">*고유 위험* 탭을 선택한 다음 *시정 조치* 열의 링크를 선택하십시오. <block ref="b8e4538a50e97a4603efab53e7672864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bfadff1ef9760c824d8628458125b05c" category="list-text"><block ref="3b55c23dfb4079e2af5dd3be6ef65a9e" category="inline-image-macro-rx" type="image"></block>을 선택하여 템플릿의 사본을 만드십시오.</block>
+  <block id="d68857976f84b0795756f136d1810d62" category="list-text"><block ref="e99ba43207c50943c58f4200e8020746" category="inline-image-macro-rx" type="image"></block>을 선택하고 템플릿을 공유할 사용자의 사용자 이름을 입력합니다.</block>
+  <block id="39bc20d66f528839a3dd237427386065" category="list-text"><block ref="d17ae34269ddc9b756c90c8b4fb41e88" category="inline-image-macro-rx" type="image"></block>을 선택하여 템플릿의 세부 정보를 업데이트합니다.</block>
+  <block id="9e391b9d557d0fca5de8932f0fa862d3" category="list-text"><block ref="26fc5ebf2c3c934a9aae5c740ff267ef" category="inline-image-macro-rx" type="image"></block>을 선택하여 템플릿을 삭제합니다.</block>
+  <block id="239cb158bb841067cfd336b36d90be03" category="list-text">왼쪽 창에서 *Watchlists*를 선택합니다.</block>
+  <block id="4c07191f74a45b21c59e3bfd2a229937" category="list-text">관심 목록의 이름을 선택하여 해당 관심 목록의 대시보드 세부 정보를 확인하십시오.</block>
+  <block id="03f58cfb8e241c8f0ba002dd85d537bb" category="list-text">관심 목록의 세부 정보를 업데이트하려면 *수정*을 선택합니다.</block>
+  <block id="d425735c4a8c11659e6c56038dac1c07" category="list-text">관심 목록을 삭제하려면 *삭제*를 선택합니다.</block>
+  <block id="4896bea145ca90a5d1e69e3c9788ce41" category="list-text">*보안 및 랜섬웨어 방어* 위젯에서 *작업*을 선택합니다.</block>
+  <block id="6e2137aee1686e8f9fc2be52ecf15c83" category="list-text">*고유 위험* 탭을 선택하고 *시정 조치* 열의 링크를 선택하십시오.</block>
+  <block id="ffda6ab9841705d109b761ae13e91771" category="list-text">위험 요소가 있는 시스템을 보려면 *영향을 받는 시스템* 탭을 선택하십시오.</block>
+  <block id="8acc69f0146a26142bb07e45bdcd63dc" category="list-text">시스템 보호를 위해 권장되는 복구 조치를 선택하십시오.</block>
+  <block id="0c35141a364b09286a3651b482a8bdba" category="list-text">*계획* 위젯에서 *지원 갱신*을 선택합니다.</block>
+  <block id="6b4b75379beef7e7c2abe98a0b9a0dc2" category="list-text">갱신할 스토리지 시스템을 선택하고 *갱신*을 선택합니다.</block>
+  <block id="94f66866107911bd36ca9497f33cdf55" category="list-text">*보내기*를 선택하세요.</block>
+  <block id="8d42dbc56b232364f5fbc7ef878ab3f8" category="list-text">상태 점검 대시보드에서 *지원 및 권한* 위젯을 선택합니다.</block>
+  <block id="bc6196aada3e781dd91a3ed4f4c10ef9" category="list-text">시스템 지원 계약 중 만료되었거나 만료가 임박한 계약이 있는 경우 *활성 지원 계약* 위젯을 선택하십시오.</block>
+  <block id="cfb601a4dc901602c8bb7afdce8d6c79" category="list-text">선택한 시스템의 갱신 절차를 시작하려면 확인란을 선택하고 *갱신*을 선택하십시오.</block>
+  <block id="b434ca3b73a15a97f8557864de19d3f7" category="list-text">왼쪽 창에서 *Wellness Review*를 선택합니다.</block>
+  <block id="159d43e7f8a124385fd3d1fe2c65c6bb" category="list-text">*구독 추가*를 선택합니다.</block>
+  <block id="12975d5f412a47bef9db3c7a4d365814" category="list-text">*구독*을 선택합니다.</block>
+  <block id="35429e2dc21d5156d872730ed4a1094d" category="list-text">대시보드에서 웰니스 위젯을 선택하거나 *모든 조치 보기*를 선택하여 모든 조치 및 위험 요소 목록을 확인하십시오.</block>
+  <block id="73083319a7a7021190b428f1bba13b62" category="list-text">펌웨어 업그레이드의 모든 위험 요소를 확인하려면 *펌웨어 업그레이드*를 선택하십시오.</block>
+  <block id="be96b6408b34b172658b8e8046c8ff03" category="list-text">*AFF 및 FAS 펌웨어 업데이트*를 선택하여 사용 가능한 모든 업데이트 패키지를 확인하거나, 각 위험 요소 옆에 있는 <block ref="9d1b0d427955d96d4edc169551c295d5" category="inline-image-macro-rx" type="image"></block>을 선택하여 해당 위험 요소에 특화된 패키지를 업데이트할 수 있습니다.</block>
+  <block id="23e45138f7da960b1339e584ab459e0c" category="list-text">*다운로드*를 선택하여 압축 파일을 다운로드하고 스토리지 시스템을 업데이트합니다.</block>
+  <block id="70e9b962388f213d011d9fada30e58be" category="list-text">*인벤토리* 위젯 옆에 있는 *모든 시스템 보기*를 선택합니다.</block>
+  <block id="603b075ca41db43ebd04b2d36eb4ffef" category="list-text">*구성* 위젯에서 *업그레이드*를 선택합니다.</block>
+  <block id="fc82e70acd236bac1c970f3a9b228285" category="list-text">필요에 따라 *지원 상품 비교*를 선택하여 비교표를 확인하고 요구 사항에 맞는 지원 상품을 선택할 수 있습니다.</block>
+  <block id="338a352a51ef165a25ef09eb6ecf70e9" category="list-text">또는 왼쪽 탐색 메뉴에서 *Support Offerings*를 선택하여 비교표를 볼 수도 있습니다.</block>
+  <block id="b8ac33c9243a2e7fe445773eb614ba8f" category="list-text">의견을 추가하고 *보내기*를 선택하세요. 지원 오퍼링 업그레이드 구매 요청이 NetApp 갱신 팀으로 전송됩니다.</block>
+  <block id="f55a7370d8574311b3cb8f1b7f613234" category="list-text">대시보드에서 웰니스 속성 위젯을 선택하거나 *모든 조치 보기*를 선택하여 모든 조치 및 위험 목록을 확인하십시오.</block>
+  <block id="9144d157111ed7136f6ff742fd12683e" category="list-text">*작업*을 선택하면 해당 작업과 관련된 위험을 볼 수 있고, *위험*을 선택하면 모든 위험을 볼 수 있으며, *영향을 받는 시스템*을 선택하면 주의가 필요한 시스템을 볼 수 있습니다.</block>
+  <block id="85e0f424ac1766c7d50926274623f727" category="list-text">위험 요소를 선택하여 위험 요약을 확인하십시오.</block>
+  <block id="a59c80e263b7887f0d81f3c2d16a2ec0" category="list-text">위험을 인지했음을 확인하려면 *Ack*를 선택하십시오.</block>
+  <block id="5abb95d33aed71569992b0fd6b957298" category="list-text">현재 위험을 완화하고 싶지 않거나 완화할 수 없는 경우, 해당 필드에 값을 입력하고 *Acknowledge*를 선택하십시오.</block>
+  <block id="862159f793e1b0365c8c101382079499" category="admonition">더 이상 위험을 인지하고 싶지 않다면 *Un-Ack*를 선택하고 동일한 단계를 따르면 해당 위험을 무시할 수 있습니다.</block>
+  <block id="ae9062ae74a63707f6e56040405b29d0" category="list-text">*인벤토리* 위젯에서 *시스템*을 선택하면 모든 플랫폼의 시스템 정보를 볼 수 있고, 플랫폼 유형을 선택한 다음 *시스템*을 선택하면 해당 플랫폼에 특화된 시스템 정보를 볼 수 있습니다.</block>
+  <block id="b89039cb5fca55ab98183fe7e1dfbd80" category="list-text">시스템에 대한 자세한 정보를 보려면 노드 또는 클러스터를 선택하십시오.</block>
+  <block id="86b8e002a574fe4c44b860ffaff96996" category="list-text">*다운로드*를 선택하여 *인벤토리* 보고서를 다운로드하고 시스템 세부 정보를 .xls 형식으로 확인하십시오.</block>
+  <block id="dd25215a62befc345056b33da4dc0660" category="list-text">*다운로드*를 선택하여 *Ansible 인벤토리* 보고서를 다운로드하면 지역 또는 사이트 수준에서 .yml 및 .ini 형식으로 시스템 세부 정보를 확인할 수 있습니다.</block>
+  <block id="6bac1f9b3bcd8c6139310d92eb7c4719" category="list-text">*인벤토리* 위젯에서 *지원 대상 스위치*를 선택하면 지원 대상 스위치에 대한 모든 정보를 볼 수 있습니다.</block>
+  <block id="d40ccef89ee64d26acd946e4e536968d" category="paragraph">그래프가 처음 표시될 때, 1주일 탭이 기본적으로 선택되어 있으며, 이 탭은 1주일 동안의 데이터를 그래프 형식으로 보여주어 방대한 양의 데이터와 다양한 데이터 계열 간의 관계를 더 쉽게 이해할 수 있도록 합니다. 날짜 범위를 재설정하려면, 예를 들어 1개월 탭을 선택하고 달력에서 날짜를 선택하면 됩니다.</block>
+  <block id="970692bbbd7a5b1ef9f2c3d89397ff8c" category="list-text">대시보드에서 *성능*을 선택합니다.</block>
+  <block id="74178ba0e62aba4b64fd5213375732bd" category="paragraph">ONTAP 시스템의 경우, *노드* 탭을 선택하면 ONTAP 클러스터의 단일 노드 성능을 볼 수 있고, *로컬 티어* 탭을 선택하면 로컬 티어 성능을 볼 수 있으며, *볼륨* 탭을 선택하면 볼륨 성능을 볼 수 있습니다. 기본적으로 클러스터 성능이 표시됩니다.</block>
+  <block id="92332c13fc6ade653576a2187ec4b7ce" category="list-text">대시보드에서 *Wellness* 위젯을 선택하거나 *모든 조치 보기*를 선택하여 모든 조치 및 위험 요소 목록을 확인하십시오.</block>
+  <block id="3960a42fc442c0bc2f5497884be47baf" category="list-text">위험 이름을 선택하여 해당 위험에 대한 정보를 확인하십시오.</block>
+  <block id="002a7aa1cc9cb538df76a8aac0b153d3" category="list-text">관련된 시정 조치를 선택하고 제공된 정보를 따라 위험을 해결하십시오.</block>
+  <block id="5fd667373031d59782b738e497b8ae6b" category="list-text">대시보드에서 *View All Actions* 를 선택합니다.</block>
+  <block id="de4b52f2043a3ff959c3485432185216" category="list-text"><block ref="b36bd34ef127641c1d7dc29907e63c31" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택합니다.</block>
+  <block id="6ab60595ef61e838973dfa78cedee016" category="list-text">*Fix It* 을 선택하여 Active IQ Unified Manager를 실행합니다.</block>
+  <block id="57ee2621f8a528c7a673d8c9ee41bfa9" category="list-text">*설치*를 선택하여 Active IQ Unified Manager 9.7 이상 버전을 설치하고 *Fix It* 옵션을 사용하십시오.</block>
+  <block id="f31b1f9ba89b9fc35c0a354381ec99de" category="list-text">*업그레이드*를 선택하여 Active IQ Unified Manager 9.7 이상으로 업그레이드하면 *Fix It* 옵션을 사용할 수 있습니다.</block>
+  <block id="42220c0dbeb0ff2a4b2e4500b6189b58" category="list-text"><block ref="9d1b0d427955d96d4edc169551c295d5" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택합니다.</block>
+  <block id="1f51cfdc5fa1daf48bec5fe331ef373d" category="list-text">AFF 및 FAS 펌웨어 Ansible 자동화 패키지를 다운로드하려면 *다운로드*를 선택하십시오.</block>
+  <block id="bbd590fe13d8dd24702f484b96583127" category="summary">Value Insights 대시보드를 통해 ONTAP 시스템의 상태, 절감액, 안정성 및 보안 정보를 확인할 수 있습니다.</block>
+  <block id="f650563cfd75874602716b4ff731fff3" category="list-text">*Customer Success &gt; Value Insights*를 선택합니다.</block>
+  <block id="127eba23a5c4e6b42ae1b92d1960b6b7" category="list-text">*전반적인 상태 및 NetApp 지원 방법* 영역에서 ONTAP 시스템의 전반적인 상태 점수를 백분율로 확인할 수 있습니다. 이 점수는 KPI를 기반으로 합니다.</block>
+  <block id="431d370ffae7b3191357c28b56dcd569" category="list-text">모든 KPI를 보려면 *더 많은 추천 항목*을 선택하십시오.</block>
+  <block id="f2ba2dce0328465674c26a76d33915f0" category="cell">KPI</block>
+  <block id="40fd61ecb915e6889c685487160de14e" category="cell">지속 가능한 운영을 위한 권장 사항 해결</block>
+  <block id="08bc4e784da68076497dcfbe16641f93" category="cell">지속 가능한 시스템 운영을 위한 권장 사항을 제공합니다.</block>
+  <block id="903e88fe0b2b9c82b474dd3094ac8f4c" category="cell">클러스터의 보안 강화 위험 해결</block>
+  <block id="b8a94df1b03873710fc248c22e4e4774" category="cell">각 시스템과 관련된 보안 위험을 평가합니다.</block>
+  <block id="7e5bcb743be47157b9646d3e705309f6" category="cell">펌웨어 및 시스템 파일 업데이트 계획</block>
+  <block id="46fec9224e0854a8fa12cea53e8aebf1" category="cell">시스템이 최신 펌웨어를 실행 중인지 확인하고 업데이트를 제안합니다. 펌웨어 업데이트 계획을 위한 자세한 보기 기능도 제공합니다.</block>
+  <block id="7c209a18632519636f49458f44bc1da3" category="cell">기술 업데이트 옵션(EOL)을 검토합니다.</block>
+  <block id="e35f9f0b3e1243d9369342740d728b1f" category="cell">기술 업데이트의 필요성을 평가합니다.</block>
+  <block id="c0498173a296c44b0a41ddf2d8541c8d" category="cell">클러스터에서 AutoSupport(ASUP) 활성화</block>
+  <block id="7bcb15913d0e5786042ab1abd8ba6c4f" category="cell">클러스터의 AutoSupport(ASUP) 상태를 모니터링합니다.</block>
+  <block id="a47e8fffa9973ac71e8756b5c429091d" category="cell">최신 권장 ONTAP 버전으로 업그레이드 계획</block>
+  <block id="ac0dc014b571765bfb9218fcceb2c0b2" category="cell">시스템의 소프트웨어 버전을 평가하고 업데이트를 권장합니다.</block>
+  <block id="8570816d3c399972873fb1c27b762034" category="cell">스토리지 확장 옵션 평가</block>
+  <block id="289696dc524d10193e275fc81f96e0e4" category="cell">현재 스토리지 효율성과 확장 필요성을 평가합니다. 향후 용량 요구 사항을 예측합니다.</block>
+  <block id="faa98d33711b21436a070316ba6b4549" category="cell">계약 갱신</block>
+  <block id="8cdbdbe425e554aafb075956569ebdec" category="cell">지원 계약의 현황을 평가하고 갱신에 대한 권장 사항을 제시합니다.</block>
+  <block id="af7fda7878d0353b52c6a4cde6798a04" category="cell">예기치 않은 클러스터 다운타임을 방지하기 위해 사전에 모니터링합니다.</block>
+  <block id="f5320f2ea36e3709920210750bc26cfd" category="cell">클러스터 전체에서 발생한 계획되지 않은 다운타임 횟수를 제공합니다.</block>
+  <block id="d1f743441021e988cfe68ef6d8853274" category="list-text">구체적인 KPI 계산 방법을 확인하려면 *계산 방법*을 선택하십시오. 만점, 부분 점수, 0점 등 시스템 세부 정보를 확인하려면 아래로 스크롤하십시오.</block>
+  <block id="371c4e75ef16f27cc606efebd8ddc450" category="list-text">*NetApp 제공하는 비용 절감 및 안정성*을 선택하여 투자 수익률(ROI)에 대한 자세한 내용을 확인하십시오.</block>
+  <block id="21021ea0e52be8e9c599f4dff41e5be0" category="cell">기능</block>
+  <block id="94cf0a310bc1ba95ee82428676c1afeb" category="cell"><block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="736a705d784469689545b0eea833b4ea" category="cell">TiB당 비용 또는 지출액을 수정하려면 선택하십시오.</block>
+  <block id="3d51d2c2a0ba75cfddeeaac3db4a08c3" category="cell">스토리지 효율성 값</block>
+  <block id="133145a1288f1ff4459c09ea91d9a279" category="cell">ROI 대시보드를 열려면 선택합니다.</block>
+  <block id="0e00dee6c92a3ca20648d901ecbbc1f5" category="cell">스토리지 가동 시간 값</block>
+  <block id="04055b20add68e9dff4da8a956be6606" category="cell">값을 확인하고 시스템 번호 값을 선택하면 더 자세한 정보를 볼 수 있습니다.</block>
+  <block id="5112eff792aeb3045e8cfd88b790f78b" category="cell">ASUP ID</block>
+  <block id="2aa9ecf747a629c52f01d65bada7dd3f" category="cell">해당되는 경우, 가동 중단 또는 장애를 유발하는 문제 또는 이벤트를 선택하여 확인하십시오.</block>
+  <block id="caf9ad6ed0edbab5fc74ee4e01e04d9f" category="cell">위험 감지 및 예방</block>
+  <block id="2f4a82e35daf1bd8ceae13638aba00c4" category="cell">지난 3개월간의 관련 데이터를 보려면 선택하십시오.</block>
+  <block id="aedc21ab40ffa5085f7e9bc68e9ec4b8" category="cell">건강 기록 보기</block>
+  <block id="d1de8771aa2f04c189f80a2438541aaa" category="cell">요약된 보기를 선택합니다.</block>
+  <block id="d77f051c73b9cbf7e633f235031d7576" category="cell">위험 값</block>
+  <block id="3bd0cd02880d4802b56dbbf46a66886f" category="cell">각 위험도 값을 선택하면 지난 3개월간의 관련 데이터를 확인할 수 있습니다.</block>
+  <block id="199626525506db8f55394d3e30f16150" category="list-text">보안 관련 정보를 보려면 *보안 및 미래 계획* 영역을 선택하십시오.</block>
+  <block id="d3112f106afbf2c408f82822d5e46290" category="cell">보안 위협이 무력화되었습니다</block>
+  <block id="6673d7a5c5f0cb9b4f36be9b69c563ea" category="cell">보안 세부 정보를 보려면 선택하세요.</block>
+  <block id="6d7373bc5e070f8648ca95028be3b0f5" category="cell">보안 문제가 해결되었습니다</block>
+  <block id="312ee17d867760f729d5e95aec0a0a3e" category="cell">Wellness 기록 페이지를 열려면 선택합니다.</block>
+  <block id="777f31feb36c253c00ecd33e83c38324" category="cell">자동 펌웨어 업데이트</block>
+  <block id="eb3cc90c941604b02387133d98926572" category="cell">펌웨어 유형 및 업그레이드 세부 정보를 열려면 선택하십시오.</block>
+  <block id="175ebb07f827bc9d5a4b0b3d5db0f764" category="cell">자율형 랜섬웨어 방어 AI/ML 모델</block>
+  <block id="b86bdafac80c92170d6c3e742f8ce8de" category="cell">모델에 대한 자세한 정보를 보려면 선택하세요.</block>
+  <block id="9f877b6459cdadc14aa380b332778b55" category="cell">효율성 향상으로 인한 예상 절감액</block>
+  <block id="a04d24882fdf0b7c7f8f42e2c9dfc678" category="list-text">PiB당 비용을 수정하려면 Forecasted storage efficiency savings 옆에 있는 <block ref="94cf0a310bc1ba95ee82428676c1afeb" category="inline-image-macro-rx" type="image"></block> 아이콘을 선택합니다.</block>
+  <block id="da5d119d8dddcd0b1d6165118bb62c86" category="list-text">Storage capacity headroom percentage를 선택하여 Capacity and Efficiency 페이지를 엽니다.</block>
+  <block id="9100c4283aa59b4f569e087c9f99335a" category="list-text">*라이프사이클 계획*을 선택합니다.</block>
+  <block id="432bba3060dc12d1babcfee63417b7f2" category="list-text">툴 값을 선택하여 해당 ONTAP 세부 정보 페이지(System Refresh, Storage Expansion, Support Renewals)를 여십시오.</block>
+  <block id="7ed73e5a4deebc042bd54da569358096" category="admonition">이 기능은 ONTAP 시스템에만 적용되며 Cloud Volumes ONTAP, ONTAP Select, StorageGRID, E-Series 등의 플랫폼에서는 사용할 수 없습니다.</block>
+  <block id="cf07a5686fcf63a670d48bcea7c9e4f9" category="list-text">*인프라 가치 극대화 방법*을 선택하여 활성화된 기능과 사용 가능한 최적화 방법에 대한 정보를 확인하십시오.</block>
+  <block id="47a0df045d55cf9faa11a9a47b197c14" category="list-text">시스템 세부 정보를 보려면 *활성 기능*을 선택하십시오.</block>
+  <block id="81b5003565efa9c569a9527ea493edbd" category="list-text">*사용 가능한 최적화 기회*를 선택하여 제안 사항을 확인하십시오.</block>
+  <block id="f80c1a65fc0f08c08229446f1a174966" category="list-text">대시보드의 *Wellness* 창에서 *View All Actions*를 선택합니다.</block>
+  <block id="703299312bba3e83405426ef5ffd3bfb" category="list-text">*Wellness History*를 선택합니다.</block>
+  <block id="1be82388ca5ff4ed68cded091a2ed9d3" category="list-text">*위험 이력* 그래프에서 위험 이력을 보려는 범주를 선택하십시오.</block>
+  <block id="7b9a794b2ff2a85fe5077dd94bf68627" category="paragraph">색깔 막대에 마우스를 올리면 각 범주별 위험 요소 수에 대한 정보가 표시됩니다. 해당 위험 범주를 선택하면 *위험 정보* 표에 정보가 표시됩니다.</block>
+  <block id="65f850610afa4fde5b35992694ff43b1" category="list-text">대시보드 페이지에서 *Upgrade Advisor* 위젯의 *Other recommendations*를 선택합니다.</block>
+  <block id="c2481bead428edb94726c4e10ba02f6c" category="list-text">추천 목록을 보려면 *추천 보기*를 선택합니다.</block>
+  <block id="0373d29c3464da93362949dcb0dff44a" category="list-text">*업데이트 상태* 열에서 *진행 상황 보기*를 선택하면 업데이트 가능한 클러스터를 볼 수 있습니다.</block>
+  <block id="681c88be2de4220c0cbacb47fed97b82" category="list-text">문제가 발생할 경우, 해당 링크를 선택하여 문제 완화 단계를 확인하십시오.</block>
+  <block id="e7a471dd8d8c761a219d09c2091e92a1" category="sidebar">Value Insights에 대해 알아보기</block>
+  <block id="729a2290f604400a065ab66e68e8365c" category="sidebar">Value Insights 대시보드 보기</block>
 </blocks>

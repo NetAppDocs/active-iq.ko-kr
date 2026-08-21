@@ -16,10 +16,10 @@ summary: 운영 중단을 방지하기 위해 볼륨 채우기를 방지하는 �
 
 
 [role="lead"]
-Digital Advisor에 로그인하고 * Configuration * 위젯에 빨간색 배지가 표시되는 경우 위젯을 클릭하면 볼륨이 98% 차 있고 이로 인해 정전이 발생할 수 있습니다. 이 문제를 해결하면 볼륨이 채워지지 않습니다. 이렇게 하면 읽기 전용이 되어 응용 프로그램이 충돌하고 실패합니다.
+Digital Advisor에 로그인하여 *구성* 위젯에 빨간색 배지가 표시되는 것을 확인합니다. 해당 위젯을 선택하면 볼륨이 98% 차서 서비스 중단이 발생할 수 있다는 메시지가 나타납니다. 이 문제를 해결하면 볼륨이 가득 차서 읽기 전용 상태가 되는 것을 방지할 수 있으며, 이로 인해 해당 볼륨에 접근하는 애플리케이션이 충돌하거나 오류가 발생하는 것을 막을 수 있습니다.
 
 .단계
 . Digital Advisor에 로그인합니다.
-. Configuration * 위젯에서 * Actions * 를 클릭합니다.image:Configuration_image 1 prevent an outage.png["구성 위젯"]
-. 고유 위험 * 탭을 클릭합니다. Corrective Action* 링크를 클릭하면 경고 임계값을 변경하거나 볼륨에 더 많은 공간을 할당할 수 있습니다.image:Risk summary_image 2 prevent an outage.png["위험 요약"]
+. *구성* 위젯에서 *작업(Actions)*을 선택합니다. image:Configuration_image 1 prevent an outage.png["구성 위젯"]
+. *고유 위험* 탭을 선택하십시오. *시정 조치* 링크를 선택하면 경고 임계값을 변경하거나 볼륨에 더 많은 공간을 할당할 수 있습니다. image:Risk summary_image 2 prevent an outage.png["위험 요약"]
 

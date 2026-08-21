@@ -51,7 +51,7 @@ AutoSupport 위젯은 클러스터 및 일련 번호 검색에 대한 경고를 
 [[autosupport-widget-not-able-to-drill-down-to-serial-level-autosupport-details]]
 == AutoSupport 위젯이 직렬 레벨 AutoSupport 세부 정보로 드릴다운할 수 없습니다
 
-AutoSupport 보고 페이지에서 상태, 최근에 전송을 중지한 시스템 또는 AutoSupport가 꺼진 시스템을 클릭해도 상태 점검 화면으로 이동하지 않습니다.
+AutoSupport 보고 페이지에서 상태를 선택하거나, 최근에 전송을 중단한 시스템을 선택하거나, AutoSupport가 꺼진 시스템을 선택해도 상태 점검 화면으로 이동하지 않습니다.
 
 
 
