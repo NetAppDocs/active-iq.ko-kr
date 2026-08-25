@@ -28,7 +28,7 @@ sidebar:
       url: "/concept_understand_activeiq_features.html"
     - title: NetApp 콘솔에서 Digital Advisor 에 액세스하세요
       url: "/digital-advisor-integration-with-console.html"
-    - title: Digital Advisor에 대해 자세히 알아보십시오
+    - title: Digital Advisor의 주요 용어 및 정의
       url: "/concept_key_terms.html"
     - title: AutoSupport 에 대해 알아보세요
       url: "/concept_autosupport.html"
@@ -92,7 +92,7 @@ sidebar:
       entries:
       - title: 스토리지 시스템 인벤토리 세부 정보를 확인하세요.
         url: "/task_view_inventory_details.html"
-      - title: Data Infrastructure Insights 에서 사용 가능한 가상 머신 데이터를 확인하세요.
+      - title: Data Infrastructure Insights에서 사용 가능한 가상 머신 데이터 보기
         url: "/task-integrating-with-cloud-insights-to-view-vm-details.html"
       - title: Valuable Insights 위젯을 통해 지원 사례 및 스토리지 시스템 세부 정보를 확인하세요.
         url: "/task_view_valuable_insight_widget.html"
@@ -146,7 +146,7 @@ sidebar:
         entries:
         - title: AFF 및 FAS 펌웨어 Ansible 패키지를 다운로드하세요.
           url: "/task_update_AFF_FAS_firmware.html"
-        - title: Ansible 패키지를 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다(숙련된 사용자 대상).
+        - title: 숙련된 사용자를 위한 Ansible 패키지를 사용하여 AFF 및 FAS 펌웨어 업데이트
           url: "/task_install_execute_firmware_update_exp_user.html"
         - title: AFF 및 FAS 펌웨어 Ansible 자동화 패키지(초보자) 설치 및 실행
           entries:

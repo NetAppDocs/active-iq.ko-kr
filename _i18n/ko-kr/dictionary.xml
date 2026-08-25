@@ -387,7 +387,6 @@
   <block id="6a46e3c3984001a8a2d4481982e69a8f" category="section-title">더 스마트하고 빠른 검색</block>
   <block id="d9c7072ff9d902e7ac9964e95c163d94" category="paragraph">일련 번호, 시스템 ID, 호스트 이름, 사이트 이름, 그룹 이름 등의 매개 변수를 검색할 수 있습니다. 클러스터 이름은 단일 시스템 뷰를 사용하여 지정합니다. 또한 시스템 그룹을 검색할 수 있으며 시스템 그룹별로 고객 이름, 사이트 이름 또는 그룹 이름으로 검색할 수도 있습니다.</block>
   <block id="75fb68630cabac33011c445584315dfc" category="summary">Ansible에 대한 자세한 정보를 제공합니다.</block>
-  <block id="bf07f432276ee2fe7e55f9ea12c2ba5a" category="doc">자세한 정보를 확인하십시오</block>
   <block id="3334f093f94c914eeabb709448d36d67" category="paragraph">다양한 리소스를 통해 도움말을 얻고 더 많은 정보를 찾을 수 있습니다.</block>
   <block id="5d08ea99dda2f857e6edb3d641d26b98" category="inline-link-macro">문제 해결 정보</block>
   <block id="e350176e2ca4464b7c8bb3efa4e581fa" category="inline-link-macro">여유 작업 공간</block>
@@ -1255,14 +1254,12 @@
   <block id="2b1a2e89f1b2f5c6d6515a6dc429c7fd" category="doc">Digital Advisor 의 알려진 제한 사항</block>
   <block id="f2a73885c1e995cc3311a29291a28fde" category="doc">Digital Advisor 의 지속가능성 대시보드 기능에 대해 알아보세요.</block>
   <block id="e44ce4d3422f101f306224bb091ea2db" category="doc">Digital Advisor 의 클라우드 권장 사항을 통해 스토리지 시스템 상태를 분석하세요.</block>
-  <block id="b9456a2df38d30018b5aa1d2c39d55ba" category="doc">Digital Advisor 사용하여 Data Infrastructure Insights 에서 사용할 수 있는 가상 머신 데이터를 확인하세요.</block>
   <block id="6b067412319dd9485298444d9a34fc87" category="doc">Digital Advisor 에서 스토리지 시스템에 대한 구성 변경 템플릿을 추가하세요.</block>
   <block id="e67ed4f24a1e1077c5eb307d08729f7c" category="doc">Digital Advisor 에서 관심 목록을 만드세요</block>
   <block id="a526a7fadbc4d3ff6b76aeace82c0a35" category="paragraph">관심 목록을 생성하면 여러 스토리지 시스템에 빠르고 쉽게 액세스할 수 있습니다. 카테고리 또는 일련번호를 기준으로 스토리지 시스템을 추가할 수 있습니다.</block>
   <block id="186b444c7e1538546cd3797bc4e13f6b" category="admonition">카테고리당 최대 15,000개의 스토리지 시스템을 추가할 수 있으며, 일련 번호당 최대 500개의 스토리지 시스템을 추가할 수 있습니다.</block>
   <block id="ade07d6bbbe7ba4dca1efb40aa7352bd" category="list-text">다음 옵션 중 하나를 선택하여 스토리지 시스템을 관심 목록에 추가하십시오.</block>
   <block id="9e626aab5b921b3ca1f8a803c59e26c3" category="doc">Digital Advisor 에서 용량 및 스토리지 효율성 절감 효과를 확인하세요.</block>
-  <block id="f20d4ff4105f49a3027ff751b2efde6c" category="doc">Digital Advisor의 ClusterViewer 위젯을 사용하여 클러스터 및 노드의 상태를 확인하세요.</block>
   <block id="9ac4aca4ac0756136b6042d0474cfcf3" category="doc">Digital Advisor 에서 볼륨 스토리지 용량 임계값을 관리하세요.</block>
   <block id="8aed0befb763089b90784f7bb6c222cd" category="doc">가용성 및 보호 위젯에서 식별된 주요 위험을 해결하려면 Digital Advisor 사용하십시오.</block>
   <block id="65185bbce1d7f537b3c14697168318fc" category="doc">Digital Advisor 에서 구성 변경 템플릿을 비교합니다.</block>
@@ -1273,7 +1270,6 @@
   <block id="8bb48da551b9f18b9a7bb8a26c2143b5" category="doc">웹 서버에 AFF 및 FAS 펌웨어 파일을 호스팅하세요.</block>
   <block id="dbf951fc2e241b15feb7e005fe4a45bf" category="doc">Digital Advisor 에서 용량 한계에 가까워진 스토리지 시스템을 식별하세요.</block>
   <block id="10dbc72fe842008d2175d0d6c8409b92" category="doc">Digital Advisor 통해 보안 위험을 감지하고 시정 조치를 취하세요.</block>
-  <block id="a7780228d5aa137f7cb990b61a022315" category="doc">Ansible 패키지를 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다(숙련된 사용자 대상).</block>
   <block id="8a88e2413d4f95f64b219b6c28f57a07" category="doc">Digital Advisor 에서 구성 변경 템플릿을 관리하세요</block>
   <block id="8b7cb0834e8dc268b50c925ad45b6ddd" category="doc">Digital Advisor 에서 관심 목록을 관리하세요</block>
   <block id="6b8c1d667d3b152f62b23882186f49ef" category="doc">Digital Advisor 에서 관리하는 스토리지 시스템을 랜섬웨어 위험으로부터 보호하세요.</block>
@@ -1315,7 +1311,6 @@
   <block id="bac3163878d2374ee594903ac6c1802c" category="sidebar">ONTAP 업그레이드 계획 생성 방법에 대해 알아보세요.</block>
   <block id="114d8ec8c75a41f7a77d940bbedc89ba" category="sidebar">단일 클러스터 및 다중 클러스터에 대한 ONTAP 업그레이드 계획을 생성합니다.</block>
   <block id="ebc19daf25c395407a52101068117655" category="sidebar">스토리지 시스템 인벤토리 세부 정보를 확인하세요.</block>
-  <block id="8c3ce1cbbe048dec5ffdc13f56c2ccf4" category="sidebar">Data Infrastructure Insights 에서 사용 가능한 가상 머신 데이터를 확인하세요.</block>
   <block id="aa80415eea92e632f36c8f4c62c4b138" category="sidebar">Valuable Insights 위젯을 통해 지원 사례 및 스토리지 시스템 세부 정보를 확인하세요.</block>
   <block id="d89f3b8963bef2ec6e2b190588136909" category="sidebar">계획 위젯을 사용하여 스토리지 시스템 용량 요구 사항을 관리하세요.</block>
   <block id="670c1f5b09d4ee058170a248707f6cf0" category="sidebar">용량 한계에 가까워지고 있는 스토리지 시스템을 식별합니다.</block>
@@ -1687,4 +1682,12 @@
   <block id="681c88be2de4220c0cbacb47fed97b82" category="list-text">문제가 발생할 경우, 해당 링크를 선택하여 문제 완화 단계를 확인하십시오.</block>
   <block id="e7a471dd8d8c761a219d09c2091e92a1" category="sidebar">Value Insights에 대해 알아보기</block>
   <block id="729a2290f604400a065ab66e68e8365c" category="sidebar">Value Insights 대시보드 보기</block>
+  <block id="e3bf61ee8c8fee9ffb69993bd28d87a8" category="doc">Digital Advisor에 대한 추가 리소스</block>
+  <block id="1b7791b3614101fe0419ae77deeacf88" category="doc">Digital Advisor의 주요 용어 및 정의</block>
+  <block id="182708895bd34a37bc21f98f7d14d0a2" category="doc">Digital Advisor 문제 해결 및 지원 리소스</block>
+  <block id="e124694694f1a62071bd7725254b9327" category="doc">Digital Advisor를 사용하여 Data Infrastructure Insights에서 사용 가능한 가상 머신 데이터를 확인합니다</block>
+  <block id="155f865ff2277e5b3d0c9cabfd7007d7" category="doc">Digital Advisor의 ClusterViewer 위젯을 사용하여 클러스터 및 노드의 상태를 확인합니다</block>
+  <block id="e5054a84cf54978ce838e701041a4239" category="doc">Ansible 패키지를 사용하여 AFF 및 FAS 펌웨어를 업데이트합니다</block>
+  <block id="9331d73e3c99004c7679e085ea303447" category="sidebar">Data Infrastructure Insights에서 사용 가능한 가상 머신 데이터 보기</block>
+  <block id="608a46677d36b132542feed4a0445c56" category="sidebar">숙련된 사용자를 위한 Ansible 패키지를 사용하여 AFF 및 FAS 펌웨어 업데이트</block>
 </blocks>
