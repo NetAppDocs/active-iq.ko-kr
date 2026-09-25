@@ -880,7 +880,6 @@
   <block id="155b92b0d3df6f08f7a22ee41987478d" category="paragraph">FabricPool에 대한 자세한 내용은 을 참조하십시오 <block ref="95721715db0d24514cff915b8dac95f3" category="inline-link-macro-rx"></block>.</block>
   <block id="c9a7e25beb9575351b078da21d059517" category="list-text">* 기술 케이스 *: 선택 가능한 시간 범위에 대한 기술 케이스 내역, 케이스 유형 및 진행 상태 또는 종료 상태별 상세 보기를 제공합니다.  케이스 그룹으로 드릴다운하고 에서 케이스 세부 정보를 볼 수 있습니다 <block ref="4052dc01853e78687038691ab3fc5cc0" category="inline-link-macro-rx"></block> 또는 기타 케이스 포털입니다.</block>
   <block id="0abfb28c0c42381f5bdaaa9ae0da77db" category="list-text">설치합니다 <block ref="245307cfb046e79d0ebccdf0bb3e7396" category="inline-link-macro-rx"></block> 및 <block ref="b37d22802e31da3263bb8117bdd516f1" category="inline-link-macro-rx"></block>.</block>
-  <block id="4bdc49aacf883a14a18411273872ee96" category="paragraph">Anabilities-galaxy 명령에 대한 자세한 내용은 을 참조하십시오 <block ref="037b694376946e6e330c847bc4e48449" category="inline-link-macro-rx"></block> NetApp Ansible 컬렉션에 대한 자세한 내용은 을 참조하십시오 <block ref="d786fc4574d9c68470d2f8b53d708c65" category="inline-link-macro-rx"></block>.</block>
   <block id="85da219929dec7990a12ce28aff47903" category="paragraph">Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 <block ref="8c04b73445737bcfc4025ef8f1a9a540" category="inline-link-macro-rx"></block> 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 <block ref="81862bc1dc3b588f731b84b986e9994e" category="inline-link-macro-rx"></block>.</block>
   <block id="78c1cfc20c22b33386b17ebe2a0a7d64" category="list-text"><block ref="78c1cfc20c22b33386b17ebe2a0a7d64" category="inline-link-macro-rx"></block></block>
   <block id="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="list-text"><block ref="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="inline-link-macro-rx"></block></block>
@@ -1693,4 +1692,11 @@
   <block id="6b0c5ff3fb3e79b447864ea93e74e781" category="doc">가상 머신에 대한 사용 중단 공지</block>
   <block id="84de9715d135be833103283dc9df0296" category="section-title">2026년 9월 14일</block>
   <block id="947172fbf1812b374d2eb98557cca1c0" category="paragraph">Virtual Machine 기능은 2026년 10월에 Digital Advisor에서 더 이상 사용되지 않을 예정입니다.</block>
+  <block id="e90e4fbb2da212df4de8cd0dedc1291b" category="doc">가치 분석 대시보드 콘텐츠 업데이트</block>
+  <block id="02f407c4fd4eafd0dfba7d3e2f1c9a87" category="paragraph">Value Insights 대시보드 관련 문서 업데이트가 게시되었습니다.</block>
+  <block id="c641b822e0ee57a43b3bdf613042b7de" category="inline-link-macro">Digital Advisor에서 Value Insights Dashboard를 사용하는 방법</block>
+  <block id="69c2d83fc66932c35f2cb577e262462c" category="paragraph"><block ref="07588b487aa2f96e10a737d8aa32c275" category="inline-link-macro-rx"></block>에 대해 자세히 알아보십시오.</block>
+  <block id="e42ab0e8d9793691952fb221a6554811" category="paragraph">Config Drift 기능은 더 이상 사용되지 않으며 2026년 9월부터 Digital Advisor에서 더 이상 사용할 수 없습니다.</block>
+  <block id="29ab9f8e858bfc9db154cff0f6b76d83" category="section-title">2026년 9월 25일</block>
+  <block id="1d2715b65bd9e5fca57122f543d61e60" category="paragraph">ansible-galaxy 명령에 대한 자세한 내용은 <block ref="a42b19d985084b52ec12dfca2fc50aad" category="inline-link-macro-rx"></block>을 참조하고, NetApp Ansible Collection에 대한 자세한 내용은 <block ref="d786fc4574d9c68470d2f8b53d708c65" category="inline-link-macro-rx"></block>을 참조하십시오.</block>
 </blocks>

@@ -40,7 +40,7 @@ $ ansible-galaxy collection install netapp.ontap -p /usr/share/ansible/collectio
 $ chmod -R +rw /usr/share/ansible/collections
 ----
 +
-Anabilities-galaxy 명령에 대한 자세한 내용은 을 참조하십시오 link:https://docs.ansible.com/ansible/latest/cli/ansible-galaxy.html["Ansible Galaxy 문서"^] NetApp Ansible 컬렉션에 대한 자세한 내용은 을 참조하십시오 link:https://galaxy.ansible.com/netapp/ontap["NetApp Ansible 컬렉션 페이지"^].
+ansible-galaxy 명령에 대한 자세한 내용은 link:https://docs.ansible.com/projects/ansible/latest/cli/ansible-galaxy.html["Ansible Galaxy 문서"^]을 참조하고, NetApp Ansible Collection에 대한 자세한 내용은 link:https://galaxy.ansible.com/netapp/ontap["NetApp Ansible 컬렉션 페이지"^]을 참조하십시오.
 
 . Ansible-플레이북 * 명령을 사용하여 Ansible 플레이북을 실행하십시오.
 +
