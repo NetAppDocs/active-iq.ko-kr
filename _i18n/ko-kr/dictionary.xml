@@ -879,7 +879,6 @@
   <block id="58789b5243f3cbb2a8a30f59de135896" category="list-text"><block ref="58789b5243f3cbb2a8a30f59de135896" category="inline-link-macro-rx"></block></block>
   <block id="155b92b0d3df6f08f7a22ee41987478d" category="paragraph">FabricPool에 대한 자세한 내용은 을 참조하십시오 <block ref="95721715db0d24514cff915b8dac95f3" category="inline-link-macro-rx"></block>.</block>
   <block id="c9a7e25beb9575351b078da21d059517" category="list-text">* 기술 케이스 *: 선택 가능한 시간 범위에 대한 기술 케이스 내역, 케이스 유형 및 진행 상태 또는 종료 상태별 상세 보기를 제공합니다.  케이스 그룹으로 드릴다운하고 에서 케이스 세부 정보를 볼 수 있습니다 <block ref="4052dc01853e78687038691ab3fc5cc0" category="inline-link-macro-rx"></block> 또는 기타 케이스 포털입니다.</block>
-  <block id="0abfb28c0c42381f5bdaaa9ae0da77db" category="list-text">설치합니다 <block ref="245307cfb046e79d0ebccdf0bb3e7396" category="inline-link-macro-rx"></block> 및 <block ref="b37d22802e31da3263bb8117bdd516f1" category="inline-link-macro-rx"></block>.</block>
   <block id="85da219929dec7990a12ce28aff47903" category="paragraph">Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 <block ref="8c04b73445737bcfc4025ef8f1a9a540" category="inline-link-macro-rx"></block> 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 <block ref="81862bc1dc3b588f731b84b986e9994e" category="inline-link-macro-rx"></block>.</block>
   <block id="78c1cfc20c22b33386b17ebe2a0a7d64" category="list-text"><block ref="78c1cfc20c22b33386b17ebe2a0a7d64" category="inline-link-macro-rx"></block></block>
   <block id="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="list-text"><block ref="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="inline-link-macro-rx"></block></block>
@@ -1705,4 +1704,5 @@
   <block id="f633c86b0317ff4aa3fa992245e2b77a" category="section-title">2026년 10월 15일</block>
   <block id="f2829ff704f24f01c25064041d022f39" category="paragraph">Value Insights 대시보드를 확인하여 E-Series, ONTAP 및 StorageGRID 시스템의 상태 점수, 절감액, 안정성 및 보안 정보에 액세스하십시오.</block>
   <block id="291aee6b8ad3956987850224f2960ac6" category="list-text">*전반적인 상태 및 NetApp 지원 방법* 영역에서 E-Series, ONTAP 및 StorageGRID 시스템의 전반적인 상태 점수를 백분율로 확인할 수 있습니다. 이 점수는 KPI를 기반으로 합니다.</block>
+  <block id="e44972e0feb4e8ce723a5b8e319c7632" category="list-text"><block ref="245307cfb046e79d0ebccdf0bb3e7396" category="inline-link-macro-rx"></block> 및 <block ref="335afa7963b775a01549fa6757d9b16e" category="inline-link-macro-rx"></block>를 설치합니다.</block>
 </blocks>
