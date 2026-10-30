@@ -870,7 +870,6 @@
   <block id="ba117b364c26b06c871a54fc6945f641" category="list-text"><block ref="3eaf8bde6ca57cae1e0245ca6f31a246" category="inline-link-macro-rx"></block>.</block>
   <block id="472c223fae3612be8aadf50d73eb0809" category="paragraph">Docker 풀 명령에 대한 자세한 내용은 를 참조하십시오 <block ref="4b16511182941b47e25fae103f9d15b4" category="inline-link-macro-rx"></block>.</block>
   <block id="793420e8298f81919bf32aff38b47ae2" category="paragraph">컨테이너가 시작되고 콘솔이 이제 컨테이너의 bash 셸에 있습니다. Docker Run 명령에 대한 자세한 내용은 를 참조하십시오 <block ref="2e999d289da5bafdf839ad8763a0ba40" category="inline-link-macro-rx"></block>.</block>
-  <block id="2a0dd6c3bcb96a2f49ec6fd9a82e2f4a" category="paragraph">Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 <block ref="8c04b73445737bcfc4025ef8f1a9a540" category="inline-link-macro-rx"></block> Ansible 플레이북을 점검 모드(건식 실행)로 실행하려면 을 참조하십시오 <block ref="81862bc1dc3b588f731b84b986e9994e" category="inline-link-macro-rx"></block>.</block>
   <block id="ae60d74a912ddc26168a3645463cc941" category="list-text"><block ref="ae60d74a912ddc26168a3645463cc941" category="inline-link-macro-rx"></block></block>
   <block id="801b554762e480a183c2424cbe8c2fb6" category="list-text"><block ref="801b554762e480a183c2424cbe8c2fb6" category="inline-link-macro-rx"></block></block>
   <block id="373fd27c1797dca500c6c9dbce1225f7" category="paragraph">웹 서버는 여러 가지 방법으로 설정할 수 있습니다. Python을 사용하여 간단한 웹 서버를 설정하는 방법은 을 참조하십시오 <block ref="303512ecf00930b786dea080d96799d8" category="inline-link-macro-rx"></block>.</block>
@@ -879,7 +878,6 @@
   <block id="58789b5243f3cbb2a8a30f59de135896" category="list-text"><block ref="58789b5243f3cbb2a8a30f59de135896" category="inline-link-macro-rx"></block></block>
   <block id="155b92b0d3df6f08f7a22ee41987478d" category="paragraph">FabricPool에 대한 자세한 내용은 을 참조하십시오 <block ref="95721715db0d24514cff915b8dac95f3" category="inline-link-macro-rx"></block>.</block>
   <block id="c9a7e25beb9575351b078da21d059517" category="list-text">* 기술 케이스 *: 선택 가능한 시간 범위에 대한 기술 케이스 내역, 케이스 유형 및 진행 상태 또는 종료 상태별 상세 보기를 제공합니다.  케이스 그룹으로 드릴다운하고 에서 케이스 세부 정보를 볼 수 있습니다 <block ref="4052dc01853e78687038691ab3fc5cc0" category="inline-link-macro-rx"></block> 또는 기타 케이스 포털입니다.</block>
-  <block id="85da219929dec7990a12ce28aff47903" category="paragraph">Ansible-Playbook * 명령에 대한 자세한 내용은 을 참조하십시오 <block ref="8c04b73445737bcfc4025ef8f1a9a540" category="inline-link-macro-rx"></block> 그리고 점검 모드(건식 실행)에서 Ansible 플레이북을 실행하려면 을 참조하십시오 <block ref="81862bc1dc3b588f731b84b986e9994e" category="inline-link-macro-rx"></block>.</block>
   <block id="78c1cfc20c22b33386b17ebe2a0a7d64" category="list-text"><block ref="78c1cfc20c22b33386b17ebe2a0a7d64" category="inline-link-macro-rx"></block></block>
   <block id="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="list-text"><block ref="3aa7e8b41bd2bc3e8ab55a4e277f82ca" category="inline-link-macro-rx"></block></block>
   <block id="8934fed115a0b826a4b438906a11bfa9" category="doc">Sustainability 대시보드 개요</block>
@@ -1705,4 +1703,6 @@
   <block id="f2829ff704f24f01c25064041d022f39" category="paragraph">Value Insights 대시보드를 확인하여 E-Series, ONTAP 및 StorageGRID 시스템의 상태 점수, 절감액, 안정성 및 보안 정보에 액세스하십시오.</block>
   <block id="291aee6b8ad3956987850224f2960ac6" category="list-text">*전반적인 상태 및 NetApp 지원 방법* 영역에서 E-Series, ONTAP 및 StorageGRID 시스템의 전반적인 상태 점수를 백분율로 확인할 수 있습니다. 이 점수는 KPI를 기반으로 합니다.</block>
   <block id="e44972e0feb4e8ce723a5b8e319c7632" category="list-text"><block ref="245307cfb046e79d0ebccdf0bb3e7396" category="inline-link-macro-rx"></block> 및 <block ref="335afa7963b775a01549fa6757d9b16e" category="inline-link-macro-rx"></block>를 설치합니다.</block>
+  <block id="39cfe90c31baec382584c29b304120ee" category="paragraph">*ansible-playbook* 명령에 대한 자세한 내용은 <block ref="3d297fe59aeab4f52033a16e4cb1092d" category="inline-link-macro-rx"></block>을(를) 참조하고, Ansible 플레이북을 체크 모드(드라이 런)로 실행하려면 <block ref="65608cec1d866267bc1786752d36cf72" category="inline-link-macro-rx"></block>을(를) 참조하십시오.</block>
+  <block id="d285978e658e21733e1a83f07dcbabbb" category="paragraph">*ansible-playbook* 명령에 대한 자세한 내용은 <block ref="3d297fe59aeab4f52033a16e4cb1092d" category="inline-link-macro-rx"></block>을(를) 참조하고, Ansible Playbook을 체크 모드(드라이 런)로 실행하려면 <block ref="65608cec1d866267bc1786752d36cf72" category="inline-link-macro-rx"></block>을(를) 참조하십시오.</block>
 </blocks>
